@@ -361,6 +361,23 @@
    },
    {
       "address": {
+         "unformatted": "שד' ההסתדרות 55 חיפה, קניון סינמול לב המפרץ - קומה 1 ליד תמנון",
+         "location": {
+            "lat": 32.7935409,
+            "lng": 35.0374184
+         },
+         "formatted": "שדרות ההסתדרות 55, חיפה, ישראל",
+         "city": "חיפה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-02-25T09:00:00.000Z",
+            "timestamp_end": "2021-02-25T16:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "דרך משה פלימן 4 חיפה, קניון חיפה - קומה 1 ליד קסטרו",
          "location": {
             "lat": 32.7896187,
@@ -390,91 +407,6 @@
          {
             "timestamp_start": "2021-02-25T09:00:00.000Z",
             "timestamp_end": "2021-02-25T16:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "שד' ההסתדרות 55 חיפה, קניון סינמול לב המפרץ - קומה 1 ליד תמנון",
-         "location": {
-            "lat": 32.7935409,
-            "lng": 35.0374184
-         },
-         "formatted": "שדרות ההסתדרות 55, חיפה, ישראל",
-         "city": "חיפה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-02-25T09:00:00.000Z",
-            "timestamp_end": "2021-02-25T16:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "ג'וליס, בית העם",
-         "location": {
-            "lat": 32.9443425,
-            "lng": 35.1857616
-         },
-         "formatted": "ג'וליס, ישראל",
-         "city": "ג'וליס"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-02-25T12:00:00.000Z",
-            "timestamp_end": "2021-02-25T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "כפר כנא, ליד המועצה",
-         "location": {
-            "lat": 32.7481978,
-            "lng": 35.3438402
-         },
-         "formatted": "כפר כנא, ישראל",
-         "city": "כפר כנא"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-02-25T07:00:00.000Z",
-            "timestamp_end": "2021-02-25T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "עראבה, אולם נאגי אלעלי ליד בי\"ס אלבטוף",
-         "location": {
-            "lat": 32.853705,
-            "lng": 35.337167
-         },
-         "formatted": "עראבה, ישראל",
-         "city": "עראבה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-02-25T13:00:00.000Z",
-            "timestamp_end": "2021-02-25T19:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "ריינה, ליד המועצה",
-         "location": {
-            "lat": 32.719924,
-            "lng": 35.317654
-         },
-         "formatted": "ריינה, ישראל",
-         "city": "ריינה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-02-25T07:00:00.000Z",
-            "timestamp_end": "2021-02-25T19:00:00.000Z"
          }
       ]
    },
@@ -605,6 +537,74 @@
    },
    {
       "address": {
+         "unformatted": "ג'וליס, בית העם",
+         "location": {
+            "lat": 32.9443425,
+            "lng": 35.1857616
+         },
+         "formatted": "ג'וליס, ישראל",
+         "city": "ג'וליס"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-02-25T12:00:00.000Z",
+            "timestamp_end": "2021-02-25T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "כפר כנא, ליד המועצה",
+         "location": {
+            "lat": 32.7481978,
+            "lng": 35.3438402
+         },
+         "formatted": "כפר כנא, ישראל",
+         "city": "כפר כנא"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-02-25T07:00:00.000Z",
+            "timestamp_end": "2021-02-25T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "עראבה, אולם נאגי אלעלי ליד בי\"ס אלבטוף",
+         "location": {
+            "lat": 32.853705,
+            "lng": 35.337167
+         },
+         "formatted": "עראבה, ישראל",
+         "city": "עראבה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-02-25T13:00:00.000Z",
+            "timestamp_end": "2021-02-25T19:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "ריינה, ליד המועצה",
+         "location": {
+            "lat": 32.719924,
+            "lng": 35.317654
+         },
+         "formatted": "ריינה, ישראל",
+         "city": "ריינה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-02-25T07:00:00.000Z",
+            "timestamp_end": "2021-02-25T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "מעלה החמישה, מועדון לחבר",
          "location": {
             "lat": 31.8179845,
@@ -651,6 +651,23 @@
          {
             "timestamp_start": "2021-02-28T07:30:00.000Z",
             "timestamp_end": "2021-02-28T13:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "הרצל פינת מנחם בגין אשדוד, קניון הסיטי",
+         "location": {
+            "lat": 31.7907924,
+            "lng": 34.6394684
+         },
+         "formatted": "תחנה מרכזית, שדרות מנחם בגין 1, אשדוד, ישראל",
+         "city": "אשדוד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-02-28T08:00:00.000Z",
+            "timestamp_end": "2021-02-28T15:00:00.000Z"
          }
       ]
    },
@@ -794,6 +811,23 @@
    },
    {
       "address": {
+         "unformatted": "בוטיק מעצבים קומה 1- תל אביב יפו, דיזינגוף סנטר",
+         "location": {
+            "lat": 32.0750224,
+            "lng": 34.7749395
+         },
+         "formatted": "דיזנגוף 50, תל אביב יפו, ישראל",
+         "city": "תל אביב יפו"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-02-28T12:00:00.000Z",
+            "timestamp_end": "2021-02-28T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "צה\"ל 7 צפת, בית מדרש פאר הנצח",
          "location": {
             "lat": 32.964538,
@@ -879,6 +913,23 @@
    },
    {
       "address": {
+         "unformatted": "שדמה, מזכירות",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "שדמה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-02T15:00:00.000Z",
+            "timestamp_end": "2021-03-02T20:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "השקמה 40 לפיד, לפיד",
          "location": {
             "lat": 31.9170518,
@@ -925,23 +976,6 @@
          {
             "timestamp_start": "2021-03-02T14:00:00.000Z",
             "timestamp_end": "2021-03-02T18:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "שדמה, מזכירות",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "שדמה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-02T15:00:00.000Z",
-            "timestamp_end": "2021-03-02T20:00:00.000Z"
          }
       ]
    },
@@ -1015,18 +1049,18 @@
    },
    {
       "address": {
-         "unformatted": "נוב, סניף בני עקיבא",
+         "unformatted": "שמואל הנגיד 8 פתח תקווה, מתנ\"ס שמואל",
          "location": {
-            "lat": 32.832852,
-            "lng": 35.783574
+            "lat": 32.1001424,
+            "lng": 34.8998311
          },
-         "formatted": "נוב",
-         "city": "נוב"
+         "formatted": "פתח תקווה, ישראל",
+         "city": "פתח תקווה"
       },
       "times": [
          {
-            "timestamp_start": "2021-03-03T13:00:00.000Z",
-            "timestamp_end": "2021-03-03T18:00:00.000Z"
+            "timestamp_start": "2021-03-03T14:00:00.000Z",
+            "timestamp_end": "2021-03-03T19:00:00.000Z"
          }
       ]
    },
@@ -1049,18 +1083,18 @@
    },
    {
       "address": {
-         "unformatted": "שמואל הנגיד 8 פתח תקווה, מתנ\"ס שמואל",
+         "unformatted": "נוב, סניף בני עקיבא",
          "location": {
-            "lat": 32.1001424,
-            "lng": 34.8998311
+            "lat": 32.832852,
+            "lng": 35.783574
          },
-         "formatted": "פתח תקווה, ישראל",
-         "city": "פתח תקווה"
+         "formatted": "נוב",
+         "city": "נוב"
       },
       "times": [
          {
-            "timestamp_start": "2021-03-03T14:00:00.000Z",
-            "timestamp_end": "2021-03-03T19:00:00.000Z"
+            "timestamp_start": "2021-03-03T13:00:00.000Z",
+            "timestamp_end": "2021-03-03T18:00:00.000Z"
          }
       ]
    },
@@ -1083,23 +1117,6 @@
    },
    {
       "address": {
-         "unformatted": "0834 באר שבע",
-         "location": {
-            "lat": 31.252973,
-            "lng": 34.791462
-         },
-         "formatted": "באר שבע, ישראל",
-         "city": "באר שבע"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-03T07:30:00.000Z",
-            "timestamp_end": "2021-03-03T14:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "דן, מועדון",
          "location": {
             "lat": 33.2405361,
@@ -1112,6 +1129,23 @@
          {
             "timestamp_start": "2021-03-03T14:00:00.000Z",
             "timestamp_end": "2021-03-03T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "0834 באר שבע",
+         "location": {
+            "lat": 31.252973,
+            "lng": 34.791462
+         },
+         "formatted": "באר שבע, ישראל",
+         "city": "באר שבע"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-03T07:30:00.000Z",
+            "timestamp_end": "2021-03-03T14:00:00.000Z"
          }
       ]
    },
@@ -1168,18 +1202,18 @@
    },
    {
       "address": {
-         "unformatted": "טובא זנגריה, מרכז הצעירים",
+         "unformatted": "לשם נוף איילון, מתנס שלב א",
          "location": {
-            "lat": 32.96621,
-            "lng": 35.592018
+            "lat": 31.8666864,
+            "lng": 34.9848771
          },
-         "formatted": "טובא זנגריה, ישראל",
-         "city": "טובא זנגריה"
+         "formatted": "Moriya St 16, Nof Ayalon",
+         "city": "נוף איילון"
       },
       "times": [
          {
-            "timestamp_start": "2021-03-04T13:00:00.000Z",
-            "timestamp_end": "2021-03-04T19:00:00.000Z"
+            "timestamp_start": "2021-03-04T15:00:00.000Z",
+            "timestamp_end": "2021-03-04T20:30:00.000Z"
          }
       ]
    },
@@ -1202,18 +1236,18 @@
    },
    {
       "address": {
-         "unformatted": "לשם נוף איילון, מתנס שלב א",
+         "unformatted": "טובא זנגריה, מרכז הצעירים",
          "location": {
-            "lat": 31.8666864,
-            "lng": 34.9848771
+            "lat": 32.96621,
+            "lng": 35.592018
          },
-         "formatted": "Moriya St 16, Nof Ayalon",
-         "city": "נוף איילון"
+         "formatted": "טובא זנגריה, ישראל",
+         "city": "טובא זנגריה"
       },
       "times": [
          {
-            "timestamp_start": "2021-03-04T15:00:00.000Z",
-            "timestamp_end": "2021-03-04T20:30:00.000Z"
+            "timestamp_start": "2021-03-04T13:00:00.000Z",
+            "timestamp_end": "2021-03-04T19:00:00.000Z"
          }
       ]
    },
@@ -1355,23 +1389,6 @@
    },
    {
       "address": {
-         "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
-         "location": {
-            "lat": 32.3284579,
-            "lng": 34.8645215
-         },
-         "formatted": "בנימין מינץ 7, נתניה, ישראל",
-         "city": "נתניה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-05T06:30:00.000Z",
-            "timestamp_end": "2021-03-05T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
          "location": {
             "lat": 32.8440668,
@@ -1383,6 +1400,23 @@
       "times": [
          {
             "timestamp_start": "2021-03-05T06:00:00.000Z",
+            "timestamp_end": "2021-03-05T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
+         "location": {
+            "lat": 32.3284579,
+            "lng": 34.8645215
+         },
+         "formatted": "בנימין מינץ 7, נתניה, ישראל",
+         "city": "נתניה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-05T06:30:00.000Z",
             "timestamp_end": "2021-03-05T10:30:00.000Z"
          }
       ]
@@ -1401,6 +1435,23 @@
          {
             "timestamp_start": "2021-03-07T07:00:00.000Z",
             "timestamp_end": "2021-03-07T13:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "איילת השחר, מועדון לחבר",
+         "location": {
+            "lat": 33.0208818,
+            "lng": 35.5770504
+         },
+         "formatted": "Unnamed Road, איילת השחר, Ayelet HaShahar, ישראל",
+         "city": "איילת השחר"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-07T14:00:00.000Z",
+            "timestamp_end": "2021-03-07T18:00:00.000Z"
          }
       ]
    },
@@ -1440,18 +1491,18 @@
    },
    {
       "address": {
-         "unformatted": "כוכב השחר, אולם שמחות",
+         "unformatted": "מעלה גלבוע, במועדון",
          "location": {
-            "lat": 31.9607642,
-            "lng": 35.3470705
+            "lat": 32.4686067,
+            "lng": 35.4263447
          },
-         "formatted": "כוכב השחר ב",
-         "city": "כוכב השחר"
+         "formatted": "מעלה גלבוע, 1914500, ישראל",
+         "city": "מעלה גלבוע"
       },
       "times": [
          {
-            "timestamp_start": "2021-03-10T16:00:00.000Z",
-            "timestamp_end": "2021-03-10T20:00:00.000Z"
+            "timestamp_start": "2021-03-10T12:00:00.000Z",
+            "timestamp_end": "2021-03-10T18:00:00.000Z"
          }
       ]
    },
@@ -1474,35 +1525,52 @@
    },
    {
       "address": {
-         "unformatted": "מעלה גלבוע, במועדון",
+         "unformatted": "כוכב השחר, אולם שמחות",
          "location": {
-            "lat": 32.4686067,
-            "lng": 35.4263447
+            "lat": 31.9607642,
+            "lng": 35.3470705
          },
-         "formatted": "מעלה גלבוע, 1914500, ישראל",
-         "city": "מעלה גלבוע"
+         "formatted": "כוכב השחר ב",
+         "city": "כוכב השחר"
       },
       "times": [
          {
-            "timestamp_start": "2021-03-10T12:00:00.000Z",
-            "timestamp_end": "2021-03-10T18:00:00.000Z"
+            "timestamp_start": "2021-03-10T16:00:00.000Z",
+            "timestamp_end": "2021-03-10T20:00:00.000Z"
          }
       ]
    },
    {
       "address": {
-         "unformatted": "איילת השחר, מועדון לחבר",
+         "unformatted": "חיים שטרומן 27 בית שאן, ישיבת הסדר",
          "location": {
-            "lat": 33.0208818,
-            "lng": 35.5770504
+            "lat": 32.497103,
+            "lng": 35.497336
          },
-         "formatted": "Unnamed Road, איילת השחר, Ayelet HaShahar, ישראל",
-         "city": "איילת השחר"
+         "formatted": "בית שאן, ישראל",
+         "city": "בית שאן"
       },
       "times": [
          {
-            "timestamp_start": "2021-03-07T14:00:00.000Z",
-            "timestamp_end": "2021-03-07T18:00:00.000Z"
+            "timestamp_start": "2021-02-24T11:00:00.000Z",
+            "timestamp_end": "2021-02-24T15:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "בית הכרם 17 ירושלים, בית הכנסת הגדול",
+         "location": {
+            "lat": 31.7804981,
+            "lng": 35.1908389
+         },
+         "formatted": "בית הכרם 17, ירושלים, ישראל",
+         "city": "ירושלים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-10T14:00:00.000Z",
+            "timestamp_end": "2021-03-10T20:00:00.000Z"
          }
       ]
    }
