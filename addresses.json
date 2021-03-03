@@ -83,6 +83,23 @@
    },
    {
       "address": {
+         "unformatted": "דן, מועדון",
+         "location": {
+            "lat": 33.2405361,
+            "lng": 35.6529864
+         },
+         "formatted": "Unnamed Road, דן, ישראל",
+         "city": "דן"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-03T14:00:00.000Z",
+            "timestamp_end": "2021-03-03T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "א.ת. באר טוביה, ביג קרית מלאכי",
          "location": {
             "lat": 31.7280171,
@@ -99,23 +116,6 @@
          {
             "timestamp_start": "2021-03-08T08:00:00.000Z",
             "timestamp_end": "2021-03-08T12:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "דן, מועדון",
-         "location": {
-            "lat": 33.2405361,
-            "lng": 35.6529864
-         },
-         "formatted": "Unnamed Road, דן, ישראל",
-         "city": "דן"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-03T14:00:00.000Z",
-            "timestamp_end": "2021-03-03T18:00:00.000Z"
          }
       ]
    },
@@ -223,6 +223,57 @@
    },
    {
       "address": {
+         "unformatted": "ההסתדרות 62 נס ציונה, בי\"ס בן גוריון נס ציונה",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "נס ציונה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-04T06:30:00.000Z",
+            "timestamp_end": "2021-03-04T12:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מנחם בגין 1 נס ציונה, צופי נס ציונה שבט סהר",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "נס ציונה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-04T13:00:00.000Z",
+            "timestamp_end": "2021-03-04T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מרכז מסחרי אשקלון, קוסמוס אשקלון",
+         "location": {
+            "lat": 31.6748007,
+            "lng": 34.6060214
+         },
+         "formatted": "פאוור סנטר צומת סילוור, אשקלון, ישראל",
+         "city": "אשקלון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-04T08:00:00.000Z",
+            "timestamp_end": "2021-03-04T15:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "שוורץ 17 רעננה, פדרציה ציונית דרום אפריקה telfed",
          "location": {
             "lat": 33.44852903890945,
@@ -272,57 +323,6 @@
          {
             "timestamp_start": "2021-03-12T06:30:00.000Z",
             "timestamp_end": "2021-03-12T11:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "מרכז מסחרי אשקלון, קוסמוס אשקלון",
-         "location": {
-            "lat": 31.6748007,
-            "lng": 34.6060214
-         },
-         "formatted": "פאוור סנטר צומת סילוור, אשקלון, ישראל",
-         "city": "אשקלון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-04T08:00:00.000Z",
-            "timestamp_end": "2021-03-04T15:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "ההסתדרות 62 נס ציונה, בי\"ס בן גוריון נס ציונה",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "נס ציונה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-04T06:30:00.000Z",
-            "timestamp_end": "2021-03-04T12:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "מנחם בגין 1 נס ציונה, צופי נס ציונה שבט סהר",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "נס ציונה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-04T13:00:00.000Z",
-            "timestamp_end": "2021-03-04T19:00:00.000Z"
          }
       ]
    },
@@ -493,6 +493,23 @@
          {
             "timestamp_start": "2021-03-04T14:00:00.000Z",
             "timestamp_end": "2021-03-04T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "באר שבע, סניף רמות בני עקיבא-רח' ורשבסקי-1 באר שבע",
+         "location": {
+            "lat": 31.252973,
+            "lng": 34.791462
+         },
+         "formatted": "באר שבע, ישראל",
+         "city": "באר שבע"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-04T09:00:00.000Z",
+            "timestamp_end": "2021-03-04T14:30:00.000Z"
          }
       ]
    },
@@ -802,6 +819,57 @@
    },
    {
       "address": {
+         "unformatted": "זבוטינסקי 102 ראשון לציון, מד\"א, - תחנת מד\"א",
+         "location": {
+            "lat": 31.9730015,
+            "lng": 34.7925013
+         },
+         "formatted": "ראשון לציון, ישראל",
+         "city": "ראשון לציון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-05T06:00:00.000Z",
+            "timestamp_end": "2021-03-05T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "סחרוב ראשון לציון, קניון הזהב",
+         "location": {
+            "lat": 31.9913925,
+            "lng": 34.774242
+         },
+         "formatted": "דוד סחרוב 21, ראשון לציון, ישראל",
+         "city": "ראשון לציון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-05T06:30:00.000Z",
+            "timestamp_end": "2021-03-05T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "קהילת ציון 2 עפולה, תחנה מרכזית",
+         "location": {
+            "lat": 32.607437,
+            "lng": 35.2920556
+         },
+         "formatted": "קהילת ציון 3, עפולה, ישראל",
+         "city": "עפולה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-05T06:30:00.000Z",
+            "timestamp_end": "2021-03-05T11:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "התחיה 1 אשקלון, תחנה , - תחנת מד\"א",
          "location": {
             "lat": 31.6617136,
@@ -831,57 +899,6 @@
          {
             "timestamp_start": "2021-03-05T06:00:00.000Z",
             "timestamp_end": "2021-03-05T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "סחרוב ראשון לציון, קניון הזהב",
-         "location": {
-            "lat": 31.9913925,
-            "lng": 34.774242
-         },
-         "formatted": "דוד סחרוב 21, ראשון לציון, ישראל",
-         "city": "ראשון לציון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-05T06:30:00.000Z",
-            "timestamp_end": "2021-03-05T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "זבוטינסקי 102 ראשון לציון, מד\"א, - תחנת מד\"א",
-         "location": {
-            "lat": 31.9730015,
-            "lng": 34.7925013
-         },
-         "formatted": "ראשון לציון, ישראל",
-         "city": "ראשון לציון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-05T06:00:00.000Z",
-            "timestamp_end": "2021-03-05T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "קהילת ציון 2 עפולה, תחנה מרכזית",
-         "location": {
-            "lat": 32.607437,
-            "lng": 35.2920556
-         },
-         "formatted": "קהילת ציון 3, עפולה, ישראל",
-         "city": "עפולה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-05T06:30:00.000Z",
-            "timestamp_end": "2021-03-05T11:30:00.000Z"
          }
       ]
    },
@@ -1129,23 +1146,6 @@
    },
    {
       "address": {
-         "unformatted": "כוכב השחר, אולם שמחות",
-         "location": {
-            "lat": 31.9607642,
-            "lng": 35.3470705
-         },
-         "formatted": "כוכב השחר ב",
-         "city": "כוכב השחר"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-10T16:00:00.000Z",
-            "timestamp_end": "2021-03-10T20:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "בית הכרם 17 ירושלים, בית הכנסת הגדול",
          "location": {
             "lat": 31.7804981,
@@ -1157,6 +1157,23 @@
       "times": [
          {
             "timestamp_start": "2021-03-10T14:00:00.000Z",
+            "timestamp_end": "2021-03-10T20:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "כוכב השחר, אולם שמחות",
+         "location": {
+            "lat": 31.9607642,
+            "lng": 35.3470705
+         },
+         "formatted": "כוכב השחר ב",
+         "city": "כוכב השחר"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-10T16:00:00.000Z",
             "timestamp_end": "2021-03-10T20:00:00.000Z"
          }
       ]
@@ -1231,23 +1248,6 @@
    },
    {
       "address": {
-         "unformatted": "מזרע, מועדון לחבר",
-         "location": {
-            "lat": 32.6498803,
-            "lng": 35.2864054
-         },
-         "formatted": "מזרע, ישראל",
-         "city": "מזרע"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-11T14:00:00.000Z",
-            "timestamp_end": "2021-03-11T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "עין גב, מועדון",
          "location": {
             "lat": 32.783393,
@@ -1259,6 +1259,23 @@
       "times": [
          {
             "timestamp_start": "2021-03-11T13:00:00.000Z",
+            "timestamp_end": "2021-03-11T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מזרע, מועדון לחבר",
+         "location": {
+            "lat": 32.6498803,
+            "lng": 35.2864054
+         },
+         "formatted": "מזרע, ישראל",
+         "city": "מזרע"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-11T14:00:00.000Z",
             "timestamp_end": "2021-03-11T18:00:00.000Z"
          }
       ]
@@ -1401,23 +1418,6 @@
    },
    {
       "address": {
-         "unformatted": "עזריקם, מועדון בית יהושוע",
-         "location": {
-            "lat": 40.7500975,
-            "lng": -73.9849826
-         },
-         "formatted": "20 W 36th St, New York, NY 10018, ארצות הברית",
-         "city": "עזריקם"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-15T14:00:00.000Z",
-            "timestamp_end": "2021-03-15T20:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "פרוד, מועדון",
          "location": {
             "lat": 32.9328557,
@@ -1447,6 +1447,23 @@
          {
             "timestamp_start": "2021-03-15T13:00:00.000Z",
             "timestamp_end": "2021-03-15T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "עזריקם, מועדון בית יהושוע",
+         "location": {
+            "lat": 40.7500975,
+            "lng": -73.9849826
+         },
+         "formatted": "20 W 36th St, New York, NY 10018, ארצות הברית",
+         "city": "עזריקם"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-15T14:00:00.000Z",
+            "timestamp_end": "2021-03-15T20:00:00.000Z"
          }
       ]
    },
@@ -1524,23 +1541,6 @@
    },
    {
       "address": {
-         "unformatted": "עין מאהל, אולם ספורט",
-         "location": {
-            "lat": 32.72578,
-            "lng": 35.349159
-         },
-         "formatted": "אולם ספורט, עין מאהל, ישראל",
-         "city": "עין מאהל"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-16T13:00:00.000Z",
-            "timestamp_end": "2021-03-16T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "הרצל 44 קרית עקרון, קרית עקרון",
          "location": {
             "lat": 31.8607337,
@@ -1552,6 +1552,23 @@
       "times": [
          {
             "timestamp_start": "2021-03-16T12:30:00.000Z",
+            "timestamp_end": "2021-03-16T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "עין מאהל, אולם ספורט",
+         "location": {
+            "lat": 32.72578,
+            "lng": 35.349159
+         },
+         "formatted": "אולם ספורט, עין מאהל, ישראל",
+         "city": "עין מאהל"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-16T13:00:00.000Z",
             "timestamp_end": "2021-03-16T19:00:00.000Z"
          }
       ]
@@ -1658,29 +1675,29 @@
       ]
    },
    {
-      "address": {
-         "unformatted": "באר שבע, סניף רמות בני עקיבא-רח' ורשבסקי-1 באר שבע",
-         "location": {
-            "lat": 31.252973,
-            "lng": 34.791462
-         },
-         "formatted": "באר שבע, ישראל",
-         "city": "באר שבע"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-04T09:00:00.000Z",
-            "timestamp_end": "2021-03-04T14:30:00.000Z"
-         }
-      ]
-   },
-   {
       "city": "",
       "address": "",
       "times": [
          {
             "timestamp_start": "2021-03-16T14:00:00.000Z",
             "timestamp_end": "2021-03-16T20:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "ד.נ.אילות יטבתה, במרפאה אזורית",
+         "location": {
+            "lat": 29.896105,
+            "lng": 35.060041
+         },
+         "formatted": "המרפאה נמצאת בקיבוץ, יוטבתה, ישראל",
+         "city": "יטבתה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-17T13:00:00.000Z",
+            "timestamp_end": "2021-03-17T17:00:00.000Z"
          }
       ]
    }
