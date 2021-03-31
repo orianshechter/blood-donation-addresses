@@ -1,6 +1,23 @@
 [
    {
       "address": {
+         "unformatted": "נערן",
+         "location": {
+            "lat": 31.968178,
+            "lng": 35.453892
+         },
+         "formatted": "נירן",
+         "city": "נערן"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-31T14:00:00.000Z",
+            "timestamp_end": "2021-03-31T18:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "רהט, מתנ\"ס רהט",
          "location": {
             "lat": 31.3970941,
@@ -38,23 +55,6 @@
          {
             "timestamp_start": "2021-04-09T05:30:00.000Z",
             "timestamp_end": "2021-04-09T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "נערן",
-         "location": {
-            "lat": 31.968178,
-            "lng": 35.453892
-         },
-         "formatted": "נירן",
-         "city": "נערן"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-03-31T14:00:00.000Z",
-            "timestamp_end": "2021-03-31T18:30:00.000Z"
          }
       ]
    },
@@ -531,23 +531,6 @@
    },
    {
       "address": {
-         "unformatted": "הרקון 2 הוד השרון, מתחם שרונים",
-         "location": {
-            "lat": 32.1332427,
-            "lng": 34.9012534
-         },
-         "formatted": "הרקון 2, הוד השרון, ישראל",
-         "city": "הוד השרון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-04-01T10:00:00.000Z",
-            "timestamp_end": "2021-04-01T16:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "ההסתדרות 1 עפולה, תחנת מד\"א, - תחנת מד\"א",
          "location": {
             "lat": 32.6155244,
@@ -560,6 +543,23 @@
          {
             "timestamp_start": "2021-04-01T12:00:00.000Z",
             "timestamp_end": "2021-04-01T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "הרקון 2 הוד השרון, מתחם שרונים",
+         "location": {
+            "lat": 32.1332427,
+            "lng": 34.9012534
+         },
+         "formatted": "הרקון 2, הוד השרון, ישראל",
+         "city": "הוד השרון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-01T10:00:00.000Z",
+            "timestamp_end": "2021-04-01T16:00:00.000Z"
          }
       ]
    },
@@ -726,6 +726,23 @@
    },
    {
       "address": {
+         "unformatted": "מועדון",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "מועדון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-02T05:30:00.000Z",
+            "timestamp_end": "2021-04-02T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
          "location": {
             "lat": 32.8440668,
@@ -742,23 +759,6 @@
          {
             "timestamp_start": "2021-04-09T05:00:00.000Z",
             "timestamp_end": "2021-04-09T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "מועדון",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "מועדון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-04-02T05:30:00.000Z",
-            "timestamp_end": "2021-04-02T09:30:00.000Z"
          }
       ]
    },
@@ -874,39 +874,18 @@
    },
    {
       "address": {
-         "unformatted": "אביאור 1 חדרה, תחנת מד\"א חדרה , - תחנת מד\"א",
+         "unformatted": "חיפה, בית הכנסת המרכזי - רח' מוליבר מול הדואר קרית שמואל",
          "location": {
-            "lat": 32.4445161,
-            "lng": 34.9228603
+            "lat": 32.8336513,
+            "lng": 35.0677094
          },
-         "formatted": "אביאור 7-11, חדרה, ישראל",
-         "city": "חדרה"
+         "formatted": "מוהליבר 14, חיפה, ישראל",
+         "city": "חיפה"
       },
       "times": [
          {
             "timestamp_start": "2021-04-02T05:00:00.000Z",
-            "timestamp_end": "2021-04-02T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "הבנים מול מלון לאונרדו 1 טבריה, תחנת מגן דוד אדום, - תחנת מד\"א",
-         "location": {
-            "lat": 32.785899,
-            "lng": 35.5407268
-         },
-         "formatted": "הקישון 1, טבריה, ישראל",
-         "city": "טבריה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-04-02T05:30:00.000Z",
-            "timestamp_end": "2021-04-02T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-04-09T05:30:00.000Z",
-            "timestamp_end": "2021-04-09T09:30:00.000Z"
+            "timestamp_end": "2021-04-02T10:00:00.000Z"
          }
       ]
    },
@@ -941,6 +920,44 @@
          {
             "timestamp_start": "2021-04-02T05:30:00.000Z",
             "timestamp_end": "2021-04-02T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "אביאור 1 חדרה, תחנת מד\"א חדרה , - תחנת מד\"א",
+         "location": {
+            "lat": 32.4445161,
+            "lng": 34.9228603
+         },
+         "formatted": "אביאור 7-11, חדרה, ישראל",
+         "city": "חדרה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-02T05:00:00.000Z",
+            "timestamp_end": "2021-04-02T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "הבנים מול מלון לאונרדו 1 טבריה, תחנת מגן דוד אדום, - תחנת מד\"א",
+         "location": {
+            "lat": 32.785899,
+            "lng": 35.5407268
+         },
+         "formatted": "הקישון 1, טבריה, ישראל",
+         "city": "טבריה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-02T05:30:00.000Z",
+            "timestamp_end": "2021-04-02T09:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-04-09T05:30:00.000Z",
+            "timestamp_end": "2021-04-09T09:30:00.000Z"
          }
       ]
    },
@@ -1099,23 +1116,6 @@
    },
    {
       "address": {
-         "unformatted": "שמיר, מועדון",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "שמיר"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-04-05T11:00:00.000Z",
-            "timestamp_end": "2021-04-05T16:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "נחושה, רבת\"כ",
          "location": {
             "lat": 31.628848,
@@ -1128,6 +1128,23 @@
          {
             "timestamp_start": "2021-04-05T14:00:00.000Z",
             "timestamp_end": "2021-04-05T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "שמיר, מועדון",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "שמיר"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-05T11:00:00.000Z",
+            "timestamp_end": "2021-04-05T16:00:00.000Z"
          }
       ]
    },
@@ -1434,6 +1451,57 @@
          {
             "timestamp_start": "2021-04-12T14:00:00.000Z",
             "timestamp_end": "2021-04-12T18:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "סאג'ור, בית העם",
+         "location": {
+            "lat": 32.942245,
+            "lng": 35.3422805
+         },
+         "formatted": "סאג'ור, ישראל",
+         "city": "סאג'ור"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-03-31T12:00:00.000Z",
+            "timestamp_end": "2021-03-31T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מג'ד אל כרום, מתנ\"ס",
+         "location": {
+            "lat": 32.922497,
+            "lng": 35.2581651
+         },
+         "formatted": "מג'ד אל-כרום, ישראל",
+         "city": "מג'ד אל כרום"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-01T12:00:00.000Z",
+            "timestamp_end": "2021-04-01T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "אבו סנאן, מתנ\"ס",
+         "location": {
+            "lat": 32.95803,
+            "lng": 35.171969
+         },
+         "formatted": "ישוב, אבו סנאן, ישראל",
+         "city": "אבו סנאן"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-01T12:00:00.000Z",
+            "timestamp_end": "2021-04-01T18:00:00.000Z"
          }
       ]
    },
