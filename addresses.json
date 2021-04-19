@@ -468,23 +468,6 @@
    },
    {
       "address": {
-         "unformatted": "המכבים 30 פתח תקווה, - תחנת מד\"א",
-         "location": {
-            "lat": 32.0972956,
-            "lng": 34.8870999
-         },
-         "formatted": "פתח תקווה, ישראל",
-         "city": "פתח תקווה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-04-20T12:00:00.000Z",
-            "timestamp_end": "2021-04-20T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "0834 באר שבע",
          "location": {
             "lat": 31.252973,
@@ -521,6 +504,23 @@
       "times": [
          {
             "timestamp_start": "2021-04-20T14:00:00.000Z",
+            "timestamp_end": "2021-04-20T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "המכבים 30 פתח תקווה, - תחנת מד\"א",
+         "location": {
+            "lat": 32.0972956,
+            "lng": 34.8870999
+         },
+         "formatted": "פתח תקווה, ישראל",
+         "city": "פתח תקווה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-20T12:00:00.000Z",
             "timestamp_end": "2021-04-20T18:00:00.000Z"
          }
       ]
@@ -667,23 +667,6 @@
    },
    {
       "address": {
-         "unformatted": "דליות 4 קצרין, קצרין - מרכז מסחרי",
-         "location": {
-            "lat": 32.9944266,
-            "lng": 35.6898421
-         },
-         "formatted": "דליות 4, קצרין",
-         "city": "קצרין"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-04-22T08:00:00.000Z",
-            "timestamp_end": "2021-04-22T15:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "קרית ארבע, קרית ארבע",
          "location": {
             "lat": 31.529326,
@@ -701,35 +684,18 @@
    },
    {
       "address": {
-         "unformatted": "גזית, מועדון",
+         "unformatted": "דליות 4 קצרין, קצרין - מרכז מסחרי",
          "location": {
-            "lat": 32.6392624,
-            "lng": 35.4481194
+            "lat": 32.9944266,
+            "lng": 35.6898421
          },
-         "formatted": "גזית, ישראל",
-         "city": "גזית"
+         "formatted": "דליות 4, קצרין",
+         "city": "קצרין"
       },
       "times": [
          {
-            "timestamp_start": "2021-04-22T12:30:00.000Z",
-            "timestamp_end": "2021-04-22T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "קדרים, מרפאה",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "קדרים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-04-22T11:00:00.000Z",
-            "timestamp_end": "2021-04-22T16:00:00.000Z"
+            "timestamp_start": "2021-04-22T08:00:00.000Z",
+            "timestamp_end": "2021-04-22T15:00:00.000Z"
          }
       ]
    },
@@ -752,18 +718,35 @@
    },
    {
       "address": {
-         "unformatted": "א.ת. באר טוביה, ביג קרית מלאכי",
+         "unformatted": "קדרים, מרפאה",
          "location": {
-            "lat": 31.7280171,
-            "lng": 34.7550479
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
          },
-         "formatted": "באר טוביה, ישראל",
-         "city": "באר טוביה"
+         "formatted": "bad_address",
+         "city": "קדרים"
       },
       "times": [
          {
-            "timestamp_start": "2021-04-22T07:00:00.000Z",
-            "timestamp_end": "2021-04-22T14:00:00.000Z"
+            "timestamp_start": "2021-04-22T11:00:00.000Z",
+            "timestamp_end": "2021-04-22T16:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "גזית, מועדון",
+         "location": {
+            "lat": 32.6392624,
+            "lng": 35.4481194
+         },
+         "formatted": "גזית, ישראל",
+         "city": "גזית"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-22T12:30:00.000Z",
+            "timestamp_end": "2021-04-22T17:00:00.000Z"
          }
       ]
    },
@@ -798,6 +781,23 @@
          {
             "timestamp_start": "2021-04-22T11:30:00.000Z",
             "timestamp_end": "2021-04-22T17:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "א.ת. באר טוביה, ביג קרית מלאכי",
+         "location": {
+            "lat": 31.7280171,
+            "lng": 34.7550479
+         },
+         "formatted": "באר טוביה, ישראל",
+         "city": "באר טוביה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-22T07:00:00.000Z",
+            "timestamp_end": "2021-04-22T14:00:00.000Z"
          }
       ]
    },
@@ -938,23 +938,6 @@
    },
    {
       "address": {
-         "unformatted": "רמת גן, חזון איש 131 פנית אבני החושן",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "רמת גן"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-04-23T05:30:00.000Z",
-            "timestamp_end": "2021-04-23T10:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "אביאור 1 חדרה, תחנת מד\"א חדרה , - תחנת מד\"א",
          "location": {
             "lat": 32.4445161,
@@ -988,6 +971,23 @@
          {
             "timestamp_start": "2021-04-30T05:30:00.000Z",
             "timestamp_end": "2021-04-30T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "רמת גן, חזון איש 131 פנית אבני החושן",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "רמת גן"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-23T05:30:00.000Z",
+            "timestamp_end": "2021-04-23T10:00:00.000Z"
          }
       ]
    },
@@ -1027,6 +1027,23 @@
    },
    {
       "address": {
+         "unformatted": "יזרעאל, מועדון",
+         "location": {
+            "lat": 32.6828595,
+            "lng": 35.2302684
+         },
+         "formatted": "מגדל העמק, ישראל",
+         "city": "יזרעאל"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-25T12:00:00.000Z",
+            "timestamp_end": "2021-04-25T16:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "ברעם, מכינה",
          "location": {
             "lat": 33.058979,
@@ -1044,17 +1061,17 @@
    },
    {
       "address": {
-         "unformatted": "יזרעאל, מועדון",
+         "unformatted": "ד.נ.הנגב שומריה",
          "location": {
-            "lat": 32.6828595,
-            "lng": 35.2302684
+            "lat": 30.7140861,
+            "lng": 34.8757476
          },
-         "formatted": "מגדל העמק, ישראל",
-         "city": "יזרעאל"
+         "formatted": "הנגב",
+         "city": "שומריה"
       },
       "times": [
          {
-            "timestamp_start": "2021-04-25T12:00:00.000Z",
+            "timestamp_start": "2021-04-25T11:00:00.000Z",
             "timestamp_end": "2021-04-25T16:00:00.000Z"
          }
       ]
@@ -1073,23 +1090,6 @@
          {
             "timestamp_start": "2021-04-25T13:00:00.000Z",
             "timestamp_end": "2021-04-25T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "ד.נ.הנגב שומריה",
-         "location": {
-            "lat": 30.7140861,
-            "lng": 34.8757476
-         },
-         "formatted": "הנגב",
-         "city": "שומריה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-04-25T11:00:00.000Z",
-            "timestamp_end": "2021-04-25T16:00:00.000Z"
          }
       ]
    },
@@ -1129,13 +1129,13 @@
    },
    {
       "address": {
-         "unformatted": "ניר דוד, מועדון",
+         "unformatted": "רם און, מועדון לחבר",
          "location": {
-            "lat": 32.5057675,
-            "lng": 35.452246
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
          },
-         "formatted": "ניר דוד, ישראל",
-         "city": "ניר דוד"
+         "formatted": "bad_address",
+         "city": "רם און"
       },
       "times": [
          {
@@ -1146,13 +1146,13 @@
    },
    {
       "address": {
-         "unformatted": "רם און, מועדון לחבר",
+         "unformatted": "ניר דוד, מועדון",
          "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
+            "lat": 32.5057675,
+            "lng": 35.452246
          },
-         "formatted": "bad_address",
-         "city": "רם און"
+         "formatted": "ניר דוד, ישראל",
+         "city": "ניר דוד"
       },
       "times": [
          {
@@ -1197,13 +1197,13 @@
    },
    {
       "address": {
-         "unformatted": "מנרה, מועדון לחבר",
+         "unformatted": "שדה נחום, מועדון",
          "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
+            "lat": 32.5115579,
+            "lng": 35.442293
          },
-         "formatted": "bad_address",
-         "city": "מנרה"
+         "formatted": "עמק המעיינות, ארטישוק אוכל אמיתי מהשדה, ישראל",
+         "city": "שדה נחום"
       },
       "times": [
          {
@@ -1214,13 +1214,13 @@
    },
    {
       "address": {
-         "unformatted": "שדה נחום, מועדון",
+         "unformatted": "מנרה, מועדון לחבר",
          "location": {
-            "lat": 32.5115579,
-            "lng": 35.442293
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
          },
-         "formatted": "עמק המעיינות, ארטישוק אוכל אמיתי מהשדה, ישראל",
-         "city": "שדה נחום"
+         "formatted": "bad_address",
+         "city": "מנרה"
       },
       "times": [
          {
@@ -1354,23 +1354,6 @@
    },
    {
       "address": {
-         "unformatted": "סחרוב דוד 21 ראשון לציון, קניון הזהב",
-         "location": {
-            "lat": 31.9913925,
-            "lng": 34.774242
-         },
-         "formatted": "דוד סחרוב 21, ראשון לציון, ישראל",
-         "city": "ראשון לציון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-04-30T05:30:00.000Z",
-            "timestamp_end": "2021-04-30T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "ז'בוטינסקי הוד השרון, צמוד לקניון הוד השרון",
          "location": {
             "lat": 32.1432281,
@@ -1384,6 +1367,23 @@
             "timestamp_start": "2021-04-30T05:30:00.000Z",
             "timestamp_end": "2021-04-30T10:30:00.000Z"
          },
+         {
+            "timestamp_start": "2021-04-30T05:30:00.000Z",
+            "timestamp_end": "2021-04-30T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "סחרוב דוד 21 ראשון לציון, קניון הזהב",
+         "location": {
+            "lat": 31.9913925,
+            "lng": 34.774242
+         },
+         "formatted": "דוד סחרוב 21, ראשון לציון, ישראל",
+         "city": "ראשון לציון"
+      },
+      "times": [
          {
             "timestamp_start": "2021-04-30T05:30:00.000Z",
             "timestamp_end": "2021-04-30T10:30:00.000Z"
@@ -1438,6 +1438,23 @@
          {
             "timestamp_start": "2021-05-03T13:30:00.000Z",
             "timestamp_end": "2021-05-03T17:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "דאלית אל כרמל, מרכז פיס",
+         "location": {
+            "lat": 32.6883075,
+            "lng": 35.0563393
+         },
+         "formatted": "דאלית אל-כרמל, ישראל",
+         "city": "דאלית אל כרמל"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-04-20T12:00:00.000Z",
+            "timestamp_end": "2021-04-20T18:00:00.000Z"
          }
       ]
    }
