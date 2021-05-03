@@ -266,6 +266,23 @@
    },
    {
       "address": {
+         "unformatted": "חזון איש 90 רמת גן, אולם ספורט מרום נווה",
+         "location": {
+            "lat": 32.0731606,
+            "lng": 34.8324682
+         },
+         "formatted": "חזון אי\"ש 90, רמת גן, ישראל",
+         "city": "רמת גן"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-05T13:00:00.000Z",
+            "timestamp_end": "2021-05-05T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "אחיה, מועדון הישוב",
          "location": {
             "lat": 33.44852903890945,
@@ -453,6 +470,27 @@
    },
    {
       "address": {
+         "unformatted": "הרפואה 1 אשדוד, תחנת מד\"א , - תחנת מד\"א",
+         "location": {
+            "lat": 31.7802744,
+            "lng": 34.654233
+         },
+         "formatted": "הרפואה 1, אשדוד, ישראל",
+         "city": "אשדוד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-07T05:00:00.000Z",
+            "timestamp_end": "2021-05-07T09:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-14T05:00:00.000Z",
+            "timestamp_end": "2021-05-14T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "שד' לכיש קרית גת, מרכז מסחרי- מול קניון לב העיר",
          "location": {
             "lat": 31.6088873,
@@ -498,27 +536,6 @@
          },
          "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
          "city": "קרית מוצקין"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-07T05:00:00.000Z",
-            "timestamp_end": "2021-05-07T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-14T05:00:00.000Z",
-            "timestamp_end": "2021-05-14T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "הרפואה 1 אשדוד, תחנת מד\"א , - תחנת מד\"א",
-         "location": {
-            "lat": 31.7802744,
-            "lng": 34.654233
-         },
-         "formatted": "הרפואה 1, אשדוד, ישראל",
-         "city": "אשדוד"
       },
       "times": [
          {
@@ -634,23 +651,6 @@
    },
    {
       "address": {
-         "unformatted": "הבנאי 6 הוד השרון, כמיטק הוד השרון",
-         "location": {
-            "lat": 32.1554983,
-            "lng": 34.922713
-         },
-         "formatted": "הבנאי 6, הוד השרון, 4531906, ישראל",
-         "city": "הוד השרון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-09T07:00:00.000Z",
-            "timestamp_end": "2021-05-09T12:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "עלי, מתנ\"ס עלי",
          "location": {
             "lat": 32.8325501,
@@ -663,47 +663,6 @@
          {
             "timestamp_start": "2021-05-09T13:00:00.000Z",
             "timestamp_end": "2021-05-09T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
-         "location": {
-            "lat": 31.78153,
-            "lng": 35.21602
-         },
-         "formatted": "המלך ג'ורג' 20, ירושלים, 9426208, ישראל",
-         "city": "ירושלים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-09T07:00:00.000Z",
-            "timestamp_end": "2021-05-09T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-10T07:00:00.000Z",
-            "timestamp_end": "2021-05-10T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-11T07:00:00.000Z",
-            "timestamp_end": "2021-05-11T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-12T07:00:00.000Z",
-            "timestamp_end": "2021-05-12T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-13T07:00:00.000Z",
-            "timestamp_end": "2021-05-13T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-14T06:00:00.000Z",
-            "timestamp_end": "2021-05-14T09:45:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-16T07:00:00.000Z",
-            "timestamp_end": "2021-05-16T13:30:00.000Z"
          }
       ]
    },
@@ -750,18 +709,42 @@
    },
    {
       "address": {
-         "unformatted": "דגניה א', בי\"ס בית ירח",
+         "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
          "location": {
-            "lat": 32.712784,
-            "lng": 35.574346
+            "lat": 31.78153,
+            "lng": 35.21602
          },
-         "formatted": "ישראל",
-         "city": "דגניה א'"
+         "formatted": "המלך ג'ורג' 20, ירושלים, 9426208, ישראל",
+         "city": "ירושלים"
       },
       "times": [
          {
-            "timestamp_start": "2021-05-09T06:30:00.000Z",
-            "timestamp_end": "2021-05-09T11:00:00.000Z"
+            "timestamp_start": "2021-05-09T07:00:00.000Z",
+            "timestamp_end": "2021-05-09T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-10T07:00:00.000Z",
+            "timestamp_end": "2021-05-10T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-11T07:00:00.000Z",
+            "timestamp_end": "2021-05-11T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-12T07:00:00.000Z",
+            "timestamp_end": "2021-05-12T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-13T07:00:00.000Z",
+            "timestamp_end": "2021-05-13T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-14T06:00:00.000Z",
+            "timestamp_end": "2021-05-14T09:45:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-16T07:00:00.000Z",
+            "timestamp_end": "2021-05-16T13:30:00.000Z"
          }
       ]
    },
@@ -852,23 +835,6 @@
    },
    {
       "address": {
-         "unformatted": "ד.נ. נגב להב, במועדון",
-         "location": {
-            "lat": 30.7140861,
-            "lng": 34.8757476
-         },
-         "formatted": "הנגב",
-         "city": "להב"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-11T12:00:00.000Z",
-            "timestamp_end": "2021-05-11T16:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "חיים ויטל 16 ירושלים, מתנ\"ס בית רוט",
          "location": {
             "lat": 31.768319,
@@ -886,18 +852,18 @@
    },
    {
       "address": {
-         "unformatted": "משמר השרון, משמר השרון",
+         "unformatted": "ד.נ. נגב להב, במועדון",
          "location": {
-            "lat": 32.356305,
-            "lng": 34.904256
+            "lat": 30.7140861,
+            "lng": 34.8757476
          },
-         "formatted": "משמר השרון, ישראל",
-         "city": "משמר השרון"
+         "formatted": "הנגב",
+         "city": "להב"
       },
       "times": [
          {
-            "timestamp_start": "2021-05-12T13:00:00.000Z",
-            "timestamp_end": "2021-05-12T19:00:00.000Z"
+            "timestamp_start": "2021-05-11T12:00:00.000Z",
+            "timestamp_end": "2021-05-11T16:00:00.000Z"
          }
       ]
    },
@@ -915,6 +881,23 @@
          {
             "timestamp_start": "2021-05-12T10:30:00.000Z",
             "timestamp_end": "2021-05-12T14:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "משמר השרון, משמר השרון",
+         "location": {
+            "lat": 32.356305,
+            "lng": 34.904256
+         },
+         "formatted": "משמר השרון, ישראל",
+         "city": "משמר השרון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-12T13:00:00.000Z",
+            "timestamp_end": "2021-05-12T19:00:00.000Z"
          }
       ]
    },
@@ -988,23 +971,6 @@
    },
    {
       "address": {
-         "unformatted": "ד. נ. הנגב כפר מימון, במועדון",
-         "location": {
-            "lat": 30.7140861,
-            "lng": 34.8757476
-         },
-         "formatted": "הנגב",
-         "city": "כפר מימון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-13T13:30:00.000Z",
-            "timestamp_end": "2021-05-13T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "54 צפריה, מועדון",
          "location": {
             "lat": 32.004315,
@@ -1039,6 +1005,23 @@
    },
    {
       "address": {
+         "unformatted": "בית זרע, מועדון הפיקוס",
+         "location": {
+            "lat": 32.6892978,
+            "lng": 35.5740632
+         },
+         "formatted": "בית זרע, ישראל",
+         "city": "בית זרע"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-13T12:00:00.000Z",
+            "timestamp_end": "2021-05-13T16:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "כפר הנשיא, מפגש",
          "location": {
             "lat": 32.9747464,
@@ -1056,18 +1039,18 @@
    },
    {
       "address": {
-         "unformatted": "בית זרע, מועדון הפיקוס",
+         "unformatted": "ד. נ. הנגב כפר מימון, במועדון",
          "location": {
-            "lat": 32.6892978,
-            "lng": 35.5740632
+            "lat": 30.7140861,
+            "lng": 34.8757476
          },
-         "formatted": "בית זרע, ישראל",
-         "city": "בית זרע"
+         "formatted": "הנגב",
+         "city": "כפר מימון"
       },
       "times": [
          {
-            "timestamp_start": "2021-05-13T12:00:00.000Z",
-            "timestamp_end": "2021-05-13T16:00:00.000Z"
+            "timestamp_start": "2021-05-13T13:30:00.000Z",
+            "timestamp_end": "2021-05-13T17:00:00.000Z"
          }
       ]
    },
@@ -1187,18 +1170,18 @@
    },
    {
       "address": {
-         "unformatted": "חזון איש 90 רמת גן, אולם ספורט מרום נווה",
+         "unformatted": "מרכז עידן סמוך לבית יד לבנים - צמח",
          "location": {
-            "lat": 32.0731606,
-            "lng": 34.8324682
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
          },
-         "formatted": "חזון אי\"ש 90, רמת גן, ישראל",
-         "city": "רמת גן"
+         "formatted": "bad_address",
+         "city": "מרכז עידן סמוך לבית יד לבנים - צמח"
       },
       "times": [
          {
-            "timestamp_start": "2021-05-05T13:00:00.000Z",
-            "timestamp_end": "2021-05-05T19:00:00.000Z"
+            "timestamp_start": "2021-05-09T13:00:00.000Z",
+            "timestamp_end": "2021-05-09T18:00:00.000Z"
          }
       ]
    }
