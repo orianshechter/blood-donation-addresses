@@ -130,23 +130,6 @@
    },
    {
       "address": {
-         "unformatted": "אחיה, מועדון הישוב",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "אחיה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-05T14:00:00.000Z",
-            "timestamp_end": "2021-05-05T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "חזון איש 90 רמת גן, אולם ספורט מרום נווה",
          "location": {
             "lat": 32.0731606,
@@ -158,6 +141,23 @@
       "times": [
          {
             "timestamp_start": "2021-05-05T13:00:00.000Z",
+            "timestamp_end": "2021-05-05T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "אחיה, מועדון הישוב",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "אחיה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-05T14:00:00.000Z",
             "timestamp_end": "2021-05-05T19:00:00.000Z"
          }
       ]
@@ -393,6 +393,23 @@
    },
    {
       "address": {
+         "unformatted": "מגדל העמק, פרץ סנטר",
+         "location": {
+            "lat": 32.6780967,
+            "lng": 35.2431759
+         },
+         "formatted": "שדרות שאול עמור 77, מגדל העמק, ישראל",
+         "city": "מגדל העמק"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-07T05:30:00.000Z",
+            "timestamp_end": "2021-05-07T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "הרפואה 1 אשדוד, תחנת מד\"א , - תחנת מד\"א",
          "location": {
             "lat": 31.7802744,
@@ -409,23 +426,6 @@
          {
             "timestamp_start": "2021-05-14T05:00:00.000Z",
             "timestamp_end": "2021-05-14T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "מגדל העמק, פרץ סנטר",
-         "location": {
-            "lat": 32.6780967,
-            "lng": 35.2431759
-         },
-         "formatted": "שדרות שאול עמור 77, מגדל העמק, ישראל",
-         "city": "מגדל העמק"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-07T05:30:00.000Z",
-            "timestamp_end": "2021-05-07T10:30:00.000Z"
          }
       ]
    },
@@ -507,51 +507,6 @@
    },
    {
       "address": {
-         "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
-         "location": {
-            "lat": 31.78153,
-            "lng": 35.21602
-         },
-         "formatted": "המלך ג'ורג' 20, ירושלים, 9426208, ישראל",
-         "city": "ירושלים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-09T07:00:00.000Z",
-            "timestamp_end": "2021-05-09T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-10T07:00:00.000Z",
-            "timestamp_end": "2021-05-10T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-11T07:00:00.000Z",
-            "timestamp_end": "2021-05-11T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-12T07:00:00.000Z",
-            "timestamp_end": "2021-05-12T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-13T07:00:00.000Z",
-            "timestamp_end": "2021-05-13T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-14T06:00:00.000Z",
-            "timestamp_end": "2021-05-14T09:45:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-16T07:00:00.000Z",
-            "timestamp_end": "2021-05-16T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-18T07:00:00.000Z",
-            "timestamp_end": "2021-05-18T13:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "חפצי בה, מרפאה",
          "location": {
             "lat": 32.5184705,
@@ -606,6 +561,51 @@
          {
             "timestamp_start": "2021-05-14T05:30:00.000Z",
             "timestamp_end": "2021-05-14T10:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
+         "location": {
+            "lat": 31.78153,
+            "lng": 35.21602
+         },
+         "formatted": "המלך ג'ורג' 20, ירושלים, 9426208, ישראל",
+         "city": "ירושלים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-09T07:00:00.000Z",
+            "timestamp_end": "2021-05-09T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-10T07:00:00.000Z",
+            "timestamp_end": "2021-05-10T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-11T07:00:00.000Z",
+            "timestamp_end": "2021-05-11T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-12T07:00:00.000Z",
+            "timestamp_end": "2021-05-12T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-13T07:00:00.000Z",
+            "timestamp_end": "2021-05-13T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-14T06:00:00.000Z",
+            "timestamp_end": "2021-05-14T09:45:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-16T07:00:00.000Z",
+            "timestamp_end": "2021-05-16T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-18T07:00:00.000Z",
+            "timestamp_end": "2021-05-18T13:30:00.000Z"
          }
       ]
    },
@@ -792,23 +792,6 @@
    },
    {
       "address": {
-         "unformatted": "משמר השרון, משמר השרון",
-         "location": {
-            "lat": 32.356305,
-            "lng": 34.904256
-         },
-         "formatted": "משמר השרון, ישראל",
-         "city": "משמר השרון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-12T13:00:00.000Z",
-            "timestamp_end": "2021-05-12T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "מעיין ברוך, חדר אוכל",
          "location": {
             "lat": 33.44852903890945,
@@ -821,6 +804,23 @@
          {
             "timestamp_start": "2021-05-12T10:30:00.000Z",
             "timestamp_end": "2021-05-12T14:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "משמר השרון, משמר השרון",
+         "location": {
+            "lat": 32.356305,
+            "lng": 34.904256
+         },
+         "formatted": "משמר השרון, ישראל",
+         "city": "משמר השרון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-12T13:00:00.000Z",
+            "timestamp_end": "2021-05-12T19:00:00.000Z"
          }
       ]
    },
@@ -928,6 +928,48 @@
    },
    {
       "address": {
+         "unformatted": "הבנים הוד השרון, רחבת הבנים",
+         "location": {
+            "lat": 32.15585,
+            "lng": 34.890989
+         },
+         "formatted": "הבנים 14, הוד השרון, ישראל",
+         "city": "הוד השרון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-14T05:30:00.000Z",
+            "timestamp_end": "2021-05-14T11:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-14T05:30:00.000Z",
+            "timestamp_end": "2021-05-14T11:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מגדיאל 67 הוד השרון, מגדיאל",
+         "location": {
+            "lat": 32.1602771,
+            "lng": 34.9023055
+         },
+         "formatted": "דרך מגדיאל 67, הוד השרון, ישראל",
+         "city": "הוד השרון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-14T05:30:00.000Z",
+            "timestamp_end": "2021-05-14T11:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-14T05:30:00.000Z",
+            "timestamp_end": "2021-05-14T11:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "כפר סבא, כיכר העיר",
          "location": {
             "lat": 32.177122,
@@ -961,48 +1003,6 @@
          {
             "timestamp_start": "2021-05-14T05:30:00.000Z",
             "timestamp_end": "2021-05-14T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "מגדיאל 67 הוד השרון, מגדיאל",
-         "location": {
-            "lat": 32.1602771,
-            "lng": 34.9023055
-         },
-         "formatted": "דרך מגדיאל 67, הוד השרון, ישראל",
-         "city": "הוד השרון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-14T05:30:00.000Z",
-            "timestamp_end": "2021-05-14T11:00:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-14T05:30:00.000Z",
-            "timestamp_end": "2021-05-14T11:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "הבנים הוד השרון, רחבת הבנים",
-         "location": {
-            "lat": 32.15585,
-            "lng": 34.890989
-         },
-         "formatted": "הבנים 14, הוד השרון, ישראל",
-         "city": "הוד השרון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-14T05:30:00.000Z",
-            "timestamp_end": "2021-05-14T11:00:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-14T05:30:00.000Z",
-            "timestamp_end": "2021-05-14T11:00:00.000Z"
          }
       ]
    },
@@ -1054,23 +1054,6 @@
          {
             "timestamp_start": "2021-05-18T14:00:00.000Z",
             "timestamp_end": "2021-05-18T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "חוות יאיר, במועדון",
-         "location": {
-            "lat": 32.145289,
-            "lng": 35.104794
-         },
-         "formatted": "חוות יאיר, יקיר",
-         "city": "חוות יאיר"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-18T13:00:00.000Z",
-            "timestamp_end": "2021-05-18T18:00:00.000Z"
          }
       ]
    },
@@ -1139,6 +1122,40 @@
          {
             "timestamp_start": "2021-05-18T06:30:00.000Z",
             "timestamp_end": "2021-05-18T12:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "חוות יאיר, במועדון",
+         "location": {
+            "lat": 32.145289,
+            "lng": 35.104794
+         },
+         "formatted": "חוות יאיר, יקיר",
+         "city": "חוות יאיר"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-18T13:00:00.000Z",
+            "timestamp_end": "2021-05-18T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "אליהו דוד שולזינגר 10 פתח תקווה, מרכז קהילתי עולמות",
+         "location": {
+            "lat": 32.0757821,
+            "lng": 34.8769382
+         },
+         "formatted": "אליהו דוד שולזינגר 10, פתח תקווה, ישראל",
+         "city": "פתח תקווה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-11T13:30:00.000Z",
+            "timestamp_end": "2021-05-11T18:00:00.000Z"
          }
       ]
    }
