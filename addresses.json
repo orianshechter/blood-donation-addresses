@@ -130,6 +130,40 @@
    },
    {
       "address": {
+         "unformatted": "אחיה, מועדון הישוב",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "אחיה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-05T14:00:00.000Z",
+            "timestamp_end": "2021-05-05T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "ויצמן 1 רמלה, ספרייה ציבורית",
+         "location": {
+            "lat": 31.931566,
+            "lng": 34.872938
+         },
+         "formatted": "רמלה, ישראל",
+         "city": "רמלה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-05T06:30:00.000Z",
+            "timestamp_end": "2021-05-05T13:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "חזון איש 90 רמת גן, אולם ספורט מרום נווה",
          "location": {
             "lat": 32.0731606,
@@ -159,23 +193,6 @@
          {
             "timestamp_start": "2021-05-05T12:00:00.000Z",
             "timestamp_end": "2021-05-05T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "אחיה, מועדון הישוב",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "אחיה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-05T14:00:00.000Z",
-            "timestamp_end": "2021-05-05T19:00:00.000Z"
          }
       ]
    },
@@ -266,6 +283,23 @@
    },
    {
       "address": {
+         "unformatted": "נווה דניאל, אולם שמחות",
+         "location": {
+            "lat": 31.6465852,
+            "lng": 35.115008
+         },
+         "formatted": "כפר עציון, ירושלים",
+         "city": "נווה דניאל"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-06T15:30:00.000Z",
+            "timestamp_end": "2021-05-06T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "פדואל, פדואל",
          "location": {
             "lat": 32.062479,
@@ -295,23 +329,6 @@
          {
             "timestamp_start": "2021-05-06T13:00:00.000Z",
             "timestamp_end": "2021-05-06T18:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "נווה דניאל, אולם שמחות",
-         "location": {
-            "lat": 31.6465852,
-            "lng": 35.115008
-         },
-         "formatted": "כפר עציון, ירושלים",
-         "city": "נווה דניאל"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-06T15:30:00.000Z",
-            "timestamp_end": "2021-05-06T19:00:00.000Z"
          }
       ]
    },
@@ -431,23 +448,6 @@
    },
    {
       "address": {
-         "unformatted": "שד' לכיש קרית גת, מרכז מסחרי- מול קניון לב העיר",
-         "location": {
-            "lat": 31.6088873,
-            "lng": 34.7729488
-         },
-         "formatted": "קרית גת, ישראל",
-         "city": "קרית גת"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-07T05:30:00.000Z",
-            "timestamp_end": "2021-05-07T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
          "location": {
             "lat": 32.8440668,
@@ -524,23 +524,6 @@
    },
    {
       "address": {
-         "unformatted": "עלי, מתנ\"ס עלי",
-         "location": {
-            "lat": 32.8325501,
-            "lng": 35.0771236
-         },
-         "formatted": "קרית מוצקין, ישראל",
-         "city": "עלי"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-09T13:00:00.000Z",
-            "timestamp_end": "2021-05-09T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "יצחק בן צבי באר שבע, תחנה מרכזית",
          "location": {
             "lat": 31.2438155,
@@ -561,6 +544,23 @@
          {
             "timestamp_start": "2021-05-14T05:30:00.000Z",
             "timestamp_end": "2021-05-14T10:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "עלי, מתנ\"ס עלי",
+         "location": {
+            "lat": 32.8325501,
+            "lng": 35.0771236
+         },
+         "formatted": "קרית מוצקין, ישראל",
+         "city": "עלי"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-09T13:00:00.000Z",
+            "timestamp_end": "2021-05-09T19:00:00.000Z"
          }
       ]
    },
@@ -623,10 +623,6 @@
          {
             "timestamp_start": "2021-05-09T05:00:00.000Z",
             "timestamp_end": "2021-05-09T13:45:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-10T05:00:00.000Z",
-            "timestamp_end": "2021-05-10T13:00:00.000Z"
          },
          {
             "timestamp_start": "2021-05-11T10:00:00.000Z",
@@ -724,23 +720,6 @@
    },
    {
       "address": {
-         "unformatted": "חיים ויטל 16 ירושלים, מתנ\"ס בית רוט",
-         "location": {
-            "lat": 31.768319,
-            "lng": 35.21371
-         },
-         "formatted": "ירושלים, ישראל",
-         "city": "ירושלים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-11T15:00:00.000Z",
-            "timestamp_end": "2021-05-11T20:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "ד.נ. נגב להב, במועדון",
          "location": {
             "lat": 30.7140861,
@@ -753,6 +732,23 @@
          {
             "timestamp_start": "2021-05-11T12:00:00.000Z",
             "timestamp_end": "2021-05-11T16:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "חיים ויטל 16 ירושלים, מתנ\"ס בית רוט",
+         "location": {
+            "lat": 31.768319,
+            "lng": 35.21371
+         },
+         "formatted": "ירושלים, ישראל",
+         "city": "ירושלים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-11T15:00:00.000Z",
+            "timestamp_end": "2021-05-11T20:00:00.000Z"
          }
       ]
    },
@@ -809,6 +805,23 @@
    },
    {
       "address": {
+         "unformatted": "מעיין ברוך, חדר אוכל",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "מעיין ברוך"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-12T10:30:00.000Z",
+            "timestamp_end": "2021-05-12T14:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "משמר השרון, משמר השרון",
          "location": {
             "lat": 32.356305,
@@ -826,18 +839,18 @@
    },
    {
       "address": {
-         "unformatted": "מעיין ברוך, חדר אוכל",
+         "unformatted": "בית זרע, מועדון הפיקוס",
          "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
+            "lat": 32.6892978,
+            "lng": 35.5740632
          },
-         "formatted": "bad_address",
-         "city": "מעיין ברוך"
+         "formatted": "בית זרע, ישראל",
+         "city": "בית זרע"
       },
       "times": [
          {
-            "timestamp_start": "2021-05-12T10:30:00.000Z",
-            "timestamp_end": "2021-05-12T14:30:00.000Z"
+            "timestamp_start": "2021-05-13T12:00:00.000Z",
+            "timestamp_end": "2021-05-13T16:00:00.000Z"
          }
       ]
    },
@@ -860,23 +873,6 @@
    },
    {
       "address": {
-         "unformatted": "ד.נ.נגב נירים, במועדון",
-         "location": {
-            "lat": 30.7140861,
-            "lng": 34.8757476
-         },
-         "formatted": "הנגב",
-         "city": "נירים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-13T13:00:00.000Z",
-            "timestamp_end": "2021-05-13T16:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "ד. נ. הנגב כפר מימון, במועדון",
          "location": {
             "lat": 30.7140861,
@@ -894,17 +890,17 @@
    },
    {
       "address": {
-         "unformatted": "בית זרע, מועדון הפיקוס",
+         "unformatted": "ד.נ.נגב נירים, במועדון",
          "location": {
-            "lat": 32.6892978,
-            "lng": 35.5740632
+            "lat": 30.7140861,
+            "lng": 34.8757476
          },
-         "formatted": "בית זרע, ישראל",
-         "city": "בית זרע"
+         "formatted": "הנגב",
+         "city": "נירים"
       },
       "times": [
          {
-            "timestamp_start": "2021-05-13T12:00:00.000Z",
+            "timestamp_start": "2021-05-13T13:00:00.000Z",
             "timestamp_end": "2021-05-13T16:00:00.000Z"
          }
       ]
@@ -945,6 +941,48 @@
    },
    {
       "address": {
+         "unformatted": "מגדיאל 67 הוד השרון, מגדיאל",
+         "location": {
+            "lat": 32.1602771,
+            "lng": 34.9023055
+         },
+         "formatted": "דרך מגדיאל 67, הוד השרון, ישראל",
+         "city": "הוד השרון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-14T05:30:00.000Z",
+            "timestamp_end": "2021-05-14T11:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-14T05:30:00.000Z",
+            "timestamp_end": "2021-05-14T11:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "הבנים הוד השרון, רחבת הבנים",
+         "location": {
+            "lat": 32.15585,
+            "lng": 34.890989
+         },
+         "formatted": "הבנים 14, הוד השרון, ישראל",
+         "city": "הוד השרון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-05-14T05:30:00.000Z",
+            "timestamp_end": "2021-05-14T11:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-05-14T05:30:00.000Z",
+            "timestamp_end": "2021-05-14T11:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "כפר סבא, כיכר העיר",
          "location": {
             "lat": 32.177122,
@@ -978,48 +1016,6 @@
          {
             "timestamp_start": "2021-05-14T05:30:00.000Z",
             "timestamp_end": "2021-05-14T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "הבנים הוד השרון, רחבת הבנים",
-         "location": {
-            "lat": 32.15585,
-            "lng": 34.890989
-         },
-         "formatted": "הבנים 14, הוד השרון, ישראל",
-         "city": "הוד השרון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-14T05:30:00.000Z",
-            "timestamp_end": "2021-05-14T11:00:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-14T05:30:00.000Z",
-            "timestamp_end": "2021-05-14T11:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "מגדיאל 67 הוד השרון, מגדיאל",
-         "location": {
-            "lat": 32.1602771,
-            "lng": 34.9023055
-         },
-         "formatted": "דרך מגדיאל 67, הוד השרון, ישראל",
-         "city": "הוד השרון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-14T05:30:00.000Z",
-            "timestamp_end": "2021-05-14T11:00:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-05-14T05:30:00.000Z",
-            "timestamp_end": "2021-05-14T11:00:00.000Z"
          }
       ]
    },
@@ -1110,23 +1106,6 @@
    },
    {
       "address": {
-         "unformatted": "חוות יאיר, במועדון",
-         "location": {
-            "lat": 32.145289,
-            "lng": 35.104794
-         },
-         "formatted": "חוות יאיר, יקיר",
-         "city": "חוות יאיר"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-05-18T13:00:00.000Z",
-            "timestamp_end": "2021-05-18T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "גמזו, בני עקיבא מושב גמזו",
          "location": {
             "lat": 31.927217,
@@ -1161,18 +1140,18 @@
    },
    {
       "address": {
-         "unformatted": "ויצמן 1 רמלה, ספרייה ציבורית",
+         "unformatted": "חוות יאיר, במועדון",
          "location": {
-            "lat": 31.931566,
-            "lng": 34.872938
+            "lat": 32.145289,
+            "lng": 35.104794
          },
-         "formatted": "רמלה, ישראל",
-         "city": "רמלה"
+         "formatted": "חוות יאיר, יקיר",
+         "city": "חוות יאיר"
       },
       "times": [
          {
-            "timestamp_start": "2021-05-05T06:30:00.000Z",
-            "timestamp_end": "2021-05-05T13:30:00.000Z"
+            "timestamp_start": "2021-05-18T13:00:00.000Z",
+            "timestamp_end": "2021-05-18T18:00:00.000Z"
          }
       ]
    }
