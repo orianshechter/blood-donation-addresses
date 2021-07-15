@@ -343,6 +343,10 @@
          {
             "timestamp_start": "2021-07-19T07:00:00.000Z",
             "timestamp_end": "2021-07-19T14:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-07-23T05:30:00.000Z",
+            "timestamp_end": "2021-07-23T10:30:00.000Z"
          }
       ]
    },
@@ -570,6 +574,10 @@
          {
             "timestamp_start": "2021-07-18T07:00:00.000Z",
             "timestamp_end": "2021-07-18T17:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-07-23T05:30:00.000Z",
+            "timestamp_end": "2021-07-23T10:30:00.000Z"
          }
       ]
    },
@@ -582,6 +590,27 @@
          },
          "formatted": "הרפואה 1, אשדוד, ישראל",
          "city": "אשדוד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-16T05:00:00.000Z",
+            "timestamp_end": "2021-07-16T09:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-07-23T05:00:00.000Z",
+            "timestamp_end": "2021-07-23T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+         "location": {
+            "lat": 32.8440668,
+            "lng": 35.0802042
+         },
+         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
+         "city": "קרית מוצקין"
       },
       "times": [
          {
@@ -628,27 +657,6 @@
          },
          {
             "timestamp_start": "2021-07-23T05:30:00.000Z",
-            "timestamp_end": "2021-07-23T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
-         "location": {
-            "lat": 32.8440668,
-            "lng": 35.0802042
-         },
-         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
-         "city": "קרית מוצקין"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-07-16T05:00:00.000Z",
-            "timestamp_end": "2021-07-16T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-07-23T05:00:00.000Z",
             "timestamp_end": "2021-07-23T09:30:00.000Z"
          }
       ]
@@ -960,23 +968,6 @@
    },
    {
       "address": {
-         "unformatted": "מגדל העמק, פרץ סנטר",
-         "location": {
-            "lat": 32.6780967,
-            "lng": 35.2431759
-         },
-         "formatted": "שדרות שאול עמור 77, מגדל העמק, ישראל",
-         "city": "מגדל העמק"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-07-20T11:00:00.000Z",
-            "timestamp_end": "2021-07-20T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "ירושלים, בית חולים שערי צדק",
          "location": {
             "lat": 31.773199,
@@ -989,6 +980,23 @@
          {
             "timestamp_start": "2021-07-20T07:00:00.000Z",
             "timestamp_end": "2021-07-20T13:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מגדל העמק, פרץ סנטר",
+         "location": {
+            "lat": 32.6780967,
+            "lng": 35.2431759
+         },
+         "formatted": "שדרות שאול עמור 77, מגדל העמק, ישראל",
+         "city": "מגדל העמק"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-20T11:00:00.000Z",
+            "timestamp_end": "2021-07-20T17:00:00.000Z"
          }
       ]
    },
@@ -1423,23 +1431,6 @@
    },
    {
       "address": {
-         "unformatted": "גייגר 2 תל אביב יפו, בני עקיבא רמת אביב",
-         "location": {
-            "lat": 32.1187233,
-            "lng": 34.7987172
-         },
-         "formatted": "גייגר 2, תל אביב יפו, ישראל",
-         "city": "תל אביב יפו"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-07-25T13:00:00.000Z",
-            "timestamp_end": "2021-07-25T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "גרניט 9 פתח תקווה, בניין שינדלר",
          "location": {
             "lat": 32.1012225,
@@ -1452,6 +1443,23 @@
          {
             "timestamp_start": "2021-07-25T06:30:00.000Z",
             "timestamp_end": "2021-07-25T12:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "גייגר 2 תל אביב יפו, בני עקיבא רמת אביב",
+         "location": {
+            "lat": 32.1187233,
+            "lng": 34.7987172
+         },
+         "formatted": "גייגר 2, תל אביב יפו, ישראל",
+         "city": "תל אביב יפו"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-25T13:00:00.000Z",
+            "timestamp_end": "2021-07-25T18:00:00.000Z"
          }
       ]
    },
@@ -1681,6 +1689,23 @@
          {
             "timestamp_start": "2021-07-29T13:00:00.000Z",
             "timestamp_end": "2021-07-29T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "נחליאל, נחליאל",
+         "location": {
+            "lat": 31.973542,
+            "lng": 35.140431
+         },
+         "formatted": "נחליאל",
+         "city": "נחליאל"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-22T14:00:00.000Z",
+            "timestamp_end": "2021-07-22T19:00:00.000Z"
          }
       ]
    }
