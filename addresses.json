@@ -379,23 +379,6 @@
    },
    {
       "address": {
-         "unformatted": "דרזנר יחיאל 2 תל אביב יפו, רוזין",
-         "location": {
-            "lat": 32.1269371,
-            "lng": 34.803983
-         },
-         "formatted": "יחיאל דב דרזנר 2, תל אביב יפו, ישראל",
-         "city": "תל אביב יפו"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-07-22T12:00:00.000Z",
-            "timestamp_end": "2021-07-22T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "הבנים מול לאונרדו טבריה, ליד תחנת מד\"א",
          "location": {
             "lat": 32.7864405,
@@ -416,6 +399,23 @@
          {
             "timestamp_start": "2021-07-26T12:00:00.000Z",
             "timestamp_end": "2021-07-26T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "דרזנר יחיאל 2 תל אביב יפו, רוזין",
+         "location": {
+            "lat": 32.1269371,
+            "lng": 34.803983
+         },
+         "formatted": "יחיאל דב דרזנר 2, תל אביב יפו, ישראל",
+         "city": "תל אביב יפו"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-22T12:00:00.000Z",
+            "timestamp_end": "2021-07-22T18:00:00.000Z"
          }
       ]
    },
@@ -550,10 +550,6 @@
          {
             "timestamp_start": "2021-07-25T12:01:00.000Z",
             "timestamp_end": "2021-07-25T18:00:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-07-26T07:00:00.000Z",
-            "timestamp_end": "2021-07-26T13:30:00.000Z"
          },
          {
             "timestamp_start": "2021-07-27T07:00:00.000Z",
@@ -747,6 +743,23 @@
    },
    {
       "address": {
+         "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה , - תחנת מד\"א",
+         "location": {
+            "lat": 32.4445161,
+            "lng": 34.9228603
+         },
+         "formatted": "אביאור 7-11, חדרה, ישראל",
+         "city": "חדרה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-23T05:00:00.000Z",
+            "timestamp_end": "2021-07-23T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "הבנים מול מלון לאונרדו 1 טבריה, תחנת מגן דוד אדום, - תחנת מד\"א",
          "location": {
             "lat": 32.785899,
@@ -763,23 +776,6 @@
          {
             "timestamp_start": "2021-07-30T05:30:00.000Z",
             "timestamp_end": "2021-07-30T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה , - תחנת מד\"א",
-         "location": {
-            "lat": 32.4445161,
-            "lng": 34.9228603
-         },
-         "formatted": "אביאור 7-11, חדרה, ישראל",
-         "city": "חדרה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-07-23T05:00:00.000Z",
-            "timestamp_end": "2021-07-23T09:30:00.000Z"
          }
       ]
    },
@@ -903,40 +899,6 @@
    },
    {
       "address": {
-         "unformatted": "איילת השחר, מועדון לחבר",
-         "location": {
-            "lat": 33.0208818,
-            "lng": 35.5770504
-         },
-         "formatted": "Unnamed Road, איילת השחר, Ayelet HaShahar, ישראל",
-         "city": "איילת השחר"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-07-25T13:00:00.000Z",
-            "timestamp_end": "2021-07-25T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "כפר רופין, מועדון",
-         "location": {
-            "lat": 32.4598484,
-            "lng": 35.5583123
-         },
-         "formatted": "kfar rupin, כפר רופין, 1085000, ישראל",
-         "city": "כפר רופין"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-07-25T13:00:00.000Z",
-            "timestamp_end": "2021-07-25T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "צאלון 21 מודיעין מכבים רעות, מודיעין סנטר",
          "location": {
             "lat": 31.9058171,
@@ -961,6 +923,40 @@
          },
          "formatted": "ארבל 76, כחל, 1238700, ישראל",
          "city": "כחל"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-25T13:00:00.000Z",
+            "timestamp_end": "2021-07-25T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "איילת השחר, מועדון לחבר",
+         "location": {
+            "lat": 33.0208818,
+            "lng": 35.5770504
+         },
+         "formatted": "Unnamed Road, איילת השחר, Ayelet HaShahar, ישראל",
+         "city": "איילת השחר"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-25T13:00:00.000Z",
+            "timestamp_end": "2021-07-25T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "כפר רופין, מועדון",
+         "location": {
+            "lat": 32.4598484,
+            "lng": 35.5583123
+         },
+         "formatted": "kfar rupin, כפר רופין, 1085000, ישראל",
+         "city": "כפר רופין"
       },
       "times": [
          {
@@ -1081,23 +1077,6 @@
    },
    {
       "address": {
-         "unformatted": "אלון, מבנה ציבור-מועדון",
-         "location": {
-            "lat": 32.7598025,
-            "lng": 35.2181364
-         },
-         "formatted": "אלון הגליל, ישראל",
-         "city": "אלון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-07-26T14:00:00.000Z",
-            "timestamp_end": "2021-07-26T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "מנחם בגין 38 בית דגן, בית הקשיש",
          "location": {
             "lat": 32.0024377,
@@ -1110,6 +1089,23 @@
          {
             "timestamp_start": "2021-07-26T13:00:00.000Z",
             "timestamp_end": "2021-07-26T18:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "אלון, מבנה ציבור-מועדון",
+         "location": {
+            "lat": 32.7598025,
+            "lng": 35.2181364
+         },
+         "formatted": "אלון הגליל, ישראל",
+         "city": "אלון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-26T14:00:00.000Z",
+            "timestamp_end": "2021-07-26T19:00:00.000Z"
          }
       ]
    },
@@ -1234,6 +1230,31 @@
    },
    {
       "address": {
+         "unformatted": "כרמיאל, פסטיבל מחולות ליד דוכני האוכל",
+         "location": {
+            "lat": 32.9152129,
+            "lng": 35.3031161
+         },
+         "formatted": "שדרות נשיאי ישראל 33, כרמיאל, ישראל",
+         "city": "כרמיאל"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-27T14:00:00.000Z",
+            "timestamp_end": "2021-07-27T20:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-07-28T14:00:00.000Z",
+            "timestamp_end": "2021-07-28T20:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2021-07-29T14:00:00.000Z",
+            "timestamp_end": "2021-07-29T20:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "יפתח, מועדון לחבר",
          "location": {
             "lat": 33.1283473,
@@ -1246,6 +1267,23 @@
          {
             "timestamp_start": "2021-07-27T13:00:00.000Z",
             "timestamp_end": "2021-07-27T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "שריד, מועדון הסנדוויץ",
+         "location": {
+            "lat": 32.663059,
+            "lng": 35.224755
+         },
+         "formatted": "שריד, ישראל",
+         "city": "שריד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-27T13:00:00.000Z",
+            "timestamp_end": "2021-07-27T18:00:00.000Z"
          }
       ]
    },
@@ -1280,31 +1318,6 @@
          {
             "timestamp_start": "2021-07-27T14:00:00.000Z",
             "timestamp_end": "2021-07-27T18:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "כרמיאל, פסטיבל מחולות ליד דוכני האוכל",
-         "location": {
-            "lat": 32.9152129,
-            "lng": 35.3031161
-         },
-         "formatted": "שדרות נשיאי ישראל 33, כרמיאל, ישראל",
-         "city": "כרמיאל"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-07-27T14:00:00.000Z",
-            "timestamp_end": "2021-07-27T20:00:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-07-28T14:00:00.000Z",
-            "timestamp_end": "2021-07-28T20:00:00.000Z"
-         },
-         {
-            "timestamp_start": "2021-07-29T14:00:00.000Z",
-            "timestamp_end": "2021-07-29T20:00:00.000Z"
          }
       ]
    },
@@ -1446,6 +1459,23 @@
    },
    {
       "address": {
+         "unformatted": "התאנה 6 גבעת זאב, מתנ\"ס גבעת זאב",
+         "location": {
+            "lat": 31.8636748,
+            "lng": 35.165537
+         },
+         "formatted": "גבעת זאב",
+         "city": "גבעת זאב"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-29T13:00:00.000Z",
+            "timestamp_end": "2021-07-29T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "משאבי שדה, אולם אסם",
          "location": {
             "lat": 31.00404199999999,
@@ -1458,6 +1488,23 @@
          {
             "timestamp_start": "2021-07-29T12:00:00.000Z",
             "timestamp_end": "2021-07-29T17:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "שבלי, מרכז הנוער אום אלגנם",
+         "location": {
+            "lat": 32.687206,
+            "lng": 35.4036875
+         },
+         "formatted": "שיבלי, ישראל",
+         "city": "שבלי"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-07-29T12:00:00.000Z",
+            "timestamp_end": "2021-07-29T18:00:00.000Z"
          }
       ]
    },
@@ -1577,57 +1624,6 @@
          {
             "timestamp_start": "2021-08-04T13:00:00.000Z",
             "timestamp_end": "2021-08-04T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "שריד, מועדון הסנדוויץ",
-         "location": {
-            "lat": 32.663059,
-            "lng": 35.224755
-         },
-         "formatted": "שריד, ישראל",
-         "city": "שריד"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-07-27T13:00:00.000Z",
-            "timestamp_end": "2021-07-27T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "התאנה 6 גבעת זאב, מתנ\"ס גבעת זאב",
-         "location": {
-            "lat": 31.8636748,
-            "lng": 35.165537
-         },
-         "formatted": "גבעת זאב",
-         "city": "גבעת זאב"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-07-29T13:00:00.000Z",
-            "timestamp_end": "2021-07-29T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "שבלי, מרכז הנוער אום אלגנם",
-         "location": {
-            "lat": 32.687206,
-            "lng": 35.4036875
-         },
-         "formatted": "שיבלי, ישראל",
-         "city": "שבלי"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-07-29T12:00:00.000Z",
-            "timestamp_end": "2021-07-29T18:00:00.000Z"
          }
       ]
    }
