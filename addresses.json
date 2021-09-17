@@ -488,6 +488,23 @@
    },
    {
       "address": {
+         "unformatted": "ההסתדרות 1 עפולה, תחנת מד\"א עפולה",
+         "location": {
+            "lat": 32.6155244,
+            "lng": 35.291426
+         },
+         "formatted": "ההסתדרות 1, עפולה, ישראל",
+         "city": "עפולה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-09-17T05:30:00.000Z",
+            "timestamp_end": "2021-09-17T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "החשמונאים 75 קרית מוצקין, החשמונאים 75 , - תחנת מד\"א",
          "location": {
             "lat": 32.8440668,
@@ -526,23 +543,6 @@
    },
    {
       "address": {
-         "unformatted": "ההסתדרות 1 עפולה, תחנת מד\"א עפולה",
-         "location": {
-            "lat": 32.6155244,
-            "lng": 35.291426
-         },
-         "formatted": "ההסתדרות 1, עפולה, ישראל",
-         "city": "עפולה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-09-17T05:30:00.000Z",
-            "timestamp_end": "2021-09-17T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "סוקולוב 4 באר שבע, תחנת מד\"א ב\"ש",
          "location": {
             "lat": 31.2486618,
@@ -574,6 +574,10 @@
             "timestamp_end": "2021-09-17T10:30:00.000Z"
          },
          {
+            "timestamp_start": "2021-09-19T12:30:00.000Z",
+            "timestamp_end": "2021-09-19T17:30:00.000Z"
+         },
+         {
             "timestamp_start": "2021-09-19T05:30:00.000Z",
             "timestamp_end": "2021-09-19T12:00:00.000Z"
          }
@@ -598,23 +602,6 @@
    },
    {
       "address": {
-         "unformatted": "צפת, המרכז הרפואי זיו",
-         "location": {
-            "lat": 32.954157,
-            "lng": 35.492657
-         },
-         "formatted": "דרך הרמב\"ם, צפת, ישראל",
-         "city": "צפת"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-09-19T06:00:00.000Z",
-            "timestamp_end": "2021-09-19T11:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "צ'חנובר 4 רחובות, ניצני המדע",
          "location": {
             "lat": 31.9012034,
@@ -627,6 +614,23 @@
          {
             "timestamp_start": "2021-09-19T13:30:00.000Z",
             "timestamp_end": "2021-09-19T18:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "צפת, המרכז הרפואי זיו",
+         "location": {
+            "lat": 32.954157,
+            "lng": 35.492657
+         },
+         "formatted": "דרך הרמב\"ם, צפת, ישראל",
+         "city": "צפת"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-09-19T06:00:00.000Z",
+            "timestamp_end": "2021-09-19T11:00:00.000Z"
          }
       ]
    },
@@ -793,23 +797,6 @@
    },
    {
       "address": {
-         "unformatted": "נירית, נירית",
-         "location": {
-            "lat": 32.1460578,
-            "lng": 34.9853907
-         },
-         "formatted": "נירית, ישראל",
-         "city": "נירית"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-09-19T13:00:00.000Z",
-            "timestamp_end": "2021-09-19T18:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "חוות יאיר, במועדון",
          "location": {
             "lat": 32.145289,
@@ -822,6 +809,23 @@
          {
             "timestamp_start": "2021-09-19T13:00:00.000Z",
             "timestamp_end": "2021-09-19T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "נירית, נירית",
+         "location": {
+            "lat": 32.1460578,
+            "lng": 34.9853907
+         },
+         "formatted": "נירית, ישראל",
+         "city": "נירית"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-09-19T13:00:00.000Z",
+            "timestamp_end": "2021-09-19T18:30:00.000Z"
          }
       ]
    },
@@ -890,23 +894,6 @@
          {
             "timestamp_start": "2021-09-19T13:00:00.000Z",
             "timestamp_end": "2021-09-19T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "0834 באר שבע",
-         "location": {
-            "lat": 31.252973,
-            "lng": 34.791462
-         },
-         "formatted": "באר שבע, ישראל",
-         "city": "באר שבע"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-09-19T12:30:00.000Z",
-            "timestamp_end": "2021-09-19T17:30:00.000Z"
          }
       ]
    },
@@ -1184,17 +1171,17 @@
    },
    {
       "address": {
-         "unformatted": "בית אל, אולם פיס",
+         "unformatted": "אלי הורוביץ 22 כפר סבא, בית אברהם",
          "location": {
-            "lat": 31.9413471,
-            "lng": 35.2229652
+            "lat": 32.1790797,
+            "lng": 34.9376892
          },
-         "formatted": "Beit El",
-         "city": "בית אל"
+         "formatted": "דרך אלי הורוביץ 22, כפר סבא, ישראל",
+         "city": "כפר סבא"
       },
       "times": [
          {
-            "timestamp_start": "2021-09-23T12:30:00.000Z",
+            "timestamp_start": "2021-09-23T13:00:00.000Z",
             "timestamp_end": "2021-09-23T18:30:00.000Z"
          }
       ]
@@ -1218,17 +1205,17 @@
    },
    {
       "address": {
-         "unformatted": "אלי הורוביץ 22 כפר סבא, בית אברהם",
+         "unformatted": "בית אל, אולם פיס",
          "location": {
-            "lat": 32.1790797,
-            "lng": 34.9376892
+            "lat": 31.9413471,
+            "lng": 35.2229652
          },
-         "formatted": "דרך אלי הורוביץ 22, כפר סבא, ישראל",
-         "city": "כפר סבא"
+         "formatted": "Beit El",
+         "city": "בית אל"
       },
       "times": [
          {
-            "timestamp_start": "2021-09-23T13:00:00.000Z",
+            "timestamp_start": "2021-09-23T12:30:00.000Z",
             "timestamp_end": "2021-09-23T18:30:00.000Z"
          }
       ]
