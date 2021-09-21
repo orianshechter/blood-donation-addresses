@@ -1,8 +1,9 @@
-on: [push, workflow_dispatch]
+on:
+  workflow_dispatch:
 jobs:
   check_commit_job:
     runs-on: ubuntu-latest
-    name: A job to say hello
+    name: A job that checks last commits
     steps:
       - name: check
         id: hello
