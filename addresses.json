@@ -229,6 +229,23 @@
    },
    {
       "address": {
+         "unformatted": "תל אביב יפו, דיזנגוף סנטר",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "תל אביב יפו"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-04T12:00:00.000Z",
+            "timestamp_end": "2021-10-04T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "רבינוב 5 בני ברק, סניף עזר מציון לנשים בלבד",
          "location": {
             "lat": 32.084392,
@@ -1405,23 +1422,6 @@
          {
             "timestamp_start": "2021-10-18T12:00:00.000Z",
             "timestamp_end": "2021-10-18T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "תל אביב יפו, דיזנגוף סנטר",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "תל אביב יפו"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-04T12:00:00.000Z",
-            "timestamp_end": "2021-10-04T18:00:00.000Z"
          }
       ]
    }
