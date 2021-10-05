@@ -131,7 +131,7 @@
       },
       "times": [
          {
-            "timestamp_start": "2021-10-05T08:00:00.000Z",
+            "timestamp_start": "2021-10-05T07:00:00.000Z",
             "timestamp_end": "2021-10-05T15:00:00.000Z"
          }
       ]
@@ -306,6 +306,23 @@
    },
    {
       "address": {
+         "unformatted": "ז'בוטינסקי 7 רמת גן, מגדל משה אביב - רמת גן",
+         "location": {
+            "lat": 32.0834274,
+            "lng": 34.8036575
+         },
+         "formatted": "רחוב זאב ז'בוטינסקי 7, רמת גן, ישראל",
+         "city": "רמת גן"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-06T07:30:00.000Z",
+            "timestamp_end": "2021-10-06T13:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "שד' בן גוריון 21 אשקלון, קניון גירון אשקלון",
          "location": {
             "lat": 31.664674093328237,
@@ -357,35 +374,18 @@
    },
    {
       "address": {
-         "unformatted": "0834 באר שבע",
+         "unformatted": "נהלל, מועדון",
          "location": {
-            "lat": 31.252973,
-            "lng": 34.791462
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
          },
-         "formatted": "באר שבע, ישראל",
-         "city": "באר שבע"
+         "formatted": "bad_address",
+         "city": "נהלל"
       },
       "times": [
          {
-            "timestamp_start": "2021-10-06T06:00:00.000Z",
-            "timestamp_end": "2021-10-06T12:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "מירון, באתר קבר הרשב\"י",
-         "location": {
-            "lat": 32.9807864,
-            "lng": 35.4406152
-         },
-         "formatted": "מירון, ישראל",
-         "city": "מירון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-06T09:00:00.000Z",
-            "timestamp_end": "2021-10-06T16:00:00.000Z"
+            "timestamp_start": "2021-10-06T13:00:00.000Z",
+            "timestamp_end": "2021-10-06T19:00:00.000Z"
          }
       ]
    },
@@ -403,6 +403,23 @@
          {
             "timestamp_start": "2021-10-06T13:00:00.000Z",
             "timestamp_end": "2021-10-06T18:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מירון, באתר קבר הרשב\"י",
+         "location": {
+            "lat": 32.9807864,
+            "lng": 35.4406152
+         },
+         "formatted": "מירון, ישראל",
+         "city": "מירון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-06T09:00:00.000Z",
+            "timestamp_end": "2021-10-06T16:00:00.000Z"
          }
       ]
    },
@@ -486,52 +503,18 @@
    },
    {
       "address": {
-         "unformatted": "נהלל, מועדון",
+         "unformatted": "0834 באר שבע",
          "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
+            "lat": 31.252973,
+            "lng": 34.791462
          },
-         "formatted": "bad_address",
-         "city": "נהלל"
+         "formatted": "באר שבע, ישראל",
+         "city": "באר שבע"
       },
       "times": [
          {
-            "timestamp_start": "2021-10-06T13:00:00.000Z",
-            "timestamp_end": "2021-10-06T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "מעוז חיים, מועדון",
-         "location": {
-            "lat": 32.491879,
-            "lng": 35.554306
-         },
-         "formatted": "צומת מעוז חיים, מעוז חיים, ישראל",
-         "city": "מעוז חיים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-07T12:30:00.000Z",
-            "timestamp_end": "2021-10-07T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "עין המפרץ, חדר אוכל",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "עין המפרץ"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-07T13:00:00.000Z",
-            "timestamp_end": "2021-10-07T18:30:00.000Z"
+            "timestamp_start": "2021-10-06T06:00:00.000Z",
+            "timestamp_end": "2021-10-06T12:00:00.000Z"
          }
       ]
    },
@@ -588,6 +571,57 @@
    },
    {
       "address": {
+         "unformatted": "מעוז חיים, מועדון",
+         "location": {
+            "lat": 32.491879,
+            "lng": 35.554306
+         },
+         "formatted": "צומת מעוז חיים, מעוז חיים, ישראל",
+         "city": "מעוז חיים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-07T12:30:00.000Z",
+            "timestamp_end": "2021-10-07T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "עין המפרץ, חדר אוכל",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "עין המפרץ"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-07T13:00:00.000Z",
+            "timestamp_end": "2021-10-07T18:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "אחיה, מועדון הישוב",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "אחיה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-07T14:00:00.000Z",
+            "timestamp_end": "2021-10-07T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "ברוכין, מועדון הישוב צמוד לאמפי",
          "location": {
             "lat": 32.082231,
@@ -617,23 +651,6 @@
          {
             "timestamp_start": "2021-10-07T06:30:00.000Z",
             "timestamp_end": "2021-10-07T12:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "אחיה, מועדון הישוב",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "אחיה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-07T14:00:00.000Z",
-            "timestamp_end": "2021-10-07T19:00:00.000Z"
          }
       ]
    },
@@ -774,30 +791,13 @@
    },
    {
       "address": {
-         "unformatted": "הרפואה 1 אשדוד, תחנת מד\"א , - תחנת מד\"א",
+         "unformatted": "הרוקמים 1 חולון, - תחנת מד\"א",
          "location": {
-            "lat": 31.7802744,
-            "lng": 34.654233
+            "lat": 32.0108836,
+            "lng": 34.7967928
          },
-         "formatted": "הרפואה 1, אשדוד, ישראל",
-         "city": "אשדוד"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-08T05:00:00.000Z",
-            "timestamp_end": "2021-10-08T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
-         "location": {
-            "lat": 32.8440668,
-            "lng": 35.0802042
-         },
-         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
-         "city": "קרית מוצקין"
+         "formatted": "הרוקמים 1, חולון, ישראל",
+         "city": "חולון"
       },
       "times": [
          {
@@ -829,13 +829,13 @@
    },
    {
       "address": {
-         "unformatted": "הרוקמים 1 חולון, - תחנת מד\"א",
+         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
          "location": {
-            "lat": 32.0108836,
-            "lng": 34.7967928
+            "lat": 32.8440668,
+            "lng": 35.0802042
          },
-         "formatted": "הרוקמים 1, חולון, ישראל",
-         "city": "חולון"
+         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
+         "city": "קרית מוצקין"
       },
       "times": [
          {
@@ -846,18 +846,18 @@
    },
    {
       "address": {
-         "unformatted": "בית זרע, מועדון הפיקוס",
+         "unformatted": "הרפואה 1 אשדוד, תחנת מד\"א , - תחנת מד\"א",
          "location": {
-            "lat": 32.6892978,
-            "lng": 35.5740632
+            "lat": 31.7802744,
+            "lng": 34.654233
          },
-         "formatted": "בית זרע, ישראל",
-         "city": "בית זרע"
+         "formatted": "הרפואה 1, אשדוד, ישראל",
+         "city": "אשדוד"
       },
       "times": [
          {
-            "timestamp_start": "2021-10-10T12:00:00.000Z",
-            "timestamp_end": "2021-10-10T16:00:00.000Z"
+            "timestamp_start": "2021-10-08T05:00:00.000Z",
+            "timestamp_end": "2021-10-08T09:30:00.000Z"
          }
       ]
    },
@@ -874,23 +874,6 @@
       "times": [
          {
             "timestamp_start": "2021-10-10T12:00:00.000Z",
-            "timestamp_end": "2021-10-10T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "נוקדים, רב תכליתי",
-         "location": {
-            "lat": 31.645331,
-            "lng": 35.244064
-         },
-         "formatted": "נוקדים",
-         "city": "נוקדים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-10T13:00:00.000Z",
             "timestamp_end": "2021-10-10T18:00:00.000Z"
          }
       ]
@@ -917,6 +900,23 @@
          {
             "timestamp_start": "2021-10-12T06:00:00.000Z",
             "timestamp_end": "2021-10-12T12:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "נוקדים, רב תכליתי",
+         "location": {
+            "lat": 31.645331,
+            "lng": 35.244064
+         },
+         "formatted": "נוקדים",
+         "city": "נוקדים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-10T13:00:00.000Z",
+            "timestamp_end": "2021-10-10T18:00:00.000Z"
          }
       ]
    },
@@ -1091,6 +1091,40 @@
    },
    {
       "address": {
+         "unformatted": "הנגב 2 קרית שדה התעופה, מוטורולה תקשורת -קרית שדה התעופה",
+         "location": {
+            "lat": 30.7140861,
+            "lng": 34.8757476
+         },
+         "formatted": "הנגב",
+         "city": "קרית שדה התעופה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-13T07:00:00.000Z",
+            "timestamp_end": "2021-10-13T12:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "משגב עם, מועדון",
+         "location": {
+            "lat": 33.2483874,
+            "lng": 35.5475964
+         },
+         "formatted": "משגב עם, ישראל",
+         "city": "משגב עם"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-13T13:00:00.000Z",
+            "timestamp_end": "2021-10-13T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "חולתה, מועדון",
          "location": {
             "lat": 33.052851,
@@ -1120,40 +1154,6 @@
          {
             "timestamp_start": "2021-10-13T13:00:00.000Z",
             "timestamp_end": "2021-10-13T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "משגב עם, מועדון",
-         "location": {
-            "lat": 33.2483874,
-            "lng": 35.5475964
-         },
-         "formatted": "משגב עם, ישראל",
-         "city": "משגב עם"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-13T13:00:00.000Z",
-            "timestamp_end": "2021-10-13T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "הנגב 2 קרית שדה התעופה, מוטורולה תקשורת -קרית שדה התעופה",
-         "location": {
-            "lat": 30.7140861,
-            "lng": 34.8757476
-         },
-         "formatted": "הנגב",
-         "city": "קרית שדה התעופה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-13T07:00:00.000Z",
-            "timestamp_end": "2021-10-13T12:00:00.000Z"
          }
       ]
    },
