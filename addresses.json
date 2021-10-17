@@ -357,12 +357,12 @@
    },
    {
       "address": {
-         "unformatted": "שדרות רגר באר שבע, מרכז מורים ברחבה",
+         "unformatted": "באר שבע, אוניברסיטת בן גוריון",
          "location": {
-            "lat": 31.2602031,
-            "lng": 34.7977345
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
          },
-         "formatted": "באר שבע, ישראל",
+         "formatted": "bad_address",
          "city": "באר שבע"
       },
       "times": [
@@ -374,12 +374,12 @@
    },
    {
       "address": {
-         "unformatted": "באר שבע, אוניברסיטת בן גוריון",
+         "unformatted": "שדרות רגר באר שבע, מרכז מורים ברחבה",
          "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
+            "lat": 31.2602031,
+            "lng": 34.7977345
          },
-         "formatted": "bad_address",
+         "formatted": "באר שבע, ישראל",
          "city": "באר שבע"
       },
       "times": [
@@ -741,23 +741,6 @@
    },
    {
       "address": {
-         "unformatted": "יפיע, ליד תחנת דלק דור אלון",
-         "location": {
-            "lat": 32.6844911,
-            "lng": 35.2759868
-         },
-         "formatted": "300 51-57, יפיע, ישראל",
-         "city": "יפיע"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-20T10:00:00.000Z",
-            "timestamp_end": "2021-10-20T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "שדמה, מזכירות",
          "location": {
             "lat": 33.44852903890945,
@@ -770,6 +753,23 @@
          {
             "timestamp_start": "2021-10-20T14:00:00.000Z",
             "timestamp_end": "2021-10-20T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "יפיע, ליד תחנת דלק דור אלון",
+         "location": {
+            "lat": 32.6844911,
+            "lng": 35.2759868
+         },
+         "formatted": "300 51-57, יפיע, ישראל",
+         "city": "יפיע"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-20T10:00:00.000Z",
+            "timestamp_end": "2021-10-20T18:00:00.000Z"
          }
       ]
    },
@@ -826,6 +826,23 @@
    },
    {
       "address": {
+         "unformatted": "הזורעים, מועדון בציה",
+         "location": {
+            "lat": 32.74525503429937,
+            "lng": 35.50405254497998
+         },
+         "formatted": "הזורעים",
+         "city": "הזורעים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-21T14:00:00.000Z",
+            "timestamp_end": "2021-10-21T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "א.ת. באר טוביה, ביג קרית מלאכי",
          "location": {
             "lat": 31.7280171,
@@ -838,40 +855,6 @@
          {
             "timestamp_start": "2021-10-21T07:00:00.000Z",
             "timestamp_end": "2021-10-21T14:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "האורן 50 מבשרת ציון, ספריה",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "מבשרת ציון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-21T10:00:00.000Z",
-            "timestamp_end": "2021-10-21T14:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "עין צורים, סניף בני עקיבא עין צורים",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "עין צורים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-21T14:00:00.000Z",
-            "timestamp_end": "2021-10-21T18:30:00.000Z"
          }
       ]
    },
@@ -911,6 +894,40 @@
    },
    {
       "address": {
+         "unformatted": "עין צורים, סניף בני עקיבא עין צורים",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "עין צורים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-21T14:00:00.000Z",
+            "timestamp_end": "2021-10-21T18:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "האורן 50 מבשרת ציון, ספריה",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "מבשרת ציון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-21T10:00:00.000Z",
+            "timestamp_end": "2021-10-21T14:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "פסוטה, מתנ\"ס",
          "location": {
             "lat": 33.44852903890945,
@@ -922,23 +939,6 @@
       "times": [
          {
             "timestamp_start": "2021-10-21T12:00:00.000Z",
-            "timestamp_end": "2021-10-21T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "הזורעים, מועדון בציה",
-         "location": {
-            "lat": 32.74525503429937,
-            "lng": 35.50405254497998
-         },
-         "formatted": "הזורעים",
-         "city": "הזורעים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-21T14:00:00.000Z",
             "timestamp_end": "2021-10-21T18:00:00.000Z"
          }
       ]
@@ -996,6 +996,23 @@
    },
    {
       "address": {
+         "unformatted": "יצחק בן צבי באר שבע, תחנה מרכזית",
+         "location": {
+            "lat": 31.2438155,
+            "lng": 34.7949983
+         },
+         "formatted": "יצחק בן צבי 4 תחנה מרכזית באר שבע באר שבע IL, באר שבע, 8489322, ישראל",
+         "city": "באר שבע"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-21T06:00:00.000Z",
+            "timestamp_end": "2021-10-21T12:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "טבריה, ביג דנילוף קומה 2 צמוד למתחם האוכל",
          "location": {
             "lat": 32.7905464,
@@ -1030,6 +1047,23 @@
    },
    {
       "address": {
+         "unformatted": "הרב הרצוג גבעתיים, ככר פנינה בר סבר",
+         "location": {
+            "lat": 32.061311,
+            "lng": 34.817388
+         },
+         "formatted": "הרב הרצוג, גבעתיים, ישראל",
+         "city": "גבעתיים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-22T06:00:00.000Z",
+            "timestamp_end": "2021-10-22T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "חיפה, רח' יצחק שדה 10, חיפה , - תחנת מד\"א",
          "location": {
             "lat": 32.8247594,
@@ -1046,23 +1080,6 @@
          {
             "timestamp_start": "2021-10-29T05:00:00.000Z",
             "timestamp_end": "2021-10-29T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "הרב הרצוג גבעתיים, ככר פנינה בר סבר",
-         "location": {
-            "lat": 32.061311,
-            "lng": 34.817388
-         },
-         "formatted": "הרב הרצוג, גבעתיים, ישראל",
-         "city": "גבעתיים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-22T06:00:00.000Z",
-            "timestamp_end": "2021-10-22T10:30:00.000Z"
          }
       ]
    },
@@ -1276,6 +1293,23 @@
    },
    {
       "address": {
+         "unformatted": "כנפי נשרים הרצליה, המרכז הבינתחומי הרצליה",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "הרצליה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-25T07:00:00.000Z",
+            "timestamp_end": "2021-10-25T13:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "אלי עד, מועדון",
          "location": {
             "lat": 32.8065843,
@@ -1327,18 +1361,18 @@
    },
    {
       "address": {
-         "unformatted": "כנפי נשרים הרצליה, המרכז הבינתחומי הרצליה",
+         "unformatted": "שמשון 9 פתח תקווה, לקס מוטורס בע\"מ",
          "location": {
             "lat": 33.44852903890945,
             "lng": 32.05693494134149
          },
          "formatted": "bad_address",
-         "city": "הרצליה"
+         "city": "פתח תקווה"
       },
       "times": [
          {
             "timestamp_start": "2021-10-25T07:00:00.000Z",
-            "timestamp_end": "2021-10-25T13:00:00.000Z"
+            "timestamp_end": "2021-10-25T12:00:00.000Z"
          }
       ]
    },
@@ -1373,23 +1407,6 @@
          {
             "timestamp_start": "2021-10-25T07:00:00.000Z",
             "timestamp_end": "2021-10-25T13:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "שמשון 9 פתח תקווה, לקס מוטורס בע\"מ",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "פתח תקווה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-25T07:00:00.000Z",
-            "timestamp_end": "2021-10-25T12:00:00.000Z"
          }
       ]
    },
@@ -1650,6 +1667,23 @@
    },
    {
       "address": {
+         "unformatted": "מבוא חמה, מועדון",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "מבוא חמה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2021-10-28T13:00:00.000Z",
+            "timestamp_end": "2021-10-28T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "טלמון, מועדון נוער",
          "location": {
             "lat": 33.44852903890945,
@@ -1674,23 +1708,6 @@
          },
          "formatted": "חד נס",
          "city": "חד נס"
-      },
-      "times": [
-         {
-            "timestamp_start": "2021-10-28T13:00:00.000Z",
-            "timestamp_end": "2021-10-28T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "מבוא חמה, מועדון",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "מבוא חמה"
       },
       "times": [
          {
