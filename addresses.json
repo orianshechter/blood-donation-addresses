@@ -494,23 +494,6 @@
    },
    {
       "address": {
-         "unformatted": "יפעת, ליד חדר האוכל",
-         "location": {
-            "lat": 32.675853,
-            "lng": 35.223982
-         },
-         "formatted": "יפעת, ישראל",
-         "city": "יפעת"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-02-23T15:00:00.000Z",
-            "timestamp_end": "2022-02-23T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "מזכרת בתיה, אגף הנוער",
          "location": {
             "lat": 31.9292236,
@@ -1644,6 +1627,23 @@
          {
             "timestamp_start": "2022-03-08T14:00:00.000Z",
             "timestamp_end": "2022-03-08T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "יפעת, מועדון מתחת לחדר האוכל",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "יפעת"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-02-23T15:00:00.000Z",
+            "timestamp_end": "2022-02-23T19:00:00.000Z"
          }
       ]
    }
