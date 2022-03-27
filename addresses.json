@@ -542,23 +542,6 @@
    },
    {
       "address": {
-         "unformatted": "סלמה 18 תל אביב יפו, משטרה מתחם סלמה",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "תל אביב יפו"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-03-29T08:00:00.000Z",
-            "timestamp_end": "2022-03-29T13:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "הרצל 80 רמלה, במטה באודטריום",
          "location": {
             "lat": 31.9313326,
@@ -588,6 +571,23 @@
          {
             "timestamp_start": "2022-03-29T13:00:00.000Z",
             "timestamp_end": "2022-03-29T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "סלמה 18 תל אביב יפו, משטרה מתחם סלמה",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "תל אביב יפו"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-03-29T08:00:00.000Z",
+            "timestamp_end": "2022-03-29T13:00:00.000Z"
          }
       ]
    },
@@ -1073,6 +1073,27 @@
    },
    {
       "address": {
+         "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
+         "location": {
+            "lat": 32.3284579,
+            "lng": 34.8645215
+         },
+         "formatted": "בנימין מינץ 7, נתניה, ישראל",
+         "city": "נתניה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-04-01T05:30:00.000Z",
+            "timestamp_end": "2022-04-01T09:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2022-04-08T05:30:00.000Z",
+            "timestamp_end": "2022-04-08T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "זיקים, חוף זיקים",
          "location": {
             "lat": 31.607204,
@@ -1119,27 +1140,6 @@
          {
             "timestamp_start": "2022-04-01T05:30:00.000Z",
             "timestamp_end": "2022-04-01T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
-         "location": {
-            "lat": 32.3284579,
-            "lng": 34.8645215
-         },
-         "formatted": "בנימין מינץ 7, נתניה, ישראל",
-         "city": "נתניה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-04-01T05:30:00.000Z",
-            "timestamp_end": "2022-04-01T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2022-04-08T05:30:00.000Z",
-            "timestamp_end": "2022-04-08T09:30:00.000Z"
          }
       ]
    },
@@ -1450,6 +1450,23 @@
          {
             "timestamp_start": "2022-04-10T08:00:00.000Z",
             "timestamp_end": "2022-04-10T12:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "טבריה, - תחנת מד\"א",
+         "location": {
+            "lat": 32.795859,
+            "lng": 35.530973
+         },
+         "formatted": "טבריה, ישראל",
+         "city": "טבריה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-03-31T12:00:00.000Z",
+            "timestamp_end": "2022-03-31T17:00:00.000Z"
          }
       ]
    },
