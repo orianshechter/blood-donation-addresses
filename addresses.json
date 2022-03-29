@@ -1067,12 +1067,12 @@
       },
       "times": [
          {
-            "timestamp_start": "2022-03-31T13:00:00.000Z",
-            "timestamp_end": "2022-03-31T18:00:00.000Z"
-         },
-         {
             "timestamp_start": "2022-03-31T06:00:00.000Z",
             "timestamp_end": "2022-03-31T12:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2022-03-31T13:00:00.000Z",
+            "timestamp_end": "2022-03-31T18:00:00.000Z"
          }
       ]
    },
@@ -1650,6 +1650,23 @@
    },
    {
       "address": {
+         "unformatted": "קיבוץ צאלים",
+         "location": {
+            "lat": 31.203909,
+            "lng": 34.533359
+         },
+         "formatted": "צאלים, ישראל",
+         "city": "קיבוץ צאלים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-04-07T12:00:00.000Z",
+            "timestamp_end": "2022-04-07T16:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "ד,נ, נגב תקומה",
          "location": {
             "lat": 30.7140861,
@@ -1876,23 +1893,6 @@
          {
             "timestamp_start": "2022-04-04T06:00:00.000Z",
             "timestamp_end": "2022-04-04T11:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "קיבוץ צאלים",
-         "location": {
-            "lat": 31.203909,
-            "lng": 34.533359
-         },
-         "formatted": "צאלים, ישראל",
-         "city": "קיבוץ צאלים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-04-07T12:00:00.000Z",
-            "timestamp_end": "2022-04-07T16:00:00.000Z"
          }
       ]
    }
