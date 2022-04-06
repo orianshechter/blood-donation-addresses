@@ -1560,6 +1560,23 @@
    },
    {
       "address": {
+         "unformatted": "ראמה, מרכז צעירים",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "ראמה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-04-20T13:00:00.000Z",
+            "timestamp_end": "2022-04-20T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "עין אל אסד, בנין ועד מקומי",
          "location": {
             "lat": 32.940754,
@@ -1572,6 +1589,23 @@
          {
             "timestamp_start": "2022-04-20T13:00:00.000Z",
             "timestamp_end": "2022-04-20T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "שדרות, בסניף מד\"א",
+         "location": {
+            "lat": 31.5278053,
+            "lng": 34.5994657
+         },
+         "formatted": "שדרות, ישראל",
+         "city": "שדרות"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-04-20T12:30:00.000Z",
+            "timestamp_end": "2022-04-20T17:30:00.000Z"
          }
       ]
    },
@@ -1606,40 +1640,6 @@
          {
             "timestamp_start": "2022-04-20T13:00:00.000Z",
             "timestamp_end": "2022-04-20T18:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "ראמה, מרכז צעירים",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "ראמה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-04-20T13:00:00.000Z",
-            "timestamp_end": "2022-04-20T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "שדרות, בסניף מד\"א",
-         "location": {
-            "lat": 31.5278053,
-            "lng": 34.5994657
-         },
-         "formatted": "שדרות, ישראל",
-         "city": "שדרות"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-04-20T12:30:00.000Z",
-            "timestamp_end": "2022-04-20T17:30:00.000Z"
          }
       ]
    }
