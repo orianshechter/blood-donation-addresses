@@ -1,23 +1,6 @@
 [
    {
       "address": {
-         "unformatted": "יד נתן, מושב יד נתן בבית הכנסת",
-         "location": {
-            "lat": 31.652961,
-            "lng": 34.704874
-         },
-         "formatted": "יד נתן, ישראל",
-         "city": "יד נתן"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-04-28T13:30:00.000Z",
-            "timestamp_end": "2022-04-28T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "מעון",
          "location": {
             "lat": 31.414592,
@@ -30,6 +13,23 @@
          {
             "timestamp_start": "2022-04-28T14:00:00.000Z",
             "timestamp_end": "2022-04-28T19:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "יד נתן, מושב יד נתן בבית הכנסת",
+         "location": {
+            "lat": 31.652961,
+            "lng": 34.704874
+         },
+         "formatted": "יד נתן, ישראל",
+         "city": "יד נתן"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-04-28T13:30:00.000Z",
+            "timestamp_end": "2022-04-28T18:00:00.000Z"
          }
       ]
    },
@@ -373,18 +373,18 @@
    },
    {
       "address": {
-         "unformatted": "עפולה, מכללת יזרעאל",
+         "unformatted": "צה\"ל 35 חדרה, מתחם קניות מיקס חדרה ליד יינות ביתן",
          "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
+            "lat": 32.4410176,
+            "lng": 34.9305284
          },
-         "formatted": "bad_address",
-         "city": "עפולה"
+         "formatted": "חדרה, ישראל",
+         "city": "חדרה"
       },
       "times": [
          {
             "timestamp_start": "2022-04-28T06:00:00.000Z",
-            "timestamp_end": "2022-04-28T12:00:00.000Z"
+            "timestamp_end": "2022-04-28T12:30:00.000Z"
          }
       ]
    },
@@ -411,18 +411,18 @@
    },
    {
       "address": {
-         "unformatted": "צה\"ל 35 חדרה, מתחם קניות מיקס חדרה ליד יינות ביתן",
+         "unformatted": "עפולה, מכללת יזרעאל",
          "location": {
-            "lat": 32.4410176,
-            "lng": 34.9305284
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
          },
-         "formatted": "חדרה, ישראל",
-         "city": "חדרה"
+         "formatted": "bad_address",
+         "city": "עפולה"
       },
       "times": [
          {
             "timestamp_start": "2022-04-28T06:00:00.000Z",
-            "timestamp_end": "2022-04-28T12:30:00.000Z"
+            "timestamp_end": "2022-04-28T12:00:00.000Z"
          }
       ]
    },
@@ -524,6 +524,44 @@
    },
    {
       "address": {
+         "unformatted": "המכבים 30 פתח תקווה, תחנת מד\"א , - תחנת מד\"א",
+         "location": {
+            "lat": 32.0972956,
+            "lng": 34.8870999
+         },
+         "formatted": "פתח תקווה, ישראל",
+         "city": "פתח תקווה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-04-29T05:30:00.000Z",
+            "timestamp_end": "2022-04-29T09:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2022-05-03T13:00:00.000Z",
+            "timestamp_end": "2022-05-03T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "יצחק שדה 10 חיפה, מד\"א חיפה, - תחנת מד\"א",
+         "location": {
+            "lat": 32.8247594,
+            "lng": 34.9881756
+         },
+         "formatted": "יצחק שדה 10, חיפה, ישראל",
+         "city": "חיפה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-04-29T05:00:00.000Z",
+            "timestamp_end": "2022-04-29T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה , - תחנת מד\"א",
          "location": {
             "lat": 32.4445161,
@@ -558,27 +596,6 @@
    },
    {
       "address": {
-         "unformatted": "המכבים 30 פתח תקווה, תחנת מד\"א , - תחנת מד\"א",
-         "location": {
-            "lat": 32.0972956,
-            "lng": 34.8870999
-         },
-         "formatted": "פתח תקווה, ישראל",
-         "city": "פתח תקווה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-04-29T05:30:00.000Z",
-            "timestamp_end": "2022-04-29T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2022-05-03T13:00:00.000Z",
-            "timestamp_end": "2022-05-03T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
          "location": {
             "lat": 32.7849957,
@@ -591,23 +608,6 @@
          {
             "timestamp_start": "2022-04-29T05:00:00.000Z",
             "timestamp_end": "2022-04-29T10:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "יצחק שדה 10 חיפה, מד\"א חיפה, - תחנת מד\"א",
-         "location": {
-            "lat": 32.8247594,
-            "lng": 34.9881756
-         },
-         "formatted": "יצחק שדה 10, חיפה, ישראל",
-         "city": "חיפה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-04-29T05:00:00.000Z",
-            "timestamp_end": "2022-04-29T09:30:00.000Z"
          }
       ]
    },
@@ -667,23 +667,6 @@
    },
    {
       "address": {
-         "unformatted": "נתיב הל''ה, בית הל\"ה",
-         "location": {
-            "lat": 31.687184,
-            "lng": 34.982523
-         },
-         "formatted": "נתיב הל\"ה, ישראל",
-         "city": "נתיב הל''ה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-04-29T06:00:00.000Z",
-            "timestamp_end": "2022-04-29T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "מגדל העמק, פרץ סנטר",
          "location": {
             "lat": 32.6780967,
@@ -696,6 +679,23 @@
          {
             "timestamp_start": "2022-04-29T05:30:00.000Z",
             "timestamp_end": "2022-04-29T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "נתיב הל''ה, בית הל\"ה",
+         "location": {
+            "lat": 31.687184,
+            "lng": 34.982523
+         },
+         "formatted": "נתיב הל\"ה, ישראל",
+         "city": "נתיב הל''ה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-04-29T06:00:00.000Z",
+            "timestamp_end": "2022-04-29T09:30:00.000Z"
          }
       ]
    },
@@ -718,6 +718,27 @@
    },
    {
       "address": {
+         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+         "location": {
+            "lat": 32.8440668,
+            "lng": 35.0802042
+         },
+         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
+         "city": "קרית מוצקין"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-04-29T05:00:00.000Z",
+            "timestamp_end": "2022-04-29T09:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2022-05-06T05:00:00.000Z",
+            "timestamp_end": "2022-05-06T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "הרוקמים 1 חולון, - תחנת מד\"א",
          "location": {
             "lat": 32.0108836,
@@ -729,23 +750,6 @@
       "times": [
          {
             "timestamp_start": "2022-04-29T05:00:00.000Z",
-            "timestamp_end": "2022-04-29T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "במרכז חוגים ליד בית הכנסת",
-         "location": {
-            "lat": 33.9147186,
-            "lng": -84.31574239999999
-         },
-         "formatted": "4276 Chamblee Dunwoody Rd, Atlanta, GA 30341, ארצות הברית",
-         "city": "במרכז חוגים ליד בית הכנסת"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-04-29T05:30:00.000Z",
             "timestamp_end": "2022-04-29T09:30:00.000Z"
          }
       ]
@@ -790,22 +794,18 @@
    },
    {
       "address": {
-         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+         "unformatted": "במרכז חוגים ליד בית הכנסת",
          "location": {
-            "lat": 32.8440668,
-            "lng": 35.0802042
+            "lat": 33.9147186,
+            "lng": -84.31574239999999
          },
-         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
-         "city": "קרית מוצקין"
+         "formatted": "4276 Chamblee Dunwoody Rd, Atlanta, GA 30341, ארצות הברית",
+         "city": "במרכז חוגים ליד בית הכנסת"
       },
       "times": [
          {
-            "timestamp_start": "2022-04-29T05:00:00.000Z",
+            "timestamp_start": "2022-04-29T05:30:00.000Z",
             "timestamp_end": "2022-04-29T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2022-05-06T05:00:00.000Z",
-            "timestamp_end": "2022-05-06T09:30:00.000Z"
          }
       ]
    },
@@ -896,23 +896,6 @@
    },
    {
       "address": {
-         "unformatted": "עוזי חיטמן 1 גבעת שמואל, בני עקיבא גבעת שמואל",
-         "location": {
-            "lat": 32.0839316,
-            "lng": 34.8487629
-         },
-         "formatted": "עוזי חיטמן 1, גבעת שמואל, ישראל",
-         "city": "גבעת שמואל"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-05-01T13:00:00.000Z",
-            "timestamp_end": "2022-05-01T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "חמד, היכל שמואל דן",
          "location": {
             "lat": 32.017994,
@@ -947,18 +930,35 @@
    },
    {
       "address": {
-         "unformatted": "שכונת צוותא רחוב אחדות 2 חריש, מעון לשם",
+         "unformatted": "עוזי חיטמן 1 גבעת שמואל, בני עקיבא גבעת שמואל",
          "location": {
-            "lat": 32.4541261,
-            "lng": 35.0607177
+            "lat": 32.0839316,
+            "lng": 34.8487629
          },
-         "formatted": "רחוב אחדות 2, חריש, ישראל",
-         "city": "חריש"
+         "formatted": "עוזי חיטמן 1, גבעת שמואל, ישראל",
+         "city": "גבעת שמואל"
       },
       "times": [
          {
-            "timestamp_start": "2022-05-01T14:00:00.000Z",
-            "timestamp_end": "2022-05-01T18:30:00.000Z"
+            "timestamp_start": "2022-05-01T13:00:00.000Z",
+            "timestamp_end": "2022-05-01T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "כרמיאל, כרמיאל בקניון החדש מול המדרחוב",
+         "location": {
+            "lat": 32.914671,
+            "lng": 35.292417
+         },
+         "formatted": "כרמיאל, ישראל",
+         "city": "כרמיאל"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-05-01T13:00:00.000Z",
+            "timestamp_end": "2022-05-01T18:00:00.000Z"
          }
       ]
    },
@@ -981,6 +981,23 @@
    },
    {
       "address": {
+         "unformatted": "שכונת צוותא רחוב אחדות 2 חריש, מעון לשם",
+         "location": {
+            "lat": 32.4541261,
+            "lng": 35.0607177
+         },
+         "formatted": "רחוב אחדות 2, חריש, ישראל",
+         "city": "חריש"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-05-01T14:00:00.000Z",
+            "timestamp_end": "2022-05-01T18:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "נשר, מתחם מבנה תל חנן ליד תחנת מוניות",
          "location": {
             "lat": 32.7782508,
@@ -990,6 +1007,10 @@
          "city": "נשר"
       },
       "times": [
+         {
+            "timestamp_start": "2022-05-01T06:00:00.000Z",
+            "timestamp_end": "2022-05-01T12:30:00.000Z"
+         },
          {
             "timestamp_start": "2022-05-01T06:00:00.000Z",
             "timestamp_end": "2022-05-01T12:30:00.000Z"
@@ -1083,6 +1104,23 @@
    },
    {
       "address": {
+         "unformatted": "שדמות מחולה, מועדון",
+         "location": {
+            "lat": 32.3455107,
+            "lng": 35.5337694
+         },
+         "formatted": "שדמות מחולה",
+         "city": "שדמות מחולה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-05-02T14:00:00.000Z",
+            "timestamp_end": "2022-05-02T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "אשקלון, קניון חוצות אשקלון",
          "location": {
             "lat": 31.6611431,
@@ -1129,23 +1167,6 @@
          {
             "timestamp_start": "2022-05-02T06:30:00.000Z",
             "timestamp_end": "2022-05-02T12:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "שדמות מחולה, מועדון",
-         "location": {
-            "lat": 32.3455107,
-            "lng": 35.5337694
-         },
-         "formatted": "שדמות מחולה",
-         "city": "שדמות מחולה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-05-02T14:00:00.000Z",
-            "timestamp_end": "2022-05-02T18:00:00.000Z"
          }
       ]
    },
@@ -1321,13 +1342,13 @@
    },
    {
       "address": {
-         "unformatted": "חפצי בה, מרפאה",
+         "unformatted": "גבע, חדר האוכל",
          "location": {
-            "lat": 32.5184705,
-            "lng": 35.4284154
+            "lat": 32.5508954,
+            "lng": 35.4378655
          },
-         "formatted": "Unnamed Road, חפצי בה, ישראל",
-         "city": "חפצי בה"
+         "formatted": "Unnamed Rd, Beit HaShita, Beit HaShita, ישראל",
+         "city": "גבע"
       },
       "times": [
          {
@@ -1338,13 +1359,13 @@
    },
    {
       "address": {
-         "unformatted": "גבע, חדר האוכל",
+         "unformatted": "חפצי בה, מרפאה",
          "location": {
-            "lat": 32.5508954,
-            "lng": 35.4378655
+            "lat": 32.5184705,
+            "lng": 35.4284154
          },
-         "formatted": "Unnamed Rd, Beit HaShita, Beit HaShita, ישראל",
-         "city": "גבע"
+         "formatted": "Unnamed Road, חפצי בה, ישראל",
+         "city": "חפצי בה"
       },
       "times": [
          {
@@ -1389,23 +1410,6 @@
    },
    {
       "address": {
-         "unformatted": "נחום 1 גבעת שמואל, תנועת נוער קרית אלון",
-         "location": {
-            "lat": 32.0793951,
-            "lng": 34.8487589
-         },
-         "formatted": "נחום סוקולוב 1, גבעת שמואל, ישראל",
-         "city": "גבעת שמואל"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-05-09T13:00:00.000Z",
-            "timestamp_end": "2022-05-09T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "רמת השרון, בפארק הנצח - בחניה",
          "location": {
             "lat": 32.1388263,
@@ -1418,6 +1422,23 @@
          {
             "timestamp_start": "2022-05-09T12:00:00.000Z",
             "timestamp_end": "2022-05-09T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "נחום 1 גבעת שמואל, תנועת נוער קרית אלון",
+         "location": {
+            "lat": 32.0793951,
+            "lng": 34.8487589
+         },
+         "formatted": "נחום סוקולוב 1, גבעת שמואל, ישראל",
+         "city": "גבעת שמואל"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-05-09T13:00:00.000Z",
+            "timestamp_end": "2022-05-09T18:00:00.000Z"
          }
       ]
    },
@@ -1491,23 +1512,6 @@
    },
    {
       "address": {
-         "unformatted": "יראון, מועדון",
-         "location": {
-            "lat": 33.077241,
-            "lng": 35.4542923
-         },
-         "formatted": "יראון, ישראל",
-         "city": "יראון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-05-11T12:00:00.000Z",
-            "timestamp_end": "2022-05-11T16:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "קדרון, קדרון",
          "location": {
             "lat": 31.814142,
@@ -1537,6 +1541,23 @@
          {
             "timestamp_start": "2022-05-11T13:00:00.000Z",
             "timestamp_end": "2022-05-11T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "יראון, מועדון",
+         "location": {
+            "lat": 33.077241,
+            "lng": 35.4542923
+         },
+         "formatted": "יראון, ישראל",
+         "city": "יראון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-05-11T12:00:00.000Z",
+            "timestamp_end": "2022-05-11T16:30:00.000Z"
          }
       ]
    },
@@ -1610,23 +1631,6 @@
    },
    {
       "address": {
-         "unformatted": "המדגרה 5 בית חרות, בית חרות",
-         "location": {
-            "lat": 32.3784288,
-            "lng": 34.8671773
-         },
-         "formatted": "המדגרה 5, בית חרות, ישראל",
-         "city": "בית חרות"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-05-12T13:00:00.000Z",
-            "timestamp_end": "2022-05-12T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "מעגלים, מועדון המושב",
          "location": {
             "lat": 33.44852903890945,
@@ -1639,6 +1643,23 @@
          {
             "timestamp_start": "2022-05-12T13:00:00.000Z",
             "timestamp_end": "2022-05-12T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "המדגרה 5 בית חרות, בית חרות",
+         "location": {
+            "lat": 32.3784288,
+            "lng": 34.8671773
+         },
+         "formatted": "המדגרה 5, בית חרות, ישראל",
+         "city": "בית חרות"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-05-12T13:00:00.000Z",
+            "timestamp_end": "2022-05-12T18:00:00.000Z"
          }
       ]
    },
@@ -1673,6 +1694,23 @@
          {
             "timestamp_start": "2022-05-12T13:00:00.000Z",
             "timestamp_end": "2022-05-12T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "נחשול 10 ראש העין, חדר דיירים",
+         "location": {
+            "lat": 32.1072838,
+            "lng": 34.9468824
+         },
+         "formatted": "נחשול 10, ראש העין, ישראל",
+         "city": "ראש העין"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-05-02T13:00:00.000Z",
+            "timestamp_end": "2022-05-02T18:00:00.000Z"
          }
       ]
    }
