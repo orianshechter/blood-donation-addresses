@@ -185,23 +185,6 @@
    },
    {
       "address": {
-         "unformatted": "מצד שמעון, מיצד - פני קדם",
-         "location": {
-            "lat": 31.589538,
-            "lng": 35.19511
-         },
-         "formatted": "פני קדם, אספר",
-         "city": "מצד שמעון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-05-23T14:30:00.000Z",
-            "timestamp_end": "2022-05-23T19:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
          "location": {
             "lat": 31.78153,
@@ -1565,6 +1548,23 @@
    },
    {
       "address": {
+         "unformatted": "רח' הדובדבן אולם העגול רב תכליתי לשם",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "רח' הדובדבן אולם העגול רב תכליתי לשם"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-06-02T14:00:00.000Z",
+            "timestamp_end": "2022-06-02T18:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "יזרעאל, מועדון",
          "location": {
             "lat": 32.6828595,
@@ -1598,29 +1598,29 @@
       ]
    },
    {
+      "address": {
+         "unformatted": "מצד שמעון, אולם בישוב מיצד - פני קדם",
+         "location": {
+            "lat": 31.589538,
+            "lng": 35.19511
+         },
+         "formatted": "פני קדם, אספר",
+         "city": "מצד שמעון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-05-23T14:30:00.000Z",
+            "timestamp_end": "2022-05-23T19:30:00.000Z"
+         }
+      ]
+   },
+   {
       "city": "",
       "address": "",
       "times": [
          {
             "timestamp_start": "2022-05-26T10:00:00.000Z",
             "timestamp_end": "2022-05-26T16:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "רח' הדובדבן אולם העגול רב תכליתי לשם",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "רח' הדובדבן אולם העגול רב תכליתי לשם"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-06-02T14:00:00.000Z",
-            "timestamp_end": "2022-06-02T18:30:00.000Z"
          }
       ]
    }
