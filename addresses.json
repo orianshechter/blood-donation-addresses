@@ -1,23 +1,6 @@
 [
    {
       "address": {
-         "unformatted": "מחנה גלילות",
-         "location": {
-            "lat": 32.145824,
-            "lng": 34.818439
-         },
-         "formatted": "מחנה גלילות/איסוף, ישראל",
-         "city": "מחנה גלילות"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-11T07:00:00.000Z",
-            "timestamp_end": "2022-08-11T12:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "טנא עומרים,במועדון הישוב",
          "location": {
             "lat": 31.376132,
@@ -30,6 +13,23 @@
          {
             "timestamp_start": "2022-08-11T13:00:00.000Z",
             "timestamp_end": "2022-08-11T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מחנה גלילות",
+         "location": {
+            "lat": 32.145824,
+            "lng": 34.818439
+         },
+         "formatted": "מחנה גלילות/איסוף, ישראל",
+         "city": "מחנה גלילות"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-11T07:00:00.000Z",
+            "timestamp_end": "2022-08-11T12:00:00.000Z"
          }
       ]
    },
@@ -151,6 +151,27 @@
    },
    {
       "address": {
+         "unformatted": "דרך מנחם בגין שדרות, מתחם מול 7 שדרות",
+         "location": {
+            "lat": 31.5163161,
+            "lng": 34.5893062
+         },
+         "formatted": "דרך מנחם בגין, שדרות, ישראל",
+         "city": "שדרות"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-11T10:00:00.000Z",
+            "timestamp_end": "2022-08-11T16:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2022-08-16T07:00:00.000Z",
+            "timestamp_end": "2022-08-16T16:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "נוף הגליל, דודג' סנטר",
          "location": {
             "lat": 32.6933333,
@@ -175,27 +196,6 @@
          {
             "timestamp_start": "2022-08-19T05:30:00.000Z",
             "timestamp_end": "2022-08-19T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "דרך מנחם בגין שדרות, מתחם מול 7 שדרות",
-         "location": {
-            "lat": 31.5163161,
-            "lng": 34.5893062
-         },
-         "formatted": "דרך מנחם בגין, שדרות, ישראל",
-         "city": "שדרות"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-11T10:00:00.000Z",
-            "timestamp_end": "2022-08-11T16:00:00.000Z"
-         },
-         {
-            "timestamp_start": "2022-08-16T07:00:00.000Z",
-            "timestamp_end": "2022-08-16T16:00:00.000Z"
          }
       ]
    },
@@ -501,40 +501,6 @@
    },
    {
       "address": {
-         "unformatted": "הנחשול 30 ראשון לציון, שבט יעד צופים ראשון לציון",
-         "location": {
-            "lat": 31.9834643,
-            "lng": 34.7827192
-         },
-         "formatted": "ראשון לציון, ישראל",
-         "city": "ראשון לציון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-11T14:00:00.000Z",
-            "timestamp_end": "2022-08-11T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "הרצל ראשון לציון, גן המושבה",
-         "location": {
-            "lat": 31.9633465,
-            "lng": 34.8039284
-         },
-         "formatted": "גן העיר, ראשון לציון, ישראל",
-         "city": "ראשון לציון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-11T15:00:00.000Z",
-            "timestamp_end": "2022-08-11T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "מוטי קינד 10 רחובות, מתחם סנטרו רחובות",
          "location": {
             "lat": 31.8946743,
@@ -568,6 +534,40 @@
          {
             "timestamp_start": "2022-08-11T13:00:00.000Z",
             "timestamp_end": "2022-08-11T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "הנחשול 30 ראשון לציון, שבט יעד צופים ראשון לציון",
+         "location": {
+            "lat": 31.9834643,
+            "lng": 34.7827192
+         },
+         "formatted": "ראשון לציון, ישראל",
+         "city": "ראשון לציון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-11T14:00:00.000Z",
+            "timestamp_end": "2022-08-11T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "הרצל ראשון לציון, גן המושבה",
+         "location": {
+            "lat": 31.9633465,
+            "lng": 34.8039284
+         },
+         "formatted": "גן העיר, ראשון לציון, ישראל",
+         "city": "ראשון לציון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-11T15:00:00.000Z",
+            "timestamp_end": "2022-08-11T19:00:00.000Z"
          }
       ]
    },
@@ -716,23 +716,6 @@
    },
    {
       "address": {
-         "unformatted": "מיתר, במרכז העיר ליד הסופר",
-         "location": {
-            "lat": 31.327011,
-            "lng": 34.943213
-         },
-         "formatted": "מיתר, ישראל",
-         "city": "מיתר"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-12T05:30:00.000Z",
-            "timestamp_end": "2022-08-12T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "מגדל העמק, פרץ סנטר",
          "location": {
             "lat": 32.6780967,
@@ -754,56 +737,18 @@
    },
    {
       "address": {
-         "unformatted": "0834 באר שבע",
+         "unformatted": "מיתר, במרכז העיר ליד הסופר",
          "location": {
-            "lat": 31.252973,
-            "lng": 34.791462
+            "lat": 31.327011,
+            "lng": 34.943213
          },
-         "formatted": "באר שבע, ישראל",
-         "city": "באר שבע"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-12T05:30:00.000Z",
-            "timestamp_end": "2022-08-12T10:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "התחיה 1 אשקלון, - תחנת מד\"א",
-         "location": {
-            "lat": 31.6617136,
-            "lng": 34.5885552
-         },
-         "formatted": "בית ימין אשקלון, התחייה 1, אשקלון, ישראל",
-         "city": "אשקלון"
+         "formatted": "מיתר, ישראל",
+         "city": "מיתר"
       },
       "times": [
          {
             "timestamp_start": "2022-08-12T05:30:00.000Z",
             "timestamp_end": "2022-08-12T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
-         "location": {
-            "lat": 32.8440668,
-            "lng": 35.0802042
-         },
-         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
-         "city": "קרית מוצקין"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-12T05:00:00.000Z",
-            "timestamp_end": "2022-08-12T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2022-08-19T05:00:00.000Z",
-            "timestamp_end": "2022-08-19T09:30:00.000Z"
          }
       ]
    },
@@ -821,6 +766,23 @@
          {
             "timestamp_start": "2022-08-12T05:00:00.000Z",
             "timestamp_end": "2022-08-12T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "0834 באר שבע",
+         "location": {
+            "lat": 31.252973,
+            "lng": 34.791462
+         },
+         "formatted": "באר שבע, ישראל",
+         "city": "באר שבע"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-12T05:30:00.000Z",
+            "timestamp_end": "2022-08-12T10:00:00.000Z"
          }
       ]
    },
@@ -864,6 +826,44 @@
    },
    {
       "address": {
+         "unformatted": "התחיה 1 אשקלון, - תחנת מד\"א",
+         "location": {
+            "lat": 31.6617136,
+            "lng": 34.5885552
+         },
+         "formatted": "בית ימין אשקלון, התחייה 1, אשקלון, ישראל",
+         "city": "אשקלון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-12T05:30:00.000Z",
+            "timestamp_end": "2022-08-12T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+         "location": {
+            "lat": 32.8440668,
+            "lng": 35.0802042
+         },
+         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
+         "city": "קרית מוצקין"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-12T05:00:00.000Z",
+            "timestamp_end": "2022-08-12T09:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2022-08-19T05:00:00.000Z",
+            "timestamp_end": "2022-08-19T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "באר שבע, מרכז הנגב מול גלידה גולדה",
          "location": {
             "lat": 31.258556,
@@ -881,6 +881,23 @@
    },
    {
       "address": {
+         "unformatted": "באר שבע, ביה\"ח סורוקה ליד בית מרקחת מול חדר אוכל עובדים",
+         "location": {
+            "lat": 31.2580633,
+            "lng": 34.7994009
+         },
+         "formatted": "שדרות יצחק רגר 151, באר שבע, ישראל",
+         "city": "באר שבע"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-14T06:30:00.000Z",
+            "timestamp_end": "2022-08-14T12:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "הרצל פינת מנחם בגין אשדוד, קניון הסיטי",
          "location": {
             "lat": 31.7907924,
@@ -893,6 +910,23 @@
          {
             "timestamp_start": "2022-08-14T08:30:00.000Z",
             "timestamp_end": "2022-08-14T15:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "עספיא, מתנ\"ס",
+         "location": {
+            "lat": 32.720737,
+            "lng": 35.059087
+         },
+         "formatted": "עיספיא, ישראל",
+         "city": "עספיא"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-14T13:00:00.000Z",
+            "timestamp_end": "2022-08-14T18:00:00.000Z"
          }
       ]
    },
@@ -966,40 +1000,6 @@
    },
    {
       "address": {
-         "unformatted": "עספיא, מתנ\"ס",
-         "location": {
-            "lat": 32.720737,
-            "lng": 35.059087
-         },
-         "formatted": "עיספיא, ישראל",
-         "city": "עספיא"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-14T13:00:00.000Z",
-            "timestamp_end": "2022-08-14T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "יפיע, הכנסיה האורתודוכסית",
-         "location": {
-            "lat": 32.695002,
-            "lng": 35.28201
-         },
-         "formatted": "יפיע, ישראל",
-         "city": "יפיע"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-14T13:00:00.000Z",
-            "timestamp_end": "2022-08-14T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "אבו סנאן, בית העם",
          "location": {
             "lat": 32.959999,
@@ -1051,18 +1051,18 @@
    },
    {
       "address": {
-         "unformatted": "באר שבע, ביה\"ח סורוקה ליד בית מרקחת מול חדר אוכל עובדים",
+         "unformatted": "יפיע, הכנסיה האורתודוכסית",
          "location": {
-            "lat": 31.2580633,
-            "lng": 34.7994009
+            "lat": 32.695002,
+            "lng": 35.28201
          },
-         "formatted": "שדרות יצחק רגר 151, באר שבע, ישראל",
-         "city": "באר שבע"
+         "formatted": "יפיע, ישראל",
+         "city": "יפיע"
       },
       "times": [
          {
-            "timestamp_start": "2022-08-14T06:30:00.000Z",
-            "timestamp_end": "2022-08-14T12:00:00.000Z"
+            "timestamp_start": "2022-08-14T13:00:00.000Z",
+            "timestamp_end": "2022-08-14T18:00:00.000Z"
          }
       ]
    },
@@ -1140,6 +1140,23 @@
    },
    {
       "address": {
+         "unformatted": "דן 2 קרית ביאליק, מול המתנ\"ס בחנייה",
+         "location": {
+            "lat": 32.832154,
+            "lng": 35.088407
+         },
+         "formatted": "קריית ביאליק, ישראל",
+         "city": "קרית ביאליק"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-14T13:00:00.000Z",
+            "timestamp_end": "2022-08-14T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "סשה ארגוב 38 רעננה, ספורטק",
          "location": {
             "lat": 32.1931954,
@@ -1186,23 +1203,6 @@
          {
             "timestamp_start": "2022-08-14T07:00:00.000Z",
             "timestamp_end": "2022-08-14T13:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "דן 2 קרית ביאליק, מול המתנ\"ס בחנייה",
-         "location": {
-            "lat": 32.832154,
-            "lng": 35.088407
-         },
-         "formatted": "קריית ביאליק, ישראל",
-         "city": "קרית ביאליק"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-14T13:00:00.000Z",
-            "timestamp_end": "2022-08-14T18:00:00.000Z"
          }
       ]
    },
@@ -1259,23 +1259,6 @@
    },
    {
       "address": {
-         "unformatted": "כפר מונש, מועדון לחבר",
-         "location": {
-            "lat": 32.345607,
-            "lng": 34.916426
-         },
-         "formatted": "כפר מונש, ישראל",
-         "city": "כפר מונש"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-15T15:00:00.000Z",
-            "timestamp_end": "2022-08-15T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "עילוט, ניידת התרמה ליד המסגד",
          "location": {
             "lat": 33.0083233,
@@ -1288,6 +1271,23 @@
          {
             "timestamp_start": "2022-08-15T10:00:00.000Z",
             "timestamp_end": "2022-08-15T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "כפר מונש, מועדון לחבר",
+         "location": {
+            "lat": 32.345607,
+            "lng": 34.916426
+         },
+         "formatted": "כפר מונש, ישראל",
+         "city": "כפר מונש"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-15T15:00:00.000Z",
+            "timestamp_end": "2022-08-15T19:00:00.000Z"
          }
       ]
    },
@@ -1317,6 +1317,23 @@
          },
          "formatted": "טובא זנגריה, ישראל",
          "city": "טובא זנגריה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-15T13:00:00.000Z",
+            "timestamp_end": "2022-08-15T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "משמר השרון, משמר השרון",
+         "location": {
+            "lat": 32.356305,
+            "lng": 34.904256
+         },
+         "formatted": "משמר השרון, ישראל",
+         "city": "משמר השרון"
       },
       "times": [
          {
@@ -1361,6 +1378,23 @@
    },
    {
       "address": {
+         "unformatted": "משגב עם, מועדון",
+         "location": {
+            "lat": 33.2483874,
+            "lng": 35.5475964
+         },
+         "formatted": "משגב עם, ישראל",
+         "city": "משגב עם"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-16T13:00:00.000Z",
+            "timestamp_end": "2022-08-16T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "יצחק ריגר 151 באר שבע",
          "location": {
             "lat": 31.2658372,
@@ -1372,6 +1406,23 @@
       "times": [
          {
             "timestamp_start": "2022-08-16T12:00:00.000Z",
+            "timestamp_end": "2022-08-16T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "אבטליון, מועדון נוער",
+         "location": {
+            "lat": 32.8372754,
+            "lng": 35.3471772
+         },
+         "formatted": "אבטליון, ישראל",
+         "city": "אבטליון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-16T13:00:00.000Z",
             "timestamp_end": "2022-08-16T18:00:00.000Z"
          }
       ]
@@ -1406,40 +1457,6 @@
       "times": [
          {
             "timestamp_start": "2022-08-16T10:00:00.000Z",
-            "timestamp_end": "2022-08-16T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "משגב עם, מועדון",
-         "location": {
-            "lat": 33.2483874,
-            "lng": 35.5475964
-         },
-         "formatted": "משגב עם, ישראל",
-         "city": "משגב עם"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-16T13:00:00.000Z",
-            "timestamp_end": "2022-08-16T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "אבטליון, מועדון נוער",
-         "location": {
-            "lat": 32.8372754,
-            "lng": 35.3471772
-         },
-         "formatted": "אבטליון, ישראל",
-         "city": "אבטליון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-16T13:00:00.000Z",
             "timestamp_end": "2022-08-16T18:00:00.000Z"
          }
       ]
@@ -1599,6 +1616,23 @@
    },
    {
       "address": {
+         "unformatted": "אלומות, מועדון",
+         "location": {
+            "lat": 32.706024,
+            "lng": 35.547369
+         },
+         "formatted": "אלומות, ישראל",
+         "city": "אלומות"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-08-18T13:00:00.000Z",
+            "timestamp_end": "2022-08-18T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "עינת, בית דרור",
          "location": {
             "lat": 32.0815743,
@@ -1628,23 +1662,6 @@
          {
             "timestamp_start": "2022-08-18T05:30:00.000Z",
             "timestamp_end": "2022-08-18T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "אלומות, מועדון",
-         "location": {
-            "lat": 32.706024,
-            "lng": 35.547369
-         },
-         "formatted": "אלומות, ישראל",
-         "city": "אלומות"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-08-18T13:00:00.000Z",
-            "timestamp_end": "2022-08-18T17:00:00.000Z"
          }
       ]
    },
