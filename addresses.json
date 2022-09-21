@@ -661,22 +661,18 @@
    },
    {
       "address": {
-         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+         "unformatted": "התחיה 1 אשקלון, - תחנת מד\"א",
          "location": {
-            "lat": 32.8440668,
-            "lng": 35.0802042
+            "lat": 31.6617136,
+            "lng": 34.5885552
          },
-         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
-         "city": "קרית מוצקין"
+         "formatted": "בית ימין אשקלון, התחייה 1, אשקלון, ישראל",
+         "city": "אשקלון"
       },
       "times": [
          {
-            "timestamp_start": "2022-09-23T05:00:00.000Z",
+            "timestamp_start": "2022-09-23T05:30:00.000Z",
             "timestamp_end": "2022-09-23T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2022-09-30T05:00:00.000Z",
-            "timestamp_end": "2022-09-30T09:30:00.000Z"
          }
       ]
    },
@@ -703,18 +699,22 @@
    },
    {
       "address": {
-         "unformatted": "התחיה 1 אשקלון, - תחנת מד\"א",
+         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
          "location": {
-            "lat": 31.6617136,
-            "lng": 34.5885552
+            "lat": 32.8440668,
+            "lng": 35.0802042
          },
-         "formatted": "בית ימין אשקלון, התחייה 1, אשקלון, ישראל",
-         "city": "אשקלון"
+         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
+         "city": "קרית מוצקין"
       },
       "times": [
          {
-            "timestamp_start": "2022-09-23T05:30:00.000Z",
+            "timestamp_start": "2022-09-23T05:00:00.000Z",
             "timestamp_end": "2022-09-23T09:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2022-09-30T05:00:00.000Z",
+            "timestamp_end": "2022-09-30T09:30:00.000Z"
          }
       ]
    },
@@ -1275,6 +1275,23 @@
          {
             "timestamp_start": "2022-10-03T12:30:00.000Z",
             "timestamp_end": "2022-10-03T17:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "אולם תירות",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "אולם תירות"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-09-28T13:00:00.000Z",
+            "timestamp_end": "2022-09-28T18:00:00.000Z"
          }
       ]
    }
