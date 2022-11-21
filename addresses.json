@@ -1,6 +1,23 @@
 [
    {
       "address": {
+         "unformatted": "כנס שירות לאומי",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "כנס שירות לאומי"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-11-21T07:00:00.000Z",
+            "timestamp_end": "2022-11-21T11:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "באר שבע, מרכז הנגב מול גלידה גולדה",
          "location": {
             "lat": 31.258556,
@@ -1411,23 +1428,6 @@
          {
             "timestamp_start": "2022-12-05T14:30:00.000Z",
             "timestamp_end": "2022-12-05T18:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "כנס שירות לאומי",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "כנס שירות לאומי"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-11-21T07:00:00.000Z",
-            "timestamp_end": "2022-11-21T11:30:00.000Z"
          }
       ]
    }
