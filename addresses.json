@@ -418,40 +418,6 @@
    },
    {
       "address": {
-         "unformatted": "מסד, מועדון חברים",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "מסד"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-11-24T14:00:00.000Z",
-            "timestamp_end": "2022-11-24T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "כרכום, מועדון",
-         "location": {
-            "lat": 32.928271,
-            "lng": 35.606331
-         },
-         "formatted": "כרכום, ישראל",
-         "city": "כרכום"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-11-24T15:00:00.000Z",
-            "timestamp_end": "2022-11-24T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "איבי הנחל, חדר חוגים איבי הנחל",
          "location": {
             "lat": 33.44852903890945,
@@ -480,6 +446,40 @@
       "times": [
          {
             "timestamp_start": "2022-11-24T14:00:00.000Z",
+            "timestamp_end": "2022-11-24T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מסד, מועדון חברים",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "מסד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-11-24T14:00:00.000Z",
+            "timestamp_end": "2022-11-24T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "כרכום, מועדון",
+         "location": {
+            "lat": 32.928271,
+            "lng": 35.606331
+         },
+         "formatted": "כרכום, ישראל",
+         "city": "כרכום"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-11-24T15:00:00.000Z",
             "timestamp_end": "2022-11-24T19:00:00.000Z"
          }
       ]
@@ -650,6 +650,10 @@
          {
             "timestamp_start": "2022-11-25T06:30:00.000Z",
             "timestamp_end": "2022-11-25T11:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2022-11-27T11:00:00.000Z",
+            "timestamp_end": "2022-11-27T19:00:00.000Z"
          }
       ]
    },
@@ -782,23 +786,6 @@
    },
    {
       "address": {
-         "unformatted": "פתח תקווה, בניין אולימפיה A",
-         "location": {
-            "lat": 32.0947459,
-            "lng": 34.8646152
-         },
-         "formatted": "פארק אולימפיה, Mota Gur St 9, Petah Tikva, ישראל",
-         "city": "פתח תקווה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-11-27T06:30:00.000Z",
-            "timestamp_end": "2022-11-27T13:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "חטיבה תשע 15 עפולה, גלריה עירונית",
          "location": {
             "lat": 32.6134266,
@@ -833,6 +820,44 @@
    },
    {
       "address": {
+         "unformatted": "פתח תקווה, בניין אולימפיה A",
+         "location": {
+            "lat": 32.0947459,
+            "lng": 34.8646152
+         },
+         "formatted": "פארק אולימפיה, Mota Gur St 9, Petah Tikva, ישראל",
+         "city": "פתח תקווה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-11-27T06:30:00.000Z",
+            "timestamp_end": "2022-11-27T13:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "תל אביב יפו, בוטיק מעצבים קומה מינוס 1 דיזנגוף סנטר",
+         "location": {
+            "lat": 32.0735034,
+            "lng": 34.7816466
+         },
+         "formatted": "דיזנגוף 1, תל אביב-יפו, ישראל",
+         "city": "תל אביב יפו"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-11-27T14:00:00.000Z",
+            "timestamp_end": "2022-11-27T19:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2022-12-01T14:00:00.000Z",
+            "timestamp_end": "2022-12-01T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "נוקדים, בחדר חוגים החדש ישוב נוקדים",
          "location": {
             "lat": 31.645331,
@@ -862,27 +887,6 @@
          {
             "timestamp_start": "2022-11-27T14:00:00.000Z",
             "timestamp_end": "2022-11-27T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "תל אביב יפו, בוטיק מעצבים קומה מינוס 1 דיזנגוף סנטר",
-         "location": {
-            "lat": 32.0735034,
-            "lng": 34.7816466
-         },
-         "formatted": "דיזנגוף 1, תל אביב-יפו, ישראל",
-         "city": "תל אביב יפו"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-11-27T14:00:00.000Z",
-            "timestamp_end": "2022-11-27T19:00:00.000Z"
-         },
-         {
-            "timestamp_start": "2022-12-01T14:00:00.000Z",
-            "timestamp_end": "2022-12-01T19:00:00.000Z"
          }
       ]
    },
@@ -1194,23 +1198,6 @@
    },
    {
       "address": {
-         "unformatted": "מעלה גלבוע, במועדון",
-         "location": {
-            "lat": 32.4686067,
-            "lng": 35.4263447
-         },
-         "formatted": "מעלה גלבוע, 1914500, ישראל",
-         "city": "מעלה גלבוע"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-12-01T12:00:00.000Z",
-            "timestamp_end": "2022-12-01T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "כפר הנשיא, במכינה",
          "location": {
             "lat": 32.97208700000001,
@@ -1222,6 +1209,23 @@
       "times": [
          {
             "timestamp_start": "2022-12-01T13:00:00.000Z",
+            "timestamp_end": "2022-12-01T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מעלה גלבוע, במועדון",
+         "location": {
+            "lat": 32.4686067,
+            "lng": 35.4263447
+         },
+         "formatted": "מעלה גלבוע, 1914500, ישראל",
+         "city": "מעלה גלבוע"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-12-01T12:00:00.000Z",
             "timestamp_end": "2022-12-01T18:00:00.000Z"
          }
       ]
@@ -1262,23 +1266,6 @@
    },
    {
       "address": {
-         "unformatted": "חיים ארלוזורוב 33 א פתח תקווה, צופי פתח תקוה",
-         "location": {
-            "lat": 32.0837147,
-            "lng": 34.8729782
-         },
-         "formatted": "חיים ארלוזורוב 33, פתח תקווה, ישראל",
-         "city": "פתח תקווה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-12-04T15:00:00.000Z",
-            "timestamp_end": "2022-12-04T20:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "הפורצים 18 פתח תקווה, מתנ\"ס רמת ורבר",
          "location": {
             "lat": 32.087173,
@@ -1291,6 +1278,23 @@
          {
             "timestamp_start": "2022-12-04T15:00:00.000Z",
             "timestamp_end": "2022-12-04T19:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "חיים ארלוזורוב 33 א פתח תקווה, צופי פתח תקוה",
+         "location": {
+            "lat": 32.0837147,
+            "lng": 34.8729782
+         },
+         "formatted": "חיים ארלוזורוב 33, פתח תקווה, ישראל",
+         "city": "פתח תקווה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-12-04T15:00:00.000Z",
+            "timestamp_end": "2022-12-04T20:00:00.000Z"
          }
       ]
    },
