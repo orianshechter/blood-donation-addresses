@@ -52,40 +52,6 @@
    },
    {
       "address": {
-         "unformatted": "מסד, מועדון חברים",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "מסד"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-11-24T14:00:00.000Z",
-            "timestamp_end": "2022-11-24T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "כרכום, מועדון",
-         "location": {
-            "lat": 32.928271,
-            "lng": 35.606331
-         },
-         "formatted": "כרכום, ישראל",
-         "city": "כרכום"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-11-24T15:00:00.000Z",
-            "timestamp_end": "2022-11-24T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "איבי הנחל, חדר חוגים איבי הנחל",
          "location": {
             "lat": 33.44852903890945,
@@ -114,6 +80,40 @@
       "times": [
          {
             "timestamp_start": "2022-11-24T14:00:00.000Z",
+            "timestamp_end": "2022-11-24T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מסד, מועדון חברים",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "מסד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-11-24T14:00:00.000Z",
+            "timestamp_end": "2022-11-24T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "כרכום, מועדון",
+         "location": {
+            "lat": 32.928271,
+            "lng": 35.606331
+         },
+         "formatted": "כרכום, ישראל",
+         "city": "כרכום"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-11-24T15:00:00.000Z",
             "timestamp_end": "2022-11-24T19:00:00.000Z"
          }
       ]
@@ -414,6 +414,27 @@
    },
    {
       "address": {
+         "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה , - תחנת מד\"א",
+         "location": {
+            "lat": 32.4445161,
+            "lng": 34.9228603
+         },
+         "formatted": "אביאור 7-11, חדרה, ישראל",
+         "city": "חדרה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-11-25T06:00:00.000Z",
+            "timestamp_end": "2022-11-25T10:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2022-12-02T06:00:00.000Z",
+            "timestamp_end": "2022-12-02T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "הרוקמים 1 חולון, בתחנת מד\"א חולון , - תחנת מד\"א",
          "location": {
             "lat": 32.0108836,
@@ -443,27 +464,6 @@
          {
             "timestamp_start": "2022-11-25T06:30:00.000Z",
             "timestamp_end": "2022-11-25T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה , - תחנת מד\"א",
-         "location": {
-            "lat": 32.4445161,
-            "lng": 34.9228603
-         },
-         "formatted": "אביאור 7-11, חדרה, ישראל",
-         "city": "חדרה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-11-25T06:00:00.000Z",
-            "timestamp_end": "2022-11-25T10:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2022-12-02T06:00:00.000Z",
-            "timestamp_end": "2022-12-02T10:30:00.000Z"
          }
       ]
    },
@@ -642,23 +642,6 @@
    },
    {
       "address": {
-         "unformatted": "טירת יהודה, אסם",
-         "location": {
-            "lat": 32.014905,
-            "lng": 34.9337518
-         },
-         "formatted": "טירת יהודה, ישראל",
-         "city": "טירת יהודה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-11-27T15:00:00.000Z",
-            "timestamp_end": "2022-11-27T19:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "ד.נ.גליל מערבי מצובה, מועדון",
          "location": {
             "lat": 33.062312,
@@ -671,6 +654,23 @@
          {
             "timestamp_start": "2022-11-27T14:00:00.000Z",
             "timestamp_end": "2022-11-27T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "טירת יהודה, אסם",
+         "location": {
+            "lat": 32.014905,
+            "lng": 34.9337518
+         },
+         "formatted": "טירת יהודה, ישראל",
+         "city": "טירת יהודה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-11-27T15:00:00.000Z",
+            "timestamp_end": "2022-11-27T19:30:00.000Z"
          }
       ]
    },
@@ -714,23 +714,6 @@
    },
    {
       "address": {
-         "unformatted": "אודם, מועדון",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "אודם"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-11-27T14:00:00.000Z",
-            "timestamp_end": "2022-11-27T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "תל אביב יפו, בוטיק מעצבים קומה מינוס 1 דיזנגוף סנטר",
          "location": {
             "lat": 32.0735034,
@@ -747,6 +730,23 @@
          {
             "timestamp_start": "2022-12-01T14:00:00.000Z",
             "timestamp_end": "2022-12-01T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "אודם, מועדון",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "אודם"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-11-27T14:00:00.000Z",
+            "timestamp_end": "2022-11-27T18:00:00.000Z"
          }
       ]
    },
@@ -905,6 +905,23 @@
    },
    {
       "address": {
+         "unformatted": "0834 באר שבע",
+         "location": {
+            "lat": 31.252973,
+            "lng": 34.791462
+         },
+         "formatted": "באר שבע, ישראל",
+         "city": "באר שבע"
+      },
+      "times": [
+         {
+            "timestamp_start": null,
+            "timestamp_end": "2022-11-29T14:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "שריד, מועדון לחבר",
          "location": {
             "lat": 32.663061,
@@ -939,23 +956,6 @@
    },
    {
       "address": {
-         "unformatted": "קהילת יעקב 10 ירושלים, מנהל קהילתי רח קהילת יעקב 10",
-         "location": {
-            "lat": 31.8122035,
-            "lng": 35.2167761
-         },
-         "formatted": "קהילת יעקב 10, ירושלים",
-         "city": "ירושלים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-11-30T15:00:00.000Z",
-            "timestamp_end": "2022-11-30T21:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "חד נס, מועדון חברים",
          "location": {
             "lat": 32.927514,
@@ -973,6 +973,23 @@
    },
    {
       "address": {
+         "unformatted": "קהילת יעקב 10 ירושלים, מנהל קהילתי רח קהילת יעקב 10",
+         "location": {
+            "lat": 31.8122035,
+            "lng": 35.2167761
+         },
+         "formatted": "קהילת יעקב 10, ירושלים",
+         "city": "ירושלים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-11-30T15:00:00.000Z",
+            "timestamp_end": "2022-11-30T21:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "מעלה גלבוע, במועדון",
          "location": {
             "lat": 32.4686067,
@@ -984,23 +1001,6 @@
       "times": [
          {
             "timestamp_start": "2022-12-01T12:00:00.000Z",
-            "timestamp_end": "2022-12-01T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "כפר הנשיא, במכינה",
-         "location": {
-            "lat": 32.97208700000001,
-            "lng": 35.604448
-         },
-         "formatted": "כפר הנשיא, ישראל",
-         "city": "כפר הנשיא"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-12-01T13:00:00.000Z",
             "timestamp_end": "2022-12-01T18:00:00.000Z"
          }
       ]
@@ -1024,6 +1024,40 @@
    },
    {
       "address": {
+         "unformatted": "מלכי ישראל 69 נתיבות, מכינת קדם צבאית נתיבות",
+         "location": {
+            "lat": 31.4217455,
+            "lng": 34.5922661
+         },
+         "formatted": "מלכי ישראל 69, נתיבות, ישראל",
+         "city": "נתיבות"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-12-01T14:00:00.000Z",
+            "timestamp_end": "2022-12-01T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "כפר הנשיא, במכינה",
+         "location": {
+            "lat": 32.97208700000001,
+            "lng": 35.604448
+         },
+         "formatted": "כפר הנשיא, ישראל",
+         "city": "כפר הנשיא"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-12-01T13:00:00.000Z",
+            "timestamp_end": "2022-12-01T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "א.ת. באר טוביה, ביג קרית מלאכי",
          "location": {
             "lat": 31.7280171,
@@ -1041,18 +1075,18 @@
    },
    {
       "address": {
-         "unformatted": "מלכי ישראל 69 נתיבות, מכינת קדם צבאית נתיבות",
+         "unformatted": "מעלה גיא אוני ראש פינה, ליד חנות הפינה כתומה בכניסה הראשית",
          "location": {
-            "lat": 31.4217455,
-            "lng": 34.5922661
+            "lat": 32.9691217,
+            "lng": 35.5449377
          },
-         "formatted": "מלכי ישראל 69, נתיבות, ישראל",
-         "city": "נתיבות"
+         "formatted": "מעלה גיא אוני, ראש פינה, ישראל",
+         "city": "ראש פינה"
       },
       "times": [
          {
-            "timestamp_start": "2022-12-01T14:00:00.000Z",
-            "timestamp_end": "2022-12-01T19:00:00.000Z"
+            "timestamp_start": "2022-12-01T07:00:00.000Z",
+            "timestamp_end": "2022-12-01T13:00:00.000Z"
          }
       ]
    },
@@ -1104,6 +1138,23 @@
          {
             "timestamp_start": "2022-12-01T14:30:00.000Z",
             "timestamp_end": "2022-12-01T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
+         "location": {
+            "lat": 32.795859,
+            "lng": 35.530973
+         },
+         "formatted": "טבריה, ישראל",
+         "city": "טבריה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-12-02T06:30:00.000Z",
+            "timestamp_end": "2022-12-02T11:30:00.000Z"
          }
       ]
    },
@@ -1330,23 +1381,6 @@
    },
    {
       "address": {
-         "unformatted": "פקיעין, מועדון עמותת מ.ל.ח",
-         "location": {
-            "lat": 32.976209,
-            "lng": 35.335794
-         },
-         "formatted": "פקיעין, 24914, ישראל",
-         "city": "פקיעין"
-      },
-      "times": [
-         {
-            "timestamp_start": "2022-12-08T14:00:00.000Z",
-            "timestamp_end": "2022-12-08T20:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "קיבוץ בארי צוחר, במועדון",
          "location": {
             "lat": 31.2413652,
@@ -1359,6 +1393,23 @@
          {
             "timestamp_start": "2022-12-08T14:00:00.000Z",
             "timestamp_end": "2022-12-08T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "פקיעין, מועדון עמותת מ.ל.ח",
+         "location": {
+            "lat": 32.976209,
+            "lng": 35.335794
+         },
+         "formatted": "פקיעין, 24914, ישראל",
+         "city": "פקיעין"
+      },
+      "times": [
+         {
+            "timestamp_start": "2022-12-08T14:00:00.000Z",
+            "timestamp_end": "2022-12-08T20:00:00.000Z"
          }
       ]
    }
