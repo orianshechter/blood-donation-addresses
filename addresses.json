@@ -1634,6 +1634,23 @@
    },
    {
       "address": {
+         "unformatted": "ניצן, התרמה בניצן",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "ניצן"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-01-22T08:00:00.000Z",
+            "timestamp_end": "2023-01-22T13:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "הראל פינת הרימון יד בנימין, סניף בני עקיבא",
          "location": {
             "lat": 31.797658,
@@ -1833,23 +1850,6 @@
          {
             "timestamp_start": "2023-01-26T15:00:00.000Z",
             "timestamp_end": "2023-01-26T20:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "ניצן, התרמה בניצן",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "ניצן"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-01-22T08:00:00.000Z",
-            "timestamp_end": "2023-01-22T13:00:00.000Z"
          }
       ]
    }
