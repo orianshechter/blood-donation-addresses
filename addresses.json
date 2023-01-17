@@ -570,6 +570,23 @@
    },
    {
       "address": {
+         "unformatted": "בית רימון, במועדון המכינה",
+         "location": {
+            "lat": 32.781845,
+            "lng": 35.327738
+         },
+         "formatted": "בית רימון, ישראל",
+         "city": "בית רימון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-01-18T14:30:00.000Z",
+            "timestamp_end": "2023-01-18T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "ירכא, ביג פאשן",
          "location": {
             "lat": 32.956069,
@@ -581,23 +598,6 @@
       "times": [
          {
             "timestamp_start": "2023-01-18T11:30:00.000Z",
-            "timestamp_end": "2023-01-18T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "הזורעים, מועדון הביצייה",
-         "location": {
-            "lat": 32.7481416,
-            "lng": 35.4999237
-         },
-         "formatted": "1, HaZor'im, ישראל",
-         "city": "הזורעים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-01-18T15:00:00.000Z",
             "timestamp_end": "2023-01-18T19:00:00.000Z"
          }
       ]
@@ -638,69 +638,18 @@
    },
    {
       "address": {
-         "unformatted": "בית רימון, במועדון המכינה",
+         "unformatted": "הזורעים, מועדון הביצייה",
          "location": {
-            "lat": 32.781845,
-            "lng": 35.327738
+            "lat": 32.7481416,
+            "lng": 35.4999237
          },
-         "formatted": "בית רימון, ישראל",
-         "city": "בית רימון"
+         "formatted": "1, HaZor'im, ישראל",
+         "city": "הזורעים"
       },
       "times": [
          {
-            "timestamp_start": "2023-01-18T14:30:00.000Z",
+            "timestamp_start": "2023-01-18T15:00:00.000Z",
             "timestamp_end": "2023-01-18T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "נס עמים, מועדון",
-         "location": {
-            "lat": 32.965465,
-            "lng": 35.121588
-         },
-         "formatted": "נס עמים, ישראל",
-         "city": "נס עמים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-01-19T16:00:00.000Z",
-            "timestamp_end": "2023-01-19T20:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "ברקאי, חדר אוכל",
-         "location": {
-            "lat": 32.476096,
-            "lng": 35.031044
-         },
-         "formatted": "ברקאי, ישראל",
-         "city": "ברקאי"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-01-19T14:00:00.000Z",
-            "timestamp_end": "2023-01-19T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "נעמי שמר 3 גבעת שמואל, בסניף עזרא",
-         "location": {
-            "lat": 32.08466,
-            "lng": 34.848171
-         },
-         "formatted": "נעמי שמר 3, גבעת שמואל, ישראל",
-         "city": "גבעת שמואל"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-01-19T15:00:00.000Z",
-            "timestamp_end": "2023-01-19T19:30:00.000Z"
          }
       ]
    },
@@ -751,6 +700,57 @@
       "times": [
          {
             "timestamp_start": "2023-01-19T11:00:00.000Z",
+            "timestamp_end": "2023-01-19T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "נעמי שמר 3 גבעת שמואל, בסניף עזרא",
+         "location": {
+            "lat": 32.08466,
+            "lng": 34.848171
+         },
+         "formatted": "נעמי שמר 3, גבעת שמואל, ישראל",
+         "city": "גבעת שמואל"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-01-19T15:00:00.000Z",
+            "timestamp_end": "2023-01-19T19:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "נס עמים, מועדון",
+         "location": {
+            "lat": 32.965465,
+            "lng": 35.121588
+         },
+         "formatted": "נס עמים, ישראל",
+         "city": "נס עמים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-01-19T16:00:00.000Z",
+            "timestamp_end": "2023-01-19T20:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "ברקאי, חדר אוכל",
+         "location": {
+            "lat": 32.476096,
+            "lng": 35.031044
+         },
+         "formatted": "ברקאי, ישראל",
+         "city": "ברקאי"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-01-19T14:00:00.000Z",
             "timestamp_end": "2023-01-19T19:00:00.000Z"
          }
       ]
@@ -1435,18 +1435,18 @@
    },
    {
       "address": {
-         "unformatted": "עין אל אסד, בנין ועד מקומי",
+         "unformatted": "צוחר, התרמה במועדון",
          "location": {
-            "lat": 32.940754,
-            "lng": 35.401027
+            "lat": 31.23717,
+            "lng": 34.426444
          },
-         "formatted": "עין אל-אסד, ישראל",
-         "city": "עין אל אסד"
+         "formatted": "צוחר, ישראל",
+         "city": "צוחר"
       },
       "times": [
          {
-            "timestamp_start": "2023-01-26T14:00:00.000Z",
-            "timestamp_end": "2023-01-26T19:00:00.000Z"
+            "timestamp_start": "2023-01-26T13:00:00.000Z",
+            "timestamp_end": "2023-01-26T17:30:00.000Z"
          }
       ]
    },
@@ -1486,18 +1486,35 @@
    },
    {
       "address": {
-         "unformatted": "צוחר, התרמה במועדון",
+         "unformatted": "עין אל אסד, בנין ועד מקומי",
          "location": {
-            "lat": 31.23717,
-            "lng": 34.426444
+            "lat": 32.940754,
+            "lng": 35.401027
          },
-         "formatted": "צוחר, ישראל",
-         "city": "צוחר"
+         "formatted": "עין אל-אסד, ישראל",
+         "city": "עין אל אסד"
       },
       "times": [
          {
-            "timestamp_start": "2023-01-26T13:00:00.000Z",
-            "timestamp_end": "2023-01-26T17:30:00.000Z"
+            "timestamp_start": "2023-01-26T14:00:00.000Z",
+            "timestamp_end": "2023-01-26T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "יהושע יבין 19 ירושלים, סניף בני עקיבא מרכז",
+         "location": {
+            "lat": 31.7697333,
+            "lng": 35.2063942
+         },
+         "formatted": "יהושע ייבין 19, ירושלים, ישראל",
+         "city": "ירושלים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-01-26T15:00:00.000Z",
+            "timestamp_end": "2023-01-26T20:00:00.000Z"
          }
       ]
    },
@@ -1561,23 +1578,6 @@
          },
          "formatted": "פסגות מרכז",
          "city": "פסגות"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-01-26T15:00:00.000Z",
-            "timestamp_end": "2023-01-26T20:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "יהושע יבין 19 ירושלים, סניף בני עקיבא מרכז",
-         "location": {
-            "lat": 31.7697333,
-            "lng": 35.2063942
-         },
-         "formatted": "יהושע ייבין 19, ירושלים, ישראל",
-         "city": "ירושלים"
       },
       "times": [
          {
