@@ -279,10 +279,6 @@
             "timestamp_end": "2023-02-09T14:00:00.000Z"
          },
          {
-            "timestamp_start": "2023-02-10T06:30:00.000Z",
-            "timestamp_end": "2023-02-10T11:30:00.000Z"
-         },
-         {
             "timestamp_start": "2023-02-16T07:00:00.000Z",
             "timestamp_end": "2023-02-16T14:00:00.000Z"
          },
@@ -635,6 +631,27 @@
    },
    {
       "address": {
+         "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
+         "location": {
+            "lat": 32.3284579,
+            "lng": 34.8645215
+         },
+         "formatted": "בנימין מינץ 7, נתניה, ישראל",
+         "city": "נתניה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-02-10T06:30:00.000Z",
+            "timestamp_end": "2023-02-10T10:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-02-17T06:30:00.000Z",
+            "timestamp_end": "2023-02-17T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה) , - תחנת מד\"א",
          "location": {
             "lat": 31.7799797,
@@ -642,6 +659,27 @@
          },
          "formatted": "הרפואה 1, אשדוד, ישראל",
          "city": "אשדוד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-02-10T06:00:00.000Z",
+            "timestamp_end": "2023-02-10T10:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-02-17T06:00:00.000Z",
+            "timestamp_end": "2023-02-17T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+         "location": {
+            "lat": 32.8440668,
+            "lng": 35.0802042
+         },
+         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
+         "city": "קרית מוצקין"
       },
       "times": [
          {
@@ -681,48 +719,6 @@
    },
    {
       "address": {
-         "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
-         "location": {
-            "lat": 32.3284579,
-            "lng": 34.8645215
-         },
-         "formatted": "בנימין מינץ 7, נתניה, ישראל",
-         "city": "נתניה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-02-10T06:30:00.000Z",
-            "timestamp_end": "2023-02-10T10:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-02-17T06:30:00.000Z",
-            "timestamp_end": "2023-02-17T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
-         "location": {
-            "lat": 32.8440668,
-            "lng": 35.0802042
-         },
-         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
-         "city": "קרית מוצקין"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-02-10T06:00:00.000Z",
-            "timestamp_end": "2023-02-10T10:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-02-17T06:00:00.000Z",
-            "timestamp_end": "2023-02-17T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "חורה, בי\"ס אלסאלם חורה",
          "location": {
             "lat": 33.44852903890945,
@@ -740,23 +736,6 @@
    },
    {
       "address": {
-         "unformatted": "דרך הים 3 גני תקווה, בית ספר יובלים",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "גני תקווה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-02-12T15:30:00.000Z",
-            "timestamp_end": "2023-02-12T20:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "נחל אלכסנדר 2 צור יצחק, מרכז קהילתי",
          "location": {
             "lat": 32.239628,
@@ -769,6 +748,23 @@
          {
             "timestamp_start": "2023-02-12T14:00:00.000Z",
             "timestamp_end": "2023-02-12T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "דרך הים 3 גני תקווה, בית ספר יובלים",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "גני תקווה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-02-12T15:30:00.000Z",
+            "timestamp_end": "2023-02-12T20:00:00.000Z"
          }
       ]
    },
@@ -1233,23 +1229,6 @@
    },
    {
       "address": {
-         "unformatted": "עמק זבולון 4 מודיעין מכבים רעות, בי\"ס אמית בנים מודעין",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "מודיעין מכבים רעות"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-02-19T12:00:00.000Z",
-            "timestamp_end": "2023-02-19T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "מרכז שפירא, אחוזת אתרוג",
          "location": {
             "lat": 31.69473799999999,
@@ -1262,6 +1241,23 @@
          {
             "timestamp_start": "2023-02-19T14:00:00.000Z",
             "timestamp_end": "2023-02-19T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "עמק זבולון 4 מודיעין מכבים רעות, בי\"ס אמית בנים מודעין",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "מודיעין מכבים רעות"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-02-19T12:00:00.000Z",
+            "timestamp_end": "2023-02-19T17:00:00.000Z"
          }
       ]
    },
