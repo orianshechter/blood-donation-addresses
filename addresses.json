@@ -52,6 +52,23 @@
    },
    {
       "address": {
+         "unformatted": "ערד, מרכז העיר ליד הדואר",
+         "location": {
+            "lat": 31.261447,
+            "lng": 35.214862
+         },
+         "formatted": "ערד, ישראל",
+         "city": "ערד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-05-09T07:00:00.000Z",
+            "timestamp_end": "2023-05-09T14:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "בית שמש, איקאה אשתאול - בית שמש",
          "location": {
             "lat": 31.774641,
@@ -1839,23 +1856,6 @@
          {
             "timestamp_start": "2023-05-23T13:00:00.000Z",
             "timestamp_end": "2023-05-23T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "ערד, מרכז העיר ליד הדואר",
-         "location": {
-            "lat": 31.261447,
-            "lng": 35.214862
-         },
-         "formatted": "ערד, ישראל",
-         "city": "ערד"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-05-09T07:00:00.000Z",
-            "timestamp_end": "2023-05-09T14:00:00.000Z"
          }
       ]
    }
