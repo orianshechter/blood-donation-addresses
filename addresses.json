@@ -1005,7 +1005,7 @@
       "times": [
          {
             "timestamp_start": "2023-06-25T07:00:00.000Z",
-            "timestamp_end": "2023-06-25T18:00:00.000Z"
+            "timestamp_end": "2023-06-25T12:01:00.000Z"
          }
       ]
    },
@@ -1208,12 +1208,12 @@
       },
       "times": [
          {
-            "timestamp_start": "2023-06-27T07:00:00.000Z",
-            "timestamp_end": "2023-06-27T12:00:00.000Z"
-         },
-         {
             "timestamp_start": "2023-06-27T12:01:00.000Z",
             "timestamp_end": "2023-06-27T18:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-06-27T07:00:00.000Z",
+            "timestamp_end": "2023-06-27T12:00:00.000Z"
          }
       ]
    },
@@ -1576,6 +1576,23 @@
    },
    {
       "address": {
+         "unformatted": "כוכב יעקב, אולם ספורט כוכב יעקב",
+         "location": {
+            "lat": 31.880152,
+            "lng": 35.242773
+         },
+         "formatted": "כוכב יעקב",
+         "city": "כוכב יעקב"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-07-02T12:00:00.000Z",
+            "timestamp_end": "2023-07-02T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "מגידו, מועדון",
          "location": {
             "lat": 32.577899,
@@ -1775,23 +1792,6 @@
          {
             "timestamp_start": "2023-07-05T07:00:00.000Z",
             "timestamp_end": "2023-07-05T12:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "כוכב יעקב, אולם ספורט כוכב יעקב",
-         "location": {
-            "lat": 31.880152,
-            "lng": 35.242773
-         },
-         "formatted": "כוכב יעקב",
-         "city": "כוכב יעקב"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-07-02T12:00:00.000Z",
-            "timestamp_end": "2023-07-02T17:00:00.000Z"
          }
       ]
    }
