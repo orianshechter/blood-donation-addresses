@@ -624,6 +624,23 @@
    },
    {
       "address": {
+         "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
+         "location": {
+            "lat": 32.790333613593994,
+            "lng": 35.533051427181455
+         },
+         "formatted": "טבריה, ישראל",
+         "city": "טבריה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-07-07T05:30:00.000Z",
+            "timestamp_end": "2023-07-07T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "הרוקמים 1 חולון, בתחנת מד\"א חולון , - תחנת מד\"א",
          "location": {
             "lat": 32.0108836,
@@ -653,23 +670,6 @@
          {
             "timestamp_start": "2023-07-07T05:30:00.000Z",
             "timestamp_end": "2023-07-07T10:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
-         "location": {
-            "lat": 32.790333613593994,
-            "lng": 35.533051427181455
-         },
-         "formatted": "טבריה, ישראל",
-         "city": "טבריה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-07-07T05:30:00.000Z",
-            "timestamp_end": "2023-07-07T10:30:00.000Z"
          }
       ]
    },
@@ -746,67 +746,6 @@
          {
             "timestamp_start": "2023-07-07T05:30:00.000Z",
             "timestamp_end": "2023-07-07T10:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
-         "location": {
-            "lat": 31.78153,
-            "lng": 35.21602
-         },
-         "formatted": "המלך ג'ורג' 20, ירושלים, 9426208, ישראל",
-         "city": "ירושלים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-07-07T06:00:00.000Z",
-            "timestamp_end": "2023-07-07T09:45:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-07-09T07:00:00.000Z",
-            "timestamp_end": "2023-07-09T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-07-10T07:00:00.000Z",
-            "timestamp_end": "2023-07-10T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-07-11T07:00:00.000Z",
-            "timestamp_end": "2023-07-11T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-07-12T07:00:00.000Z",
-            "timestamp_end": "2023-07-12T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-07-13T07:00:00.000Z",
-            "timestamp_end": "2023-07-13T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-07-14T06:00:00.000Z",
-            "timestamp_end": "2023-07-14T09:45:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-07-16T07:00:00.000Z",
-            "timestamp_end": "2023-07-16T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-07-17T07:00:00.000Z",
-            "timestamp_end": "2023-07-17T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-07-18T07:00:00.000Z",
-            "timestamp_end": "2023-07-18T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-07-19T07:00:00.000Z",
-            "timestamp_end": "2023-07-19T13:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-07-20T07:00:00.000Z",
-            "timestamp_end": "2023-07-20T13:30:00.000Z"
          }
       ]
    },
@@ -994,6 +933,63 @@
    },
    {
       "address": {
+         "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
+         "location": {
+            "lat": 31.78153,
+            "lng": 35.21602
+         },
+         "formatted": "המלך ג'ורג' 20, ירושלים, 9426208, ישראל",
+         "city": "ירושלים"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-07-09T07:00:00.000Z",
+            "timestamp_end": "2023-07-09T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-07-10T07:00:00.000Z",
+            "timestamp_end": "2023-07-10T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-07-11T07:00:00.000Z",
+            "timestamp_end": "2023-07-11T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-07-12T07:00:00.000Z",
+            "timestamp_end": "2023-07-12T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-07-13T07:00:00.000Z",
+            "timestamp_end": "2023-07-13T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-07-14T06:00:00.000Z",
+            "timestamp_end": "2023-07-14T09:45:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-07-16T07:00:00.000Z",
+            "timestamp_end": "2023-07-16T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-07-17T07:00:00.000Z",
+            "timestamp_end": "2023-07-17T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-07-18T07:00:00.000Z",
+            "timestamp_end": "2023-07-18T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-07-19T07:00:00.000Z",
+            "timestamp_end": "2023-07-19T13:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-07-20T07:00:00.000Z",
+            "timestamp_end": "2023-07-20T13:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "האדרת ירושלים, עיר דוד",
          "location": {
             "lat": 31.7742803,
@@ -1028,23 +1024,6 @@
    },
    {
       "address": {
-         "unformatted": "אלי עד, מועדון",
-         "location": {
-            "lat": 32.8065843,
-            "lng": 35.7365764
-         },
-         "formatted": "אליעד",
-         "city": "אלי עד"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-07-09T13:00:00.000Z",
-            "timestamp_end": "2023-07-09T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "דרך מנחם בגין 48 תל אביב יפו, מגדלי אביב",
          "location": {
             "lat": 32.0630657,
@@ -1057,6 +1036,23 @@
          {
             "timestamp_start": "2023-07-09T07:00:00.000Z",
             "timestamp_end": "2023-07-09T12:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "אלי עד, מועדון",
+         "location": {
+            "lat": 32.8065843,
+            "lng": 35.7365764
+         },
+         "formatted": "אליעד",
+         "city": "אלי עד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-07-09T13:00:00.000Z",
+            "timestamp_end": "2023-07-09T17:00:00.000Z"
          }
       ]
    },
