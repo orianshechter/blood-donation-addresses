@@ -170,8 +170,8 @@
             "timestamp_end": "2023-07-11T19:00:00.000Z"
          },
          {
-            "timestamp_start": "2023-07-12T07:00:00.000Z",
-            "timestamp_end": "2023-07-12T13:30:00.000Z"
+            "timestamp_start": "2023-07-12T09:00:00.000Z",
+            "timestamp_end": "2023-07-12T17:00:00.000Z"
          },
          {
             "timestamp_start": "2023-07-13T07:00:00.000Z",
@@ -568,7 +568,7 @@
       "times": [
          {
             "timestamp_start": "2023-07-12T08:00:00.000Z",
-            "timestamp_end": "2023-07-12T16:00:00.000Z"
+            "timestamp_end": "2023-07-12T12:00:00.000Z"
          }
       ]
    },
@@ -731,40 +731,6 @@
    },
    {
       "address": {
-         "unformatted": "מסילות, מועדון לחבר",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "מסילות"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-07-13T13:00:00.000Z",
-            "timestamp_end": "2023-07-13T17:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "היוגב, מועדון לחבר",
-         "location": {
-            "lat": 32.611036,
-            "lng": 35.206391
-         },
-         "formatted": "היוגב, ישראל",
-         "city": "היוגב"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-07-13T14:00:00.000Z",
-            "timestamp_end": "2023-07-13T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "טורעאן, ליד המועצה",
          "location": {
             "lat": 32.775137,
@@ -799,6 +765,61 @@
    },
    {
       "address": {
+         "unformatted": "מסילות, מועדון לחבר",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "מסילות"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-07-13T13:00:00.000Z",
+            "timestamp_end": "2023-07-13T17:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "היוגב, מועדון לחבר",
+         "location": {
+            "lat": 32.611036,
+            "lng": 35.206391
+         },
+         "formatted": "היוגב, ישראל",
+         "city": "היוגב"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-07-13T14:00:00.000Z",
+            "timestamp_end": "2023-07-13T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "נוף הגליל"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-07-13T11:00:00.000Z",
+            "timestamp_end": "2023-07-13T18:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-07-14T05:30:00.000Z",
+            "timestamp_end": "2023-07-14T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "זכריה, מושב זכריה מועדון גיל הזהב",
          "location": {
             "lat": 31.7088136,
@@ -811,6 +832,23 @@
          {
             "timestamp_start": "2023-07-13T14:00:00.000Z",
             "timestamp_end": "2023-07-13T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "חצור הגלילית, תחנה מרכזית ליד הקניון",
+         "location": {
+            "lat": 32.9810066,
+            "lng": 35.5560074
+         },
+         "formatted": "חצור הגלילית, ישראל",
+         "city": "חצור הגלילית"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-07-13T12:00:00.000Z",
+            "timestamp_end": "2023-07-13T17:00:00.000Z"
          }
       ]
    },
@@ -850,27 +888,6 @@
    },
    {
       "address": {
-         "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "נוף הגליל"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-07-13T11:00:00.000Z",
-            "timestamp_end": "2023-07-13T18:00:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-07-14T05:30:00.000Z",
-            "timestamp_end": "2023-07-14T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "פז 612 מודיעין מכבים רעות, בני עקיבא מק\"ש",
          "location": {
             "lat": 31.908054,
@@ -883,23 +900,6 @@
          {
             "timestamp_start": "2023-07-13T13:00:00.000Z",
             "timestamp_end": "2023-07-13T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "חצור הגלילית, תחנה מרכזית ליד הקניון",
-         "location": {
-            "lat": 32.9810066,
-            "lng": 35.5560074
-         },
-         "formatted": "חצור הגלילית, ישראל",
-         "city": "חצור הגלילית"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-07-13T12:00:00.000Z",
-            "timestamp_end": "2023-07-13T17:00:00.000Z"
          }
       ]
    },
@@ -1205,18 +1205,18 @@
    },
    {
       "address": {
-         "unformatted": "רם און, מועדון לחבר",
+         "unformatted": "באר שבע, מרכז הנגב מול גלידה גולדה",
          "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
+            "lat": 31.258556,
+            "lng": 34.797527
          },
-         "formatted": "bad_address",
-         "city": "רם און"
+         "formatted": "מרכז רפואי סורוקה/דרך מצדה, IL, Be'er Sheva, ישראל",
+         "city": "באר שבע"
       },
       "times": [
          {
-            "timestamp_start": "2023-07-16T14:30:00.000Z",
-            "timestamp_end": "2023-07-16T18:30:00.000Z"
+            "timestamp_start": "2023-07-16T14:00:00.000Z",
+            "timestamp_end": "2023-07-16T18:00:00.000Z"
          }
       ]
    },
@@ -1239,18 +1239,18 @@
    },
    {
       "address": {
-         "unformatted": "מורן, מועדון לב מורן",
+         "unformatted": "רם און, מועדון לחבר",
          "location": {
-            "lat": 31.046051,
-            "lng": 34.851612
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
          },
-         "formatted": "ישראל",
-         "city": "מורן"
+         "formatted": "bad_address",
+         "city": "רם און"
       },
       "times": [
          {
-            "timestamp_start": "2023-07-16T13:00:00.000Z",
-            "timestamp_end": "2023-07-16T17:00:00.000Z"
+            "timestamp_start": "2023-07-16T14:30:00.000Z",
+            "timestamp_end": "2023-07-16T18:30:00.000Z"
          }
       ]
    },
@@ -1268,6 +1268,23 @@
          {
             "timestamp_start": "2023-07-16T14:00:00.000Z",
             "timestamp_end": "2023-07-16T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "מורן, מועדון לב מורן",
+         "location": {
+            "lat": 31.046051,
+            "lng": 34.851612
+         },
+         "formatted": "ישראל",
+         "city": "מורן"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-07-16T13:00:00.000Z",
+            "timestamp_end": "2023-07-16T17:00:00.000Z"
          }
       ]
    },
