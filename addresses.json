@@ -1,6 +1,23 @@
 [
    {
       "address": {
+         "unformatted": "הנגב 3 קרית מלאכי, מד\"א קרית מלאכי",
+         "location": {
+            "lat": 31.7305563,
+            "lng": 34.7472919
+         },
+         "formatted": "הנגב 3, קרית מלאכי, ישראל",
+         "city": "קרית מלאכי"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-09-11T13:00:00.000Z",
+            "timestamp_end": "2023-09-11T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "כרמיאל, מתחם ביג במרכז החניה",
          "location": {
             "lat": 32.914671,
@@ -154,12 +171,12 @@
       },
       "times": [
          {
-            "timestamp_start": "2023-09-11T13:00:00.000Z",
-            "timestamp_end": "2023-09-11T18:00:00.000Z"
-         },
-         {
             "timestamp_start": "2023-09-11T06:00:00.000Z",
             "timestamp_end": "2023-09-11T12:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-09-11T13:00:00.000Z",
+            "timestamp_end": "2023-09-11T18:00:00.000Z"
          },
          {
             "timestamp_start": "2023-09-12T06:00:00.000Z",
@@ -426,6 +443,23 @@
    },
    {
       "address": {
+         "unformatted": "הראל 8 אשקלון, ביה\"כ נצח ישראל אשקלון",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "אשקלון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-09-12T13:00:00.000Z",
+            "timestamp_end": "2023-09-12T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "גולדה מאיר פינת אילן פנחס חולון, מרכז נתנאל - רחבת המדיטק",
          "location": {
             "lat": 32.0131225,
@@ -443,18 +477,18 @@
    },
    {
       "address": {
-         "unformatted": "הראל 8 אשקלון, ביה\"כ נצח ישראל אשקלון",
+         "unformatted": "קדומים צפון קדומים, אולם שירת מרים",
          "location": {
             "lat": 33.44852903890945,
             "lng": 32.05693494134149
          },
          "formatted": "bad_address",
-         "city": "אשקלון"
+         "city": "קדומים"
       },
       "times": [
          {
-            "timestamp_start": "2023-09-12T13:00:00.000Z",
-            "timestamp_end": "2023-09-12T18:00:00.000Z"
+            "timestamp_start": "2023-09-12T14:00:00.000Z",
+            "timestamp_end": "2023-09-12T19:00:00.000Z"
          }
       ]
    },
@@ -488,23 +522,6 @@
          {
             "timestamp_start": "2023-10-06T05:00:00.000Z",
             "timestamp_end": "2023-10-06T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "קדומים צפון קדומים, אולם שירת מרים",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "קדומים"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-09-12T14:00:00.000Z",
-            "timestamp_end": "2023-09-12T19:00:00.000Z"
          }
       ]
    },
@@ -588,6 +605,23 @@
    },
    {
       "address": {
+         "unformatted": "מגאר, תחנת דלק פז",
+         "location": {
+            "lat": 32.879853,
+            "lng": 35.4284567
+         },
+         "formatted": "כביש 807, מע'אר, ישראל",
+         "city": "מגאר"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-09-12T11:00:00.000Z",
+            "timestamp_end": "2023-09-12T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "אולם תדהר לשם",
          "location": {
             "lat": 33.44852903890945,
@@ -622,18 +656,18 @@
    },
    {
       "address": {
-         "unformatted": "מגאר, תחנת דלק פז",
+         "unformatted": "ענב, ענב",
          "location": {
-            "lat": 32.879853,
-            "lng": 35.4284567
+            "lat": 32.283594,
+            "lng": 35.125198
          },
-         "formatted": "כביש 807, מע'אר, ישראל",
-         "city": "מגאר"
+         "formatted": "עינב",
+         "city": "ענב"
       },
       "times": [
          {
-            "timestamp_start": "2023-09-12T11:00:00.000Z",
-            "timestamp_end": "2023-09-12T18:00:00.000Z"
+            "timestamp_start": "2023-09-13T13:00:00.000Z",
+            "timestamp_end": "2023-09-13T18:00:00.000Z"
          }
       ]
    },
@@ -650,23 +684,6 @@
       "times": [
          {
             "timestamp_start": "2023-09-13T11:00:00.000Z",
-            "timestamp_end": "2023-09-13T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "ענב, ענב",
-         "location": {
-            "lat": 32.283594,
-            "lng": 35.125198
-         },
-         "formatted": "עינב",
-         "city": "ענב"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-09-13T13:00:00.000Z",
             "timestamp_end": "2023-09-13T18:00:00.000Z"
          }
       ]
@@ -707,23 +724,6 @@
    },
    {
       "address": {
-         "unformatted": "השמורה צור הדסה, קהילת שי\"ר חדש",
-         "location": {
-            "lat": 31.7177139,
-            "lng": 35.093277
-         },
-         "formatted": "Rechov HaShmurah Tzur Hadassah, 99875, Tsur Hadasa, ישראל",
-         "city": "צור הדסה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-09-13T13:00:00.000Z",
-            "timestamp_end": "2023-09-13T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "שד' לכיש 6 קרית גת, תחנת מד\"א , - תחנת מד\"א",
          "location": {
             "lat": 31.6054999,
@@ -735,6 +735,23 @@
       "times": [
          {
             "timestamp_start": "2023-09-13T14:00:00.000Z",
+            "timestamp_end": "2023-09-13T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "השמורה צור הדסה, קהילת שי\"ר חדש",
+         "location": {
+            "lat": 31.7177139,
+            "lng": 35.093277
+         },
+         "formatted": "Rechov HaShmurah Tzur Hadassah, 99875, Tsur Hadasa, ישראל",
+         "city": "צור הדסה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-09-13T13:00:00.000Z",
             "timestamp_end": "2023-09-13T18:00:00.000Z"
          }
       ]
@@ -826,23 +843,6 @@
    },
    {
       "address": {
-         "unformatted": "התחיה 1 אשקלון, תחנת מ.ד.א אשקלון , - תחנת מד\"א",
-         "location": {
-            "lat": 31.6617136,
-            "lng": 34.5885552
-         },
-         "formatted": "בית ימין אשקלון, התחייה 1, אשקלון, ישראל",
-         "city": "אשקלון"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-09-14T14:00:00.000Z",
-            "timestamp_end": "2023-09-14T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "צפת, כיכר הסאריה",
          "location": {
             "lat": 32.964496,
@@ -855,6 +855,23 @@
          {
             "timestamp_start": "2023-09-14T07:30:00.000Z",
             "timestamp_end": "2023-09-14T12:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "התחיה 1 אשקלון, תחנת מ.ד.א אשקלון , - תחנת מד\"א",
+         "location": {
+            "lat": 31.6617136,
+            "lng": 34.5885552
+         },
+         "formatted": "בית ימין אשקלון, התחייה 1, אשקלון, ישראל",
+         "city": "אשקלון"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-09-14T14:00:00.000Z",
+            "timestamp_end": "2023-09-14T18:00:00.000Z"
          }
       ]
    },
@@ -945,18 +962,22 @@
    },
    {
       "address": {
-         "unformatted": "המרווה 4 פרדסיה, שבט לביא צופי פרדסיה",
+         "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
          "location": {
-            "lat": 32.3097549,
-            "lng": 34.9040803
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
          },
-         "formatted": "מרווה 4, פרדסיה, 4281500, ישראל",
-         "city": "פרדסיה"
+         "formatted": "bad_address",
+         "city": "נוף הגליל"
       },
       "times": [
          {
-            "timestamp_start": "2023-09-14T13:00:00.000Z",
+            "timestamp_start": "2023-09-14T11:00:00.000Z",
             "timestamp_end": "2023-09-14T18:00:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-09-15T05:30:00.000Z",
+            "timestamp_end": "2023-09-15T10:30:00.000Z"
          }
       ]
    },
@@ -979,27 +1000,6 @@
    },
    {
       "address": {
-         "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "נוף הגליל"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-09-14T11:00:00.000Z",
-            "timestamp_end": "2023-09-14T18:00:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-09-15T05:30:00.000Z",
-            "timestamp_end": "2023-09-15T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "מירון",
          "location": {
             "lat": 32.985226,
@@ -1012,6 +1012,52 @@
          {
             "timestamp_start": "2023-09-14T14:00:00.000Z",
             "timestamp_end": "2023-09-14T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "המרווה 4 פרדסיה, שבט לביא צופי פרדסיה",
+         "location": {
+            "lat": 32.3097549,
+            "lng": 34.9040803
+         },
+         "formatted": "מרווה 4, פרדסיה, 4281500, ישראל",
+         "city": "פרדסיה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-09-14T13:00:00.000Z",
+            "timestamp_end": "2023-09-14T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה) , - תחנת מד\"א",
+         "location": {
+            "lat": 31.7799797,
+            "lng": 34.654115
+         },
+         "formatted": "הרפואה 1, אשדוד, ישראל",
+         "city": "אשדוד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-09-15T05:00:00.000Z",
+            "timestamp_end": "2023-09-15T09:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-09-22T05:00:00.000Z",
+            "timestamp_end": "2023-09-22T09:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-09-29T05:00:00.000Z",
+            "timestamp_end": "2023-09-29T09:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-10-06T05:00:00.000Z",
+            "timestamp_end": "2023-10-06T09:30:00.000Z"
          }
       ]
    },
@@ -1075,35 +1121,6 @@
    },
    {
       "address": {
-         "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה) , - תחנת מד\"א",
-         "location": {
-            "lat": 31.7799797,
-            "lng": 34.654115
-         },
-         "formatted": "הרפואה 1, אשדוד, ישראל",
-         "city": "אשדוד"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-09-15T05:00:00.000Z",
-            "timestamp_end": "2023-09-15T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-09-22T05:00:00.000Z",
-            "timestamp_end": "2023-09-22T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-09-29T05:00:00.000Z",
-            "timestamp_end": "2023-09-29T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-10-06T05:00:00.000Z",
-            "timestamp_end": "2023-10-06T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "מגדל העמק, פרץ סנטר",
          "location": {
             "lat": 32.6780967,
@@ -1138,6 +1155,23 @@
    },
    {
       "address": {
+         "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
+         "location": {
+            "lat": 32.790333613593994,
+            "lng": 35.533051427181455
+         },
+         "formatted": "טבריה, ישראל",
+         "city": "טבריה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-09-15T05:30:00.000Z",
+            "timestamp_end": "2023-09-15T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה , - תחנת מד\"א",
          "location": {
             "lat": 32.4445161,
@@ -1163,40 +1197,6 @@
    },
    {
       "address": {
-         "unformatted": "קהילת ציון עפולה, תחנה מרכזית החדשה באולם הנוסעים ליד רציף 10",
-         "location": {
-            "lat": 32.607536,
-            "lng": 35.292171
-         },
-         "formatted": "קהילת ציון/שפרינצק, עפולה, ישראל",
-         "city": "עפולה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-09-15T05:30:00.000Z",
-            "timestamp_end": "2023-09-15T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
-         "location": {
-            "lat": 32.790333613593994,
-            "lng": 35.533051427181455
-         },
-         "formatted": "טבריה, ישראל",
-         "city": "טבריה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-09-15T05:30:00.000Z",
-            "timestamp_end": "2023-09-15T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "הרוקמים 1 חולון, בתחנת מד\"א חולון , - תחנת מד\"א",
          "location": {
             "lat": 32.0108836,
@@ -1209,6 +1209,23 @@
          {
             "timestamp_start": "2023-09-15T05:00:00.000Z",
             "timestamp_end": "2023-09-15T09:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "קהילת ציון עפולה, תחנה מרכזית החדשה באולם הנוסעים ליד רציף 10",
+         "location": {
+            "lat": 32.607536,
+            "lng": 35.292171
+         },
+         "formatted": "קהילת ציון/שפרינצק, עפולה, ישראל",
+         "city": "עפולה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-09-15T05:30:00.000Z",
+            "timestamp_end": "2023-09-15T10:30:00.000Z"
          }
       ]
    },
@@ -1392,23 +1409,6 @@
    },
    {
       "address": {
-         "unformatted": "השקמה 40 לפיד, לפיד",
-         "location": {
-            "lat": 31.9170518,
-            "lng": 35.0326367
-         },
-         "formatted": "Ha-Shikma St 40, Lapid",
-         "city": "לפיד"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-09-21T14:00:00.000Z",
-            "timestamp_end": "2023-09-21T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "רחבת אילן פינת רח' אורנים גבעת שמואל, מבנה נוער",
          "location": {
             "lat": 32.0580375,
@@ -1421,6 +1421,23 @@
          {
             "timestamp_start": "2023-09-21T13:00:00.000Z",
             "timestamp_end": "2023-09-21T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "השקמה 40 לפיד, לפיד",
+         "location": {
+            "lat": 31.9170518,
+            "lng": 35.0326367
+         },
+         "formatted": "Ha-Shikma St 40, Lapid",
+         "city": "לפיד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-09-21T14:00:00.000Z",
+            "timestamp_end": "2023-09-21T19:00:00.000Z"
          }
       ]
    },
