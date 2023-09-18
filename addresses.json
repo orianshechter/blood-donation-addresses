@@ -1482,6 +1482,23 @@
    },
    {
       "address": {
+         "unformatted": "משהד, מוקד חירום אלחיראך",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "משהד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-10-01T13:00:00.000Z",
+            "timestamp_end": "2023-10-01T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "טירה, מרכז רפואי רחמי",
          "location": {
             "lat": 32.235466,
@@ -1732,23 +1749,6 @@
          {
             "timestamp_start": "2023-10-16T13:00:00.000Z",
             "timestamp_end": "2023-10-16T18:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "משהד, מוקד חירום אלחיראך",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "משהד"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-10-01T13:00:00.000Z",
-            "timestamp_end": "2023-10-01T18:00:00.000Z"
          }
       ]
    }
