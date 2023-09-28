@@ -983,6 +983,23 @@
    },
    {
       "address": {
+         "unformatted": "משהד, מוקד חירום אלחיראת",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "משהד"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-10-01T13:00:00.000Z",
+            "timestamp_end": "2023-10-01T18:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "מגאר, ליד בנק לאומי",
          "location": {
             "lat": 32.8862674,
@@ -2578,23 +2595,6 @@
          {
             "timestamp_start": "2023-10-27T05:00:00.000Z",
             "timestamp_end": "2023-10-27T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "משהד, מוקד חירום אלחיראת",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "משהד"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-10-01T13:00:00.000Z",
-            "timestamp_end": "2023-10-01T18:00:00.000Z"
          }
       ]
    }
