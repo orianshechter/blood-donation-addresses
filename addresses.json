@@ -366,6 +366,23 @@
    },
    {
       "address": {
+         "unformatted": "שמרת, חדר אוכל",
+         "location": {
+            "lat": 32.95148,
+            "lng": 35.094955
+         },
+         "formatted": "שמרת, ישראל",
+         "city": "שמרת"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-10-25T09:00:00.000Z",
+            "timestamp_end": "2023-10-25T16:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "חדרה, מועצה אזורית מנשה - אולם ספורט החדש במתחם החינוך במועצה",
          "location": {
             "lat": 32.4340458,
@@ -419,31 +436,6 @@
          },
          {
             "timestamp_start": "2023-11-10T06:30:00.000Z",
-            "timestamp_end": "2023-11-10T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
-         "location": {
-            "lat": 32.8440668,
-            "lng": 35.0802042
-         },
-         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
-         "city": "קרית מוצקין"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-10-27T05:00:00.000Z",
-            "timestamp_end": "2023-10-27T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-11-03T06:00:00.000Z",
-            "timestamp_end": "2023-11-03T10:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-11-10T06:00:00.000Z",
             "timestamp_end": "2023-11-10T10:30:00.000Z"
          }
       ]
@@ -641,48 +633,6 @@
    },
    {
       "address": {
-         "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה , - תחנת מד\"א",
-         "location": {
-            "lat": 32.4445161,
-            "lng": 34.9228603
-         },
-         "formatted": "אביאור 7-11, חדרה, ישראל",
-         "city": "חדרה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-10-27T05:00:00.000Z",
-            "timestamp_end": "2023-10-27T09:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "חיפה, רח' יצחק שדה 10 (תחנה נגישה), - תחנת מד\"א",
-         "location": {
-            "lat": 32.824678,
-            "lng": 34.9882598
-         },
-         "formatted": "יצחק שדה 10, חיפה, ישראל",
-         "city": "חיפה"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-10-27T05:00:00.000Z",
-            "timestamp_end": "2023-10-27T09:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-11-03T06:00:00.000Z",
-            "timestamp_end": "2023-11-03T10:30:00.000Z"
-         },
-         {
-            "timestamp_start": "2023-11-10T06:00:00.000Z",
-            "timestamp_end": "2023-11-10T10:30:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
          "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה) , - תחנת מד\"א",
          "location": {
             "lat": 31.7799797,
@@ -737,6 +687,48 @@
          {
             "timestamp_start": "2023-11-02T14:00:00.000Z",
             "timestamp_end": "2023-11-02T19:00:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "חיפה, רח' יצחק שדה 10 (תחנה נגישה), - תחנת מד\"א",
+         "location": {
+            "lat": 32.824678,
+            "lng": 34.9882598
+         },
+         "formatted": "יצחק שדה 10, חיפה, ישראל",
+         "city": "חיפה"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-11-03T06:00:00.000Z",
+            "timestamp_end": "2023-11-03T10:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-11-10T06:00:00.000Z",
+            "timestamp_end": "2023-11-10T10:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
+         "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+         "location": {
+            "lat": 32.8440668,
+            "lng": 35.0802042
+         },
+         "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
+         "city": "קרית מוצקין"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-11-03T06:00:00.000Z",
+            "timestamp_end": "2023-11-03T10:30:00.000Z"
+         },
+         {
+            "timestamp_start": "2023-11-10T06:00:00.000Z",
+            "timestamp_end": "2023-11-10T10:30:00.000Z"
          }
       ]
    },
@@ -805,23 +797,6 @@
          {
             "timestamp_start": "2023-11-14T14:00:00.000Z",
             "timestamp_end": "2023-11-14T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "שמרת, חדר אוכל",
-         "location": {
-            "lat": 32.95148,
-            "lng": 35.094955
-         },
-         "formatted": "שמרת, ישראל",
-         "city": "שמרת"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-10-25T09:00:00.000Z",
-            "timestamp_end": "2023-10-25T16:00:00.000Z"
          }
       ]
    }
