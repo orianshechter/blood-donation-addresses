@@ -237,6 +237,23 @@
    },
    {
       "address": {
+         "unformatted": "בית הקשיש",
+         "location": {
+            "lat": 33.44852903890945,
+            "lng": 32.05693494134149
+         },
+         "formatted": "bad_address",
+         "city": "בית הקשיש"
+      },
+      "times": [
+         {
+            "timestamp_start": "2023-11-01T15:00:00.000Z",
+            "timestamp_end": "2023-11-01T20:30:00.000Z"
+         }
+      ]
+   },
+   {
+      "address": {
          "unformatted": "התיכון 39 חיפה, מרכז דתי - באולם מנחם",
          "location": {
             "lat": 32.7907417,
@@ -760,23 +777,6 @@
          {
             "timestamp_start": "2023-11-22T14:00:00.000Z",
             "timestamp_end": "2023-11-22T19:00:00.000Z"
-         }
-      ]
-   },
-   {
-      "address": {
-         "unformatted": "בית הקשיש",
-         "location": {
-            "lat": 33.44852903890945,
-            "lng": 32.05693494134149
-         },
-         "formatted": "bad_address",
-         "city": "בית הקשיש"
-      },
-      "times": [
-         {
-            "timestamp_start": "2023-11-01T15:00:00.000Z",
-            "timestamp_end": "2023-11-01T20:00:00.000Z"
          }
       ]
    }
