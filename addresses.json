@@ -19,6 +19,24 @@
   },
   {
     "address": {
+      "unformatted": "ג'וליס, בית העם",
+      "location": {
+        "lat": 32.9443425,
+        "lng": 35.1857616
+      },
+      "formatted": "ג'וליס, ישראל",
+      "city": "ג'וליס"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-11-06T10:00:00.000Z",
+        "timestamp_end": "2023-11-06T16:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/97B565E7-CBB4-49CD-AC78-EA88A28D998B"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "ירושלים, היכל הפיס ארנה - בכניסה הראשית",
       "location": {
         "lat": 31.751318,
@@ -85,42 +103,6 @@
   },
   {
     "address": {
-      "unformatted": "שד' ההסתדרות 55 חיפה, קניון סינמול לב המפרץ חיפה בחנות מול הסופר פארם",
-      "location": {
-        "lat": 32.7935409,
-        "lng": 35.0374184
-      },
-      "formatted": "שדרות ההסתדרות 55, חיפה, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-11-06T10:00:00.000Z",
-        "timestamp_end": "2023-11-06T16:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9734C388-3267-4C46-A082-7E99594C8915"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "בית העם",
-      "location": {
-        "lat": 31.8965818,
-        "lng": 34.8164685
-      },
-      "formatted": "יעקב 48, רחובות, ישראל",
-      "city": "בית העם"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-11-06T10:00:00.000Z",
-        "timestamp_end": "2023-11-06T16:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/97B565E7-CBB4-49CD-AC78-EA88A28D998B"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "בני אפרים 218 תל אביב יפו, מכללת אפקה -בניין הקריה",
       "location": {
         "lat": 32.115041,
@@ -134,6 +116,24 @@
         "timestamp_start": "2023-11-06T08:00:00.000Z",
         "timestamp_end": "2023-11-06T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6F9A49B8-AA80-4D4B-9B32-62ED9D19BD82"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שד' ההסתדרות 55 חיפה, קניון סינמול לב המפרץ חיפה בחנות מול הסופר פארם",
+      "location": {
+        "lat": 32.7935409,
+        "lng": 35.0374184
+      },
+      "formatted": "שדרות ההסתדרות 55, חיפה, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-11-06T10:00:00.000Z",
+        "timestamp_end": "2023-11-06T16:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9734C388-3267-4C46-A082-7E99594C8915"
       }
     ]
   },
@@ -275,24 +275,6 @@
   },
   {
     "address": {
-      "unformatted": "אלנבי 110 תל אביב יפו, בית הכנסת הגדול",
-      "location": {
-        "lat": 32.0643997,
-        "lng": 34.7722854
-      },
-      "formatted": "אלנבי 110, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-11-07T10:00:00.000Z",
-        "timestamp_end": "2023-11-07T16:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5FCE2145-9B0C-4BCC-9483-1DEDD849F84C"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מבוא חמה, מועדון",
       "location": {
         "lat": 33.44852903890945,
@@ -306,6 +288,24 @@
         "timestamp_start": "2023-11-07T11:00:00.000Z",
         "timestamp_end": "2023-11-07T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/67D72592-666B-41C2-BFA4-40D71F2CB726"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אלנבי 110 תל אביב יפו, בית הכנסת הגדול",
+      "location": {
+        "lat": 32.0643997,
+        "lng": 34.7722854
+      },
+      "formatted": "אלנבי 110, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-11-07T10:00:00.000Z",
+        "timestamp_end": "2023-11-07T16:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5FCE2145-9B0C-4BCC-9483-1DEDD849F84C"
       }
     ]
   },
@@ -686,6 +686,24 @@
         "timestamp_start": "2023-11-13T10:00:00.000Z",
         "timestamp_end": "2023-11-13T16:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5D1A79EC-0CE2-470A-AF2C-82CAB2AE5723"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אורנים 11 קרית טבעון, בה\"ס רימונים - אולם ספורט",
+      "location": {
+        "lat": 32.7174964,
+        "lng": 35.1276946
+      },
+      "formatted": "האורנים 11, קרית טבעון, ישראל",
+      "city": "קרית טבעון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-11-13T14:00:00.000Z",
+        "timestamp_end": "2023-11-13T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B3DF21B8-9267-436E-951E-BDDB8080CFE9"
       }
     ]
   },
