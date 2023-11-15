@@ -409,6 +409,29 @@
   },
   {
     "address": {
+      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.4445161,
+        "lng": 34.9228603
+      },
+      "formatted": "אביאור 7-11, חדרה, ישראל",
+      "city": "חדרה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-11-17T06:00:00.000Z",
+        "timestamp_end": "2023-11-17T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1238A24F-69B4-4192-899D-EBD3915A874B"
+      },
+      {
+        "timestamp_start": "2023-11-24T06:00:00.000Z",
+        "timestamp_end": "2023-11-24T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3039102C-3A36-463E-A224-3697B4E3FA4E"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "חיפה, רח' יצחק שדה 10 (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 32.824678,
@@ -442,29 +465,6 @@
         "timestamp_start": "2023-12-15T06:00:00.000Z",
         "timestamp_end": "2023-12-15T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/348909E5-5A3A-47C9-B373-5DCB1120CE8D"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
-      "location": {
-        "lat": 32.4445161,
-        "lng": 34.9228603
-      },
-      "formatted": "אביאור 7-11, חדרה, ישראל",
-      "city": "חדרה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-11-17T06:00:00.000Z",
-        "timestamp_end": "2023-11-17T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1238A24F-69B4-4192-899D-EBD3915A874B"
-      },
-      {
-        "timestamp_start": "2023-11-24T06:00:00.000Z",
-        "timestamp_end": "2023-11-24T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3039102C-3A36-463E-A224-3697B4E3FA4E"
       }
     ]
   },
@@ -524,24 +524,6 @@
   },
   {
     "address": {
-      "unformatted": "ד.נ. אבטח יבנה, אולם אירועים",
-      "location": {
-        "lat": 31.891463,
-        "lng": 34.7333639
-      },
-      "formatted": "שידלובסקי 3, יבנה, ישראל",
-      "city": "יבנה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-11-19T12:00:00.000Z",
-        "timestamp_end": "2023-11-19T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5603C0A7-6484-4291-8C27-64E1D9C70D95"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "הדקל 17 בני עי''ש, מועדון הנוער",
       "location": {
         "lat": 31.7906353,
@@ -555,6 +537,24 @@
         "timestamp_start": "2023-11-19T12:00:00.000Z",
         "timestamp_end": "2023-11-19T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/81B7C5B2-9E72-40B9-9A7F-67AAF46E2CEB"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "להבים, בית המייסדים",
+      "location": {
+        "lat": 31.3725107,
+        "lng": 34.8159437
+      },
+      "formatted": "שדרות תמר 1, להבים, ישראל",
+      "city": "להבים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-11-19T10:00:00.000Z",
+        "timestamp_end": "2023-11-19T16:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/46A77554-666B-4442-A1DE-9BC302D30C30"
       }
     ]
   },
@@ -578,19 +578,19 @@
   },
   {
     "address": {
-      "unformatted": "להבים, בית המייסדים",
+      "unformatted": "ד.נ. אבטח יבנה, אולם אירועים",
       "location": {
-        "lat": 31.3725107,
-        "lng": 34.8159437
+        "lat": 31.891463,
+        "lng": 34.7333639
       },
-      "formatted": "שדרות תמר 1, להבים, ישראל",
-      "city": "להבים"
+      "formatted": "שידלובסקי 3, יבנה, ישראל",
+      "city": "יבנה"
     },
     "times": [
       {
-        "timestamp_start": "2023-11-19T10:00:00.000Z",
-        "timestamp_end": "2023-11-19T16:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/46A77554-666B-4442-A1DE-9BC302D30C30"
+        "timestamp_start": "2023-11-19T12:00:00.000Z",
+        "timestamp_end": "2023-11-19T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5603C0A7-6484-4291-8C27-64E1D9C70D95"
       }
     ]
   },
@@ -968,6 +968,24 @@
   },
   {
     "address": {
+      "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75 מד\"א מוצקין, - תחנת מד\"א",
+      "location": {
+        "lat": 32.8440668,
+        "lng": 35.0802042
+      },
+      "formatted": "החשמונאים 75, קרית מוצקין, ישראל",
+      "city": "קרית מוצקין"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-01T06:00:00.000Z",
+        "timestamp_end": "2023-12-01T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/726555DB-0775-48D2-B537-FE5D4E6225F6"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 31.7799797,
@@ -991,24 +1009,6 @@
         "timestamp_start": "2023-12-15T06:00:00.000Z",
         "timestamp_end": "2023-12-15T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9E1FB82C-B6D0-4AA7-B7FF-8A7CC9E72A3A"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75 מד\"א מוצקין, - תחנת מד\"א",
-      "location": {
-        "lat": 32.8440668,
-        "lng": 35.0802042
-      },
-      "formatted": "החשמונאים 75, קרית מוצקין, ישראל",
-      "city": "קרית מוצקין"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-01T06:00:00.000Z",
-        "timestamp_end": "2023-12-01T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/726555DB-0775-48D2-B537-FE5D4E6225F6"
       }
     ]
   },
