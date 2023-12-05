@@ -361,6 +361,24 @@
   },
   {
     "address": {
+      "unformatted": "נאות מרדכי, בית-אכסי",
+      "location": {
+        "lat": 33.159785,
+        "lng": 35.595602
+      },
+      "formatted": "נאות מרדכי, ישראל",
+      "city": "נאות מרדכי"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-07T13:00:00.000Z",
+        "timestamp_end": "2023-12-07T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/675EF07E-8B9D-4C49-BD61-755411D80463"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "ויצמן תל אביב יפו, בנין סמי עופר",
       "location": {
         "lat": 32.0792741,
@@ -428,24 +446,6 @@
         "timestamp_start": "2023-12-07T08:00:00.000Z",
         "timestamp_end": "2023-12-07T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/73007511-AE83-4FC8-97FB-5AD44C4CE9F2"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "נאות מרדכי, בית-אכסי",
-      "location": {
-        "lat": 33.159785,
-        "lng": 35.595602
-      },
-      "formatted": "נאות מרדכי, ישראל",
-      "city": "נאות מרדכי"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-07T13:00:00.000Z",
-        "timestamp_end": "2023-12-07T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/675EF07E-8B9D-4C49-BD61-755411D80463"
       }
     ]
   },
@@ -520,34 +520,6 @@
   },
   {
     "address": {
-      "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
-      "location": {
-        "lat": 32.3284579,
-        "lng": 34.8645215
-      },
-      "formatted": "בנימין מינץ 7, נתניה, ישראל",
-      "city": "נתניה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-08T06:30:00.000Z",
-        "timestamp_end": "2023-12-08T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CE3B253A-A9A7-4581-9DD1-1D54AE26DFAC"
-      },
-      {
-        "timestamp_start": "2023-12-22T06:30:00.000Z",
-        "timestamp_end": "2023-12-22T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5068073A-ABFD-4978-964F-1F9FC1BFAB55"
-      },
-      {
-        "timestamp_start": "2023-12-29T06:30:00.000Z",
-        "timestamp_end": "2023-12-29T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5F321062-BAE4-41D4-8D9A-7DA7A492B14F"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
       "location": {
         "lat": 32.8440668,
@@ -576,6 +548,34 @@
         "timestamp_start": "2023-12-29T06:00:00.000Z",
         "timestamp_end": "2023-12-29T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A4A059EF-F7AB-42D3-B0C0-E575A516580A"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.3284579,
+        "lng": 34.8645215
+      },
+      "formatted": "בנימין מינץ 7, נתניה, ישראל",
+      "city": "נתניה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-08T06:30:00.000Z",
+        "timestamp_end": "2023-12-08T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CE3B253A-A9A7-4581-9DD1-1D54AE26DFAC"
+      },
+      {
+        "timestamp_start": "2023-12-22T06:30:00.000Z",
+        "timestamp_end": "2023-12-22T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5068073A-ABFD-4978-964F-1F9FC1BFAB55"
+      },
+      {
+        "timestamp_start": "2023-12-29T06:30:00.000Z",
+        "timestamp_end": "2023-12-29T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5F321062-BAE4-41D4-8D9A-7DA7A492B14F"
       }
     ]
   },
@@ -617,37 +617,19 @@
   },
   {
     "address": {
-      "unformatted": "דרך עכו 192 קרית ביאליק, קריון - שדרה 3 בחנות מול אפריל",
+      "unformatted": "החרושת 10 חיפה, חוצות המפרץ - בניין 2 בין חנות איבורי ליונידרס",
       "location": {
-        "lat": 32.8441591,
-        "lng": 35.091106
+        "lat": 32.8098421,
+        "lng": 35.0565803
       },
-      "formatted": "דרך עכו 192, קריית ביאליק, ישראל",
-      "city": "קרית ביאליק"
+      "formatted": "החרושת 10, חיפה, ישראל",
+      "city": "חיפה"
     },
     "times": [
       {
-        "timestamp_start": "2023-12-11T11:00:00.000Z",
-        "timestamp_end": "2023-12-11T16:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A53C9CA8-748D-48CC-B1A0-B71CEE9FF55F"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "ברוכין, באולם רב תכלתי ברוכין מול בית הכנסת",
-      "location": {
-        "lat": 32.082231,
-        "lng": 35.094113
-      },
-      "formatted": "ברוכין",
-      "city": "ברוכין"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-11T15:00:00.000Z",
-        "timestamp_end": "2023-12-11T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DC009979-E59C-4CDC-B85E-2503CDD16A5E"
+        "timestamp_start": "2023-12-11T12:00:00.000Z",
+        "timestamp_end": "2023-12-11T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B0B3DEC5-5EC8-4A98-A58E-5DBE16B3735E"
       }
     ]
   },
@@ -671,19 +653,37 @@
   },
   {
     "address": {
-      "unformatted": "החרושת 10 חיפה, חוצות המפרץ - בניין 2 בין חנות איבורי ליונידרס",
+      "unformatted": "ברוכין, באולם רב תכלתי ברוכין מול בית הכנסת",
       "location": {
-        "lat": 32.8098421,
-        "lng": 35.0565803
+        "lat": 32.082231,
+        "lng": 35.094113
       },
-      "formatted": "החרושת 10, חיפה, ישראל",
-      "city": "חיפה"
+      "formatted": "ברוכין",
+      "city": "ברוכין"
     },
     "times": [
       {
-        "timestamp_start": "2023-12-11T12:00:00.000Z",
-        "timestamp_end": "2023-12-11T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B0B3DEC5-5EC8-4A98-A58E-5DBE16B3735E"
+        "timestamp_start": "2023-12-11T15:00:00.000Z",
+        "timestamp_end": "2023-12-11T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DC009979-E59C-4CDC-B85E-2503CDD16A5E"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דרך עכו 192 קרית ביאליק, קריון - שדרה 3 בחנות מול אפריל",
+      "location": {
+        "lat": 32.8441591,
+        "lng": 35.091106
+      },
+      "formatted": "דרך עכו 192, קריית ביאליק, ישראל",
+      "city": "קרית ביאליק"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-11T11:00:00.000Z",
+        "timestamp_end": "2023-12-11T16:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A53C9CA8-748D-48CC-B1A0-B71CEE9FF55F"
       }
     ]
   },
@@ -761,6 +761,24 @@
   },
   {
     "address": {
+      "unformatted": "עכו, קאנטרי חוף התמרים - באולם",
+      "location": {
+        "lat": 32.916691,
+        "lng": 35.082296
+      },
+      "formatted": "יהונתן החשמונאי 1, עכו, ישראל",
+      "city": "עכו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-12T13:00:00.000Z",
+        "timestamp_end": "2023-12-12T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EA8FE632-FFBF-4BF7-95DB-A83F328F7D72"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "דרך מנחם בגין 125 תל אביב יפו, קרית הממשלה - תל אביב",
       "location": {
         "lat": 32.072959,
@@ -779,19 +797,19 @@
   },
   {
     "address": {
-      "unformatted": "עכו, קאנטרי חוף התמרים - באולם",
+      "unformatted": "העצמאות 68 קרית גת, בית וקס",
       "location": {
-        "lat": 32.916691,
-        "lng": 35.082296
+        "lat": 31.6088356,
+        "lng": 34.7676516
       },
-      "formatted": "יהונתן החשמונאי 1, עכו, ישראל",
-      "city": "עכו"
+      "formatted": "שדרות העצמאות 68, קרית גת, ישראל",
+      "city": "קרית גת"
     },
     "times": [
       {
-        "timestamp_start": "2023-12-12T13:00:00.000Z",
-        "timestamp_end": "2023-12-12T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EA8FE632-FFBF-4BF7-95DB-A83F328F7D72"
+        "timestamp_start": "2023-12-13T14:00:00.000Z",
+        "timestamp_end": "2023-12-13T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EEC46E47-5053-45B8-A39A-7FE94238BA37"
       }
     ]
   },
@@ -941,24 +959,6 @@
   },
   {
     "address": {
-      "unformatted": "ד.נ. מנשה משמרות, במועדון לחבר",
-      "location": {
-        "lat": 32.486513,
-        "lng": 34.983892
-      },
-      "formatted": "משמרות, ישראל",
-      "city": "משמרות"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-19T15:00:00.000Z",
-        "timestamp_end": "2023-12-19T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4625D46D-6AE8-47CE-A921-8499B36432E7"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "בית יוסף 68 קרית גת, מתנ\"ס מעלה",
       "location": {
         "lat": 31.6189178,
@@ -972,6 +972,24 @@
         "timestamp_start": "2023-12-19T14:00:00.000Z",
         "timestamp_end": "2023-12-19T20:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EF9B6F65-9EE5-47CF-B6CA-943367B25034"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "ד.נ. מנשה משמרות, במועדון לחבר",
+      "location": {
+        "lat": 32.486513,
+        "lng": 34.983892
+      },
+      "formatted": "משמרות, ישראל",
+      "city": "משמרות"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-19T15:00:00.000Z",
+        "timestamp_end": "2023-12-19T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4625D46D-6AE8-47CE-A921-8499B36432E7"
       }
     ]
   },
