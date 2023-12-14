@@ -73,6 +73,24 @@
   },
   {
     "address": {
+      "unformatted": "ירושלים, בית חולים שערי צדק - חדר אירוח קומה 4",
+      "location": {
+        "lat": 31.773199,
+        "lng": 35.185261
+      },
+      "formatted": "שמואל בייט 12, ירושלים, 9103102, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-14T08:00:00.000Z",
+        "timestamp_end": "2023-12-14T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D35715EA-691B-4BE9-B1C5-71491BA4194E"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "ירושלים, רח' המ\"ג 7 רוממה (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 31.7913012,
@@ -106,6 +124,16 @@
         "timestamp_start": "2023-12-19T10:00:00.000Z",
         "timestamp_end": "2023-12-19T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D5A359B6-D3C3-4E7D-8D65-056B6FBE48CD"
+      },
+      {
+        "timestamp_start": "2023-12-20T07:00:00.000Z",
+        "timestamp_end": "2023-12-20T15:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3B3B7517-E6DF-4A68-AC72-D3FBD1F6E87E"
+      },
+      {
+        "timestamp_start": "2023-12-21T07:00:00.000Z",
+        "timestamp_end": "2023-12-21T15:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4EB3F062-1D68-400B-A107-E138290D7CAC"
       },
       {
         "timestamp_start": "2023-12-22T06:00:00.000Z",
@@ -174,24 +202,6 @@
         "timestamp_start": "2023-12-14T08:00:00.000Z",
         "timestamp_end": "2023-12-14T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/ECC9EECA-340E-472A-9ED8-0A37A1A78956"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "ירושלים, בית חולים שערי צדק - חדר אירוח קומה 4",
-      "location": {
-        "lat": 31.773199,
-        "lng": 35.185261
-      },
-      "formatted": "שמואל בייט 12, ירושלים, 9103102, ישראל",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-14T08:00:00.000Z",
-        "timestamp_end": "2023-12-14T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D35715EA-691B-4BE9-B1C5-71491BA4194E"
       }
     ]
   },
@@ -338,24 +348,6 @@
   },
   {
     "address": {
-      "unformatted": "המכבים 30 פתח תקווה, תחנת מד\"א, - תחנת מד\"א",
-      "location": {
-        "lat": 33.44852903890945,
-        "lng": 32.05693494134149
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-15T06:00:00.000Z",
-        "timestamp_end": "2023-12-15T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E8DBB28A-C368-41F6-92CB-42399363DE85"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75, קרית מוצקין, - תחנת מד\"א",
       "location": {
         "lat": 32.8440668,
@@ -374,19 +366,37 @@
   },
   {
     "address": {
-      "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
+      "unformatted": "המכבים 30 פתח תקווה, תחנת מד\"א, - תחנת מד\"א",
       "location": {
-        "lat": 32.790333613593994,
-        "lng": 35.533051427181455
+        "lat": 33.44852903890945,
+        "lng": 32.05693494134149
       },
-      "formatted": "טבריה, ישראל",
-      "city": "טבריה"
+      "formatted": "bad_address",
+      "city": ""
     },
     "times": [
       {
-        "timestamp_start": "2023-12-15T07:00:00.000Z",
-        "timestamp_end": "2023-12-15T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5F45E9B9-972A-4711-9575-D62239D7E297"
+        "timestamp_start": "2023-12-15T06:00:00.000Z",
+        "timestamp_end": "2023-12-15T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E8DBB28A-C368-41F6-92CB-42399363DE85"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "הרוקמים 1 חולון, בתחנת מד\"א חולון, - תחנת מד\"א",
+      "location": {
+        "lat": 32.0078603,
+        "lng": 34.8009009
+      },
+      "formatted": "הרוקמים, חולון, ישראל",
+      "city": "חולון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-15T06:00:00.000Z",
+        "timestamp_end": "2023-12-15T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3203E3A4-6778-4DA1-9C0E-4F723454BD82"
       }
     ]
   },
@@ -420,19 +430,19 @@
   },
   {
     "address": {
-      "unformatted": "הרוקמים 1 חולון, בתחנת מד\"א חולון, - תחנת מד\"א",
+      "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
       "location": {
-        "lat": 32.0078603,
-        "lng": 34.8009009
+        "lat": 32.790333613593994,
+        "lng": 35.533051427181455
       },
-      "formatted": "הרוקמים, חולון, ישראל",
-      "city": "חולון"
+      "formatted": "טבריה, ישראל",
+      "city": "טבריה"
     },
     "times": [
       {
-        "timestamp_start": "2023-12-15T06:00:00.000Z",
-        "timestamp_end": "2023-12-15T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3203E3A4-6778-4DA1-9C0E-4F723454BD82"
+        "timestamp_start": "2023-12-15T07:00:00.000Z",
+        "timestamp_end": "2023-12-15T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5F45E9B9-972A-4711-9575-D62239D7E297"
       }
     ]
   },
@@ -681,24 +691,6 @@
   },
   {
     "address": {
-      "unformatted": "אהבת ישראל 26 כוכב יעקב, אולם נוף ציון ישוב תל ציון",
-      "location": {
-        "lat": 31.8781964,
-        "lng": 35.2391278
-      },
-      "formatted": "אהבת ישראל 26, כוכב יעקב",
-      "city": "כוכב יעקב"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-17T15:30:00.000Z",
-        "timestamp_end": "2023-12-17T20:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2D512D71-4F5B-47EB-94C5-F023E90E490C"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "גל 3 ירושלים, אולם ספורט מנהל קהילתי פסגת זאב",
       "location": {
         "lat": 31.8250179,
@@ -712,6 +704,24 @@
         "timestamp_start": "2023-12-17T13:00:00.000Z",
         "timestamp_end": "2023-12-17T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/23C95F6C-748B-4C3E-8470-935A38E863F6"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אהבת ישראל 26 כוכב יעקב, אולם נוף ציון ישוב תל ציון",
+      "location": {
+        "lat": 31.8781964,
+        "lng": 35.2391278
+      },
+      "formatted": "אהבת ישראל 26, כוכב יעקב",
+      "city": "כוכב יעקב"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-17T15:30:00.000Z",
+        "timestamp_end": "2023-12-17T20:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2D512D71-4F5B-47EB-94C5-F023E90E490C"
       }
     ]
   },
@@ -789,6 +799,24 @@
   },
   {
     "address": {
+      "unformatted": "אבא הלל 3 רמת גן, בית הראל",
+      "location": {
+        "lat": 33.44852903890945,
+        "lng": 32.05693494134149
+      },
+      "formatted": "bad_address",
+      "city": ""
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-17T07:00:00.000Z",
+        "timestamp_end": "2023-12-17T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/52A919B9-B553-400D-A379-8F30463573E5"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "באר שבע, מגדל -7",
       "location": {
         "lat": 31.2451142,
@@ -820,24 +848,6 @@
         "timestamp_start": "2023-12-17T11:00:00.000Z",
         "timestamp_end": "2023-12-17T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/26E5B3A9-1750-453D-A88B-47D602518613"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "אבא הלל 3 רמת גן, בית הראל",
-      "location": {
-        "lat": 33.44852903890945,
-        "lng": 32.05693494134149
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-17T07:00:00.000Z",
-        "timestamp_end": "2023-12-17T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/52A919B9-B553-400D-A379-8F30463573E5"
       }
     ]
   },
@@ -951,6 +961,24 @@
   },
   {
     "address": {
+      "unformatted": "איילת השחר, מלון איילה איילת השחר",
+      "location": {
+        "lat": 33.021115,
+        "lng": 35.576732
+      },
+      "formatted": "איילת השחר, ישראל",
+      "city": "איילת השחר"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-18T12:00:00.000Z",
+        "timestamp_end": "2023-12-18T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F8B9D5EA-76E6-4AB9-A3D5-E81B004F2AAB"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "ד.נ משגב מנוף, מועדון לחבר",
       "location": {
         "lat": 32.853258,
@@ -1005,24 +1033,6 @@
   },
   {
     "address": {
-      "unformatted": "אנגל 78 כפר סבא, דמרי סנטר-חלל סטודיו ק 1- צמוד למשרדי ההנהלה",
-      "location": {
-        "lat": 32.1981789,
-        "lng": 34.8905237
-      },
-      "formatted": "אנגל 78, כפר סבא, ישראל",
-      "city": "כפר סבא"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-19T14:00:00.000Z",
-        "timestamp_end": "2023-12-19T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/99BC9D36-B2E5-4478-B356-2E2B6D79C1C7"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "זלמן שז\"ר 1 צפת, מתנ\"ס סקטר",
       "location": {
         "lat": 32.9658813,
@@ -1041,19 +1051,19 @@
   },
   {
     "address": {
-      "unformatted": "חלמיש, אולם שמחות מתחת לביה\"כ המרכזי חלמיש-נווה צוף",
+      "unformatted": "אנגל 78 כפר סבא, דמרי סנטר-חלל סטודיו ק 1- צמוד למשרדי ההנהלה",
       "location": {
-        "lat": 32.008313,
-        "lng": 35.128876
+        "lat": 32.1981789,
+        "lng": 34.8905237
       },
-      "formatted": "חלמיש",
-      "city": "חלמיש"
+      "formatted": "אנגל 78, כפר סבא, ישראל",
+      "city": "כפר סבא"
     },
     "times": [
       {
-        "timestamp_start": "2023-12-20T15:30:00.000Z",
-        "timestamp_end": "2023-12-20T20:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3A844E5C-57A0-4BA6-BB7E-541FEBCACE24"
+        "timestamp_start": "2023-12-19T14:00:00.000Z",
+        "timestamp_end": "2023-12-19T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/99BC9D36-B2E5-4478-B356-2E2B6D79C1C7"
       }
     ]
   },
@@ -1072,6 +1082,24 @@
         "timestamp_start": "2023-12-20T14:30:00.000Z",
         "timestamp_end": "2023-12-20T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8C6F16D0-E6A7-4DDC-8DE9-E26CF31D24FB"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "חלמיש, אולם שמחות מתחת לביה\"כ המרכזי חלמיש-נווה צוף",
+      "location": {
+        "lat": 32.008313,
+        "lng": 35.128876
+      },
+      "formatted": "חלמיש",
+      "city": "חלמיש"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-20T15:30:00.000Z",
+        "timestamp_end": "2023-12-20T20:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3A844E5C-57A0-4BA6-BB7E-541FEBCACE24"
       }
     ]
   },
@@ -1167,24 +1195,6 @@
   },
   {
     "address": {
-      "unformatted": "הרוקמים 26 חולון, לובי בניין B עזריאלי חולון",
-      "location": {
-        "lat": 32.0077569,
-        "lng": 34.8006392
-      },
-      "formatted": "הרוקמים 26, חולון, ישראל",
-      "city": "חולון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-21T08:00:00.000Z",
-        "timestamp_end": "2023-12-21T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E565DA8E-2549-40FF-AB07-DF9FBEBB60AF"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "נווה דניאל, אולם כינוסים גדול",
       "location": {
         "lat": 31.67632,
@@ -1198,6 +1208,24 @@
         "timestamp_start": "2023-12-21T15:00:00.000Z",
         "timestamp_end": "2023-12-21T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/968867D7-1971-4D5A-A9E7-2A2ECB31A54C"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "הרוקמים 26 חולון, לובי בניין B עזריאלי חולון",
+      "location": {
+        "lat": 32.0077569,
+        "lng": 34.8006392
+      },
+      "formatted": "הרוקמים 26, חולון, ישראל",
+      "city": "חולון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-21T08:00:00.000Z",
+        "timestamp_end": "2023-12-21T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E565DA8E-2549-40FF-AB07-DF9FBEBB60AF"
       }
     ]
   },
