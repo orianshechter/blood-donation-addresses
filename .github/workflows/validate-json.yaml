@@ -1,0 +1,25 @@
+name: Run Python Command on Pull Request
+
+on:
+  pull_request:
+    branches:
+      - 'main'
+
+jobs:
+  run_python_command:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.9
+
+      - name: Run Python Command
+        run: python -mjson.tool "addressesGeoPoints.json" > /dev/null
+
