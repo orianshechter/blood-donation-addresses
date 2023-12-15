@@ -1,4 +1,4 @@
-name: Run Python Command on Pull Request
+name: Validate JSON file on addressesGeoPoints
 
 on:
   pull_request:
@@ -6,9 +6,8 @@ on:
       - 'main'
 
 jobs:
-  run_python_command:
+  validate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
