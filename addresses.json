@@ -376,6 +376,24 @@
   },
   {
     "address": {
+      "unformatted": "הרוקמים 26 חולון, לובי בניין A",
+      "location": {
+        "lat": 32.0077569,
+        "lng": 34.8006392
+      },
+      "formatted": "הרוקמים 26, חולון, ישראל",
+      "city": "חולון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-21T08:00:00.000Z",
+        "timestamp_end": "2023-12-21T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E565DA8E-2549-40FF-AB07-DF9FBEBB60AF"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "עראבה, בכביש הראשי בכניסה לבי\"ס אלבטוף ליד אולם נאגי אלעלי",
       "location": {
         "lat": 32.85869435233576,
@@ -412,24 +430,6 @@
   },
   {
     "address": {
-      "unformatted": "הרוקמים 26 חולון, לובי בניין A",
-      "location": {
-        "lat": 32.0077569,
-        "lng": 34.8006392
-      },
-      "formatted": "הרוקמים 26, חולון, ישראל",
-      "city": "חולון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-21T08:00:00.000Z",
-        "timestamp_end": "2023-12-21T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E565DA8E-2549-40FF-AB07-DF9FBEBB60AF"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "נווה דניאל, אולם כינוסים גדול",
       "location": {
         "lat": 31.67632,
@@ -461,24 +461,6 @@
         "timestamp_start": "2023-12-21T14:00:00.000Z",
         "timestamp_end": "2023-12-21T20:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/71A76C2C-C989-4324-A90F-CF53AECDFCC4"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "אושה, מועדון לחבר",
-      "location": {
-        "lat": 32.7962394,
-        "lng": 35.1147203
-      },
-      "formatted": "אושה, ישראל",
-      "city": "אושה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-21T15:00:00.000Z",
-        "timestamp_end": "2023-12-21T19:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/72EA1823-C73F-45CC-94BA-CBF0A1345D58"
       }
     ]
   },
@@ -538,37 +520,19 @@
   },
   {
     "address": {
-      "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
+      "unformatted": "אושה, מועדון לחבר",
       "location": {
-        "lat": 32.69315354378295,
-        "lng": 35.30500500291231
+        "lat": 32.7962394,
+        "lng": 35.1147203
       },
-      "formatted": "נוף הגליל, דודג׳ סנטר",
-      "city": "נוף הגליל"
+      "formatted": "אושה, ישראל",
+      "city": "אושה"
     },
     "times": [
       {
-        "timestamp_start": "2023-12-22T06:30:00.000Z",
-        "timestamp_end": "2023-12-22T11:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EE4030CF-1811-4B31-9F27-8CAB4C331D82"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "כרמיאל, מתחם ביג במרכז החניה",
-      "location": {
-        "lat": 32.92742185601972,
-        "lng": 35.32228989234057
-      },
-      "formatted": "כרמיאל, ישראל",
-      "city": "כרמיאל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-22T06:30:00.000Z",
-        "timestamp_end": "2023-12-22T11:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/70E38F4F-453D-4F72-82D8-431039EA0301"
+        "timestamp_start": "2023-12-21T15:00:00.000Z",
+        "timestamp_end": "2023-12-21T19:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/72EA1823-C73F-45CC-94BA-CBF0A1345D58"
       }
     ]
   },
@@ -630,6 +594,42 @@
   },
   {
     "address": {
+      "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
+      "location": {
+        "lat": 32.69315354378295,
+        "lng": 35.30500500291231
+      },
+      "formatted": "נוף הגליל, דודג׳ סנטר",
+      "city": "נוף הגליל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-22T06:30:00.000Z",
+        "timestamp_end": "2023-12-22T11:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EE4030CF-1811-4B31-9F27-8CAB4C331D82"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כרמיאל, מתחם ביג במרכז החניה",
+      "location": {
+        "lat": 32.92742185601972,
+        "lng": 35.32228989234057
+      },
+      "formatted": "כרמיאל, ישראל",
+      "city": "כרמיאל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-22T06:30:00.000Z",
+        "timestamp_end": "2023-12-22T11:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/70E38F4F-453D-4F72-82D8-431039EA0301"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "חיפה, רח' יצחק שדה 10 (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 32.824678,
@@ -686,6 +686,24 @@
   },
   {
     "address": {
+      "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+      "location": {
+        "lat": 32.8440668,
+        "lng": 35.0802042
+      },
+      "formatted": "החשמונאים 75, קרית מוצקין, ישראל",
+      "city": "קרית מוצקין"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-22T06:00:00.000Z",
+        "timestamp_end": "2023-12-22T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D019B336-6698-4220-96BE-CB08C769AF25"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
       "location": {
         "lat": 32.4445161,
@@ -709,24 +727,6 @@
   },
   {
     "address": {
-      "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
-      "location": {
-        "lat": 32.8440668,
-        "lng": 35.0802042
-      },
-      "formatted": "החשמונאים 75, קרית מוצקין, ישראל",
-      "city": "קרית מוצקין"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-22T06:00:00.000Z",
-        "timestamp_end": "2023-12-22T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D019B336-6698-4220-96BE-CB08C769AF25"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "חיפה, מתחם קניות חוצות המפרץ - ליד גרג",
       "location": {
         "lat": 32.8092185,
@@ -740,24 +740,6 @@
         "timestamp_start": "2023-12-22T06:00:00.000Z",
         "timestamp_end": "2023-12-22T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7B014135-AAE5-4790-980B-09FAD2E7A8CE"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "ד.נ אשרת בן עמי, מועדון",
-      "location": {
-        "lat": 33.44852903890945,
-        "lng": 32.05693494134149
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-24T12:00:00.000Z",
-        "timestamp_end": "2023-12-24T17:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4AC3AACB-165E-499D-8340-14117CBE77A2"
       }
     ]
   },
@@ -781,6 +763,24 @@
   },
   {
     "address": {
+      "unformatted": "ד.נ אשרת בן עמי, מועדון",
+      "location": {
+        "lat": 33.44852903890945,
+        "lng": 32.05693494134149
+      },
+      "formatted": "bad_address",
+      "city": ""
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-24T12:00:00.000Z",
+        "timestamp_end": "2023-12-24T17:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4AC3AACB-165E-499D-8340-14117CBE77A2"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "תל אביב יפו, בקניון עזריאלי תל אביב בלובי הכניסה בשער קפלן",
       "location": {
         "lat": 32.07373854959996,
@@ -794,24 +794,6 @@
         "timestamp_start": "2023-12-24T10:00:00.000Z",
         "timestamp_end": "2023-12-24T16:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D21365B8-BCA9-445F-98B7-A4B36F1CF0A6"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "שרי ישראל 15 ירושלים, חברת מגדל ירושלים",
-      "location": {
-        "lat": 31.7891446,
-        "lng": 35.2061448
-      },
-      "formatted": "שדרות שרי ישראל 15, ירושלים, ישראל",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-24T08:00:00.000Z",
-        "timestamp_end": "2023-12-24T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F09E1D39-E33F-4CCA-BCAB-30DA82B5A5F2"
       }
     ]
   },
@@ -835,24 +817,6 @@
   },
   {
     "address": {
-      "unformatted": "פלוגת מילואים מוצב אדוריים",
-      "location": {
-        "lat": 31.501789479678052,
-        "lng": 35.02268252618174
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-24T08:00:00.000Z",
-        "timestamp_end": "2023-12-24T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C52C8CBA-819B-4643-85B1-8EDAB83831BE"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "קיבוץ נען",
       "location": {
         "lat": 31.883208,
@@ -871,6 +835,42 @@
   },
   {
     "address": {
+      "unformatted": "שרי ישראל 15 ירושלים, חברת מגדל ירושלים",
+      "location": {
+        "lat": 31.7891446,
+        "lng": 35.2061448
+      },
+      "formatted": "שדרות שרי ישראל 15, ירושלים, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-24T08:00:00.000Z",
+        "timestamp_end": "2023-12-24T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F09E1D39-E33F-4CCA-BCAB-30DA82B5A5F2"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "פלוגת מילואים מוצב אדוריים",
+      "location": {
+        "lat": 31.501789479678052,
+        "lng": 35.02268252618174
+      },
+      "formatted": "bad_address",
+      "city": ""
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-24T08:00:00.000Z",
+        "timestamp_end": "2023-12-24T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C52C8CBA-819B-4643-85B1-8EDAB83831BE"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "גבת, חדר אוכל",
       "location": {
         "lat": 32.6765596,
@@ -884,6 +884,24 @@
         "timestamp_start": "2023-12-25T14:00:00.000Z",
         "timestamp_end": "2023-12-25T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/315E704B-7C6C-40B9-B862-3EEB50091FFF"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דרך מנחם בגין 121 תל אביב יפו, איירונסורס",
+      "location": {
+        "lat": 32.0720672,
+        "lng": 34.7888183
+      },
+      "formatted": "דרך מנחם בגין 121, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-25T08:00:00.000Z",
+        "timestamp_end": "2023-12-25T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DC2EDDC9-39EC-4EF9-8CEA-C1A7E4597280"
       }
     ]
   },
@@ -925,24 +943,6 @@
   },
   {
     "address": {
-      "unformatted": "דרך מנחם בגין 121 תל אביב יפו, איירונסורס",
-      "location": {
-        "lat": 32.0720672,
-        "lng": 34.7888183
-      },
-      "formatted": "דרך מנחם בגין 121, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-25T08:00:00.000Z",
-        "timestamp_end": "2023-12-25T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DC2EDDC9-39EC-4EF9-8CEA-C1A7E4597280"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "הלל יפה 1 חדרה, מרכז סיוע מתנדבי חדרה",
       "location": {
         "lat": 32.4332201,
@@ -966,6 +966,24 @@
   },
   {
     "address": {
+      "unformatted": "ההגנה 13 ירושלים, מתנס קהילתי גבעה הצרפתית",
+      "location": {
+        "lat": 31.804375,
+        "lng": 35.2390896
+      },
+      "formatted": "בר כוכבא, R63Q+QJ4, Jerusalem",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2023-12-26T15:00:00.000Z",
+        "timestamp_end": "2023-12-26T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9B08940C-3B76-4B98-A8D4-AA681A2B65B3"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "שדרות אליהו 2 מזכרת בתיה, מרכז קהילתי מפגשים",
       "location": {
         "lat": 31.8550973,
@@ -979,24 +997,6 @@
         "timestamp_start": "2023-12-26T14:00:00.000Z",
         "timestamp_end": "2023-12-26T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9A22B005-2F98-4FCF-B89E-C556EB8618F9"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "קדומים צפון קדומים, אולם שירת מרים",
-      "location": {
-        "lat": 32.21539281045485,
-        "lng": 35.15892418719246
-      },
-      "formatted": "קדומים",
-      "city": "קדומים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2023-12-26T15:00:00.000Z",
-        "timestamp_end": "2023-12-26T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/278CB83A-E0D9-49DE-8864-5B3BCC110A61"
       }
     ]
   },
@@ -1020,19 +1020,19 @@
   },
   {
     "address": {
-      "unformatted": "ההגנה 13 ירושלים, מתנס קהילתי גבעה הצרפתית",
+      "unformatted": "קדומים צפון קדומים, אולם שירת מרים",
       "location": {
-        "lat": 31.804375,
-        "lng": 35.2390896
+        "lat": 32.21539281045485,
+        "lng": 35.15892418719246
       },
-      "formatted": "בר כוכבא, R63Q+QJ4, Jerusalem",
-      "city": "ירושלים"
+      "formatted": "קדומים",
+      "city": "קדומים"
     },
     "times": [
       {
         "timestamp_start": "2023-12-26T15:00:00.000Z",
         "timestamp_end": "2023-12-26T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9B08940C-3B76-4B98-A8D4-AA681A2B65B3"
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/278CB83A-E0D9-49DE-8864-5B3BCC110A61"
       }
     ]
   },
