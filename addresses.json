@@ -88,11 +88,6 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/129B1CDE-5678-42FF-AF58-A51A7BC47281"
       },
       {
-        "timestamp_start": "2024-01-11T14:00:00.000Z",
-        "timestamp_end": "2024-01-11T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9874D7F7-3A1A-459D-8296-8E537D1B5C9D"
-      },
-      {
         "timestamp_start": "2024-01-11T08:00:00.000Z",
         "timestamp_end": "2024-01-11T14:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5FC4D778-5DE9-49C7-9446-D0D40E22DE8D"
@@ -230,6 +225,29 @@
   },
   {
     "address": {
+      "unformatted": "העליה השניה 8 חיפה, בי\"ח רמב\"ם - קניון סגול",
+      "location": {
+        "lat": 32.8329875,
+        "lng": 34.9857066
+      },
+      "formatted": "העלייה השנייה 8, חיפה, 3109601, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-01-10T07:00:00.000Z",
+        "timestamp_end": "2024-01-10T13:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2CA07D1A-AA9F-4E4A-929C-27B805CD5E77"
+      },
+      {
+        "timestamp_start": "2024-01-11T07:00:00.000Z",
+        "timestamp_end": "2024-01-11T13:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AEEB65EB-997F-4DF6-824B-428B90CBD5E0"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "חיפה, מתחם קניות חוצות המפרץ - ליד גרג",
       "location": {
         "lat": 32.8092185,
@@ -261,29 +279,6 @@
         "timestamp_start": "2024-01-10T13:00:00.000Z",
         "timestamp_end": "2024-01-10T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B1CF5924-A51B-447B-BAFC-D7D2452F996D"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "העליה השניה 8 חיפה, בי\"ח רמב\"ם - קניון סגול",
-      "location": {
-        "lat": 32.8329875,
-        "lng": 34.9857066
-      },
-      "formatted": "העלייה השנייה 8, חיפה, 3109601, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-01-10T07:00:00.000Z",
-        "timestamp_end": "2024-01-10T13:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2CA07D1A-AA9F-4E4A-929C-27B805CD5E77"
-      },
-      {
-        "timestamp_start": "2024-01-11T07:00:00.000Z",
-        "timestamp_end": "2024-01-11T13:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AEEB65EB-997F-4DF6-824B-428B90CBD5E0"
       }
     ]
   },
@@ -330,24 +325,6 @@
   },
   {
     "address": {
-      "unformatted": "האון, כפר הנופש",
-      "location": {
-        "lat": 32.7241034,
-        "lng": 35.6191177
-      },
-      "formatted": "כפר הנופש האון, ד.נ עמק הירדן קיבוץ, האון",
-      "city": "האון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-01-10T14:00:00.000Z",
-        "timestamp_end": "2024-01-10T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3D7675F1-5504-4E7D-B6AE-4A2FD3072C59"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "שחם 36 פתח תקווה, בית רם",
       "location": {
         "lat": 32.0857654,
@@ -361,6 +338,24 @@
         "timestamp_start": "2024-01-10T08:00:00.000Z",
         "timestamp_end": "2024-01-10T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/556F68E9-1E94-43ED-89AE-C50A67F2EE04"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "האון, כפר הנופש",
+      "location": {
+        "lat": 32.7241034,
+        "lng": 35.6191177
+      },
+      "formatted": "כפר הנופש האון, ד.נ עמק הירדן קיבוץ, האון",
+      "city": "האון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-01-10T14:00:00.000Z",
+        "timestamp_end": "2024-01-10T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3D7675F1-5504-4E7D-B6AE-4A2FD3072C59"
       }
     ]
   },
@@ -530,6 +525,24 @@
   },
   {
     "address": {
+      "unformatted": "עראבה, בכביש הראשי בכניסה לבי\"ס אלבטוף ליד אולם נאגי אלעלי",
+      "location": {
+        "lat": 32.85869435233576,
+        "lng": 35.33514604611879
+      },
+      "formatted": "רומת היב, ישראל",
+      "city": "עראבה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-01-11T12:00:00.000Z",
+        "timestamp_end": "2024-01-11T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5AFB98CC-0016-4F1A-A03C-4638953C44CC"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "תל אביב יפו, בקניון עזריאלי תל אביב בלובי הכניסה בשער קפלן",
       "location": {
         "lat": 32.07373854959996,
@@ -561,24 +574,6 @@
         "timestamp_start": "2024-01-11T10:00:00.000Z",
         "timestamp_end": "2024-01-11T16:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2FE6AD32-6843-40B0-B52B-AB20927A3DDD"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "עראבה, בכביש הראשי בכניסה לבי\"ס אלבטוף ליד אולם נאגי אלעלי",
-      "location": {
-        "lat": 32.85869435233576,
-        "lng": 35.33514604611879
-      },
-      "formatted": "רומת היב, ישראל",
-      "city": "עראבה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-01-11T12:00:00.000Z",
-        "timestamp_end": "2024-01-11T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5AFB98CC-0016-4F1A-A03C-4638953C44CC"
       }
     ]
   },
@@ -896,6 +891,52 @@
   },
   {
     "address": {
+      "unformatted": "תל אביב יפו, דיזנגוף סנטר בגלריה",
+      "location": {
+        "lat": 32.0751081,
+        "lng": 34.7749424
+      },
+      "formatted": "דיזנגוף 50, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-01-12T07:00:00.000Z",
+        "timestamp_end": "2024-01-12T11:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E8510226-2122-4B18-925F-C85B56013270"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
+      "location": {
+        "lat": 32.790333613593994,
+        "lng": 35.533051427181455
+      },
+      "formatted": "טבריה, ישראל",
+      "city": "טבריה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-01-12T06:30:00.000Z",
+        "timestamp_end": "2024-01-12T11:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AF3540B6-F1C4-451B-8D67-3C527662845C"
+      },
+      {
+        "timestamp_start": "2024-02-02T06:30:00.000Z",
+        "timestamp_end": "2024-02-02T11:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/46E11899-97D5-4E77-BBE5-FFFDA2246206"
+      },
+      {
+        "timestamp_start": "2024-02-09T06:30:00.000Z",
+        "timestamp_end": "2024-02-09T11:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1B0C4F82-A8DE-4410-8A00-F3DDF4A90C00"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
       "location": {
         "lat": 32.4445161,
@@ -914,24 +955,6 @@
         "timestamp_start": "2024-01-19T06:00:00.000Z",
         "timestamp_end": "2024-01-19T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8BD3DD72-D5F8-4D59-871A-72B6366E0284"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "תל אביב יפו, דיזנגוף סנטר בגלריה",
-      "location": {
-        "lat": 32.0751081,
-        "lng": 34.7749424
-      },
-      "formatted": "דיזנגוף 50, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-01-12T07:00:00.000Z",
-        "timestamp_end": "2024-01-12T11:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E8510226-2122-4B18-925F-C85B56013270"
       }
     ]
   },
@@ -973,34 +996,6 @@
         "timestamp_start": "2024-01-19T06:00:00.000Z",
         "timestamp_end": "2024-01-19T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FE0A8D68-3AE7-4C1A-ADEF-184740F6F911"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
-      "location": {
-        "lat": 32.790333613593994,
-        "lng": 35.533051427181455
-      },
-      "formatted": "טבריה, ישראל",
-      "city": "טבריה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-01-12T06:30:00.000Z",
-        "timestamp_end": "2024-01-12T11:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AF3540B6-F1C4-451B-8D67-3C527662845C"
-      },
-      {
-        "timestamp_start": "2024-02-02T06:30:00.000Z",
-        "timestamp_end": "2024-02-02T11:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/46E11899-97D5-4E77-BBE5-FFFDA2246206"
-      },
-      {
-        "timestamp_start": "2024-02-09T06:30:00.000Z",
-        "timestamp_end": "2024-02-09T11:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1B0C4F82-A8DE-4410-8A00-F3DDF4A90C00"
       }
     ]
   },
