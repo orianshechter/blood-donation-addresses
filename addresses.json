@@ -37,6 +37,24 @@
   },
   {
     "address": {
+      "unformatted": "סוקולוב 52 (בסוף הפסאז') רמת השרון, סניף ויצ\"ו רמה\"ש",
+      "location": {
+        "lat": 32.1439655,
+        "lng": 34.8379397
+      },
+      "formatted": "סוקולוב 52, רמת השרון, ישראל",
+      "city": "רמת השרון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-02-13T14:00:00.000Z",
+        "timestamp_end": "2024-02-13T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9F695353-ED78-4531-9C1C-57114980EC45"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "הזורע, מועדון לחבר",
       "location": {
         "lat": 32.644516,
@@ -68,24 +86,6 @@
         "timestamp_start": "2024-02-13T13:00:00.000Z",
         "timestamp_end": "2024-02-13T18:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C32DC994-7419-4BA4-BED1-24FCDE84C630"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "סוקולוב 52 (בסוף הפסאז') רמת השרון, סניף ויצ\"ו רמה\"ש",
-      "location": {
-        "lat": 32.1439655,
-        "lng": 34.8379397
-      },
-      "formatted": "סוקולוב 52, רמת השרון, ישראל",
-      "city": "רמת השרון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-02-13T14:00:00.000Z",
-        "timestamp_end": "2024-02-13T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9F695353-ED78-4531-9C1C-57114980EC45"
       }
     ]
   },
@@ -778,42 +778,6 @@
   },
   {
     "address": {
-      "unformatted": "אבטליון, מועדון נוער",
-      "location": {
-        "lat": 32.8372754,
-        "lng": 35.3471772
-      },
-      "formatted": "אבטליון, ישראל",
-      "city": "אבטליון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-02-15T15:00:00.000Z",
-        "timestamp_end": "2024-02-15T19:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/55E7A777-BE55-4C93-911E-8BC5833512E7"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "פז 612 מודיעין מכבים רעות, בני עקיבא מק\"ש",
-      "location": {
-        "lat": 31.908054,
-        "lng": 34.9908389
-      },
-      "formatted": "פז 612, מודיעין מכבים רעות, ישראל",
-      "city": "מודיעין מכבים רעות"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-02-15T14:00:00.000Z",
-        "timestamp_end": "2024-02-15T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/205A4BBC-A9D0-44D7-8D8B-B6151C4F8798"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "רקאנטי 6 ירושלים, מתנ\"ס רמות אלון שכונת רמות ב'",
       "location": {
         "lat": 31.8147194,
@@ -845,6 +809,42 @@
         "timestamp_start": "2024-02-15T14:00:00.000Z",
         "timestamp_end": "2024-02-15T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DBA02E5E-A991-4E5F-8031-F69CBC8303B3"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "פז 612 מודיעין מכבים רעות, בני עקיבא מק\"ש",
+      "location": {
+        "lat": 31.908054,
+        "lng": 34.9908389
+      },
+      "formatted": "פז 612, מודיעין מכבים רעות, ישראל",
+      "city": "מודיעין מכבים רעות"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-02-15T14:00:00.000Z",
+        "timestamp_end": "2024-02-15T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/205A4BBC-A9D0-44D7-8D8B-B6151C4F8798"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אבטליון, מועדון נוער",
+      "location": {
+        "lat": 32.8372754,
+        "lng": 35.3471772
+      },
+      "formatted": "אבטליון, ישראל",
+      "city": "אבטליון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-02-15T15:00:00.000Z",
+        "timestamp_end": "2024-02-15T19:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/55E7A777-BE55-4C93-911E-8BC5833512E7"
       }
     ]
   },
@@ -1218,57 +1218,6 @@
   },
   {
     "address": {
-      "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
-      "location": {
-        "lat": 32.3284579,
-        "lng": 34.8645215
-      },
-      "formatted": "בנימין מינץ 7, נתניה, ישראל",
-      "city": "נתניה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-02-16T06:30:00.000Z",
-        "timestamp_end": "2024-02-16T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D958766D-EACB-463C-A48C-1B19B8717C48"
-      },
-      {
-        "timestamp_start": "2024-02-23T06:30:00.000Z",
-        "timestamp_end": "2024-02-23T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7E50E6F4-9BD9-463F-8BFC-F45CF500BEAF"
-      },
-      {
-        "timestamp_start": "2024-03-01T06:30:00.000Z",
-        "timestamp_end": "2024-03-01T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B84A99F6-4C2A-43FC-9510-08294562A3E7"
-      },
-      {
-        "timestamp_start": "2024-03-08T06:30:00.000Z",
-        "timestamp_end": "2024-03-08T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3B0D65CE-9FD3-490C-B080-208A3A55E8FC"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "ראש פינה, מתחם שופינה",
-      "location": {
-        "lat": 32.9702247,
-        "lng": 35.5503212
-      },
-      "formatted": "Unnamed Road, ראש פינה, ישראל",
-      "city": "ראש פינה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-02-16T07:00:00.000Z",
-        "timestamp_end": "2024-02-16T11:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3C5641E8-52ED-4E0A-AC7D-AD6D7F93E0B5"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
       "location": {
         "lat": 32.8440668,
@@ -1297,6 +1246,57 @@
         "timestamp_start": "2024-03-08T06:00:00.000Z",
         "timestamp_end": "2024-03-08T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CE6B4A23-6800-4ABF-92FA-7076C0473C20"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "ראש פינה, מתחם שופינה",
+      "location": {
+        "lat": 32.9702247,
+        "lng": 35.5503212
+      },
+      "formatted": "Unnamed Road, ראש פינה, ישראל",
+      "city": "ראש פינה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-02-16T07:00:00.000Z",
+        "timestamp_end": "2024-02-16T11:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3C5641E8-52ED-4E0A-AC7D-AD6D7F93E0B5"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.3284579,
+        "lng": 34.8645215
+      },
+      "formatted": "בנימין מינץ 7, נתניה, ישראל",
+      "city": "נתניה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-02-16T06:30:00.000Z",
+        "timestamp_end": "2024-02-16T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D958766D-EACB-463C-A48C-1B19B8717C48"
+      },
+      {
+        "timestamp_start": "2024-02-23T06:30:00.000Z",
+        "timestamp_end": "2024-02-23T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7E50E6F4-9BD9-463F-8BFC-F45CF500BEAF"
+      },
+      {
+        "timestamp_start": "2024-03-01T06:30:00.000Z",
+        "timestamp_end": "2024-03-01T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B84A99F6-4C2A-43FC-9510-08294562A3E7"
+      },
+      {
+        "timestamp_start": "2024-03-08T06:30:00.000Z",
+        "timestamp_end": "2024-03-08T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3B0D65CE-9FD3-490C-B080-208A3A55E8FC"
       }
     ]
   },
@@ -1551,24 +1551,6 @@
   },
   {
     "address": {
-      "unformatted": "קדרים, מרפאה",
-      "location": {
-        "lat": 32.898886,
-        "lng": 35.471565
-      },
-      "formatted": "קדרים, ישראל",
-      "city": "קדרים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-02-22T13:00:00.000Z",
-        "timestamp_end": "2024-02-22T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6196B25E-EA25-4285-8211-F5D20FBEA341"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "העצמאות 3 אריאל, מועדון הלב החם",
       "location": {
         "lat": 32.105417,
@@ -1600,6 +1582,42 @@
         "timestamp_start": "2024-02-22T14:00:00.000Z",
         "timestamp_end": "2024-02-22T20:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/731DE6B0-24F0-4428-B2AA-5C164C59E1EB"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "קדרים, מרפאה",
+      "location": {
+        "lat": 32.898886,
+        "lng": 35.471565
+      },
+      "formatted": "קדרים, ישראל",
+      "city": "קדרים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-02-22T13:00:00.000Z",
+        "timestamp_end": "2024-02-22T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6196B25E-EA25-4285-8211-F5D20FBEA341"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "המרווה 4, שבט לביא צופי פרדסיה",
+      "location": {
+        "lat": 32.3097549,
+        "lng": 34.9040803
+      },
+      "formatted": "מרווה 4, פרדסיה, 4281500, ישראל",
+      "city": "המרווה 4, שבט לביא צופי פרדסיה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-02-22T15:30:00.000Z",
+        "timestamp_end": "2024-02-22T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7CD8BB9D-F8D5-46F0-B2A0-E29FE0DC1ED0"
       }
     ]
   },
@@ -1641,24 +1659,6 @@
   },
   {
     "address": {
-      "unformatted": "דרך הים 9 גני תקווה, אולם תגלית",
-      "location": {
-        "lat": 32.0645288,
-        "lng": 34.8735468
-      },
-      "formatted": "דרך הים 9, גני תקווה, ישראל",
-      "city": "גני תקווה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-02-25T14:00:00.000Z",
-        "timestamp_end": "2024-02-25T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/53B284F8-5F0C-4108-8A8B-6C29030731BE"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "אוהל שרה 9 ביתר עילית, תחנת כיבוי ביתר עלית",
       "location": {
         "lat": 31.706421,
@@ -1690,6 +1690,24 @@
         "timestamp_start": "2024-02-25T14:00:00.000Z",
         "timestamp_end": "2024-02-25T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AA3353C7-8D2C-4760-9693-2BFC545C4540"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דרך הים 9 גני תקווה, אולם תגלית",
+      "location": {
+        "lat": 32.0645288,
+        "lng": 34.8735468
+      },
+      "formatted": "דרך הים 9, גני תקווה, ישראל",
+      "city": "גני תקווה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-02-25T14:00:00.000Z",
+        "timestamp_end": "2024-02-25T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/53B284F8-5F0C-4108-8A8B-6C29030731BE"
       }
     ]
   },
