@@ -618,14 +618,14 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E27EF822-2211-4A89-AC8D-D55E4C9CAFB8"
       },
       {
-        "timestamp_start": "2024-02-21T08:00:00.000Z",
-        "timestamp_end": "2024-02-21T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2EB59ED5-7297-499E-BED6-E420406F1691"
-      },
-      {
         "timestamp_start": "2024-02-21T14:00:00.000Z",
         "timestamp_end": "2024-02-21T20:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6ADD2B0F-931A-4991-9CAE-7AB3D968D655"
+      },
+      {
+        "timestamp_start": "2024-02-21T08:00:00.000Z",
+        "timestamp_end": "2024-02-21T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2EB59ED5-7297-499E-BED6-E420406F1691"
       },
       {
         "timestamp_start": "2024-02-22T08:00:00.000Z",
@@ -1096,6 +1096,24 @@
   },
   {
     "address": {
+      "unformatted": "ירושלים, גן טכנולוגי מלחה - בנין 2 ליד קפה תמרה",
+      "location": {
+        "lat": 31.7498445,
+        "lng": 35.1860118
+      },
+      "formatted": "הגן הטכנולוגי, דרך אגודת ספורט הפועל 2, ירושלים, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-02-22T08:00:00.000Z",
+        "timestamp_end": "2024-02-22T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/16B27AC9-9F14-4858-936D-4B8AAFA97B10"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "שדרות גולדה מאיר 225 ירושלים, קניון רמות - ברחבה ליד הסופר פארם",
       "location": {
         "lat": 31.8175,
@@ -1273,39 +1291,6 @@
   },
   {
     "address": {
-      "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
-      "location": {
-        "lat": 32.8440668,
-        "lng": 35.0802042
-      },
-      "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
-      "city": "קרית מוצקין"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-02-23T06:00:00.000Z",
-        "timestamp_end": "2024-02-23T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B61E341A-4002-42EC-8E43-9F57BD3041BE"
-      },
-      {
-        "timestamp_start": "2024-03-01T06:00:00.000Z",
-        "timestamp_end": "2024-03-01T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5FE42246-0B5D-421C-8F5E-61FEE4D95F83"
-      },
-      {
-        "timestamp_start": "2024-03-08T06:00:00.000Z",
-        "timestamp_end": "2024-03-08T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CE6B4A23-6800-4ABF-92FA-7076C0473C20"
-      },
-      {
-        "timestamp_start": "2024-03-15T06:00:00.000Z",
-        "timestamp_end": "2024-03-15T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/04C47997-C5CF-46B3-AD95-DFA0F4D2E512"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ראש פינה, מתחם שופינה",
       "location": {
         "lat": 32.9702247,
@@ -1352,6 +1337,39 @@
         "timestamp_start": "2024-03-15T06:30:00.000Z",
         "timestamp_end": "2024-03-15T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E3CCDF41-FA43-4349-8899-86C880EB87D9"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+      "location": {
+        "lat": 32.8440668,
+        "lng": 35.0802042
+      },
+      "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
+      "city": "קרית מוצקין"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-02-23T06:00:00.000Z",
+        "timestamp_end": "2024-02-23T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B61E341A-4002-42EC-8E43-9F57BD3041BE"
+      },
+      {
+        "timestamp_start": "2024-03-01T06:00:00.000Z",
+        "timestamp_end": "2024-03-01T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5FE42246-0B5D-421C-8F5E-61FEE4D95F83"
+      },
+      {
+        "timestamp_start": "2024-03-08T06:00:00.000Z",
+        "timestamp_end": "2024-03-08T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CE6B4A23-6800-4ABF-92FA-7076C0473C20"
+      },
+      {
+        "timestamp_start": "2024-03-15T06:00:00.000Z",
+        "timestamp_end": "2024-03-15T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/04C47997-C5CF-46B3-AD95-DFA0F4D2E512"
       }
     ]
   },
