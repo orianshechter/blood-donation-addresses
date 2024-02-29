@@ -159,6 +159,11 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6E6CB5FE-4EF4-4205-909F-90D73347E0A4"
       },
       {
+        "timestamp_start": "2024-03-03T08:00:00.000Z",
+        "timestamp_end": "2024-03-03T14:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6C6EEDDC-26D5-41B3-A725-690EF6427338"
+      },
+      {
         "timestamp_start": "2024-03-04T08:00:00.000Z",
         "timestamp_end": "2024-03-04T14:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E92C7DEE-84BB-4435-9075-C0E5F5651EE9"
@@ -500,24 +505,6 @@
   },
   {
     "address": {
-      "unformatted": "התחיה 1 אשקלון, במד\"א אשקלון, - תחנת מד\"א",
-      "location": {
-        "lat": 31.6599003,
-        "lng": 34.5893259
-      },
-      "formatted": "התחייה 1, אשקלון, ישראל",
-      "city": "אשקלון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-03-01T06:30:00.000Z",
-        "timestamp_end": "2024-03-01T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FF2DB0B9-13F0-42F4-B16C-64DAEC33A76A"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "עפולה, מתחם פרנדלי בעמק",
       "location": {
         "lat": 32.6197,
@@ -577,39 +564,37 @@
   },
   {
     "address": {
-      "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה), - תחנת מד\"א",
+      "unformatted": "התחיה 1 אשקלון, במד\"א אשקלון, - תחנת מד\"א",
       "location": {
-        "lat": 31.7799797,
-        "lng": 34.654115
+        "lat": 31.6599003,
+        "lng": 34.5893259
       },
-      "formatted": "הרפואה 1, אשדוד, ישראל",
-      "city": "אשדוד"
+      "formatted": "התחייה 1, אשקלון, ישראל",
+      "city": "אשקלון"
     },
     "times": [
       {
-        "timestamp_start": "2024-03-01T06:00:00.000Z",
+        "timestamp_start": "2024-03-01T06:30:00.000Z",
         "timestamp_end": "2024-03-01T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/46CD0D90-43C6-4810-A19F-5006F671E065"
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FF2DB0B9-13F0-42F4-B16C-64DAEC33A76A"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מרגנית 20 עומר, עומר",
+      "location": {
+        "lat": 31.269915109594645,
+        "lng": 34.84914821030239
       },
+      "formatted": "bad_address",
+      "city": "עומר"
+    },
+    "times": [
       {
-        "timestamp_start": "2024-03-08T06:00:00.000Z",
-        "timestamp_end": "2024-03-08T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A416757B-A70A-4F71-9B73-4277BF3BAE4D"
-      },
-      {
-        "timestamp_start": "2024-03-15T06:00:00.000Z",
-        "timestamp_end": "2024-03-15T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/ABE98AB7-758D-4954-8F8D-A525DDF590C7"
-      },
-      {
-        "timestamp_start": "2024-03-22T06:00:00.000Z",
-        "timestamp_end": "2024-03-22T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F616B697-26FF-47AB-8533-2FF751AAEFFB"
-      },
-      {
-        "timestamp_start": "2024-03-29T05:00:00.000Z",
-        "timestamp_end": "2024-03-29T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1BE6506B-088D-4531-803B-C24C614FA46A"
+        "timestamp_start": "2024-03-01T06:30:00.000Z",
+        "timestamp_end": "2024-03-01T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/59664916-3123-41BE-B79C-4F1A6CD3166D"
       }
     ]
   },
@@ -648,6 +633,44 @@
         "timestamp_start": "2024-03-29T05:30:00.000Z",
         "timestamp_end": "2024-03-29T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/03F50620-5522-4A94-8D6F-D1F644EF502F"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה), - תחנת מד\"א",
+      "location": {
+        "lat": 31.7799797,
+        "lng": 34.654115
+      },
+      "formatted": "הרפואה 1, אשדוד, ישראל",
+      "city": "אשדוד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-03-01T06:00:00.000Z",
+        "timestamp_end": "2024-03-01T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/46CD0D90-43C6-4810-A19F-5006F671E065"
+      },
+      {
+        "timestamp_start": "2024-03-08T06:00:00.000Z",
+        "timestamp_end": "2024-03-08T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A416757B-A70A-4F71-9B73-4277BF3BAE4D"
+      },
+      {
+        "timestamp_start": "2024-03-15T06:00:00.000Z",
+        "timestamp_end": "2024-03-15T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/ABE98AB7-758D-4954-8F8D-A525DDF590C7"
+      },
+      {
+        "timestamp_start": "2024-03-22T06:00:00.000Z",
+        "timestamp_end": "2024-03-22T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F616B697-26FF-47AB-8533-2FF751AAEFFB"
+      },
+      {
+        "timestamp_start": "2024-03-29T05:00:00.000Z",
+        "timestamp_end": "2024-03-29T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1BE6506B-088D-4531-803B-C24C614FA46A"
       }
     ]
   },
@@ -694,24 +717,6 @@
         "timestamp_start": "2024-03-08T06:00:00.000Z",
         "timestamp_end": "2024-03-08T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/54816626-C420-4243-8888-A022DDC797FD"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "מרגנית 20 עומר, עומר",
-      "location": {
-        "lat": 31.269915109594645,
-        "lng": 34.84914821030239
-      },
-      "formatted": "bad_address",
-      "city": "עומר"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-03-01T06:30:00.000Z",
-        "timestamp_end": "2024-03-01T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/59664916-3123-41BE-B79C-4F1A6CD3166D"
       }
     ]
   },
@@ -1122,24 +1127,6 @@
   },
   {
     "address": {
-      "unformatted": "תל יוסף, מועדון",
-      "location": {
-        "lat": 32.556704,
-        "lng": 35.398914
-      },
-      "formatted": "תל יוסף, ישראל",
-      "city": "תל יוסף"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-03-03T14:30:00.000Z",
-        "timestamp_end": "2024-03-03T18:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CFF57555-EC4B-4A32-81C8-F6DC5EBB29B8"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "האוניברסיטה 1 נתניה, מכללה אקדמית נתניה",
       "location": {
         "lat": 32.3071899,
@@ -1181,6 +1168,24 @@
         "timestamp_start": "2024-03-03T14:00:00.000Z",
         "timestamp_end": "2024-03-03T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AEC41863-35A6-4466-89B2-D47F08DC1930"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "תל יוסף, מועדון",
+      "location": {
+        "lat": 32.556704,
+        "lng": 35.398914
+      },
+      "formatted": "תל יוסף, ישראל",
+      "city": "תל יוסף"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-03-03T14:30:00.000Z",
+        "timestamp_end": "2024-03-03T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CFF57555-EC4B-4A32-81C8-F6DC5EBB29B8"
       }
     ]
   },
@@ -1294,24 +1299,6 @@
   },
   {
     "address": {
-      "unformatted": "נחף, מתנ\"ס ליד המגרש כדורגל",
-      "location": {
-        "lat": 33.44852903890945,
-        "lng": 32.05693494134149
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-03-04T11:30:00.000Z",
-        "timestamp_end": "2024-03-04T18:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/690A7582-91DA-4597-8ABF-66C02535F262"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "אלמגור, מועדון",
       "location": {
         "lat": 32.912709,
@@ -1325,6 +1312,24 @@
         "timestamp_start": "2024-03-04T15:00:00.000Z",
         "timestamp_end": "2024-03-04T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/62FAAEC8-2EC5-421B-B404-9EADFE95518E"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "נחף, מתנ\"ס ליד המגרש כדורגל",
+      "location": {
+        "lat": 33.44852903890945,
+        "lng": 32.05693494134149
+      },
+      "formatted": "bad_address",
+      "city": ""
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-03-04T11:30:00.000Z",
+        "timestamp_end": "2024-03-04T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/690A7582-91DA-4597-8ABF-66C02535F262"
       }
     ]
   },
@@ -1420,24 +1425,6 @@
   },
   {
     "address": {
-      "unformatted": "מיצר, מכינה קד\"צ",
-      "location": {
-        "lat": 32.76845569744597,
-        "lng": 35.73649996661422
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-03-05T07:00:00.000Z",
-        "timestamp_end": "2024-03-05T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/276764A0-ED96-46F3-893D-9D2D92510973"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "טירת יהודה, אסם",
       "location": {
         "lat": 32.014905,
@@ -1456,6 +1443,24 @@
   },
   {
     "address": {
+      "unformatted": "מיצר, מכינה קד\"צ",
+      "location": {
+        "lat": 32.76845569744597,
+        "lng": 35.73649996661422
+      },
+      "formatted": "bad_address",
+      "city": ""
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-03-05T07:00:00.000Z",
+        "timestamp_end": "2024-03-05T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/276764A0-ED96-46F3-893D-9D2D92510973"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "ד.נ. נגב דבירה, בחדר אוכל",
       "location": {
         "lat": 31.412474100993748,
@@ -1469,6 +1474,24 @@
         "timestamp_start": "2024-03-05T13:00:00.000Z",
         "timestamp_end": "2024-03-05T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2E5B0BF2-6761-4393-9955-FC725F1D7AEB"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "רשפים, מועדון לחבר",
+      "location": {
+        "lat": 32.4819804,
+        "lng": 35.4774965
+      },
+      "formatted": "רשפים, ישראל",
+      "city": "רשפים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-03-06T14:30:00.000Z",
+        "timestamp_end": "2024-03-06T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A2656FBA-89E3-4F36-A6AD-5041FF38949C"
       }
     ]
   },
@@ -1523,24 +1546,6 @@
         "timestamp_start": "2024-03-06T13:00:00.000Z",
         "timestamp_end": "2024-03-06T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/517E5736-338C-418D-B1E8-496EE233171C"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "רשפים, מועדון לחבר",
-      "location": {
-        "lat": 32.4819804,
-        "lng": 35.4774965
-      },
-      "formatted": "רשפים, ישראל",
-      "city": "רשפים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-03-06T14:30:00.000Z",
-        "timestamp_end": "2024-03-06T18:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A2656FBA-89E3-4F36-A6AD-5041FF38949C"
       }
     ]
   },
@@ -1636,24 +1641,6 @@
   },
   {
     "address": {
-      "unformatted": "חנה 3 אפרת, חדר אוכל ישיבת בני עקיבא אורות יהודה",
-      "location": {
-        "lat": 31.67064939999999,
-        "lng": 35.1679282
-      },
-      "formatted": "חנה 3, אפרת",
-      "city": "אפרת"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-03-07T13:30:00.000Z",
-        "timestamp_end": "2024-03-07T19:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/69C7DC6B-3D1E-4719-B04F-8917209D12EB"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "סולם אלדד 1 קרית ארבע, מתנ\"ס קרית ארבע",
       "location": {
         "lat": 31.52813,
@@ -1667,6 +1654,24 @@
         "timestamp_start": "2024-03-07T14:00:00.000Z",
         "timestamp_end": "2024-03-07T20:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8F27AE99-4699-41C4-9C4D-9F3EAA29F6F1"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "חנה 3 אפרת, חדר אוכל ישיבת בני עקיבא אורות יהודה",
+      "location": {
+        "lat": 31.67064939999999,
+        "lng": 35.1679282
+      },
+      "formatted": "חנה 3, אפרת",
+      "city": "אפרת"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-03-07T13:30:00.000Z",
+        "timestamp_end": "2024-03-07T19:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/69C7DC6B-3D1E-4719-B04F-8917209D12EB"
       }
     ]
   },
@@ -1708,24 +1713,6 @@
   },
   {
     "address": {
-      "unformatted": "כפר יחזקאל, מועדון עין טבעון",
-      "location": {
-        "lat": 32.566949,
-        "lng": 35.360888
-      },
-      "formatted": "כפר יחזקאל, ישראל",
-      "city": "כפר יחזקאל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-03-07T14:00:00.000Z",
-        "timestamp_end": "2024-03-07T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2C75006F-084F-4EFA-9650-9B12A0D28C43"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "היוגב, מועדון לחבר",
       "location": {
         "lat": 32.611036,
@@ -1757,6 +1744,24 @@
         "timestamp_start": "2024-03-07T15:00:00.000Z",
         "timestamp_end": "2024-03-07T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/37B9C6AA-AF4A-4D70-ACA5-235AE60853F8"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כפר יחזקאל, מועדון עין טבעון",
+      "location": {
+        "lat": 32.566949,
+        "lng": 35.360888
+      },
+      "formatted": "כפר יחזקאל, ישראל",
+      "city": "כפר יחזקאל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-03-07T14:00:00.000Z",
+        "timestamp_end": "2024-03-07T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2C75006F-084F-4EFA-9650-9B12A0D28C43"
       }
     ]
   },
