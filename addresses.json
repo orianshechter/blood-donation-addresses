@@ -208,6 +208,24 @@
   },
   {
     "address": {
+      "unformatted": "התחיה 1 אשקלון, במד\"א אשקלון, - תחנת מד\"א",
+      "location": {
+        "lat": 31.6599003,
+        "lng": 34.5893259
+      },
+      "formatted": "התחייה 1, אשקלון, ישראל",
+      "city": "אשקלון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-04-16T14:00:00.000Z",
+        "timestamp_end": "2024-04-16T16:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/86C801B6-0E68-4F76-B6BD-A35E967177A1"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "העליה השניה 8 חיפה, בי\"ח רמב\"ם - קניון סגול",
       "location": {
         "lat": 32.8329875,
@@ -221,6 +239,11 @@
         "timestamp_start": "2024-04-16T06:00:00.000Z",
         "timestamp_end": "2024-04-16T12:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DDB9C0EF-655B-40B9-B9D0-AA6636FD6894"
+      },
+      {
+        "timestamp_start": "2024-04-17T06:00:00.000Z",
+        "timestamp_end": "2024-04-17T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BF663CD8-B80F-43F2-9F92-C3A63CFE5D6E"
       }
     ]
   },
@@ -313,24 +336,6 @@
         "timestamp_start": "2024-04-19T06:00:00.000Z",
         "timestamp_end": "2024-04-19T09:45:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/145974DD-BBE2-48D9-81BC-5CF1C758568F"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "קינג גורג תל אביב יפו, גן מאיר",
-      "location": {
-        "lat": 32.0731414,
-        "lng": 34.7731561
-      },
-      "formatted": "גן מאיר, טשרניחובסקי 24, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-04-16T13:00:00.000Z",
-        "timestamp_end": "2024-04-16T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8A2F8799-CEA1-4BC0-8161-486793EBD0B0"
       }
     ]
   },
@@ -1291,6 +1296,29 @@
   },
   {
     "address": {
+      "unformatted": "מתנ\"ס",
+      "location": {
+        "lat": 33.44852903890945,
+        "lng": 32.05693494134149
+      },
+      "formatted": "bad_address",
+      "city": ""
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-04-21T13:00:00.000Z",
+        "timestamp_end": "2024-04-21T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/56C80C73-7BFE-4F21-9A38-A8CE547D3221"
+      },
+      {
+        "timestamp_start": "2024-04-30T13:00:00.000Z",
+        "timestamp_end": "2024-04-30T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/684A1A4C-2070-4367-80A2-E307A12F3725"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "מג'ד אל כרום, מתנ\"ס",
       "location": {
         "lat": 32.922497,
@@ -1715,24 +1743,6 @@
         "timestamp_start": "2024-04-30T14:00:00.000Z",
         "timestamp_end": "2024-04-30T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/201DDD8B-CF3B-421B-A5DB-4F3466AAFE57"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "מתנ\"ס",
-      "location": {
-        "lat": 33.44852903890945,
-        "lng": 32.05693494134149
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-04-30T13:00:00.000Z",
-        "timestamp_end": "2024-04-30T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/684A1A4C-2070-4367-80A2-E307A12F3725"
       }
     ]
   },
