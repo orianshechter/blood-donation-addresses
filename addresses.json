@@ -91,6 +91,24 @@
   },
   {
     "address": {
+      "unformatted": "בן גוריון פינת רח' מנחם בגין גדרה, גדרה החדשה",
+      "location": {
+        "lat": 31.80419,
+        "lng": 34.783861
+      },
+      "formatted": "שדרות בן גוריון 105, גדרה, ישראל",
+      "city": "גדרה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-04-18T13:00:00.000Z",
+        "timestamp_end": "2024-04-18T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5EA459D9-2F89-4C8A-A3E0-40A75FCFBF1E"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "הלל 37 ירושלים, אולם מרכז מאי",
       "location": {
         "lat": 31.7794757,
@@ -853,24 +871,6 @@
   },
   {
     "address": {
-      "unformatted": "שד' מעלה יצחק נוף הגליל, תחנת מד\"א נוף הגליל, - תחנת מד\"א",
-      "location": {
-        "lat": 32.6998709,
-        "lng": 35.3161195
-      },
-      "formatted": "מגן דוד אדום/מעלה יצחק, נוף הגליל, ישראל",
-      "city": "נוף הגליל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-04-21T12:00:00.000Z",
-        "timestamp_end": "2024-04-21T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/510A0236-B6D4-4A0D-AEC4-3AC37E7EA207"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ירכא, ביג פאשן",
       "location": {
         "lat": 32.95630556701955,
@@ -889,29 +889,19 @@
   },
   {
     "address": {
-      "unformatted": "ירושלים, בית חולים שערי צדק - חדר אירוח קומה 4",
+      "unformatted": "שד' מעלה יצחק נוף הגליל, תחנת מד\"א נוף הגליל, - תחנת מד\"א",
       "location": {
-        "lat": 31.773199,
-        "lng": 35.185261
+        "lat": 32.6998709,
+        "lng": 35.3161195
       },
-      "formatted": "שמואל בייט 12, ירושלים, 9103102, ישראל",
-      "city": "ירושלים"
+      "formatted": "מגן דוד אדום/מעלה יצחק, נוף הגליל, ישראל",
+      "city": "נוף הגליל"
     },
     "times": [
       {
-        "timestamp_start": "2024-04-21T07:00:00.000Z",
-        "timestamp_end": "2024-04-21T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D811DF7E-1FD0-49E2-A02E-4405CA0FED9B"
-      },
-      {
-        "timestamp_start": "2024-05-06T07:00:00.000Z",
-        "timestamp_end": "2024-05-06T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/96315073-3035-45B0-98DB-530C9EBEB42F"
-      },
-      {
-        "timestamp_start": "2024-05-13T05:30:00.000Z",
-        "timestamp_end": "2024-05-13T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/11139C64-1D59-475C-B8B0-DCDEFE1C9C97"
+        "timestamp_start": "2024-04-21T12:00:00.000Z",
+        "timestamp_end": "2024-04-21T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/510A0236-B6D4-4A0D-AEC4-3AC37E7EA207"
       }
     ]
   },
@@ -930,24 +920,6 @@
         "timestamp_start": "2024-04-21T13:00:00.000Z",
         "timestamp_end": "2024-04-21T18:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0D3CA024-90E0-4FDD-8C02-31868B8DB67E"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "ד.נ. שומרון קרני שומרון, בית פיס לקשיש",
-      "location": {
-        "lat": 32.171553,
-        "lng": 35.097462
-      },
-      "formatted": "קרני שומרון",
-      "city": "קרני שומרון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-04-21T13:30:00.000Z",
-        "timestamp_end": "2024-04-21T18:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F1A2ACC1-51A5-4DB7-AF9F-F3F5B2D1A63C"
       }
     ]
   },
@@ -984,6 +956,52 @@
         "timestamp_start": "2024-04-21T12:30:00.000Z",
         "timestamp_end": "2024-04-21T17:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0AF11163-83E6-4FAB-A21F-2012782022E6"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "ירושלים, בית חולים שערי צדק - חדר אירוח קומה 4",
+      "location": {
+        "lat": 31.773199,
+        "lng": 35.185261
+      },
+      "formatted": "שמואל בייט 12, ירושלים, 9103102, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-04-21T07:00:00.000Z",
+        "timestamp_end": "2024-04-21T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D811DF7E-1FD0-49E2-A02E-4405CA0FED9B"
+      },
+      {
+        "timestamp_start": "2024-05-06T07:00:00.000Z",
+        "timestamp_end": "2024-05-06T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/96315073-3035-45B0-98DB-530C9EBEB42F"
+      },
+      {
+        "timestamp_start": "2024-05-13T05:30:00.000Z",
+        "timestamp_end": "2024-05-13T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/11139C64-1D59-475C-B8B0-DCDEFE1C9C97"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "ד.נ. שומרון קרני שומרון, בית פיס לקשיש",
+      "location": {
+        "lat": 32.171553,
+        "lng": 35.097462
+      },
+      "formatted": "קרני שומרון",
+      "city": "קרני שומרון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-04-21T13:30:00.000Z",
+        "timestamp_end": "2024-04-21T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F1A2ACC1-51A5-4DB7-AF9F-F3F5B2D1A63C"
       }
     ]
   },
@@ -1230,8 +1248,8 @@
     },
     "times": [
       {
-        "timestamp_start": "2024-04-24T12:00:00.000Z",
-        "timestamp_end": "2024-04-24T17:00:00.000Z",
+        "timestamp_start": "2024-04-24T11:30:00.000Z",
+        "timestamp_end": "2024-04-24T16:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A96451B0-781F-49BC-9EF5-CE827FAFCFD1"
       }
     ]
@@ -1523,19 +1541,19 @@
   },
   {
     "address": {
-      "unformatted": "בית הקשיש",
+      "unformatted": "הקציר 5 אפרת, ביה\"ס אלומים שכונת הדגן",
       "location": {
-        "lat": 33.44852903890945,
-        "lng": 32.05693494134149
+        "lat": 31.653589,
+        "lng": 35.149934
       },
-      "formatted": "bad_address",
-      "city": "בית הקשיש"
+      "formatted": "אפרת",
+      "city": "אפרת"
     },
     "times": [
       {
-        "timestamp_start": "2024-04-30T13:00:00.000Z",
-        "timestamp_end": "2024-04-30T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3F8521F4-FF1A-49B5-9C4A-3805AE7C2596"
+        "timestamp_start": "2024-04-30T14:00:00.000Z",
+        "timestamp_end": "2024-04-30T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/201DDD8B-CF3B-421B-A5DB-4F3466AAFE57"
       }
     ]
   },
@@ -1559,19 +1577,19 @@
   },
   {
     "address": {
-      "unformatted": "הקציר 5 אפרת, ביה\"ס אלומים שכונת הדגן",
+      "unformatted": "בית הקשיש",
       "location": {
-        "lat": 31.653589,
-        "lng": 35.149934
+        "lat": 33.44852903890945,
+        "lng": 32.05693494134149
       },
-      "formatted": "אפרת",
-      "city": "אפרת"
+      "formatted": "bad_address",
+      "city": "בית הקשיש"
     },
     "times": [
       {
-        "timestamp_start": "2024-04-30T14:00:00.000Z",
-        "timestamp_end": "2024-04-30T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/201DDD8B-CF3B-421B-A5DB-4F3466AAFE57"
+        "timestamp_start": "2024-04-30T13:00:00.000Z",
+        "timestamp_end": "2024-04-30T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3F8521F4-FF1A-49B5-9C4A-3805AE7C2596"
       }
     ]
   },
@@ -1649,19 +1667,19 @@
   },
   {
     "address": {
-      "unformatted": "אלון שבות, אולם שמחות הישן אלון שבות",
+      "unformatted": "גבעת וושינגטון",
       "location": {
-        "lat": 31.6580294,
-        "lng": 35.1241608
+        "lat": 31.817497,
+        "lng": 34.7289
       },
-      "formatted": "אלון שבות",
-      "city": "אלון שבות"
+      "formatted": "גבעת וושינגטון, ישראל",
+      "city": "גבעת וושינגטון"
     },
     "times": [
       {
-        "timestamp_start": "2024-05-01T14:00:00.000Z",
-        "timestamp_end": "2024-05-01T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3F2A4AAA-C3B2-4443-84BA-F010B0CA8BC0"
+        "timestamp_start": "2024-05-01T13:00:00.000Z",
+        "timestamp_end": "2024-05-01T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1819A995-785A-482F-8E9F-5B24799A5CC9"
       }
     ]
   },
@@ -1685,19 +1703,19 @@
   },
   {
     "address": {
-      "unformatted": "גבעת וושינגטון",
+      "unformatted": "אלון שבות, אולם שמחות הישן אלון שבות",
       "location": {
-        "lat": 31.817497,
-        "lng": 34.7289
+        "lat": 31.6580294,
+        "lng": 35.1241608
       },
-      "formatted": "גבעת וושינגטון, ישראל",
-      "city": "גבעת וושינגטון"
+      "formatted": "אלון שבות",
+      "city": "אלון שבות"
     },
     "times": [
       {
-        "timestamp_start": "2024-05-01T13:00:00.000Z",
-        "timestamp_end": "2024-05-01T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1819A995-785A-482F-8E9F-5B24799A5CC9"
+        "timestamp_start": "2024-05-01T14:00:00.000Z",
+        "timestamp_end": "2024-05-01T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3F2A4AAA-C3B2-4443-84BA-F010B0CA8BC0"
       }
     ]
   },
@@ -1880,24 +1898,6 @@
   },
   {
     "address": {
-      "unformatted": "אהבת אמת 41 כוכב יעקב, מתנ\"ס מעוף תל ציון",
-      "location": {
-        "lat": 31.8781595,
-        "lng": 35.2383216
-      },
-      "formatted": "אהבת אמת 41, כוכב יעקב",
-      "city": "כוכב יעקב"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-05-08T14:00:00.000Z",
-        "timestamp_end": "2024-05-08T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9081DD00-D4A1-4F38-B281-52C2DFEF5275"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "קרן קימת 15 בת ים, אברבנאל",
       "location": {
         "lat": 32.0256957,
@@ -1916,19 +1916,19 @@
   },
   {
     "address": {
-      "unformatted": "ראש צורים, אולם שמחות קיבוץ ראש צורים",
+      "unformatted": "אהבת אמת 41 כוכב יעקב, מתנ\"ס מעוף תל ציון",
       "location": {
-        "lat": 31.66744,
-        "lng": 35.124187
+        "lat": 31.8781595,
+        "lng": 35.2383216
       },
-      "formatted": "ראש צורים, ראש צורים",
-      "city": "ראש צורים"
+      "formatted": "אהבת אמת 41, כוכב יעקב",
+      "city": "כוכב יעקב"
     },
     "times": [
       {
-        "timestamp_start": "2024-05-09T14:00:00.000Z",
-        "timestamp_end": "2024-05-09T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8E1BFCFB-7DE6-4F05-8332-62FCDE86ACA3"
+        "timestamp_start": "2024-05-08T14:00:00.000Z",
+        "timestamp_end": "2024-05-08T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9081DD00-D4A1-4F38-B281-52C2DFEF5275"
       }
     ]
   },
@@ -1947,6 +1947,24 @@
         "timestamp_start": "2024-05-09T13:00:00.000Z",
         "timestamp_end": "2024-05-09T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/095E6368-9E1D-41DF-B76F-62376011C85C"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "ראש צורים, אולם שמחות קיבוץ ראש צורים",
+      "location": {
+        "lat": 31.66744,
+        "lng": 35.124187
+      },
+      "formatted": "ראש צורים, ראש צורים",
+      "city": "ראש צורים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-05-09T14:00:00.000Z",
+        "timestamp_end": "2024-05-09T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8E1BFCFB-7DE6-4F05-8332-62FCDE86ACA3"
       }
     ]
   },
