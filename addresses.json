@@ -155,6 +155,29 @@
   },
   {
     "address": {
+      "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
+      "location": {
+        "lat": 31.78153,
+        "lng": 35.21602
+      },
+      "formatted": "המלך ג'ורג' 20, ירושלים, 9426208, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-05-02T07:00:00.000Z",
+        "timestamp_end": "2024-05-02T13:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/71A2033F-33A0-48A8-823C-72F4137627D3"
+      },
+      {
+        "timestamp_start": "2024-05-03T06:00:00.000Z",
+        "timestamp_end": "2024-05-03T09:45:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/93D072A4-1980-4FDA-87F3-AE3711726E20"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "אדם 22 ירושלים, בית הכנסת מורשת אברהם",
       "location": {
         "lat": 31.748837272914354,
@@ -251,29 +274,6 @@
   },
   {
     "address": {
-      "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
-      "location": {
-        "lat": 31.78153,
-        "lng": 35.21602
-      },
-      "formatted": "המלך ג'ורג' 20, ירושלים, 9426208, ישראל",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-05-02T07:00:00.000Z",
-        "timestamp_end": "2024-05-02T13:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/71A2033F-33A0-48A8-823C-72F4137627D3"
-      },
-      {
-        "timestamp_start": "2024-05-03T06:00:00.000Z",
-        "timestamp_end": "2024-05-03T09:45:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/93D072A4-1980-4FDA-87F3-AE3711726E20"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מעלה מכמש, מבנה רב תכליתי מתחת למזכירות מעלה מכמש",
       "location": {
         "lat": 31.8773231,
@@ -310,6 +310,11 @@
         "timestamp_start": "2024-05-03T05:00:00.000Z",
         "timestamp_end": "2024-05-03T10:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1F8F728E-7EC4-4CB7-A5A6-B83EA309D3AF"
+      },
+      {
+        "timestamp_start": "2024-05-06T13:00:00.000Z",
+        "timestamp_end": "2024-05-06T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/06AE099F-9806-4C2B-A74F-9E9621F9F3EC"
       }
     ]
   },
@@ -333,24 +338,6 @@
   },
   {
     "address": {
-      "unformatted": "דיזנגוף תל אביב יפו, דיזנגוף סנטר - גשר העגבניה סמוך לפיצה עגבניה",
-      "location": {
-        "lat": 32.0751081,
-        "lng": 34.7749424
-      },
-      "formatted": "דיזנגוף 50, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-05-02T12:00:00.000Z",
-        "timestamp_end": "2024-05-02T17:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2B69D855-5B35-42CD-82A3-DC28809741F0"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "עראבה, בכביש הראשי בכניסה לבי\"ס אלבטוף ליד אולם נאגי אלעלי",
       "location": {
         "lat": 32.85869435233576,
@@ -364,6 +351,24 @@
         "timestamp_start": "2024-05-02T10:00:00.000Z",
         "timestamp_end": "2024-05-02T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/65592A8F-6E84-4875-A7AB-A0A540D4F9FD"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דיזנגוף תל אביב יפו, דיזנגוף סנטר - גשר העגבניה סמוך לפיצה עגבניה",
+      "location": {
+        "lat": 32.0751081,
+        "lng": 34.7749424
+      },
+      "formatted": "דיזנגוף 50, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-05-02T12:00:00.000Z",
+        "timestamp_end": "2024-05-02T17:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2B69D855-5B35-42CD-82A3-DC28809741F0"
       }
     ]
   },
@@ -714,24 +719,6 @@
   },
   {
     "address": {
-      "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
-      "location": {
-        "lat": 32.78460454662827,
-        "lng": 34.987120821454766
-      },
-      "formatted": "חורב 13, חיפה, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-05-03T05:00:00.000Z",
-        "timestamp_end": "2024-05-03T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0115F2AC-3FCB-4022-961C-75C4B39C871F"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "חיפה, רח' יצחק שדה 10 (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 32.824678,
@@ -765,6 +752,24 @@
         "timestamp_start": "2024-05-31T05:00:00.000Z",
         "timestamp_end": "2024-05-31T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C4312E28-1CCA-492E-8B5B-EBB1A2BD8852"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
+      "location": {
+        "lat": 32.78460454662827,
+        "lng": 34.987120821454766
+      },
+      "formatted": "חורב 13, חיפה, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-05-03T05:00:00.000Z",
+        "timestamp_end": "2024-05-03T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0115F2AC-3FCB-4022-961C-75C4B39C871F"
       }
     ]
   },
@@ -1005,24 +1010,6 @@
   },
   {
     "address": {
-      "unformatted": "באר שבע, מסדרון ליד בנק הדם",
-      "location": {
-        "lat": 31.24866131836046,
-        "lng": 34.79185972945504
-      },
-      "formatted": "באר שבע, ישראל",
-      "city": "באר שבע"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-05-05T06:30:00.000Z",
-        "timestamp_end": "2024-05-05T11:45:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4EFA341F-3609-43E7-978B-34D3E50F9921"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "טבנקין 19 באר שבע, עזרא ב\"ש",
       "location": {
         "lat": 31.254332,
@@ -1036,6 +1023,24 @@
         "timestamp_start": "2024-05-05T12:00:00.000Z",
         "timestamp_end": "2024-05-05T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E6285F8A-72EF-47FD-AA5A-84CC5FB9A58E"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "באר שבע, מסדרון ליד בנק הדם",
+      "location": {
+        "lat": 31.24866131836046,
+        "lng": 34.79185972945504
+      },
+      "formatted": "באר שבע, ישראל",
+      "city": "באר שבע"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-05-05T06:30:00.000Z",
+        "timestamp_end": "2024-05-05T11:45:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4EFA341F-3609-43E7-978B-34D3E50F9921"
       }
     ]
   },
@@ -1100,24 +1105,6 @@
   },
   {
     "address": {
-      "unformatted": "בועיינה נוג'יידאת, אולם הספורט ליד המועצה",
-      "location": {
-        "lat": 32.807711,
-        "lng": 35.36527
-      },
-      "formatted": "בועיינה-נוג'ידאת, ישראל",
-      "city": "בועיינה נוג'יידאת"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-05-06T13:00:00.000Z",
-        "timestamp_end": "2024-05-06T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1B683C62-31C2-4F8D-B71C-4E1EA3842613"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ש\"י עגנון 24 ירושלים, שבט משואות צופים קטמון",
       "location": {
         "lat": 31.7603128,
@@ -1149,6 +1136,24 @@
         "timestamp_start": "2024-05-06T14:00:00.000Z",
         "timestamp_end": "2024-05-06T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/78AE638B-DBC1-4E1C-AA86-8782DBFC1DC4"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "בועיינה נוג'יידאת, אולם הספורט ליד המועצה",
+      "location": {
+        "lat": 32.807711,
+        "lng": 35.36527
+      },
+      "formatted": "בועיינה-נוג'ידאת, ישראל",
+      "city": "בועיינה נוג'יידאת"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-05-06T13:00:00.000Z",
+        "timestamp_end": "2024-05-06T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1B683C62-31C2-4F8D-B71C-4E1EA3842613"
       }
     ]
   },
