@@ -802,6 +802,24 @@
   },
   {
     "address": {
+      "unformatted": "שומריה, התרמה בחדר חוגים",
+      "location": {
+        "lat": 31.4321553,
+        "lng": 34.8840963
+      },
+      "formatted": "שומריה, ישראל",
+      "city": "שומריה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-05-23T13:00:00.000Z",
+        "timestamp_end": "2024-05-23T17:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/408FEFA1-B1A6-4556-885C-BC52B9E1ABFE"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "אעבלין, אולם אלפאנוס מרכז הכפר",
       "location": {
         "lat": 32.821799,
@@ -856,24 +874,6 @@
   },
   {
     "address": {
-      "unformatted": "שומריה, במועדון הישוב שומריה",
-      "location": {
-        "lat": 31.432154,
-        "lng": 34.88409499999999
-      },
-      "formatted": "שומריה, ישראל",
-      "city": "שומריה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-05-23T13:00:00.000Z",
-        "timestamp_end": "2024-05-23T17:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/408FEFA1-B1A6-4556-885C-BC52B9E1ABFE"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
       "location": {
         "lat": 32.69315354378295,
@@ -910,39 +910,6 @@
   },
   {
     "address": {
-      "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
-      "location": {
-        "lat": 32.8440668,
-        "lng": 35.0802042
-      },
-      "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
-      "city": "קרית מוצקין"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-05-24T05:00:00.000Z",
-        "timestamp_end": "2024-05-24T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4E4D180F-8FC2-4EF7-A8A8-E9FE54CFB30B"
-      },
-      {
-        "timestamp_start": "2024-05-31T05:00:00.000Z",
-        "timestamp_end": "2024-05-31T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E680A8F6-5561-4C41-BEB2-D475A5144E91"
-      },
-      {
-        "timestamp_start": "2024-06-07T05:00:00.000Z",
-        "timestamp_end": "2024-06-07T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/450B3619-E8D8-4453-8F0F-9F6D88164B53"
-      },
-      {
-        "timestamp_start": "2024-06-14T05:00:00.000Z",
-        "timestamp_end": "2024-06-14T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A4024223-0FE1-4D2D-B625-8F5EAFF96345"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
       "location": {
         "lat": 32.3284579,
@@ -971,6 +938,39 @@
         "timestamp_start": "2024-06-14T05:30:00.000Z",
         "timestamp_end": "2024-06-14T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6D1BDE9E-A49D-4666-B122-CF82808D3DD3"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+      "location": {
+        "lat": 32.8440668,
+        "lng": 35.0802042
+      },
+      "formatted": "77,, HaHashmona'im St 75, Kiryat Motskin, ישראל",
+      "city": "קרית מוצקין"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-05-24T05:00:00.000Z",
+        "timestamp_end": "2024-05-24T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4E4D180F-8FC2-4EF7-A8A8-E9FE54CFB30B"
+      },
+      {
+        "timestamp_start": "2024-05-31T05:00:00.000Z",
+        "timestamp_end": "2024-05-31T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E680A8F6-5561-4C41-BEB2-D475A5144E91"
+      },
+      {
+        "timestamp_start": "2024-06-07T05:00:00.000Z",
+        "timestamp_end": "2024-06-07T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/450B3619-E8D8-4453-8F0F-9F6D88164B53"
+      },
+      {
+        "timestamp_start": "2024-06-14T05:00:00.000Z",
+        "timestamp_end": "2024-06-14T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A4024223-0FE1-4D2D-B625-8F5EAFF96345"
       }
     ]
   },
