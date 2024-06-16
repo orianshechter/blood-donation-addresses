@@ -152,24 +152,6 @@
   },
   {
     "address": {
-      "unformatted": "העצמאות 68 קרית גת, בית וקס",
-      "location": {
-        "lat": 31.6088356,
-        "lng": 34.7676516
-      },
-      "formatted": "שדרות העצמאות 68, קרית גת, ישראל",
-      "city": "קרית גת"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-06-16T13:00:00.000Z",
-        "timestamp_end": "2024-06-16T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0424760A-91D1-49DC-98A3-4D3DF8325B4D"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מצד שמעון, אולם בישוב מיצד - פני קדם",
       "location": {
         "lat": 31.601907625432723,
@@ -201,6 +183,24 @@
         "timestamp_start": "2024-06-16T13:00:00.000Z",
         "timestamp_end": "2024-06-16T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0CD55BDA-FB94-4761-802B-96F63EDD829A"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "העצמאות 68 קרית גת, בית וקס",
+      "location": {
+        "lat": 31.6088356,
+        "lng": 34.7676516
+      },
+      "formatted": "שדרות העצמאות 68, קרית גת, ישראל",
+      "city": "קרית גת"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-06-16T13:00:00.000Z",
+        "timestamp_end": "2024-06-16T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0424760A-91D1-49DC-98A3-4D3DF8325B4D"
       }
     ]
   },
@@ -1485,24 +1485,6 @@
   },
   {
     "address": {
-      "unformatted": "שער מגנס ירושלים, בנין מנהלה אוני' הר הצופים גבעת רם",
-      "location": {
-        "lat": 31.7945578,
-        "lng": 35.2414009
-      },
-      "formatted": "ירושלים",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-06-26T06:30:00.000Z",
-        "timestamp_end": "2024-06-26T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EEFEC6E5-F918-40D8-B1A5-E0370AF89EBA"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "אורטל, מועדון",
       "location": {
         "lat": 33.086236,
@@ -1516,6 +1498,24 @@
         "timestamp_start": "2024-06-26T12:30:00.000Z",
         "timestamp_end": "2024-06-26T16:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8114340C-C910-448E-B026-A6E9E68A555B"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שער מגנס ירושלים, בנין מנהלה אוני' הר הצופים גבעת רם",
+      "location": {
+        "lat": 31.7945578,
+        "lng": 35.2414009
+      },
+      "formatted": "ירושלים",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-06-26T06:30:00.000Z",
+        "timestamp_end": "2024-06-26T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EEFEC6E5-F918-40D8-B1A5-E0370AF89EBA"
       }
     ]
   },
@@ -1719,19 +1719,37 @@
   },
   {
     "address": {
-      "unformatted": "לוי אשכול 32 נתניה, מתנ\"ס גלי ים",
+      "unformatted": "גיניגר, חדר האוכל",
       "location": {
-        "lat": 32.296505,
-        "lng": 34.8461621
+        "lat": 32.663419,
+        "lng": 35.259861
       },
-      "formatted": "לוי אשכול 32, נתניה, 4242684, ישראל",
-      "city": "נתניה"
+      "formatted": "גניגר, ישראל",
+      "city": "גיניגר"
     },
     "times": [
       {
         "timestamp_start": "2024-07-04T13:00:00.000Z",
-        "timestamp_end": "2024-07-04T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6346C22F-CC6C-4B0A-B811-196F66F0FF55"
+        "timestamp_end": "2024-07-04T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F6FFD702-68BF-45AF-80D7-32CFA2D11EF7"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "עמיעד, מועדון",
+      "location": {
+        "lat": 32.930354,
+        "lng": 35.54052100000001
+      },
+      "formatted": "עמיעד, ישראל",
+      "city": "עמיעד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-07-04T13:00:00.000Z",
+        "timestamp_end": "2024-07-04T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/04618260-6761-4F85-A06F-1CAA242EA52D"
       }
     ]
   },
@@ -1773,37 +1791,19 @@
   },
   {
     "address": {
-      "unformatted": "עמיעד, מועדון",
+      "unformatted": "לוי אשכול 32 נתניה, מתנ\"ס גלי ים",
       "location": {
-        "lat": 32.930354,
-        "lng": 35.54052100000001
+        "lat": 32.296505,
+        "lng": 34.8461621
       },
-      "formatted": "עמיעד, ישראל",
-      "city": "עמיעד"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-07-04T13:00:00.000Z",
-        "timestamp_end": "2024-07-04T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/04618260-6761-4F85-A06F-1CAA242EA52D"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "ירקונה, במתחם בית העם",
-      "location": {
-        "lat": 32.1434631,
-        "lng": 34.8970693
-      },
-      "formatted": "הפרדס, ירקונה, ישראל",
-      "city": "ירקונה"
+      "formatted": "לוי אשכול 32, נתניה, 4242684, ישראל",
+      "city": "נתניה"
     },
     "times": [
       {
         "timestamp_start": "2024-07-04T13:00:00.000Z",
         "timestamp_end": "2024-07-04T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7E8728C8-1072-4935-B934-ECFC2FE4C38D"
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6346C22F-CC6C-4B0A-B811-196F66F0FF55"
       }
     ]
   },
@@ -1827,19 +1827,19 @@
   },
   {
     "address": {
-      "unformatted": "גיניגר, חדר האוכל",
+      "unformatted": "ירקונה, במתחם בית העם",
       "location": {
-        "lat": 32.663419,
-        "lng": 35.259861
+        "lat": 32.1434631,
+        "lng": 34.8970693
       },
-      "formatted": "גניגר, ישראל",
-      "city": "גיניגר"
+      "formatted": "הפרדס, ירקונה, ישראל",
+      "city": "ירקונה"
     },
     "times": [
       {
         "timestamp_start": "2024-07-04T13:00:00.000Z",
-        "timestamp_end": "2024-07-04T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F6FFD702-68BF-45AF-80D7-32CFA2D11EF7"
+        "timestamp_end": "2024-07-04T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7E8728C8-1072-4935-B934-ECFC2FE4C38D"
       }
     ]
   },
