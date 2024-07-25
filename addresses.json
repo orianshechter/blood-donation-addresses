@@ -186,8 +186,13 @@
       },
       {
         "timestamp_start": "2024-07-28T06:00:00.000Z",
-        "timestamp_end": "2024-07-28T13:45:00.000Z",
+        "timestamp_end": "2024-07-28T14:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F61028EB-47A9-47EE-A97A-402E0F3C0DA6"
+      },
+      {
+        "timestamp_start": "2024-07-29T06:00:00.000Z",
+        "timestamp_end": "2024-07-29T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D6CCAB3A-3B30-4922-9475-BEDF3E239E4C"
       },
       {
         "timestamp_start": "2024-07-30T10:00:00.000Z",
@@ -1245,24 +1250,6 @@
   },
   {
     "address": {
-      "unformatted": "מגדל העמק, פרץ סנטר",
-      "location": {
-        "lat": 32.6780967,
-        "lng": 35.2431759
-      },
-      "formatted": "שדרות שאול עמור 77, מגדל העמק, ישראל",
-      "city": "מגדל העמק"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-07-28T07:00:00.000Z",
-        "timestamp_end": "2024-07-28T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/42BCC593-7B67-43F2-ABBD-0ED8BD0BA7C4"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "חרות, מועדון נוער",
       "location": {
         "lat": 32.2392206,
@@ -1276,6 +1263,24 @@
         "timestamp_start": "2024-07-28T14:00:00.000Z",
         "timestamp_end": "2024-07-28T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DF83FABA-882E-44D6-86BA-C74BED48F09B"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מגדל העמק, פרץ סנטר",
+      "location": {
+        "lat": 32.6780967,
+        "lng": 35.2431759
+      },
+      "formatted": "שדרות שאול עמור 77, מגדל העמק, ישראל",
+      "city": "מגדל העמק"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-07-28T07:00:00.000Z",
+        "timestamp_end": "2024-07-28T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/42BCC593-7B67-43F2-ABBD-0ED8BD0BA7C4"
       }
     ]
   },
@@ -1602,19 +1607,19 @@
   },
   {
     "address": {
-      "unformatted": "יסודות, במעון הישן",
+      "unformatted": "פארן 12 ירושלים, קופת חולים כללית - רמת אשכול",
       "location": {
-        "lat": 31.81607536713884,
-        "lng": 34.86503694301726
+        "lat": 31.8012181,
+        "lng": 35.2262227
       },
-      "formatted": "bad_address",
-      "city": ""
+      "formatted": "פארן 12, ירושלים",
+      "city": "ירושלים"
     },
     "times": [
       {
         "timestamp_start": "2024-07-30T14:00:00.000Z",
-        "timestamp_end": "2024-07-30T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0EC55E0C-0D96-4959-8632-5E1C8B9B81D8"
+        "timestamp_end": "2024-07-30T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/29880A34-DEBE-4283-ACB2-9A279A233E8B"
       }
     ]
   },
@@ -1638,19 +1643,19 @@
   },
   {
     "address": {
-      "unformatted": "פארן 12 ירושלים, קופת חולים כללית - רמת אשכול",
+      "unformatted": "יסודות, במעון הישן",
       "location": {
-        "lat": 31.8012181,
-        "lng": 35.2262227
+        "lat": 31.81607536713884,
+        "lng": 34.86503694301726
       },
-      "formatted": "פארן 12, ירושלים",
-      "city": "ירושלים"
+      "formatted": "bad_address",
+      "city": ""
     },
     "times": [
       {
         "timestamp_start": "2024-07-30T14:00:00.000Z",
-        "timestamp_end": "2024-07-30T18:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/29880A34-DEBE-4283-ACB2-9A279A233E8B"
+        "timestamp_end": "2024-07-30T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0EC55E0C-0D96-4959-8632-5E1C8B9B81D8"
       }
     ]
   },
@@ -1692,19 +1697,37 @@
   },
   {
     "address": {
-      "unformatted": "ירושלים, שדרות המאירי קרית משה",
+      "unformatted": "דרך הבנים 17 פרדס חנה כרכור, במרכז מול מכבי דנט",
       "location": {
-        "lat": 31.7863872,
-        "lng": 35.194786
+        "lat": 32.4764444,
+        "lng": 34.9773963
       },
-      "formatted": "שדרות המאירי, ירושלים, ישראל",
-      "city": "ירושלים"
+      "formatted": "דרך הבנים 17, פרדס חנה כרכור, ישראל",
+      "city": "פרדס חנה כרכור"
     },
     "times": [
       {
-        "timestamp_start": "2024-07-31T11:00:00.000Z",
-        "timestamp_end": "2024-07-31T16:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/47B2DB22-F075-40B2-AC2E-19D03BFC7985"
+        "timestamp_start": "2024-07-31T06:30:00.000Z",
+        "timestamp_end": "2024-07-31T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/40E2A33F-5D2E-43F3-B904-440EF04E4F15"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "חיבת ציון, בית כנסת",
+      "location": {
+        "lat": 32.39820570223411,
+        "lng": 34.91261457618705
+      },
+      "formatted": "חיבת ציון, ישראל",
+      "city": "חיבת ציון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-07-31T14:00:00.000Z",
+        "timestamp_end": "2024-07-31T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9B68F32F-7761-4E0A-9FEF-81C5BC3A8301"
       }
     ]
   },
@@ -1728,19 +1751,19 @@
   },
   {
     "address": {
-      "unformatted": "דרך הבנים 17 פרדס חנה כרכור, במרכז מול מכבי דנט",
+      "unformatted": "ירושלים, שדרות המאירי קרית משה",
       "location": {
-        "lat": 32.4764444,
-        "lng": 34.9773963
+        "lat": 31.7863872,
+        "lng": 35.194786
       },
-      "formatted": "דרך הבנים 17, פרדס חנה כרכור, ישראל",
-      "city": "פרדס חנה כרכור"
+      "formatted": "שדרות המאירי, ירושלים, ישראל",
+      "city": "ירושלים"
     },
     "times": [
       {
-        "timestamp_start": "2024-07-31T06:30:00.000Z",
-        "timestamp_end": "2024-07-31T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/40E2A33F-5D2E-43F3-B904-440EF04E4F15"
+        "timestamp_start": "2024-07-31T11:00:00.000Z",
+        "timestamp_end": "2024-07-31T16:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/47B2DB22-F075-40B2-AC2E-19D03BFC7985"
       }
     ]
   },
@@ -1764,19 +1787,37 @@
   },
   {
     "address": {
-      "unformatted": "חיבת ציון, בית כנסת",
+      "unformatted": "שבי ציון, אולם לוינגרט",
       "location": {
-        "lat": 32.39820570223411,
-        "lng": 34.91261457618705
+        "lat": 32.9817253,
+        "lng": 35.0859115
       },
-      "formatted": "חיבת ציון, ישראל",
-      "city": "חיבת ציון"
+      "formatted": "שבי ציון, ישראל",
+      "city": "שבי ציון"
     },
     "times": [
       {
-        "timestamp_start": "2024-07-31T14:00:00.000Z",
-        "timestamp_end": "2024-07-31T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9B68F32F-7761-4E0A-9FEF-81C5BC3A8301"
+        "timestamp_start": "2024-08-01T14:00:00.000Z",
+        "timestamp_end": "2024-08-01T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2B81350F-C6B1-41BC-810F-B796F2AFF1A6"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מבוא ביתר, בבית העם מושב מבוא ביתר",
+      "location": {
+        "lat": 31.7226893,
+        "lng": 35.1069616
+      },
+      "formatted": "מבוא ביתר, ישראל",
+      "city": "מבוא ביתר"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-08-01T14:00:00.000Z",
+        "timestamp_end": "2024-08-01T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B328111E-4011-4B61-8719-040ED3025EE5"
       }
     ]
   },
@@ -1818,60 +1859,6 @@
   },
   {
     "address": {
-      "unformatted": "מבוא ביתר, בבית העם מושב מבוא ביתר",
-      "location": {
-        "lat": 31.7226893,
-        "lng": 35.1069616
-      },
-      "formatted": "מבוא ביתר, ישראל",
-      "city": "מבוא ביתר"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-08-01T14:00:00.000Z",
-        "timestamp_end": "2024-08-01T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B328111E-4011-4B61-8719-040ED3025EE5"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "שבי ציון, אולם לוינגרט",
-      "location": {
-        "lat": 32.9817253,
-        "lng": 35.0859115
-      },
-      "formatted": "שבי ציון, ישראל",
-      "city": "שבי ציון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-08-01T14:00:00.000Z",
-        "timestamp_end": "2024-08-01T18:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2B81350F-C6B1-41BC-810F-B796F2AFF1A6"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "תרום, בבית העם מושב תרום",
-      "location": {
-        "lat": 31.7826337,
-        "lng": 34.982979
-      },
-      "formatted": "תרום, ישראל",
-      "city": "תרום"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-08-01T14:00:00.000Z",
-        "timestamp_end": "2024-08-01T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3DE50FBA-6A13-4527-A88A-81288A4CA98A"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "העצמאות 3 אריאל, מועדון הלב החם",
       "location": {
         "lat": 32.105417,
@@ -1903,6 +1890,24 @@
         "timestamp_start": "2024-08-01T14:00:00.000Z",
         "timestamp_end": "2024-08-01T18:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E867D1EA-2FC9-40F0-A66D-225BE1264506"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "תרום, בבית העם מושב תרום",
+      "location": {
+        "lat": 31.7826337,
+        "lng": 34.982979
+      },
+      "formatted": "תרום, ישראל",
+      "city": "תרום"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-08-01T14:00:00.000Z",
+        "timestamp_end": "2024-08-01T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3DE50FBA-6A13-4527-A88A-81288A4CA98A"
       }
     ]
   },
@@ -1944,24 +1949,6 @@
   },
   {
     "address": {
-      "unformatted": "אפיקים, מועדון עינב",
-      "location": {
-        "lat": 32.6805652,
-        "lng": 35.5777315
-      },
-      "formatted": "אפיקים, ישראל",
-      "city": "אפיקים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-08-05T13:00:00.000Z",
-        "timestamp_end": "2024-08-05T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D6114C59-12DD-4873-8E09-5FDFB36AB94D"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "נאות מרדכי, מקלט עילי מאחורי המרפאה",
       "location": {
         "lat": 33.159785,
@@ -1980,6 +1967,24 @@
   },
   {
     "address": {
+      "unformatted": "אפיקים, מועדון עינב",
+      "location": {
+        "lat": 32.6805652,
+        "lng": 35.5777315
+      },
+      "formatted": "אפיקים, ישראל",
+      "city": "אפיקים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-08-05T13:00:00.000Z",
+        "timestamp_end": "2024-08-05T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D6114C59-12DD-4873-8E09-5FDFB36AB94D"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "ההסתדרות 1 חצור הגלילית, היכל התרבות",
       "location": {
         "lat": 32.980382,
@@ -1993,24 +1998,6 @@
         "timestamp_start": "2024-08-06T12:00:00.000Z",
         "timestamp_end": "2024-08-06T16:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/025EAEA3-5713-4B74-9698-DFE84429DEEF"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "שריד, מועדון לחבר",
-      "location": {
-        "lat": 32.663061,
-        "lng": 35.2247569
-      },
-      "formatted": "שריד, ישראל",
-      "city": "שריד"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-08-07T13:00:00.000Z",
-        "timestamp_end": "2024-08-07T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AC0F68B8-153D-4693-B207-3261C041DAA8"
       }
     ]
   },
@@ -2052,37 +2039,19 @@
   },
   {
     "address": {
-      "unformatted": "קדומים צפון קדומים, אולם שירת מרים",
+      "unformatted": "שריד, מועדון לחבר",
       "location": {
-        "lat": 32.21539281045485,
-        "lng": 35.15892418719246
+        "lat": 32.663061,
+        "lng": 35.2247569
       },
-      "formatted": "קדומים",
-      "city": "קדומים"
+      "formatted": "שריד, ישראל",
+      "city": "שריד"
     },
     "times": [
       {
-        "timestamp_start": "2024-08-08T14:00:00.000Z",
-        "timestamp_end": "2024-08-08T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6AD6CF9C-3468-48F8-A8C8-8C69EC220F19"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "אליהו מני 4 ירושלים, הבסיס של המייק",
-      "location": {
-        "lat": 31.7859805,
-        "lng": 35.2104777
-      },
-      "formatted": "אליהו מני 4, ירושלים, ישראל",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-08-08T12:00:00.000Z",
-        "timestamp_end": "2024-08-08T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/25FD77F5-3406-48CB-B43F-A79B8FEB6FA6"
+        "timestamp_start": "2024-08-07T13:00:00.000Z",
+        "timestamp_end": "2024-08-07T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AC0F68B8-153D-4693-B207-3261C041DAA8"
       }
     ]
   },
@@ -2106,19 +2075,37 @@
   },
   {
     "address": {
-      "unformatted": "דרך הבנים 20 פרדס חנה כרכור, בית יד לבנים",
+      "unformatted": "אליהו מני 4 ירושלים, הבסיס של המייק",
       "location": {
-        "lat": 32.4754327,
-        "lng": 34.9738236
+        "lat": 31.7859805,
+        "lng": 35.2104777
       },
-      "formatted": "פרדס חנה כרכור, ישראל",
-      "city": "פרדס חנה כרכור"
+      "formatted": "אליהו מני 4, ירושלים, ישראל",
+      "city": "ירושלים"
     },
     "times": [
       {
-        "timestamp_start": "2024-08-11T09:00:00.000Z",
-        "timestamp_end": "2024-08-11T16:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/960525C1-8A3F-4DD0-AB22-AE5E35FAD0F8"
+        "timestamp_start": "2024-08-08T12:00:00.000Z",
+        "timestamp_end": "2024-08-08T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/25FD77F5-3406-48CB-B43F-A79B8FEB6FA6"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "קדומים צפון קדומים, אולם שירת מרים",
+      "location": {
+        "lat": 32.21539281045485,
+        "lng": 35.15892418719246
+      },
+      "formatted": "קדומים",
+      "city": "קדומים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-08-08T14:00:00.000Z",
+        "timestamp_end": "2024-08-08T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6AD6CF9C-3468-48F8-A8C8-8C69EC220F19"
       }
     ]
   },
@@ -2137,6 +2124,24 @@
         "timestamp_start": "2024-08-11T14:00:00.000Z",
         "timestamp_end": "2024-08-11T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3DAA3FAE-4F00-439C-8C81-2597FD4C8212"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דרך הבנים 20 פרדס חנה כרכור, בית יד לבנים",
+      "location": {
+        "lat": 32.4754327,
+        "lng": 34.9738236
+      },
+      "formatted": "פרדס חנה כרכור, ישראל",
+      "city": "פרדס חנה כרכור"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-08-11T09:00:00.000Z",
+        "timestamp_end": "2024-08-11T16:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/960525C1-8A3F-4DD0-AB22-AE5E35FAD0F8"
       }
     ]
   },
