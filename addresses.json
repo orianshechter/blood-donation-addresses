@@ -1,24 +1,6 @@
 [
   {
     "address": {
-      "unformatted": "ברקת, מושב ברקת",
-      "location": {
-        "lat": 32.018344,
-        "lng": 34.943179
-      },
-      "formatted": "ברקת, ישראל",
-      "city": "ברקת"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-08-11T13:00:00.000Z",
-        "timestamp_end": "2024-08-11T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7F501DB7-3F9F-4A16-8FB0-D6A5D923DC4F"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ירושלים, תרומת פלסמה AB, - תחנת מד\"א",
       "location": {
         "lat": 31.791749680874574,
@@ -70,6 +52,24 @@
         "timestamp_start": "2024-08-11T12:30:00.000Z",
         "timestamp_end": "2024-08-11T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DC6E4A81-8F6A-4C40-BCA7-3EB1B69D7471"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "ברקת, מושב ברקת",
+      "location": {
+        "lat": 32.018344,
+        "lng": 34.943179
+      },
+      "formatted": "ברקת, ישראל",
+      "city": "ברקת"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-08-11T13:00:00.000Z",
+        "timestamp_end": "2024-08-11T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7F501DB7-3F9F-4A16-8FB0-D6A5D923DC4F"
       }
     ]
   },
@@ -879,6 +879,11 @@
         "timestamp_start": "2024-08-11T13:30:00.000Z",
         "timestamp_end": "2024-08-11T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FA9FB5A6-8EA5-45C6-A368-7E4A1A5D1478"
+      },
+      {
+        "timestamp_start": "2024-08-12T13:30:00.000Z",
+        "timestamp_end": "2024-08-12T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/859593AE-CF60-4876-B211-77B14285576E"
       }
     ]
   },
@@ -1873,39 +1878,6 @@
   },
   {
     "address": {
-      "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
-      "location": {
-        "lat": 32.3284579,
-        "lng": 34.8645215
-      },
-      "formatted": "בנימין מינץ 7, נתניה, ישראל",
-      "city": "נתניה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-08-16T05:30:00.000Z",
-        "timestamp_end": "2024-08-16T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4A879B6D-7A73-41FB-BA2B-1110D0666CB5"
-      },
-      {
-        "timestamp_start": "2024-08-23T05:30:00.000Z",
-        "timestamp_end": "2024-08-23T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6628A5A8-C730-46F4-BD7F-EC0F356EA56B"
-      },
-      {
-        "timestamp_start": "2024-08-30T05:30:00.000Z",
-        "timestamp_end": "2024-08-30T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5410F014-B1AD-4D85-93FD-C47E4F9F1018"
-      },
-      {
-        "timestamp_start": "2024-09-06T05:30:00.000Z",
-        "timestamp_end": "2024-09-06T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/97511239-6C18-48EA-9DC0-58DE475FA52A"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
       "location": {
         "lat": 32.8440668,
@@ -1934,6 +1906,39 @@
         "timestamp_start": "2024-09-06T05:00:00.000Z",
         "timestamp_end": "2024-09-06T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EE9244B3-69A6-41B3-9477-26FECC934BB7"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.3284579,
+        "lng": 34.8645215
+      },
+      "formatted": "בנימין מינץ 7, נתניה, ישראל",
+      "city": "נתניה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-08-16T05:30:00.000Z",
+        "timestamp_end": "2024-08-16T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4A879B6D-7A73-41FB-BA2B-1110D0666CB5"
+      },
+      {
+        "timestamp_start": "2024-08-23T05:30:00.000Z",
+        "timestamp_end": "2024-08-23T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6628A5A8-C730-46F4-BD7F-EC0F356EA56B"
+      },
+      {
+        "timestamp_start": "2024-08-30T05:30:00.000Z",
+        "timestamp_end": "2024-08-30T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5410F014-B1AD-4D85-93FD-C47E4F9F1018"
+      },
+      {
+        "timestamp_start": "2024-09-06T05:30:00.000Z",
+        "timestamp_end": "2024-09-06T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/97511239-6C18-48EA-9DC0-58DE475FA52A"
       }
     ]
   },
