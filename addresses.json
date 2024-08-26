@@ -504,29 +504,6 @@
   },
   {
     "address": {
-      "unformatted": "יצחק בן צבי באר שבע, תחנה מרכזית",
-      "location": {
-        "lat": 31.24272051486917,
-        "lng": 34.79787591574782
-      },
-      "formatted": "יצחק בן צבי, באר שבע, ישראל",
-      "city": "באר שבע"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-08-26T06:00:00.000Z",
-        "timestamp_end": "2024-08-26T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F0918A92-DF1E-4E4E-A5D0-74AA7CEF720C"
-      },
-      {
-        "timestamp_start": "2024-08-27T06:00:00.000Z",
-        "timestamp_end": "2024-08-27T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6A520C55-8BEC-4795-A4CD-90DA1AFA4620"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ראובן רובין 5 באר שבע, מרכז הנגב מול גלידה גולדה",
       "location": {
         "lat": 31.2592905,
@@ -540,6 +517,24 @@
         "timestamp_start": "2024-08-26T13:30:00.000Z",
         "timestamp_end": "2024-08-26T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FD4D32BA-D674-4D6B-8BF0-C0A10FB7248D"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שדרות דוד בן גוריון 1 באר שבע, בית הסטודנט אונ' בן גוריון - באר שבע",
+      "location": {
+        "lat": 31.2630791,
+        "lng": 34.8028162
+      },
+      "formatted": "באר שבע, ישראל",
+      "city": "באר שבע"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-08-26T07:30:00.000Z",
+        "timestamp_end": "2024-08-26T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9ECD926B-D461-4210-801E-03FADF2ADBE1"
       }
     ]
   },
@@ -563,19 +558,24 @@
   },
   {
     "address": {
-      "unformatted": "שדרות דוד בן גוריון 1 באר שבע, בית הסטודנט אונ' בן גוריון - באר שבע",
+      "unformatted": "יצחק בן צבי באר שבע, תחנה מרכזית",
       "location": {
-        "lat": 31.2630791,
-        "lng": 34.8028162
+        "lat": 31.24272051486917,
+        "lng": 34.79787591574782
       },
-      "formatted": "באר שבע, ישראל",
+      "formatted": "יצחק בן צבי, באר שבע, ישראל",
       "city": "באר שבע"
     },
     "times": [
       {
-        "timestamp_start": "2024-08-26T07:30:00.000Z",
-        "timestamp_end": "2024-08-26T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9ECD926B-D461-4210-801E-03FADF2ADBE1"
+        "timestamp_start": "2024-08-26T06:00:00.000Z",
+        "timestamp_end": "2024-08-26T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F0918A92-DF1E-4E4E-A5D0-74AA7CEF720C"
+      },
+      {
+        "timestamp_start": "2024-08-27T06:00:00.000Z",
+        "timestamp_end": "2024-08-27T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6A520C55-8BEC-4795-A4CD-90DA1AFA4620"
       }
     ]
   },
@@ -737,19 +737,37 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2A66B024-C11B-460F-874F-96995AC06485"
       },
       {
-        "timestamp_start": "2024-08-28T13:00:00.000Z",
-        "timestamp_end": "2024-08-28T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2BE79FD5-7269-48CC-A96C-D2A54BED3726"
-      },
-      {
         "timestamp_start": "2024-08-28T07:00:00.000Z",
         "timestamp_end": "2024-08-28T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F098E5FC-F7DD-4054-867F-80BFA6FC3C85"
       },
       {
+        "timestamp_start": "2024-08-28T13:00:00.000Z",
+        "timestamp_end": "2024-08-28T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2BE79FD5-7269-48CC-A96C-D2A54BED3726"
+      },
+      {
         "timestamp_start": "2024-08-29T07:00:00.000Z",
         "timestamp_end": "2024-08-29T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C02FC25C-FC1B-4538-9E82-481D9ED72EE4"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שדרות גולדה מאיר 225 ירושלים, קניון רמות - ברחבה ליד הסופר פארם",
+      "location": {
+        "lat": 31.8175,
+        "lng": 35.1944444
+      },
+      "formatted": "שדרות גולדה מאיר 255, ירושלים",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-08-27T11:00:00.000Z",
+        "timestamp_end": "2024-08-27T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3DCDC031-5658-4321-ABEE-EF6AEB67B48A"
       }
     ]
   },
@@ -917,24 +935,6 @@
   },
   {
     "address": {
-      "unformatted": "ברוכין, רב תכליתי ברוכין אולם כרמל",
-      "location": {
-        "lat": 32.082231,
-        "lng": 35.094113
-      },
-      "formatted": "ברוכין",
-      "city": "ברוכין"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-08-28T14:00:00.000Z",
-        "timestamp_end": "2024-08-28T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F8B0B1F4-883A-489C-881E-DFB0BAED8167"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "חיפה, מרכז זיו נו\"ש + ליד דומינוס",
       "location": {
         "lat": 32.7829305,
@@ -948,6 +948,24 @@
         "timestamp_start": "2024-08-28T13:00:00.000Z",
         "timestamp_end": "2024-08-28T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/50FEE749-2A9E-477A-AF8A-835A7E1DEE9B"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "ברוכין, רב תכליתי ברוכין אולם כרמל",
+      "location": {
+        "lat": 32.082231,
+        "lng": 35.094113
+      },
+      "formatted": "ברוכין",
+      "city": "ברוכין"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-08-28T14:00:00.000Z",
+        "timestamp_end": "2024-08-28T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F8B0B1F4-883A-489C-881E-DFB0BAED8167"
       }
     ]
   },
@@ -1748,24 +1766,6 @@
   },
   {
     "address": {
-      "unformatted": "תל יוסף, מועדון",
-      "location": {
-        "lat": 32.556704,
-        "lng": 35.398914
-      },
-      "formatted": "תל יוסף, ישראל",
-      "city": "תל יוסף"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-08T13:30:00.000Z",
-        "timestamp_end": "2024-09-08T17:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8F67D9C1-682C-4C14-A4A4-67D878BFF6C0"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "משמר הירדן, בית-העם",
       "location": {
         "lat": 33.0034858,
@@ -1779,6 +1779,24 @@
         "timestamp_start": "2024-09-08T13:00:00.000Z",
         "timestamp_end": "2024-09-08T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F05D738B-1A12-4A24-B9F6-A69ADCDCA985"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "תל יוסף, מועדון",
+      "location": {
+        "lat": 32.556704,
+        "lng": 35.398914
+      },
+      "formatted": "תל יוסף, ישראל",
+      "city": "תל יוסף"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-08T13:30:00.000Z",
+        "timestamp_end": "2024-09-08T17:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8F67D9C1-682C-4C14-A4A4-67D878BFF6C0"
       }
     ]
   },
@@ -1892,24 +1910,6 @@
   },
   {
     "address": {
-      "unformatted": "שלוחות, בית דורות",
-      "location": {
-        "lat": 32.4726092,
-        "lng": 35.4804892
-      },
-      "formatted": "שלוחות, ישראל",
-      "city": "שלוחות"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-11T13:00:00.000Z",
-        "timestamp_end": "2024-09-11T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3DE486B0-B655-4F64-9104-198ADA2FFCC8"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "רבדים, חדר אוכל",
       "location": {
         "lat": 31.773966,
@@ -1923,6 +1923,24 @@
         "timestamp_start": "2024-09-11T13:00:00.000Z",
         "timestamp_end": "2024-09-11T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/41AEA639-2C43-4608-81C4-5D268A88521E"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שלוחות, בית דורות",
+      "location": {
+        "lat": 32.4726092,
+        "lng": 35.4804892
+      },
+      "formatted": "שלוחות, ישראל",
+      "city": "שלוחות"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-11T13:00:00.000Z",
+        "timestamp_end": "2024-09-11T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3DE486B0-B655-4F64-9104-198ADA2FFCC8"
       }
     ]
   },
@@ -1982,24 +2000,6 @@
   },
   {
     "address": {
-      "unformatted": "עין הנצי''ב, במועדון לחבר",
-      "location": {
-        "lat": 32.47071,
-        "lng": 35.501973
-      },
-      "formatted": "עין הנצי\"ב, ישראל",
-      "city": "עין הנצי''ב"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-15T13:00:00.000Z",
-        "timestamp_end": "2024-09-15T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/012F3CFF-3AE7-4F75-9D72-99E8C652E283"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "שדה אליהו, בית תרבות",
       "location": {
         "lat": 32.43924380000001,
@@ -2013,6 +2013,24 @@
         "timestamp_start": "2024-09-15T12:30:00.000Z",
         "timestamp_end": "2024-09-15T16:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9F2A95BA-108D-4E34-B8AE-171FAB7560C8"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "עין הנצי''ב, במועדון לחבר",
+      "location": {
+        "lat": 32.47071,
+        "lng": 35.501973
+      },
+      "formatted": "עין הנצי\"ב, ישראל",
+      "city": "עין הנצי''ב"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-15T13:00:00.000Z",
+        "timestamp_end": "2024-09-15T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/012F3CFF-3AE7-4F75-9D72-99E8C652E283"
       }
     ]
   },
