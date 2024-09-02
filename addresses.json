@@ -239,24 +239,6 @@
   },
   {
     "address": {
-      "unformatted": "החרש 20 תל אביב יפו, בניין ויתניה",
-      "location": {
-        "lat": 32.0588715,
-        "lng": 34.7845818
-      },
-      "formatted": "החרש 20, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-02T07:00:00.000Z",
-        "timestamp_end": "2024-09-02T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/99F43F86-654B-4C74-A0B7-B002EF57A5AC"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ארלוזרוב תל אביב יפו, רכבת ישראל-סבידור מרכז",
       "location": {
         "lat": 32.0837128,
@@ -267,7 +249,12 @@
     },
     "times": [
       {
-        "timestamp_start": "2024-09-02T13:00:00.000Z",
+        "timestamp_start": "2024-09-02T07:00:00.000Z",
+        "timestamp_end": "2024-09-02T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CA9F1154-2FAE-4752-8848-23303B2B90DF"
+      },
+      {
+        "timestamp_start": "2024-09-02T13:01:00.000Z",
         "timestamp_end": "2024-09-02T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7309D6A4-2D1B-48DD-ABB9-B48570B6C323"
       }
@@ -426,6 +413,24 @@
         "timestamp_start": "2024-09-30T05:00:00.000Z",
         "timestamp_end": "2024-09-30T11:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BF19C4BA-ECDB-42DF-84E3-FC610AB73FFF"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אחוזה 147 רעננה, רחבת בית יד לבנים",
+      "location": {
+        "lat": 32.1804736,
+        "lng": 34.8711078
+      },
+      "formatted": "אחוזה 147, רעננה, ישראל",
+      "city": "רעננה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-02T07:00:00.000Z",
+        "timestamp_end": "2024-09-02T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C2B66C0D-4BA7-4DDC-86BA-BFD2CE09FD4B"
       }
     ]
   },
@@ -1507,24 +1512,6 @@
   },
   {
     "address": {
-      "unformatted": "מחנה נפ\"ח",
-      "location": {
-        "lat": 33.0609601,
-        "lng": 35.7405773
-      },
-      "formatted": "מרכז רמת הגולן",
-      "city": "מחנה נפ\"ח"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-16T07:00:00.000Z",
-        "timestamp_end": "2024-09-16T13:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2EE343E5-050E-4A0D-9CA4-027A29AE4A03"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "איצטדיון כרמיאל",
       "location": {
         "lat": 32.9111897,
@@ -1538,6 +1525,24 @@
         "timestamp_start": "2024-09-16T14:00:00.000Z",
         "timestamp_end": "2024-09-16T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C67AEFF2-536A-4B1D-9CA4-BE2AE819895D"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מחנה נפ\"ח",
+      "location": {
+        "lat": 33.0609601,
+        "lng": 35.7405773
+      },
+      "formatted": "מרכז רמת הגולן",
+      "city": "מחנה נפ\"ח"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-16T07:00:00.000Z",
+        "timestamp_end": "2024-09-16T13:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2EE343E5-050E-4A0D-9CA4-027A29AE4A03"
       }
     ]
   },
