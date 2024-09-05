@@ -386,29 +386,6 @@
   },
   {
     "address": {
-      "unformatted": "תל אביב יפו, בוטיק מעצבים קומה מינוס 1 דיזנגוף סנטר",
-      "location": {
-        "lat": 32.0972952,
-        "lng": 34.775357
-      },
-      "formatted": "דיזנגוף 1, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-05T12:01:00.000Z",
-        "timestamp_end": "2024-09-05T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9950DD15-9919-4018-93BB-769BCBDCE2D1"
-      },
-      {
-        "timestamp_start": "2024-09-05T07:00:00.000Z",
-        "timestamp_end": "2024-09-05T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B9D9A19A-9256-424F-8261-12FDE2651077"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ויקי שירן תל אביב יפו, מגדלי אלון מול הסופר פארם כניסה מרח ויקי שירן",
       "location": {
         "lat": 32.0687127,
@@ -445,6 +422,29 @@
         "timestamp_start": "2024-09-05T12:01:00.000Z",
         "timestamp_end": "2024-09-05T17:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6B248B41-D19D-4A3D-97A1-62AAEE260F01"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "תל אביב יפו, בוטיק מעצבים קומה מינוס 1 דיזנגוף סנטר",
+      "location": {
+        "lat": 32.0972952,
+        "lng": 34.775357
+      },
+      "formatted": "דיזנגוף 1, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-05T12:01:00.000Z",
+        "timestamp_end": "2024-09-05T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9950DD15-9919-4018-93BB-769BCBDCE2D1"
+      },
+      {
+        "timestamp_start": "2024-09-05T07:00:00.000Z",
+        "timestamp_end": "2024-09-05T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B9D9A19A-9256-424F-8261-12FDE2651077"
       }
     ]
   },
@@ -834,24 +834,6 @@
   },
   {
     "address": {
-      "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
-      "location": {
-        "lat": 32.790333613593994,
-        "lng": 35.533051427181455
-      },
-      "formatted": "טבריה, ישראל",
-      "city": "טבריה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-06T05:30:00.000Z",
-        "timestamp_end": "2024-09-06T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FA52F1B4-5577-45A4-A46B-C9BCDA679D48"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 31.7799797,
@@ -916,6 +898,24 @@
         "timestamp_start": "2024-09-06T05:00:00.000Z",
         "timestamp_end": "2024-09-06T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/50B4F7E7-537E-400F-9A4C-068EEE5AE5BB"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
+      "location": {
+        "lat": 32.790333613593994,
+        "lng": 35.533051427181455
+      },
+      "formatted": "טבריה, ישראל",
+      "city": "טבריה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-06T05:30:00.000Z",
+        "timestamp_end": "2024-09-06T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FA52F1B4-5577-45A4-A46B-C9BCDA679D48"
       }
     ]
   },
@@ -1369,14 +1369,14 @@
     },
     "times": [
       {
-        "timestamp_start": "2024-09-09T06:30:00.000Z",
-        "timestamp_end": "2024-09-09T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/02B903E6-D247-4276-8AF1-16FA1AA399B8"
-      },
-      {
         "timestamp_start": "2024-09-09T13:00:00.000Z",
         "timestamp_end": "2024-09-09T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C44FD0C2-3821-4A3A-8F5A-A8375A47F2E1"
+      },
+      {
+        "timestamp_start": "2024-09-09T06:30:00.000Z",
+        "timestamp_end": "2024-09-09T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/02B903E6-D247-4276-8AF1-16FA1AA399B8"
       }
     ]
   },
@@ -1526,24 +1526,6 @@
   },
   {
     "address": {
-      "unformatted": "ד.נ.גליל מערבי עברון, מועדון",
-      "location": {
-        "lat": 32.991149,
-        "lng": 35.100031
-      },
-      "formatted": "עברון, ישראל",
-      "city": "עברון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-10T13:00:00.000Z",
-        "timestamp_end": "2024-09-10T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CD85014D-9A4B-4A75-B09B-ABFA84134BB3"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "בית אריה, מתנ\"ס בית אריה",
       "location": {
         "lat": 32.040059,
@@ -1557,6 +1539,24 @@
         "timestamp_start": "2024-09-10T13:00:00.000Z",
         "timestamp_end": "2024-09-10T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/915384D4-4AE2-43DF-B91D-9FD62D520345"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "ד.נ.גליל מערבי עברון, מועדון",
+      "location": {
+        "lat": 32.991149,
+        "lng": 35.100031
+      },
+      "formatted": "עברון, ישראל",
+      "city": "עברון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-10T13:00:00.000Z",
+        "timestamp_end": "2024-09-10T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CD85014D-9A4B-4A75-B09B-ABFA84134BB3"
       }
     ]
   },
@@ -1616,24 +1616,6 @@
   },
   {
     "address": {
-      "unformatted": "שלוחות, בית דורות",
-      "location": {
-        "lat": 32.4726092,
-        "lng": 35.4804892
-      },
-      "formatted": "שלוחות, ישראל",
-      "city": "שלוחות"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-11T13:00:00.000Z",
-        "timestamp_end": "2024-09-11T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3DE486B0-B655-4F64-9104-198ADA2FFCC8"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "שנקר 5 הרצליה, בנין גב ים 1",
       "location": {
         "lat": 32.1595993,
@@ -1683,6 +1665,24 @@
         "timestamp_start": "2024-09-11T07:00:00.000Z",
         "timestamp_end": "2024-09-11T12:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/844AA6A9-C78F-4146-A5C5-78106F2DDBDE"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שלוחות, בית דורות",
+      "location": {
+        "lat": 32.4726092,
+        "lng": 35.4804892
+      },
+      "formatted": "שלוחות, ישראל",
+      "city": "שלוחות"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-11T13:00:00.000Z",
+        "timestamp_end": "2024-09-11T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3DE486B0-B655-4F64-9104-198ADA2FFCC8"
       }
     ]
   },
@@ -2215,24 +2215,6 @@
   },
   {
     "address": {
-      "unformatted": "שדה אליהו, בית תרבות",
-      "location": {
-        "lat": 32.43924380000001,
-        "lng": 35.5137533
-      },
-      "formatted": "שדה אליהו, ישראל",
-      "city": "שדה אליהו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-22T12:30:00.000Z",
-        "timestamp_end": "2024-09-22T16:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6315CFEB-4FFC-4747-A45C-3B26E5F0B098"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מוצב אליעד",
       "location": {
         "lat": 32.806583,
@@ -2246,6 +2228,24 @@
         "timestamp_start": "2024-09-22T07:00:00.000Z",
         "timestamp_end": "2024-09-22T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CBB824E5-4263-43C4-BEBC-85DEC3AE41B2"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שדה אליהו, בית תרבות",
+      "location": {
+        "lat": 32.43924380000001,
+        "lng": 35.5137533
+      },
+      "formatted": "שדה אליהו, ישראל",
+      "city": "שדה אליהו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-22T12:30:00.000Z",
+        "timestamp_end": "2024-09-22T16:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6315CFEB-4FFC-4747-A45C-3B26E5F0B098"
       }
     ]
   },
