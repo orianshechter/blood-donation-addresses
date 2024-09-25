@@ -646,6 +646,39 @@
   },
   {
     "address": {
+      "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה), - תחנת מד\"א",
+      "location": {
+        "lat": 31.7799797,
+        "lng": 34.654115
+      },
+      "formatted": "הרפואה 1, אשדוד, ישראל",
+      "city": "אשדוד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-27T05:00:00.000Z",
+        "timestamp_end": "2024-09-27T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/22AFFDD4-5829-42BD-B8F6-67E3A9693DAB"
+      },
+      {
+        "timestamp_start": "2024-10-11T05:00:00.000Z",
+        "timestamp_end": "2024-10-11T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B234047E-BD38-423E-8534-8AEE71061B8B"
+      },
+      {
+        "timestamp_start": "2024-10-18T05:00:00.000Z",
+        "timestamp_end": "2024-10-18T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C079826A-BB19-45FF-97CC-155126918C06"
+      },
+      {
+        "timestamp_start": "2024-10-25T05:00:00.000Z",
+        "timestamp_end": "2024-10-25T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/057943A7-DD0D-4409-9DB9-A6AD2841B12B"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
       "location": {
         "lat": 32.4445161,
@@ -677,39 +710,6 @@
         "timestamp_start": "2024-09-27T05:00:00.000Z",
         "timestamp_end": "2024-09-27T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B6DF2874-8E3C-4834-AA3A-E850C21D63FD"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה), - תחנת מד\"א",
-      "location": {
-        "lat": 31.7799797,
-        "lng": 34.654115
-      },
-      "formatted": "הרפואה 1, אשדוד, ישראל",
-      "city": "אשדוד"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-27T05:00:00.000Z",
-        "timestamp_end": "2024-09-27T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/22AFFDD4-5829-42BD-B8F6-67E3A9693DAB"
-      },
-      {
-        "timestamp_start": "2024-10-11T05:00:00.000Z",
-        "timestamp_end": "2024-10-11T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B234047E-BD38-423E-8534-8AEE71061B8B"
-      },
-      {
-        "timestamp_start": "2024-10-18T05:00:00.000Z",
-        "timestamp_end": "2024-10-18T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C079826A-BB19-45FF-97CC-155126918C06"
-      },
-      {
-        "timestamp_start": "2024-10-25T05:00:00.000Z",
-        "timestamp_end": "2024-10-25T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/057943A7-DD0D-4409-9DB9-A6AD2841B12B"
       }
     ]
   },
@@ -787,24 +787,6 @@
   },
   {
     "address": {
-      "unformatted": "יעקב בן דוב 3 ירושלים, ביה\"ס מקור חיים",
-      "location": {
-        "lat": 31.753971,
-        "lng": 35.212155
-      },
-      "formatted": "מקור חיים, ירושלים, ישראל",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-29T13:00:00.000Z",
-        "timestamp_end": "2024-09-29T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/908F877B-8ACD-4B03-A8B8-E3242D8D02AB"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "חמדיה, במועדון החדש",
       "location": {
         "lat": 32.519773,
@@ -836,6 +818,24 @@
         "timestamp_start": "2024-09-29T12:00:00.000Z",
         "timestamp_end": "2024-09-29T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AD7404AF-F985-4381-AADB-2D9B6FAE5B9A"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "יעקב בן דוב 3 ירושלים, ביה\"ס מקור חיים",
+      "location": {
+        "lat": 31.753971,
+        "lng": 35.212155
+      },
+      "formatted": "מקור חיים, ירושלים, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-29T13:00:00.000Z",
+        "timestamp_end": "2024-09-29T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/908F877B-8ACD-4B03-A8B8-E3242D8D02AB"
       }
     ]
   },
@@ -928,24 +928,6 @@
   },
   {
     "address": {
-      "unformatted": "דליה, מועדון",
-      "location": {
-        "lat": 32.58922836886672,
-        "lng": 35.074504406500445
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-09-30T13:30:00.000Z",
-        "timestamp_end": "2024-09-30T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0816FCA3-83EA-40D4-9AC5-759BD95B20F4"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "הדקל 30 תל מונד, מתנ\"ס",
       "location": {
         "lat": 32.2498619,
@@ -964,19 +946,19 @@
   },
   {
     "address": {
-      "unformatted": "עכו, קאנטרי חוף התמרים - באולם",
+      "unformatted": "דליה, מועדון",
       "location": {
-        "lat": 32.916691,
-        "lng": 35.082296
+        "lat": 32.58922836886672,
+        "lng": 35.074504406500445
       },
-      "formatted": "יהונתן החשמונאי 1, עכו, ישראל",
-      "city": "עכו"
+      "formatted": "bad_address",
+      "city": ""
     },
     "times": [
       {
-        "timestamp_start": "2024-09-30T12:00:00.000Z",
-        "timestamp_end": "2024-09-30T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2A1DF29C-1EB9-4C6F-B170-370CBA0D758E"
+        "timestamp_start": "2024-09-30T13:30:00.000Z",
+        "timestamp_end": "2024-09-30T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0816FCA3-83EA-40D4-9AC5-759BD95B20F4"
       }
     ]
   },
@@ -995,6 +977,24 @@
         "timestamp_start": "2024-09-30T14:00:00.000Z",
         "timestamp_end": "2024-09-30T18:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/69491A0B-B510-41C1-8018-11BCE55BA1DB"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "עכו, קאנטרי חוף התמרים - באולם",
+      "location": {
+        "lat": 32.916691,
+        "lng": 35.082296
+      },
+      "formatted": "יהונתן החשמונאי 1, עכו, ישראל",
+      "city": "עכו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-09-30T12:00:00.000Z",
+        "timestamp_end": "2024-09-30T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2A1DF29C-1EB9-4C6F-B170-370CBA0D758E"
       }
     ]
   },
@@ -1180,24 +1180,6 @@
   },
   {
     "address": {
-      "unformatted": "תקוע, מועדון הנוער ישוב תקוע",
-      "location": {
-        "lat": 31.652785,
-        "lng": 35.227517
-      },
-      "formatted": "תקוע",
-      "city": "תקוע"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-10-07T14:00:00.000Z",
-        "timestamp_end": "2024-10-07T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BD1C2717-2AB6-4CC7-9D20-A5FD2CF93588"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "כצנלבוגן 101 ירושלים, אולם בית החולים כפר שאול",
       "location": {
         "lat": 31.7864353,
@@ -1234,6 +1216,24 @@
   },
   {
     "address": {
+      "unformatted": "תקוע, מועדון הנוער ישוב תקוע",
+      "location": {
+        "lat": 31.652785,
+        "lng": 35.227517
+      },
+      "formatted": "תקוע",
+      "city": "תקוע"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-10-07T14:00:00.000Z",
+        "timestamp_end": "2024-10-07T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BD1C2717-2AB6-4CC7-9D20-A5FD2CF93588"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "אלי עד, מועדון",
       "location": {
         "lat": 32.8065843,
@@ -1247,24 +1247,6 @@
         "timestamp_start": "2024-10-08T13:00:00.000Z",
         "timestamp_end": "2024-10-08T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/56C548EE-0200-49A7-B0D2-8E6848CF43B3"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "נעלה, במבנה הרב תכליתי (מתחת לבית הכנסת)",
-      "location": {
-        "lat": 31.962104535906743,
-        "lng": 35.0643057754846
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-10-09T15:00:00.000Z",
-        "timestamp_end": "2024-10-09T19:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C93EB920-E806-4C38-94EF-DABE6D892F2B"
       }
     ]
   },
@@ -1301,6 +1283,42 @@
         "timestamp_start": "2024-10-09T11:00:00.000Z",
         "timestamp_end": "2024-10-09T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CD54EB50-DE09-4FFD-869E-7694BC5C3825"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דרך כפר הדר 33 הוד השרון, מרכז האומנויות",
+      "location": {
+        "lat": 32.1514702,
+        "lng": 34.888237
+      },
+      "formatted": "דרך כפר הדר 33, הוד השרון, 4526394, ישראל",
+      "city": "הוד השרון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-10-09T13:00:00.000Z",
+        "timestamp_end": "2024-10-09T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/50EFEDE7-6CA2-46CB-91FB-38F1564C769E"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "נעלה, במבנה הרב תכליתי (מתחת לבית הכנסת)",
+      "location": {
+        "lat": 31.962104535906743,
+        "lng": 35.0643057754846
+      },
+      "formatted": "bad_address",
+      "city": ""
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-10-09T15:00:00.000Z",
+        "timestamp_end": "2024-10-09T19:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C93EB920-E806-4C38-94EF-DABE6D892F2B"
       }
     ]
   },
