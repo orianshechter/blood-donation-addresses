@@ -19,6 +19,9 @@ jobs:
         with:
           python-version: 3.9
 
-      - name: Run Python Command
+      - name: Validate addressesGeoPoints.json
         run: python -mjson.tool "addressesGeoPoints.json" > /dev/null
+
+      - name: Validate cities
+        run: python -mjson.tool "cities.json" > /dev/null
 
