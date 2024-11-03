@@ -57,6 +57,29 @@
   },
   {
     "address": {
+      "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
+      "location": {
+        "lat": 31.78153,
+        "lng": 35.21602
+      },
+      "formatted": "המלך ג'ורג' 20, ירושלים, 9426208, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-11-03T14:00:00.000Z",
+        "timestamp_end": "2024-11-03T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/10D7B980-81AB-42F7-97EA-C3A1A4021624"
+      },
+      {
+        "timestamp_start": "2024-11-03T08:00:00.000Z",
+        "timestamp_end": "2024-11-03T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2D4A8622-CF1A-4E9E-8B02-5FE70B0E0B00"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "שד' לכיש קרית גת, מרכז מסחרי-מול קניון לב העיר",
       "location": {
         "lat": 31.6088873,
@@ -88,29 +111,6 @@
         "timestamp_start": "2024-11-03T14:00:00.000Z",
         "timestamp_end": "2024-11-03T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0710BD7A-B350-45BD-A360-9C4B1CEA11A6"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
-      "location": {
-        "lat": 31.78153,
-        "lng": 35.21602
-      },
-      "formatted": "המלך ג'ורג' 20, ירושלים, 9426208, ישראל",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-11-03T14:00:00.000Z",
-        "timestamp_end": "2024-11-03T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/10D7B980-81AB-42F7-97EA-C3A1A4021624"
-      },
-      {
-        "timestamp_start": "2024-11-03T08:00:00.000Z",
-        "timestamp_end": "2024-11-03T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2D4A8622-CF1A-4E9E-8B02-5FE70B0E0B00"
       }
     ]
   },
@@ -842,24 +842,6 @@
   },
   {
     "address": {
-      "unformatted": "שדי חמד, שדי חמד",
-      "location": {
-        "lat": 32.158488,
-        "lng": 34.9428062
-      },
-      "formatted": "שדי חמד, ישראל",
-      "city": "שדי חמד"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-11-07T15:00:00.000Z",
-        "timestamp_end": "2024-11-07T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BC9A55B2-8160-405B-B930-1354A8A31ACC"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "לכיש, ברחבת מזכירות המושב",
       "location": {
         "lat": 31.6763573,
@@ -873,6 +855,42 @@
         "timestamp_start": "2024-11-07T14:30:00.000Z",
         "timestamp_end": "2024-11-07T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/393CD6FD-FD2E-4EAE-9365-9105CCE71625"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כפר קרע, מוקד רפואי עירון",
+      "location": {
+        "lat": 32.505255,
+        "lng": 35.048811
+      },
+      "formatted": "כפר קרע, ישראל",
+      "city": "כפר קרע"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-11-07T15:00:00.000Z",
+        "timestamp_end": "2024-11-07T19:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/54767931-AB99-4458-828C-C514F2E76833"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שדי חמד, שדי חמד",
+      "location": {
+        "lat": 32.158488,
+        "lng": 34.9428062
+      },
+      "formatted": "שדי חמד, ישראל",
+      "city": "שדי חמד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-11-07T15:00:00.000Z",
+        "timestamp_end": "2024-11-07T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BC9A55B2-8160-405B-B930-1354A8A31ACC"
       }
     ]
   },
