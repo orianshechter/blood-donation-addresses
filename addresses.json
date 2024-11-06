@@ -77,11 +77,6 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/32A5CEA5-B11D-409D-89E3-9B1797EA135D"
       },
       {
-        "timestamp_start": "2024-11-13T07:00:00.000Z",
-        "timestamp_end": "2024-11-13T15:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EF038191-EE3D-4583-BF1A-C4BCA01EDA27"
-      },
-      {
         "timestamp_start": "2024-11-15T06:00:00.000Z",
         "timestamp_end": "2024-11-15T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8B7BA880-921F-478A-89EA-614D1AADEEC2"
@@ -611,6 +606,24 @@
   },
   {
     "address": {
+      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.4445161,
+        "lng": 34.9228603
+      },
+      "formatted": "אביאור 7-11, חדרה, ישראל",
+      "city": "חדרה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-11-08T06:00:00.000Z",
+        "timestamp_end": "2024-11-08T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3123845E-8EFC-4567-AE0A-9AD32A5A7566"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "חיפה, רח' יצחק שדה 10 (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 32.824678,
@@ -644,24 +657,6 @@
         "timestamp_start": "2024-12-06T06:00:00.000Z",
         "timestamp_end": "2024-12-06T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/90169225-4E89-4BAC-B774-132D89898298"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
-      "location": {
-        "lat": 32.4445161,
-        "lng": 34.9228603
-      },
-      "formatted": "אביאור 7-11, חדרה, ישראל",
-      "city": "חדרה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-11-08T06:00:00.000Z",
-        "timestamp_end": "2024-11-08T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3123845E-8EFC-4567-AE0A-9AD32A5A7566"
       }
     ]
   },
@@ -782,24 +777,6 @@
   },
   {
     "address": {
-      "unformatted": "שורשים, מועדון",
-      "location": {
-        "lat": 32.893500680823166,
-        "lng": 35.25816231219864
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-11-10T15:00:00.000Z",
-        "timestamp_end": "2024-11-10T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/79643D8B-0A0F-448C-AD19-2785E0DA54D9"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ירושלים, מאהל פורום הגבורה כיכר אגרנט",
       "location": {
         "lat": 31.782048,
@@ -869,6 +846,24 @@
         "timestamp_start": "2024-11-10T13:00:00.000Z",
         "timestamp_end": "2024-11-10T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0646A589-3FD0-4BF5-8D62-0109C48334B9"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שורשים, מועדון",
+      "location": {
+        "lat": 32.893500680823166,
+        "lng": 35.25816231219864
+      },
+      "formatted": "bad_address",
+      "city": ""
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-11-10T15:00:00.000Z",
+        "timestamp_end": "2024-11-10T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/79643D8B-0A0F-448C-AD19-2785E0DA54D9"
       }
     ]
   },
@@ -1072,24 +1067,6 @@
   },
   {
     "address": {
-      "unformatted": "כפר הרא''ה, בית-העם",
-      "location": {
-        "lat": 32.3925956,
-        "lng": 34.9097341
-      },
-      "formatted": "כפר הרא\"ה, ישראל",
-      "city": "כפר הרא''ה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-11-14T15:00:00.000Z",
-        "timestamp_end": "2024-11-14T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/67B853E8-0C9B-45DE-AD47-75C13D9C0E0C"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "נתיבות, מד\"א נתיבות, - תחנת מד\"א",
       "location": {
         "lat": 31.41503629999999,
@@ -1108,19 +1085,19 @@
   },
   {
     "address": {
-      "unformatted": "לוי אשכול פינת שלמה המלך קרית אונו, קניון קרית אונו",
+      "unformatted": "כפר הרא''ה, בית-העם",
       "location": {
-        "lat": 32.0555788,
-        "lng": 34.8633719
+        "lat": 32.3925956,
+        "lng": 34.9097341
       },
-      "formatted": "שלמה המלך 37, קרית אונו, ישראל",
-      "city": "קרית אונו"
+      "formatted": "כפר הרא\"ה, ישראל",
+      "city": "כפר הרא''ה"
     },
     "times": [
       {
-        "timestamp_start": "2024-11-15T06:30:00.000Z",
-        "timestamp_end": "2024-11-15T11:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3BC29C4D-E72E-4107-BDA1-46D7AE98F7DA"
+        "timestamp_start": "2024-11-14T15:00:00.000Z",
+        "timestamp_end": "2024-11-14T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/67B853E8-0C9B-45DE-AD47-75C13D9C0E0C"
       }
     ]
   },
@@ -1139,6 +1116,24 @@
         "timestamp_start": "2024-11-15T06:30:00.000Z",
         "timestamp_end": "2024-11-15T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/12814FCE-1D03-4E7B-BA90-44968ABD5AD2"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "לוי אשכול פינת שלמה המלך קרית אונו, קניון קרית אונו",
+      "location": {
+        "lat": 32.0555788,
+        "lng": 34.8633719
+      },
+      "formatted": "שלמה המלך 37, קרית אונו, ישראל",
+      "city": "קרית אונו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-11-15T06:30:00.000Z",
+        "timestamp_end": "2024-11-15T11:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3BC29C4D-E72E-4107-BDA1-46D7AE98F7DA"
       }
     ]
   },
