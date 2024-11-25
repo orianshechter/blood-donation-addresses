@@ -892,6 +892,24 @@
   },
   {
     "address": {
+      "unformatted": "מורשת, אולם חנה",
+      "location": {
+        "lat": 32.8258373,
+        "lng": 35.2320268
+      },
+      "formatted": "מורשת, ישראל",
+      "city": "מורשת"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-11-28T15:00:00.000Z",
+        "timestamp_end": "2024-11-28T20:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9D972CFD-16CF-4E4E-AC9F-F88C9469D6C4"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "החוצבים 2 מבשרת ציון, קומת כניסה קניון מבשרת ציון",
       "location": {
         "lat": 31.793393010923438,
@@ -905,24 +923,6 @@
         "timestamp_start": "2024-11-28T13:00:00.000Z",
         "timestamp_end": "2024-11-28T18:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EFB7309D-6235-4B1E-99A6-C74CFBF5DAAB"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "תל עדשים, בית התרבות",
-      "location": {
-        "lat": 32.65736,
-        "lng": 35.3024797
-      },
-      "formatted": "תל עדשים, ישראל",
-      "city": "תל עדשים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-11-28T15:00:00.000Z",
-        "timestamp_end": "2024-11-28T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/62062DD1-E68C-444C-B99D-C24844423D21"
       }
     ]
   },
@@ -946,24 +946,6 @@
   },
   {
     "address": {
-      "unformatted": "השקמה 40 לפיד, לפיד",
-      "location": {
-        "lat": 31.91539066874245,
-        "lng": 35.03549407306648
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-11-28T14:30:00.000Z",
-        "timestamp_end": "2024-11-28T19:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/781D1FA7-BB73-4EFD-821D-13294E6FA483"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "סלמה, מתנ\"ס",
       "location": {
         "lat": 32.895347,
@@ -982,19 +964,37 @@
   },
   {
     "address": {
-      "unformatted": "מורשת, אולם חנה",
+      "unformatted": "השקמה 40 לפיד, לפיד",
       "location": {
-        "lat": 32.8258373,
-        "lng": 35.2320268
+        "lat": 31.91539066874245,
+        "lng": 35.03549407306648
       },
-      "formatted": "מורשת, ישראל",
-      "city": "מורשת"
+      "formatted": "bad_address",
+      "city": ""
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-11-28T14:30:00.000Z",
+        "timestamp_end": "2024-11-28T19:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/781D1FA7-BB73-4EFD-821D-13294E6FA483"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "תל עדשים, בית התרבות",
+      "location": {
+        "lat": 32.65736,
+        "lng": 35.3024797
+      },
+      "formatted": "תל עדשים, ישראל",
+      "city": "תל עדשים"
     },
     "times": [
       {
         "timestamp_start": "2024-11-28T15:00:00.000Z",
-        "timestamp_end": "2024-11-28T20:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9D972CFD-16CF-4E4E-AC9F-F88C9469D6C4"
+        "timestamp_end": "2024-11-28T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/62062DD1-E68C-444C-B99D-C24844423D21"
       }
     ]
   },
@@ -1168,6 +1168,42 @@
   },
   {
     "address": {
+      "unformatted": "כפר חרוב, מבנה הבגדיה",
+      "location": {
+        "lat": 32.762357,
+        "lng": 35.66418
+      },
+      "formatted": "כפר חרוב",
+      "city": "כפר חרוב"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-12-01T14:00:00.000Z",
+        "timestamp_end": "2024-12-01T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4921EE90-3257-43F9-9CF0-02CC855AE6DB"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "עלי זהב, עלי זהב",
+      "location": {
+        "lat": 32.072227,
+        "lng": 35.064135
+      },
+      "formatted": "עלי זהב",
+      "city": "עלי זהב"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-12-01T14:00:00.000Z",
+        "timestamp_end": "2024-12-01T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/641C146B-EFAA-44BF-B694-136D8225EF33"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "סוקולוב 52 (בסוף הפסאז') רמת השרון, סניף ויצ\"ו רמה\"ש",
       "location": {
         "lat": 32.1439655,
@@ -1204,19 +1240,19 @@
   },
   {
     "address": {
-      "unformatted": "עלי זהב, עלי זהב",
+      "unformatted": "ד.נ. משגב אשחר, מועדון לחברים.",
       "location": {
-        "lat": 32.072227,
-        "lng": 35.064135
+        "lat": 32.8926524,
+        "lng": 35.2585618
       },
-      "formatted": "עלי זהב",
-      "city": "עלי זהב"
+      "formatted": "שורשים, ישראל",
+      "city": "אשחר"
     },
     "times": [
       {
-        "timestamp_start": "2024-12-01T14:00:00.000Z",
-        "timestamp_end": "2024-12-01T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/641C146B-EFAA-44BF-B694-136D8225EF33"
+        "timestamp_start": "2024-12-01T15:00:00.000Z",
+        "timestamp_end": "2024-12-01T19:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7984A64B-B463-420F-A7BC-08FB151D26AC"
       }
     ]
   },
@@ -1273,24 +1309,6 @@
   },
   {
     "address": {
-      "unformatted": "ד.נ. משגב אשחר, מועדון לחברים.",
-      "location": {
-        "lat": 32.8926524,
-        "lng": 35.2585618
-      },
-      "formatted": "שורשים, ישראל",
-      "city": "אשחר"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-12-01T15:00:00.000Z",
-        "timestamp_end": "2024-12-01T19:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7984A64B-B463-420F-A7BC-08FB151D26AC"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "הצלף 1 הר יונה נוף הגליל, בית קהילות - נוף הגליל",
       "location": {
         "lat": 32.7272749,
@@ -1309,24 +1327,6 @@
   },
   {
     "address": {
-      "unformatted": "אריה בראון 3 פתח תקווה, בי\"ס גולדה פתח תקווה",
-      "location": {
-        "lat": 32.1033559,
-        "lng": 34.8776351
-      },
-      "formatted": "אריה בראון 3, פתח תקווה, ישראל",
-      "city": "פתח תקווה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-12-02T14:00:00.000Z",
-        "timestamp_end": "2024-12-02T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/023F91FC-7018-4327-A5CD-DA3510804B10"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "קדמת צבי, מועדון",
       "location": {
         "lat": 33.029485,
@@ -1340,6 +1340,24 @@
         "timestamp_start": "2024-12-02T14:00:00.000Z",
         "timestamp_end": "2024-12-02T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9431C919-B09E-4408-BD16-5B7B5356D682"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אריה בראון 3 פתח תקווה, בי\"ס גולדה פתח תקווה",
+      "location": {
+        "lat": 32.1033559,
+        "lng": 34.8776351
+      },
+      "formatted": "אריה בראון 3, פתח תקווה, ישראל",
+      "city": "פתח תקווה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-12-02T14:00:00.000Z",
+        "timestamp_end": "2024-12-02T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/023F91FC-7018-4327-A5CD-DA3510804B10"
       }
     ]
   },
@@ -1489,24 +1507,6 @@
   },
   {
     "address": {
-      "unformatted": "גן נר, מועדון הנוער מאחורי דורות בגלבוע",
-      "location": {
-        "lat": 32.53027170688493,
-        "lng": 35.33538703452651
-      },
-      "formatted": "מועצה אזורית גלבוע, ד.נ. גלבוע, ישראל",
-      "city": "גן נר"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-12-05T14:00:00.000Z",
-        "timestamp_end": "2024-12-05T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/75902FF4-0861-41CD-87A4-853A66E4296D"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "נאות מרדכי, מקלט עילי מאחורי המרפאה",
       "location": {
         "lat": 33.159785,
@@ -1520,6 +1520,24 @@
         "timestamp_start": "2024-12-05T12:00:00.000Z",
         "timestamp_end": "2024-12-05T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3DBFD4FD-4615-4DCC-9DA1-C7A870D0518F"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "גן נר, מועדון הנוער מאחורי דורות בגלבוע",
+      "location": {
+        "lat": 32.53027170688493,
+        "lng": 35.33538703452651
+      },
+      "formatted": "מועצה אזורית גלבוע, ד.נ. גלבוע, ישראל",
+      "city": "גן נר"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-12-05T14:00:00.000Z",
+        "timestamp_end": "2024-12-05T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/75902FF4-0861-41CD-87A4-853A66E4296D"
       }
     ]
   },
