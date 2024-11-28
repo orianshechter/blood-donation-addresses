@@ -553,6 +553,29 @@
   },
   {
     "address": {
+      "unformatted": "סוקולוב 4 באר שבע, תחנת מד\"א ב\"ש סוקולוב 4",
+      "location": {
+        "lat": 31.2486918,
+        "lng": 34.7918751
+      },
+      "formatted": "סוקולוב 4, באר שבע, ישראל",
+      "city": "באר שבע"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-11-29T06:30:00.000Z",
+        "timestamp_end": "2024-11-29T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/62D359CC-7EF9-4AD2-80EB-110E44B3C5D6"
+      },
+      {
+        "timestamp_start": "2024-12-05T09:30:00.000Z",
+        "timestamp_end": "2024-12-05T15:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/432288E8-1E24-442F-B781-092709B69FE6"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
       "location": {
         "lat": 32.3284579,
@@ -627,6 +650,24 @@
         "timestamp_start": "2024-12-01T08:00:00.000Z",
         "timestamp_end": "2024-12-01T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3B7F260E-83FF-4F32-B1FF-B4D396DB244B"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "התחיה 1 אשקלון, תחנת מ.ד.א אשקלון, - תחנת מד\"א",
+      "location": {
+        "lat": 31.6599003,
+        "lng": 34.5893259
+      },
+      "formatted": "התחייה 1, אשקלון, ישראל",
+      "city": "אשקלון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-11-29T06:30:00.000Z",
+        "timestamp_end": "2024-11-29T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8E88C9E8-FD26-4067-83E4-779BB0656D6C"
       }
     ]
   },
@@ -840,6 +881,11 @@
       "city": "פרדס חנה כרכור"
     },
     "times": [
+      {
+        "timestamp_start": "2024-12-01T14:00:00.000Z",
+        "timestamp_end": "2024-12-01T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C8271FD6-448C-41C6-8E84-A845E688FA51"
+      },
       {
         "timestamp_start": "2024-12-01T07:30:00.000Z",
         "timestamp_end": "2024-12-01T13:30:00.000Z",
@@ -1062,42 +1108,6 @@
   },
   {
     "address": {
-      "unformatted": "גיסין 6 הרצליה, בבית הכנסת \"גיסין\"",
-      "location": {
-        "lat": 32.1722921,
-        "lng": 34.8417459
-      },
-      "formatted": "גיסין 6, הרצליה, ישראל",
-      "city": "הרצליה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-12-02T14:00:00.000Z",
-        "timestamp_end": "2024-12-02T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EE084A78-704D-4A15-86B3-164D1BCCB7D1"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "קדמת צבי, מועדון",
-      "location": {
-        "lat": 33.029485,
-        "lng": 35.69774400000001
-      },
-      "formatted": "קדמת צבי",
-      "city": "קדמת צבי"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-12-02T14:00:00.000Z",
-        "timestamp_end": "2024-12-02T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9431C919-B09E-4408-BD16-5B7B5356D682"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "אבא הלל סילבר 13 לוד, בנק מזרחי טפחות - לוד",
       "location": {
         "lat": 31.960468239146124,
@@ -1152,24 +1162,6 @@
   },
   {
     "address": {
-      "unformatted": "הצלף 1 הר יונה נוף הגליל, בית קהילות - נוף הגליל",
-      "location": {
-        "lat": 32.7272749,
-        "lng": 35.3383523
-      },
-      "formatted": "יקינטון 20, רח יקינטון פינת, לבנה, נוף הגליל, ישראל",
-      "city": "נוף הגליל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-12-02T13:00:00.000Z",
-        "timestamp_end": "2024-12-02T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7E61CAD0-AC78-4E7F-85B8-A4D70F86AA7C"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "אריה בראון 3 פתח תקווה, בי\"ס גולדה פתח תקווה",
       "location": {
         "lat": 32.1033559,
@@ -1201,6 +1193,78 @@
         "timestamp_start": "2024-12-02T08:00:00.000Z",
         "timestamp_end": "2024-12-02T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E8BF32FF-CF8C-46E5-98DB-F347BBA2C2A9"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "גיסין 6 הרצליה, בבית הכנסת \"גיסין\"",
+      "location": {
+        "lat": 32.1722921,
+        "lng": 34.8417459
+      },
+      "formatted": "גיסין 6, הרצליה, ישראל",
+      "city": "הרצליה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-12-02T14:00:00.000Z",
+        "timestamp_end": "2024-12-02T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EE084A78-704D-4A15-86B3-164D1BCCB7D1"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כרמיאל, מתחם ביג במרכז החניה",
+      "location": {
+        "lat": 32.92742185601972,
+        "lng": 35.32228989234057
+      },
+      "formatted": "כרמיאל, ישראל",
+      "city": "כרמיאל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-12-02T08:00:00.000Z",
+        "timestamp_end": "2024-12-02T15:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/87E3C6A1-1DB1-4CDA-865E-2C2DE603A396"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "קדמת צבי, מועדון",
+      "location": {
+        "lat": 33.029485,
+        "lng": 35.69774400000001
+      },
+      "formatted": "קדמת צבי",
+      "city": "קדמת צבי"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-12-02T14:00:00.000Z",
+        "timestamp_end": "2024-12-02T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9431C919-B09E-4408-BD16-5B7B5356D682"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "הצלף 1 הר יונה נוף הגליל, בית קהילות - נוף הגליל",
+      "location": {
+        "lat": 32.7272749,
+        "lng": 35.3383523
+      },
+      "formatted": "יקינטון 20, רח יקינטון פינת, לבנה, נוף הגליל, ישראל",
+      "city": "נוף הגליל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-12-02T13:00:00.000Z",
+        "timestamp_end": "2024-12-02T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7E61CAD0-AC78-4E7F-85B8-A4D70F86AA7C"
       }
     ]
   },
@@ -1525,24 +1589,6 @@
         "timestamp_start": "2024-12-05T12:00:00.000Z",
         "timestamp_end": "2024-12-05T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3DBFD4FD-4615-4DCC-9DA1-C7A870D0518F"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "סוקולוב 4 באר שבע, תחנת מד\"א ב\"ש סוקולוב 4",
-      "location": {
-        "lat": 31.2486918,
-        "lng": 34.7918751
-      },
-      "formatted": "סוקולוב 4, באר שבע, ישראל",
-      "city": "באר שבע"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-12-05T09:30:00.000Z",
-        "timestamp_end": "2024-12-05T15:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/432288E8-1E24-442F-B781-092709B69FE6"
       }
     ]
   },
