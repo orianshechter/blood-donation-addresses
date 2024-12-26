@@ -780,6 +780,24 @@
   },
   {
     "address": {
+      "unformatted": "ויצמן 100 תל אביב יפו, חדר בשבט החורש",
+      "location": {
+        "lat": 32.0965865,
+        "lng": 34.7905673
+      },
+      "formatted": "מול, ויצמן‬ 100, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-12-29T14:00:00.000Z",
+        "timestamp_end": "2024-12-29T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/26728F63-4249-4E1A-ADA6-4DD62C927BB7"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "שכונת יצחק שמיר - רח' ליבנה 2 נהריה, ביה\"ס אורט מגשימים",
       "location": {
         "lat": 33.0154653,
@@ -793,42 +811,6 @@
         "timestamp_start": "2024-12-29T14:00:00.000Z",
         "timestamp_end": "2024-12-29T19:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6511F3F3-FEAF-4161-9574-84518DD9B7E0"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "דבורה הנביאה 121 תל אביב יפו, מגדל 4",
-      "location": {
-        "lat": 32.1135286,
-        "lng": 34.8432083
-      },
-      "formatted": "דבורה הנביאה 121, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-12-29T08:00:00.000Z",
-        "timestamp_end": "2024-12-29T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8D534CE2-8E66-498C-956E-92C82333E631"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "המסגר 39 תל אביב יפו, מגדל ניצבא",
-      "location": {
-        "lat": 32.0657589,
-        "lng": 34.7860455
-      },
-      "formatted": "המסגר 39, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-12-29T08:00:00.000Z",
-        "timestamp_end": "2024-12-29T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3DCBE85C-B338-4CB5-AC9B-9A81BFBF0F7C"
       }
     ]
   },
@@ -893,24 +875,6 @@
   },
   {
     "address": {
-      "unformatted": "שבטה 2 חולון, מרכז קהילתי נאות רחל",
-      "location": {
-        "lat": 32.015355,
-        "lng": 34.764202
-      },
-      "formatted": "שבטה 2, חולון, ישראל",
-      "city": "חולון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2024-12-29T14:00:00.000Z",
-        "timestamp_end": "2024-12-29T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5BD6C3FC-096F-4269-ADE1-E22CD00F0EDB"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "התעשייה 60 ערד, צים סנטר",
       "location": {
         "lat": 31.24788959999999,
@@ -960,6 +924,60 @@
         "timestamp_start": "2024-12-29T07:30:00.000Z",
         "timestamp_end": "2024-12-29T12:45:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1208D4EE-2D7E-47BE-B909-7BD81C57BBD5"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דבורה הנביאה 121 תל אביב יפו, מגדל 4",
+      "location": {
+        "lat": 32.1135286,
+        "lng": 34.8432083
+      },
+      "formatted": "דבורה הנביאה 121, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-12-29T08:00:00.000Z",
+        "timestamp_end": "2024-12-29T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8D534CE2-8E66-498C-956E-92C82333E631"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "המסגר 39 תל אביב יפו, מגדל ניצבא",
+      "location": {
+        "lat": 32.0657589,
+        "lng": 34.7860455
+      },
+      "formatted": "המסגר 39, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-12-29T08:00:00.000Z",
+        "timestamp_end": "2024-12-29T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3DCBE85C-B338-4CB5-AC9B-9A81BFBF0F7C"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שבטה 2 חולון, מרכז קהילתי נאות רחל",
+      "location": {
+        "lat": 32.015355,
+        "lng": 34.764202
+      },
+      "formatted": "שבטה 2, חולון, ישראל",
+      "city": "חולון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2024-12-29T14:00:00.000Z",
+        "timestamp_end": "2024-12-29T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5BD6C3FC-096F-4269-ADE1-E22CD00F0EDB"
       }
     ]
   },
