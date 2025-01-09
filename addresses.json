@@ -289,6 +289,24 @@
   },
   {
     "address": {
+      "unformatted": "ויצמן 63 כפר סבא, כיכר העיר",
+      "location": {
+        "lat": 32.1773179,
+        "lng": 34.9033483
+      },
+      "formatted": "ויצמן 63, כפר סבא, ישראל",
+      "city": "כפר סבא"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-01-09T14:00:00.000Z",
+        "timestamp_end": "2025-01-09T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3FC188F6-99C8-4D29-BA6C-84908268D769"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "עפולה, מרכז הרפואי העמק לובי קפיטריה",
       "location": {
         "lat": 32.6210762,
@@ -527,52 +545,6 @@
   },
   {
     "address": {
-      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
-      "location": {
-        "lat": 32.4445161,
-        "lng": 34.9228603
-      },
-      "formatted": "אביאור 7-11, חדרה, ישראל",
-      "city": "חדרה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-01-10T06:00:00.000Z",
-        "timestamp_end": "2025-01-10T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5A98A6A6-4F46-4210-9EFF-2601314E6111"
-      },
-      {
-        "timestamp_start": "2025-01-17T06:00:00.000Z",
-        "timestamp_end": "2025-01-17T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/14B83D33-39DB-43F8-9FE2-58D5761353DE"
-      },
-      {
-        "timestamp_start": "2025-01-24T06:00:00.000Z",
-        "timestamp_end": "2025-01-24T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0729B0BF-DDF5-4FCC-AD85-6408059B2D14"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "מרגנית 20 עומר, עומר",
-      "location": {
-        "lat": 31.269915109594645,
-        "lng": 34.84914821030239
-      },
-      "formatted": "bad_address",
-      "city": "עומר"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-01-10T06:30:00.000Z",
-        "timestamp_end": "2025-01-10T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1BACF6DA-919D-46D9-BB90-847AC819B9B5"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
       "location": {
         "lat": 32.790333613593994,
@@ -624,6 +596,52 @@
         "timestamp_start": "2025-02-07T06:00:00.000Z",
         "timestamp_end": "2025-02-07T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E923EAC2-62A3-4999-B911-18DDC51826BC"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.4445161,
+        "lng": 34.9228603
+      },
+      "formatted": "אביאור 7-11, חדרה, ישראל",
+      "city": "חדרה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-01-10T06:00:00.000Z",
+        "timestamp_end": "2025-01-10T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5A98A6A6-4F46-4210-9EFF-2601314E6111"
+      },
+      {
+        "timestamp_start": "2025-01-17T06:00:00.000Z",
+        "timestamp_end": "2025-01-17T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/14B83D33-39DB-43F8-9FE2-58D5761353DE"
+      },
+      {
+        "timestamp_start": "2025-01-24T06:00:00.000Z",
+        "timestamp_end": "2025-01-24T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0729B0BF-DDF5-4FCC-AD85-6408059B2D14"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מרגנית 20 עומר, עומר",
+      "location": {
+        "lat": 31.269915109594645,
+        "lng": 34.84914821030239
+      },
+      "formatted": "bad_address",
+      "city": "עומר"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-01-10T06:30:00.000Z",
+        "timestamp_end": "2025-01-10T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1BACF6DA-919D-46D9-BB90-847AC819B9B5"
       }
     ]
   },
