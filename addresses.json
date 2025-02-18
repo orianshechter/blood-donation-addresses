@@ -449,6 +449,24 @@
   },
   {
     "address": {
+      "unformatted": "כביש מעונה נהריה, בי\"ח נהריה מול קפיטרית יעל",
+      "location": {
+        "lat": 33.0144146,
+        "lng": 35.090698
+      },
+      "formatted": "המעונה, נהריה, ישראל",
+      "city": "נהריה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-02-19T10:00:00.000Z",
+        "timestamp_end": "2025-02-19T16:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8EEC11C8-6A79-43CF-BEC4-7170A6E51B2E"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "שעלבים, ישיבת שעלבים",
       "location": {
         "lat": 31.8706169,
@@ -588,47 +606,6 @@
         "timestamp_start": "2025-02-19T08:00:00.000Z",
         "timestamp_end": "2025-02-19T15:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F0E55ADE-1CFA-464E-A6B6-552760080806"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "כביש מעונה נהריה, בי\"ח נהריה מול קפיטרית יעל",
-      "location": {
-        "lat": 33.0144146,
-        "lng": 35.090698
-      },
-      "formatted": "המעונה, נהריה, ישראל",
-      "city": "נהריה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-02-19T10:00:00.000Z",
-        "timestamp_end": "2025-02-19T16:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8EEC11C8-6A79-43CF-BEC4-7170A6E51B2E"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "סוקולוב 4 באר שבע, תחנת מד\"א ב\"ש סוקולוב 4",
-      "location": {
-        "lat": 31.2486918,
-        "lng": 34.7918751
-      },
-      "formatted": "סוקולוב 4, באר שבע, ישראל",
-      "city": "באר שבע"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-02-20T09:30:00.000Z",
-        "timestamp_end": "2025-02-20T15:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CB6B1061-E0A1-4C0E-970E-62629E098DB5"
-      },
-      {
-        "timestamp_start": "2025-02-27T09:00:00.000Z",
-        "timestamp_end": "2025-02-27T15:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6D4F9FE5-0AC2-4E58-8555-8DEBBDA25828"
       }
     ]
   },
@@ -873,19 +850,24 @@
   },
   {
     "address": {
-      "unformatted": "אשר 1 ירושלים, בית הכנסת כל הנשמה",
+      "unformatted": "סוקולוב 4 באר שבע, תחנת מד\"א ב\"ש סוקולוב 4",
       "location": {
-        "lat": 31.759069,
-        "lng": 35.215741
+        "lat": 31.2486918,
+        "lng": 34.7918751
       },
-      "formatted": "אשר 1, ירושלים, 9347001, ישראל",
-      "city": "ירושלים"
+      "formatted": "סוקולוב 4, באר שבע, ישראל",
+      "city": "באר שבע"
     },
     "times": [
       {
-        "timestamp_start": "2025-02-23T14:00:00.000Z",
-        "timestamp_end": "2025-02-23T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AB36D267-0ADF-46A5-A36D-70B070BA29E3"
+        "timestamp_start": "2025-02-20T09:30:00.000Z",
+        "timestamp_end": "2025-02-20T15:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CB6B1061-E0A1-4C0E-970E-62629E098DB5"
+      },
+      {
+        "timestamp_start": "2025-02-27T09:00:00.000Z",
+        "timestamp_end": "2025-02-27T15:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6D4F9FE5-0AC2-4E58-8555-8DEBBDA25828"
       }
     ]
   },
@@ -904,6 +886,24 @@
         "timestamp_start": "2025-02-23T14:00:00.000Z",
         "timestamp_end": "2025-02-23T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5135C606-77B8-4B72-A9F6-5B68570139B8"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אשר 1 ירושלים, בית הכנסת כל הנשמה",
+      "location": {
+        "lat": 31.759069,
+        "lng": 35.215741
+      },
+      "formatted": "אשר 1, ירושלים, 9347001, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-02-23T14:00:00.000Z",
+        "timestamp_end": "2025-02-23T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AB36D267-0ADF-46A5-A36D-70B070BA29E3"
       }
     ]
   },
@@ -1302,24 +1302,6 @@
   },
   {
     "address": {
-      "unformatted": "אלון שבות, אולם שמחות הישן אלון שבות",
-      "location": {
-        "lat": 31.6580294,
-        "lng": 35.1241608
-      },
-      "formatted": "אלון שבות",
-      "city": "אלון שבות"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-02-27T15:00:00.000Z",
-        "timestamp_end": "2025-02-27T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C90790D3-4ACF-4610-BED4-4B1949410014"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "שערי תקווה, מתנ\"ס מרעי",
       "location": {
         "lat": 32.120679,
@@ -1356,6 +1338,24 @@
   },
   {
     "address": {
+      "unformatted": "אלון שבות, אולם שמחות הישן אלון שבות",
+      "location": {
+        "lat": 31.6580294,
+        "lng": 35.1241608
+      },
+      "formatted": "אלון שבות",
+      "city": "אלון שבות"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-02-27T15:00:00.000Z",
+        "timestamp_end": "2025-02-27T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C90790D3-4ACF-4610-BED4-4B1949410014"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "מצפה אילן, מועדון לחבר",
       "location": {
         "lat": 32.461919,
@@ -1374,24 +1374,6 @@
   },
   {
     "address": {
-      "unformatted": "מעלות תרשיחא, צים סנטר מעלות מול בנק הפועלים",
-      "location": {
-        "lat": 33.0216836,
-        "lng": 35.2802834
-      },
-      "formatted": "שלמה שרירא 3, מעלות תרשיחא, ישראל",
-      "city": "מעלות תרשיחא"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-02-27T09:00:00.000Z",
-        "timestamp_end": "2025-02-27T16:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/07DABB76-8877-4C3E-A5AA-6C505C7D9F51"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "דרך ארץ 35 חריש, מתחם קניות",
       "location": {
         "lat": 32.46300770000001,
@@ -1405,6 +1387,24 @@
         "timestamp_start": "2025-02-27T13:30:00.000Z",
         "timestamp_end": "2025-02-27T18:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DBCF392B-C08D-48F4-AD55-53536BCC5AFA"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מעלות תרשיחא, צים סנטר מעלות מול בנק הפועלים",
+      "location": {
+        "lat": 33.0216836,
+        "lng": 35.2802834
+      },
+      "formatted": "שלמה שרירא 3, מעלות תרשיחא, ישראל",
+      "city": "מעלות תרשיחא"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-02-27T09:00:00.000Z",
+        "timestamp_end": "2025-02-27T16:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/07DABB76-8877-4C3E-A5AA-6C505C7D9F51"
       }
     ]
   },
@@ -1482,24 +1482,6 @@
   },
   {
     "address": {
-      "unformatted": "מועדון צורית",
-      "location": {
-        "lat": 32.902351,
-        "lng": 35.249106
-      },
-      "formatted": "צורית, ישראל",
-      "city": "צורית"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-03-04T15:00:00.000Z",
-        "timestamp_end": "2025-03-04T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DD1BB33A-2E5A-4987-AE67-9E3294269E4A"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "עצמון שגב, מועדון",
       "location": {
         "lat": 32.8663831,
@@ -1513,6 +1495,24 @@
         "timestamp_start": "2025-03-04T14:00:00.000Z",
         "timestamp_end": "2025-03-04T19:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/18AA724D-8FF9-4C53-B4B3-A284B944D669"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מועדון צורית",
+      "location": {
+        "lat": 32.902351,
+        "lng": 35.249106
+      },
+      "formatted": "צורית, ישראל",
+      "city": "צורית"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-03-04T15:00:00.000Z",
+        "timestamp_end": "2025-03-04T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DD1BB33A-2E5A-4987-AE67-9E3294269E4A"
       }
     ]
   },
