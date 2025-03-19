@@ -729,6 +729,65 @@
   },
   {
     "address": {
+      "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.3284579,
+        "lng": 34.8645215
+      },
+      "formatted": "בנימין מינץ 7, נתניה, ישראל",
+      "city": "נתניה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-03-21T06:30:00.000Z",
+        "timestamp_end": "2025-03-21T11:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/24A322B2-CC40-4401-8151-65D2AF3AFBAA"
+      },
+      {
+        "timestamp_start": "2025-03-28T05:30:00.000Z",
+        "timestamp_end": "2025-03-28T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5F32F16A-0A75-4730-92DD-55526C5E6F03"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דוד רמז 69 רחובות, מד\"א רחובות, - תחנת מד\"א",
+      "location": {
+        "lat": 31.8948356,
+        "lng": 34.8045349
+      },
+      "formatted": "דוד רמז 71, רחובות, ישראל",
+      "city": "רחובות"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-03-21T06:00:00.000Z",
+        "timestamp_end": "2025-03-21T11:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/78DC31DE-E485-4524-B618-66088F764A96"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "הרפואה 1 אשדוד, - תחנת מד\"א",
+      "location": {
+        "lat": 31.7802744,
+        "lng": 34.654233
+      },
+      "formatted": "הרפואה 1, אשדוד, ישראל",
+      "city": "אשדוד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-03-21T06:00:00.000Z",
+        "timestamp_end": "2025-03-21T11:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/23F0958D-9BB1-4E36-A6BD-70CA8F364BA0"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75, קרית מוצקין, - תחנת מד\"א",
       "location": {
         "lat": 32.8440668,
@@ -1181,42 +1240,6 @@
   },
   {
     "address": {
-      "unformatted": "מתחם בית אידה צפת, מכללת צפת - מתחם בית אידה",
-      "location": {
-        "lat": 32.971104,
-        "lng": 35.4948461
-      },
-      "formatted": "ירושלים 11, צפת, 1320611, ישראל",
-      "city": "צפת"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-03-24T07:00:00.000Z",
-        "timestamp_end": "2025-03-24T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/33706F7B-DD68-4E13-A6AA-996BB1622A5F"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "רמות, מועדון",
-      "location": {
-        "lat": 32.84986024353159,
-        "lng": 35.66518274704112
-      },
-      "formatted": "רמות, ישראל",
-      "city": "רמות"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-03-24T14:00:00.000Z",
-        "timestamp_end": "2025-03-24T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BE9B08D0-E5D3-4C66-942A-A7204D687F8B"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "בית השיטה, במועדון",
       "location": {
         "lat": 32.550874,
@@ -1284,6 +1307,42 @@
         "timestamp_start": "2025-03-24T15:00:00.000Z",
         "timestamp_end": "2025-03-24T20:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9721DDDA-D6B0-44F7-B18C-EBFD70AE0613"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מתחם בית אידה צפת, מכללת צפת - מתחם בית אידה",
+      "location": {
+        "lat": 32.971104,
+        "lng": 35.4948461
+      },
+      "formatted": "ירושלים 11, צפת, 1320611, ישראל",
+      "city": "צפת"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-03-24T07:00:00.000Z",
+        "timestamp_end": "2025-03-24T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/33706F7B-DD68-4E13-A6AA-996BB1622A5F"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "רמות, מועדון",
+      "location": {
+        "lat": 32.84986024353159,
+        "lng": 35.66518274704112
+      },
+      "formatted": "רמות, ישראל",
+      "city": "רמות"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-03-24T14:00:00.000Z",
+        "timestamp_end": "2025-03-24T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BE9B08D0-E5D3-4C66-942A-A7204D687F8B"
       }
     ]
   },
@@ -1464,24 +1523,6 @@
         "timestamp_start": "2025-03-27T15:00:00.000Z",
         "timestamp_end": "2025-03-27T20:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CB487447-604F-4100-835D-E72CBA8A196B"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
-      "location": {
-        "lat": 32.3284579,
-        "lng": 34.8645215
-      },
-      "formatted": "בנימין מינץ 7, נתניה, ישראל",
-      "city": "נתניה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-03-28T05:30:00.000Z",
-        "timestamp_end": "2025-03-28T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5F32F16A-0A75-4730-92DD-55526C5E6F03"
       }
     ]
   },
