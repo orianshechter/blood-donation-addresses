@@ -257,6 +257,11 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/605CCB08-5FF4-4587-88BB-687BAED6DDDF"
       },
       {
+        "timestamp_start": "2025-03-21T06:00:00.000Z",
+        "timestamp_end": "2025-03-21T11:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E04DD265-EF8E-4257-8163-DB126FE16C56"
+      },
+      {
         "timestamp_start": "2025-03-23T06:00:00.000Z",
         "timestamp_end": "2025-03-23T12:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/823F32A3-451C-4826-BE0A-B0E8B2AD5445"
@@ -711,6 +716,11 @@
         "timestamp_start": "2025-03-23T07:00:00.000Z",
         "timestamp_end": "2025-03-23T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B3B611FA-B77C-421D-857F-67EDF786AF7E"
+      },
+      {
+        "timestamp_start": "2025-03-28T05:30:00.000Z",
+        "timestamp_end": "2025-03-28T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B3967030-444A-4FE4-8522-C84DF4FFEEC7"
       }
     ]
   },
@@ -729,6 +739,11 @@
         "timestamp_start": "2025-03-21T06:30:00.000Z",
         "timestamp_end": "2025-03-21T11:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/ABDD6144-7C26-45E1-992D-64DC741606A6"
+      },
+      {
+        "timestamp_start": "2025-03-28T05:30:00.000Z",
+        "timestamp_end": "2025-03-28T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C404C667-76E4-4F00-AD27-EC3878FC1123"
       }
     ]
   },
@@ -752,6 +767,11 @@
         "timestamp_start": "2025-03-23T11:00:00.000Z",
         "timestamp_end": "2025-03-23T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/ECD004E7-2F15-4BAB-9CEA-C1CDC39C97F1"
+      },
+      {
+        "timestamp_start": "2025-03-28T05:30:00.000Z",
+        "timestamp_end": "2025-03-28T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4E26BC6B-D53A-42A3-8ED4-1D6AC4965C93"
       }
     ]
   },
@@ -1014,42 +1034,6 @@
   },
   {
     "address": {
-      "unformatted": "כנף, מועדון",
-      "location": {
-        "lat": 32.870412,
-        "lng": 35.697897
-      },
-      "formatted": "כנף",
-      "city": "כנף"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-03-23T14:00:00.000Z",
-        "timestamp_end": "2025-03-23T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/77FEBD4C-F817-4E6B-BFF0-C7A2874CA163"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "גבעת יואב, מועדון",
-      "location": {
-        "lat": 32.801217,
-        "lng": 35.680911
-      },
-      "formatted": "גבעת יואב",
-      "city": "גבעת יואב"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-03-23T14:00:00.000Z",
-        "timestamp_end": "2025-03-23T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B3B795FD-F9AC-4F58-A9C7-DDFB826489E3"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "זרחין 26 רעננה, בלובי",
       "location": {
         "lat": 32.1988382,
@@ -1109,6 +1093,60 @@
         "timestamp_start": "2025-03-23T09:00:00.000Z",
         "timestamp_end": "2025-03-23T16:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/ABA0FF69-C864-4F70-AE04-BAA976842406"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כנף, מועדון",
+      "location": {
+        "lat": 32.870412,
+        "lng": 35.697897
+      },
+      "formatted": "כנף",
+      "city": "כנף"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-03-23T14:00:00.000Z",
+        "timestamp_end": "2025-03-23T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/77FEBD4C-F817-4E6B-BFF0-C7A2874CA163"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "גבעת יואב, מועדון",
+      "location": {
+        "lat": 32.801217,
+        "lng": 35.680911
+      },
+      "formatted": "גבעת יואב",
+      "city": "גבעת יואב"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-03-23T14:00:00.000Z",
+        "timestamp_end": "2025-03-23T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B3B795FD-F9AC-4F58-A9C7-DDFB826489E3"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "חצרים, מועדון",
+      "location": {
+        "lat": 31.2390587,
+        "lng": 34.7167409
+      },
+      "formatted": "חצרים, 8542000, ישראל",
+      "city": "חצרים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-03-24T14:00:00.000Z",
+        "timestamp_end": "2025-03-24T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E6789327-A193-42F2-A68D-11F2799D778D"
       }
     ]
   },
