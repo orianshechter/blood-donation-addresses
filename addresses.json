@@ -199,6 +199,42 @@
   },
   {
     "address": {
+      "unformatted": "קרן קיימת 14 ירושלים, תיכון גמנסיה ירושלים",
+      "location": {
+        "lat": 31.7945523,
+        "lng": 35.1439269
+      },
+      "formatted": "קרן קיימת 14, מבשרת ציון, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-04-02T11:00:00.000Z",
+        "timestamp_end": "2025-04-02T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/28C7F28F-8F2C-4EC4-B123-DDBA9B738DEE"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שדרות גולדה מאיר 225 ירושלים, קניון רמות - ברחבה ליד הסופר פארם",
+      "location": {
+        "lat": 31.8175,
+        "lng": 35.1944444
+      },
+      "formatted": "שדרות גולדה מאיר 255, ירושלים",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-04-02T07:00:00.000Z",
+        "timestamp_end": "2025-04-02T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6D7D6866-0EF2-4711-B598-E7DDFB4070F1"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "ירושלים, רח' המ\"ג 7 רוממה (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 31.7913012,
@@ -257,42 +293,6 @@
         "timestamp_start": "2025-04-29T09:00:00.000Z",
         "timestamp_end": "2025-04-29T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BC885657-A9BB-4526-AEB9-DB4E4723B3EF"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "קרן קיימת 14 ירושלים, תיכון גמנסיה ירושלים",
-      "location": {
-        "lat": 31.7945523,
-        "lng": 35.1439269
-      },
-      "formatted": "קרן קיימת 14, מבשרת ציון, ישראל",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-04-02T11:00:00.000Z",
-        "timestamp_end": "2025-04-02T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/28C7F28F-8F2C-4EC4-B123-DDBA9B738DEE"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "שדרות גולדה מאיר 225 ירושלים, קניון רמות - ברחבה ליד הסופר פארם",
-      "location": {
-        "lat": 31.8175,
-        "lng": 35.1944444
-      },
-      "formatted": "שדרות גולדה מאיר 255, ירושלים",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-04-02T07:00:00.000Z",
-        "timestamp_end": "2025-04-02T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6D7D6866-0EF2-4711-B598-E7DDFB4070F1"
       }
     ]
   },
@@ -647,24 +647,6 @@
   },
   {
     "address": {
-      "unformatted": "0301 133 רמלה, - תחנת מד\"א",
-      "location": {
-        "lat": 31.931566,
-        "lng": 34.872938
-      },
-      "formatted": "רמלה, ישראל",
-      "city": "רמלה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-04-03T09:00:00.000Z",
-        "timestamp_end": "2025-04-03T15:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/01D99ED5-4FCB-4DAC-B285-25F0306B7A2F"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "חוות יאיר, במועדון",
       "location": {
         "lat": 32.14422831861263,
@@ -750,6 +732,24 @@
         "timestamp_start": "2025-04-03T14:00:00.000Z",
         "timestamp_end": "2025-04-03T19:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/599FA59B-8CCB-4FD1-B696-778714ACD892"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "0301 133 רמלה, - תחנת מד\"א",
+      "location": {
+        "lat": 31.931566,
+        "lng": 34.872938
+      },
+      "formatted": "רמלה, ישראל",
+      "city": "רמלה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-04-03T09:00:00.000Z",
+        "timestamp_end": "2025-04-03T15:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/01D99ED5-4FCB-4DAC-B285-25F0306B7A2F"
       }
     ]
   },
@@ -1065,10 +1065,28 @@
   },
   {
     "address": {
-      "unformatted": "רמת יוחנן, מועדון לחבר",
+      "unformatted": "גבעת חיים מאוחד, מועדון לחבר",
       "location": {
-        "lat": 32.793457,
-        "lng": 35.122208
+        "lat": 32.3906003,
+        "lng": 34.9291876
+      },
+      "formatted": "גבעת חיים מאוחד, ישראל",
+      "city": "גבעת חיים מאוחד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-04-06T13:00:00.000Z",
+        "timestamp_end": "2025-04-06T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A1286FDA-5F26-4914-97D2-3F89679F60B9"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "רמת יוחנן, בפאב",
+      "location": {
+        "lat": 32.79168992083906,
+        "lng": 35.121930408941694
       },
       "formatted": "רמת יוחנן, ישראל",
       "city": "רמת יוחנן"
@@ -1317,24 +1335,6 @@
   },
   {
     "address": {
-      "unformatted": "שדה יואב, שדה יואב",
-      "location": {
-        "lat": 31.645723,
-        "lng": 34.676849
-      },
-      "formatted": "שדה יואב, ישראל",
-      "city": "שדה יואב"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-04-09T12:00:00.000Z",
-        "timestamp_end": "2025-04-09T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C7F03F7F-B50B-45BB-831C-DE9660142B25"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ירושלים, מעונות סטודנטים-הר הצופים",
       "location": {
         "lat": 31.7930604,
@@ -1348,6 +1348,24 @@
         "timestamp_start": "2025-04-09T10:00:00.000Z",
         "timestamp_end": "2025-04-09T15:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/26D7077C-6059-4587-92DA-C6CFA88CC002"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שדה יואב, שדה יואב",
+      "location": {
+        "lat": 31.645723,
+        "lng": 34.676849
+      },
+      "formatted": "שדה יואב, ישראל",
+      "city": "שדה יואב"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-04-09T12:00:00.000Z",
+        "timestamp_end": "2025-04-09T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C7F03F7F-B50B-45BB-831C-DE9660142B25"
       }
     ]
   },
