@@ -319,14 +319,14 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/103F50EE-BA7B-40DB-9851-92A1942490A1"
       },
       {
-        "timestamp_start": "2025-04-20T13:00:00.000Z",
-        "timestamp_end": "2025-04-20T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/18865CF2-FEE0-4281-A8B9-B986F80AB71B"
-      },
-      {
         "timestamp_start": "2025-04-20T06:15:00.000Z",
         "timestamp_end": "2025-04-20T12:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F7B9462C-7B9F-44B2-9A9E-922802B7BC9C"
+      },
+      {
+        "timestamp_start": "2025-04-20T13:00:00.000Z",
+        "timestamp_end": "2025-04-20T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/18865CF2-FEE0-4281-A8B9-B986F80AB71B"
       },
       {
         "timestamp_start": "2025-04-21T08:00:00.000Z",
@@ -355,29 +355,6 @@
   },
   {
     "address": {
-      "unformatted": "עפולה, מתחם פרנדלי בעמק",
-      "location": {
-        "lat": 32.6197,
-        "lng": 35.3132927
-      },
-      "formatted": "שדרות יצחק רבין 18, עפולה, ישראל",
-      "city": "עפולה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-04-16T10:00:00.000Z",
-        "timestamp_end": "2025-04-16T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/297CE7EB-CDA8-44BD-A2B9-8C038A9ED636"
-      },
-      {
-        "timestamp_start": "2025-04-17T07:00:00.000Z",
-        "timestamp_end": "2025-04-17T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4733910A-BF6B-4597-A138-0D1417B3EEF2"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "העצמאות 63 פתח תקווה, קניון הכיכר פתח תקווה",
       "location": {
         "lat": 32.0747115,
@@ -396,6 +373,29 @@
         "timestamp_start": "2025-04-16T07:00:00.000Z",
         "timestamp_end": "2025-04-16T12:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C8ED46E9-B36A-46A3-BBAD-9402F585D547"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "עפולה, מתחם פרנדלי בעמק",
+      "location": {
+        "lat": 32.6197,
+        "lng": 35.3132927
+      },
+      "formatted": "שדרות יצחק רבין 18, עפולה, ישראל",
+      "city": "עפולה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-04-16T10:00:00.000Z",
+        "timestamp_end": "2025-04-16T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/297CE7EB-CDA8-44BD-A2B9-8C038A9ED636"
+      },
+      {
+        "timestamp_start": "2025-04-17T07:00:00.000Z",
+        "timestamp_end": "2025-04-17T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4733910A-BF6B-4597-A138-0D1417B3EEF2"
       }
     ]
   },
@@ -840,24 +840,6 @@
   },
   {
     "address": {
-      "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
-      "location": {
-        "lat": 32.69315354378295,
-        "lng": 35.30500500291231
-      },
-      "formatted": "נוף הגליל, דודג׳ סנטר",
-      "city": "נוף הגליל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-04-18T05:30:00.000Z",
-        "timestamp_end": "2025-04-18T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/52DB4F28-E932-4191-8CA6-F61B18A0BC0B"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "כרמיאל, מתחם ביג במרכז החניה",
       "location": {
         "lat": 32.92742185601972,
@@ -871,6 +853,24 @@
         "timestamp_start": "2025-04-18T05:30:00.000Z",
         "timestamp_end": "2025-04-18T10:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/32ECEF73-1C0B-442B-909A-CE0A60FE8E69"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
+      "location": {
+        "lat": 32.69315354378295,
+        "lng": 35.30500500291231
+      },
+      "formatted": "נוף הגליל, דודג׳ סנטר",
+      "city": "נוף הגליל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-04-18T05:30:00.000Z",
+        "timestamp_end": "2025-04-18T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/52DB4F28-E932-4191-8CA6-F61B18A0BC0B"
       }
     ]
   },
@@ -1053,6 +1053,24 @@
   },
   {
     "address": {
+      "unformatted": "תוצרת הארץ 2 פתח תקווה, שופ-טיים",
+      "location": {
+        "lat": 32.0902142,
+        "lng": 34.8595684
+      },
+      "formatted": "תוצרת הארץ 3, פתח תקווה, 4951734, ישראל",
+      "city": "פתח תקווה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-04-20T09:00:00.000Z",
+        "timestamp_end": "2025-04-20T15:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8E91855D-DFE2-4BC7-B313-6187C98FA4D5"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "צה\"ל 35 חדרה, מתחם קניות מיקס חדרה ליד ארומה",
       "location": {
         "lat": 32.4414918,
@@ -1076,6 +1094,24 @@
   },
   {
     "address": {
+      "unformatted": "הרפואה 7 אשדוד, אסותא אשדוד",
+      "location": {
+        "lat": 31.7789552,
+        "lng": 34.6570806
+      },
+      "formatted": "הרפואה 7, אשדוד, 7747629, ישראל",
+      "city": "אשדוד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-04-20T06:30:00.000Z",
+        "timestamp_end": "2025-04-20T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E1601472-1BEC-4E29-8FE0-3FD6D8C9E03A"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "עשהאל, מעון הישוב עשהאל",
       "location": {
         "lat": 31.373375373039366,
@@ -1089,24 +1125,6 @@
         "timestamp_start": "2025-04-20T14:00:00.000Z",
         "timestamp_end": "2025-04-20T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/77A9CC85-6328-4399-B4DC-C4EB8AF48467"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "תוצרת הארץ 2 פתח תקווה, שופ-טיים",
-      "location": {
-        "lat": 32.0902142,
-        "lng": 34.8595684
-      },
-      "formatted": "תוצרת הארץ 3, פתח תקווה, 4951734, ישראל",
-      "city": "פתח תקווה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-04-20T09:00:00.000Z",
-        "timestamp_end": "2025-04-20T15:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8E91855D-DFE2-4BC7-B313-6187C98FA4D5"
       }
     ]
   },
@@ -1582,24 +1600,6 @@
   },
   {
     "address": {
-      "unformatted": "דרך מנחם בגין 121 תל אביב יפו, יוניטי",
-      "location": {
-        "lat": 32.0719761,
-        "lng": 34.7888707
-      },
-      "formatted": "דרך מנחם בגין 121, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-04-24T07:00:00.000Z",
-        "timestamp_end": "2025-04-24T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/43A52EF0-A5B4-4C40-8A2B-FF3490C8E5F3"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ראש צורים, אולם שמחות קיבוץ ראש צורים",
       "location": {
         "lat": 31.66744,
@@ -1649,6 +1649,24 @@
         "timestamp_start": "2025-04-24T14:00:00.000Z",
         "timestamp_end": "2025-04-24T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9088C891-1E42-40CC-812D-6E33C372DB45"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דרך מנחם בגין 121 תל אביב יפו, יוניטי",
+      "location": {
+        "lat": 32.0719761,
+        "lng": 34.7888707
+      },
+      "formatted": "דרך מנחם בגין 121, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-04-24T07:00:00.000Z",
+        "timestamp_end": "2025-04-24T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/43A52EF0-A5B4-4C40-8A2B-FF3490C8E5F3"
       }
     ]
   },
@@ -1857,8 +1875,8 @@
         "lat": 32.788674,
         "lng": 35.435902
       },
-      "formatted": "ישראל",
-      "city": "הודיות מוסד חינוכי"
+      "formatted": "כפר הנוער הודיות, ישראל",
+      "city": "כפר הנוער הודיות"
     },
     "times": [
       {
