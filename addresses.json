@@ -343,7 +343,7 @@
       },
       {
         "timestamp_start": "2025-04-30T05:00:00.000Z",
-        "timestamp_end": "2025-04-30T11:30:00.000Z",
+        "timestamp_end": "2025-04-30T11:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/35DBFDC8-10DD-46B4-8CD9-0DBAD630F5EA"
       },
       {
@@ -751,29 +751,6 @@
   },
   {
     "address": {
-      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
-      "location": {
-        "lat": 32.4445161,
-        "lng": 34.9228603
-      },
-      "formatted": "אביאור 7-11, חדרה, ישראל",
-      "city": "חדרה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-04-25T05:00:00.000Z",
-        "timestamp_end": "2025-04-25T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1EBA1848-1B62-44D0-81BC-683EB5446DF4"
-      },
-      {
-        "timestamp_start": "2025-05-02T05:00:00.000Z",
-        "timestamp_end": "2025-05-02T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8ADCE3C5-0A77-4338-82A4-3D2A3843AD4E"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "חיפה, רח' יצחק שדה 10 (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 32.824678,
@@ -797,6 +774,29 @@
         "timestamp_start": "2025-05-09T05:00:00.000Z",
         "timestamp_end": "2025-05-09T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8D040227-B106-4B3D-BC1E-4E91E0730717"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.4445161,
+        "lng": 34.9228603
+      },
+      "formatted": "אביאור 7-11, חדרה, ישראל",
+      "city": "חדרה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-04-25T05:00:00.000Z",
+        "timestamp_end": "2025-04-25T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1EBA1848-1B62-44D0-81BC-683EB5446DF4"
+      },
+      {
+        "timestamp_start": "2025-05-02T05:00:00.000Z",
+        "timestamp_end": "2025-05-02T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8ADCE3C5-0A77-4338-82A4-3D2A3843AD4E"
       }
     ]
   },
@@ -1051,6 +1051,24 @@
   },
   {
     "address": {
+      "unformatted": "לביא, חדר אוכל",
+      "location": {
+        "lat": 32.78742724782361,
+        "lng": 35.44138153800426
+      },
+      "formatted": "bad_address",
+      "city": ""
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-04-28T13:00:00.000Z",
+        "timestamp_end": "2025-04-28T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2D3BE520-7A3F-45D5-BDA5-456C2A71B7F4"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "מועדון",
       "location": {
         "lat": 33.44852903890945,
@@ -1082,24 +1100,6 @@
         "timestamp_start": "2025-04-28T13:00:00.000Z",
         "timestamp_end": "2025-04-28T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C234D4E6-3625-40A5-B26E-D1C0B74D47D9"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "לביא, חדר אוכל",
-      "location": {
-        "lat": 32.78742724782361,
-        "lng": 35.44138153800426
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-04-28T13:00:00.000Z",
-        "timestamp_end": "2025-04-28T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2D3BE520-7A3F-45D5-BDA5-456C2A71B7F4"
       }
     ]
   },
