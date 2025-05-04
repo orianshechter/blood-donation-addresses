@@ -652,6 +652,24 @@
   },
   {
     "address": {
+      "unformatted": "שדרות הרצל 133 רמלה, קריית מד\"א שרותי הדם רמלה(תחנה נגישה), - תחנת מד\"א",
+      "location": {
+        "lat": 31.9235441,
+        "lng": 34.880246
+      },
+      "formatted": "שדרות הרצל 133, רמלה, ישראל",
+      "city": "רמלה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-05T11:00:00.000Z",
+        "timestamp_end": "2025-05-05T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F4E72E7E-70F8-4CF5-90BD-63392CF89C38"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "העצמאות 63 פתח תקווה, קניון הכיכר פתח תקווה",
       "location": {
         "lat": 32.0747115,
@@ -721,14 +739,14 @@
     },
     "times": [
       {
-        "timestamp_start": "2025-05-05T13:00:00.000Z",
-        "timestamp_end": "2025-05-05T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4FC52FD4-1277-4B18-95B9-1CA5EE8D9DFD"
-      },
-      {
         "timestamp_start": "2025-05-05T07:00:00.000Z",
         "timestamp_end": "2025-05-05T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4D4274AF-C86E-41B4-B0D6-37A40D9511DB"
+      },
+      {
+        "timestamp_start": "2025-05-05T13:00:00.000Z",
+        "timestamp_end": "2025-05-05T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4FC52FD4-1277-4B18-95B9-1CA5EE8D9DFD"
       },
       {
         "timestamp_start": "2025-05-06T07:00:00.000Z",
@@ -749,6 +767,24 @@
         "timestamp_start": "2025-05-09T06:00:00.000Z",
         "timestamp_end": "2025-05-09T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F9C78856-2A09-473C-B665-4C04BE5A9D39"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "ההגנה כרמיאל, מרכז מסחרי רמת רבין",
+      "location": {
+        "lat": 32.9034683,
+        "lng": 35.2804229
+      },
+      "formatted": "ההגנה, כרמיאל, ישראל",
+      "city": "כרמיאל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-05T09:00:00.000Z",
+        "timestamp_end": "2025-05-05T16:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EAE18762-3FCF-4895-A339-39C99C223A74"
       }
     ]
   },
@@ -785,24 +821,6 @@
         "timestamp_start": "2025-05-05T13:00:00.000Z",
         "timestamp_end": "2025-05-05T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E1B33E7A-0773-4793-A9D2-ED0F7B046615"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "0301 133 רמלה, - תחנת מד\"א",
-      "location": {
-        "lat": 31.931566,
-        "lng": 34.872938
-      },
-      "formatted": "רמלה, ישראל",
-      "city": "רמלה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-05T11:00:00.000Z",
-        "timestamp_end": "2025-05-05T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F4E72E7E-70F8-4CF5-90BD-63392CF89C38"
       }
     ]
   },
@@ -880,24 +898,6 @@
   },
   {
     "address": {
-      "unformatted": "בני עקיבא קיבוץ חפץ חיים",
-      "location": {
-        "lat": 31.789319,
-        "lng": 34.799739
-      },
-      "formatted": "קיבוץ חפץ חיים, ישראל",
-      "city": "קיבוץ חפץ חיים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-06T13:00:00.000Z",
-        "timestamp_end": "2025-05-06T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D31EBF0F-B59D-4BED-9AC4-5BBE137AA482"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "עמיר, מועדון לחבר",
       "location": {
         "lat": 33.17816831655395,
@@ -916,19 +916,19 @@
   },
   {
     "address": {
-      "unformatted": "מתנ\"ס כאוכאב  אבו אל היגא",
+      "unformatted": "בני עקיבא קיבוץ חפץ חיים",
       "location": {
-        "lat": 32.8299072718668,
-        "lng": 35.24752456657336
+        "lat": 31.789319,
+        "lng": 34.799739
       },
-      "formatted": "bad_address",
-      "city": "כאוכב אבו אל-היג'א"
+      "formatted": "קיבוץ חפץ חיים, ישראל",
+      "city": "קיבוץ חפץ חיים"
     },
     "times": [
       {
-        "timestamp_start": "2025-05-06T12:00:00.000Z",
-        "timestamp_end": "2025-05-06T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BCD47727-0620-4D03-A461-F52DD67EABBB"
+        "timestamp_start": "2025-05-06T13:00:00.000Z",
+        "timestamp_end": "2025-05-06T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D31EBF0F-B59D-4BED-9AC4-5BBE137AA482"
       }
     ]
   },
@@ -957,19 +957,19 @@
   },
   {
     "address": {
-      "unformatted": "מתחם בית אידה צפת, מכללת צפת - מתחם בית אידה",
+      "unformatted": "מתנ\"ס כאוכאב  אבו אל היגא",
       "location": {
-        "lat": 32.971104,
-        "lng": 35.4948461
+        "lat": 32.8299072718668,
+        "lng": 35.24752456657336
       },
-      "formatted": "ירושלים 11, צפת, 1320611, ישראל",
-      "city": "צפת"
+      "formatted": "bad_address",
+      "city": "כאוכב אבו אל-היג'א"
     },
     "times": [
       {
-        "timestamp_start": "2025-05-06T06:00:00.000Z",
-        "timestamp_end": "2025-05-06T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7978DC8C-5A78-405D-A7A5-5C3207C5DA86"
+        "timestamp_start": "2025-05-06T12:00:00.000Z",
+        "timestamp_end": "2025-05-06T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BCD47727-0620-4D03-A461-F52DD67EABBB"
       }
     ]
   },
@@ -988,6 +988,24 @@
         "timestamp_start": "2025-05-06T14:00:00.000Z",
         "timestamp_end": "2025-05-06T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/02F1FCDF-A0CB-47C8-A8F6-5D001B9B990B"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מתחם בית אידה צפת, מכללת צפת - מתחם בית אידה",
+      "location": {
+        "lat": 32.971104,
+        "lng": 35.4948461
+      },
+      "formatted": "ירושלים 11, צפת, 1320611, ישראל",
+      "city": "צפת"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-06T06:00:00.000Z",
+        "timestamp_end": "2025-05-06T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7978DC8C-5A78-405D-A7A5-5C3207C5DA86"
       }
     ]
   },
@@ -1191,24 +1209,6 @@
   },
   {
     "address": {
-      "unformatted": "אלון מורה, ישיבת ברכת יוסף",
-      "location": {
-        "lat": 32.2329631,
-        "lng": 35.3416424
-      },
-      "formatted": "אלון מורה",
-      "city": "אלון מורה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-08T12:00:00.000Z",
-        "timestamp_end": "2025-05-08T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92E77081-8C30-401C-ADA4-9AA2765BEE6D"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "נעלה, במבנה הרב תכליתי (מתחת לבית הכנסת)",
       "location": {
         "lat": 31.962104535906743,
@@ -1245,37 +1245,19 @@
   },
   {
     "address": {
-      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
+      "unformatted": "אלון מורה, ישיבת ברכת יוסף",
       "location": {
-        "lat": 32.4445161,
-        "lng": 34.9228603
+        "lat": 32.2329631,
+        "lng": 35.3416424
       },
-      "formatted": "אביאור 7-11, חדרה, ישראל",
-      "city": "חדרה"
+      "formatted": "אלון מורה",
+      "city": "אלון מורה"
     },
     "times": [
       {
-        "timestamp_start": "2025-05-09T05:00:00.000Z",
-        "timestamp_end": "2025-05-09T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/61DE03AB-3630-40E6-9388-E3279111BEC2"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "חיפה, רח' יצחק שדה 10 (תחנה נגישה), - תחנת מד\"א",
-      "location": {
-        "lat": 32.824678,
-        "lng": 34.9882598
-      },
-      "formatted": "יצחק שדה 10, חיפה, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-09T05:00:00.000Z",
-        "timestamp_end": "2025-05-09T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8D040227-B106-4B3D-BC1E-4E91E0730717"
+        "timestamp_start": "2025-05-08T12:00:00.000Z",
+        "timestamp_end": "2025-05-08T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92E77081-8C30-401C-ADA4-9AA2765BEE6D"
       }
     ]
   },
@@ -1299,19 +1281,37 @@
   },
   {
     "address": {
-      "unformatted": "בית אלפא, מועדון",
+      "unformatted": "חיפה, רח' יצחק שדה 10 (תחנה נגישה), - תחנת מד\"א",
       "location": {
-        "lat": 32.5155772,
-        "lng": 35.4294417
+        "lat": 32.824678,
+        "lng": 34.9882598
       },
-      "formatted": "בית אלפא, ישראל",
-      "city": "בית אלפא"
+      "formatted": "יצחק שדה 10, חיפה, ישראל",
+      "city": "חיפה"
     },
     "times": [
       {
-        "timestamp_start": "2025-05-11T13:30:00.000Z",
-        "timestamp_end": "2025-05-11T17:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F623FCDC-010A-4381-B86F-9C8CC2DB2677"
+        "timestamp_start": "2025-05-09T05:00:00.000Z",
+        "timestamp_end": "2025-05-09T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8D040227-B106-4B3D-BC1E-4E91E0730717"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.4445161,
+        "lng": 34.9228603
+      },
+      "formatted": "אביאור 7-11, חדרה, ישראל",
+      "city": "חדרה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-09T05:00:00.000Z",
+        "timestamp_end": "2025-05-09T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/61DE03AB-3630-40E6-9388-E3279111BEC2"
       }
     ]
   },
@@ -1348,6 +1348,24 @@
         "timestamp_start": "2025-05-11T13:00:00.000Z",
         "timestamp_end": "2025-05-11T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3302698C-756B-4694-8239-5844962B2511"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "בית אלפא, מועדון",
+      "location": {
+        "lat": 32.5155772,
+        "lng": 35.4294417
+      },
+      "formatted": "בית אלפא, ישראל",
+      "city": "בית אלפא"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-11T13:30:00.000Z",
+        "timestamp_end": "2025-05-11T17:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F623FCDC-010A-4381-B86F-9C8CC2DB2677"
       }
     ]
   },
@@ -1407,24 +1425,6 @@
   },
   {
     "address": {
-      "unformatted": "דגניה א', במועדון בית בוסל",
-      "location": {
-        "lat": 32.70727376694797,
-        "lng": 35.57480886740735
-      },
-      "formatted": "צפת, ישראל",
-      "city": "דגניה א'"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-15T13:00:00.000Z",
-        "timestamp_end": "2025-05-15T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/ADC89100-8775-4FE2-A2F3-8B0A2799E931"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "שרגא רפאלי 4 פתח תקווה, שש שנתי רמון",
       "location": {
         "lat": 32.1068247,
@@ -1456,6 +1456,24 @@
         "timestamp_start": "2025-05-15T13:00:00.000Z",
         "timestamp_end": "2025-05-15T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DE42AF48-3320-4AAD-AD00-548A879F5F7F"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דגניה א', במועדון בית בוסל",
+      "location": {
+        "lat": 32.70727376694797,
+        "lng": 35.57480886740735
+      },
+      "formatted": "צפת, ישראל",
+      "city": "דגניה א'"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-15T13:00:00.000Z",
+        "timestamp_end": "2025-05-15T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/ADC89100-8775-4FE2-A2F3-8B0A2799E931"
       }
     ]
   },
