@@ -73,6 +73,24 @@
   },
   {
     "address": {
+      "unformatted": "עין גב, בית ילדים צבר",
+      "location": {
+        "lat": 32.783393,
+        "lng": 35.640119
+      },
+      "formatted": "עין גב",
+      "city": "עין גב"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-05T13:00:00.000Z",
+        "timestamp_end": "2025-05-05T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/734151AF-4017-46C4-8492-930D2D6281B2"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
       "location": {
         "lat": 31.78153,
@@ -106,24 +124,6 @@
         "timestamp_start": "2025-05-09T06:00:00.000Z",
         "timestamp_end": "2025-05-09T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F9C78856-2A09-473C-B665-4C04BE5A9D39"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "עין גב, בית ילדים צבר",
-      "location": {
-        "lat": 32.783393,
-        "lng": 35.640119
-      },
-      "formatted": "עין גב",
-      "city": "עין גב"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-05T13:00:00.000Z",
-        "timestamp_end": "2025-05-05T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/734151AF-4017-46C4-8492-930D2D6281B2"
       }
     ]
   },
@@ -278,6 +278,24 @@
         "timestamp_start": "2025-05-09T05:00:00.000Z",
         "timestamp_end": "2025-05-09T10:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3D78D1FF-B99D-4F46-B1B3-9BCCB883E76E"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "טשרניחובסקי 59 כפר סבא, בי\"ח מאיר כ\"ס",
+      "location": {
+        "lat": 32.180855,
+        "lng": 34.8972509
+      },
+      "formatted": "טשרניחובסקי 59, כפר סבא, 4428164, ישראל",
+      "city": "כפר סבא"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-05T07:00:00.000Z",
+        "timestamp_end": "2025-05-05T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/75D61EA1-5EA8-4645-9FBF-1BD27D5DDBA2"
       }
     ]
   },
@@ -493,19 +511,24 @@
   },
   {
     "address": {
-      "unformatted": "הסוללים, מרכז הקהילתי",
+      "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
       "location": {
-        "lat": 32.75062945594182,
-        "lng": 35.23834872896684
+        "lat": 32.78460454662827,
+        "lng": 34.987120821454766
       },
-      "formatted": "הסוללים, בת ים, ישראל",
-      "city": "הסוללים"
+      "formatted": "חורב 13, חיפה, ישראל",
+      "city": "חיפה"
     },
     "times": [
       {
-        "timestamp_start": "2025-05-06T14:00:00.000Z",
+        "timestamp_start": "2025-05-06T13:00:00.000Z",
         "timestamp_end": "2025-05-06T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/02F1FCDF-A0CB-47C8-A8F6-5D001B9B990B"
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/104137BF-7568-4D59-BBAF-C3A446304C77"
+      },
+      {
+        "timestamp_start": "2025-05-09T05:00:00.000Z",
+        "timestamp_end": "2025-05-09T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C0FA62F6-AC3A-46D3-A7EA-7E28AD5D2906"
       }
     ]
   },
@@ -524,6 +547,42 @@
         "timestamp_start": "2025-05-06T12:00:00.000Z",
         "timestamp_end": "2025-05-06T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BCD47727-0620-4D03-A461-F52DD67EABBB"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "הסוללים, מרכז הקהילתי",
+      "location": {
+        "lat": 32.75062945594182,
+        "lng": 35.23834872896684
+      },
+      "formatted": "הסוללים, בת ים, ישראל",
+      "city": "הסוללים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-06T14:00:00.000Z",
+        "timestamp_end": "2025-05-06T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/02F1FCDF-A0CB-47C8-A8F6-5D001B9B990B"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "בני עקיבא קיבוץ חפץ חיים",
+      "location": {
+        "lat": 31.789319,
+        "lng": 34.799739
+      },
+      "formatted": "קיבוץ חפץ חיים, ישראל",
+      "city": "קיבוץ חפץ חיים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-06T13:00:00.000Z",
+        "timestamp_end": "2025-05-06T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D31EBF0F-B59D-4BED-9AC4-5BBE137AA482"
       }
     ]
   },
@@ -552,24 +611,19 @@
   },
   {
     "address": {
-      "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
+      "unformatted": "המעפיל, מועדון לחבר",
       "location": {
-        "lat": 32.78460454662827,
-        "lng": 34.987120821454766
+        "lat": 32.378035,
+        "lng": 34.983146
       },
-      "formatted": "חורב 13, חיפה, ישראל",
-      "city": "חיפה"
+      "formatted": "המעפיל, ישראל",
+      "city": "המעפיל"
     },
     "times": [
       {
-        "timestamp_start": "2025-05-06T13:00:00.000Z",
-        "timestamp_end": "2025-05-06T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/104137BF-7568-4D59-BBAF-C3A446304C77"
-      },
-      {
-        "timestamp_start": "2025-05-09T05:00:00.000Z",
-        "timestamp_end": "2025-05-09T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C0FA62F6-AC3A-46D3-A7EA-7E28AD5D2906"
+        "timestamp_start": "2025-05-06T12:00:00.000Z",
+        "timestamp_end": "2025-05-06T17:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7F8DE783-CAA8-410A-B040-B941DFE9A01F"
       }
     ]
   },
@@ -588,24 +642,6 @@
         "timestamp_start": "2025-05-06T13:00:00.000Z",
         "timestamp_end": "2025-05-06T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0AF70CD6-A83F-4292-BF4F-EC5AB5CDDFDD"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "בני עקיבא קיבוץ חפץ חיים",
-      "location": {
-        "lat": 31.789319,
-        "lng": 34.799739
-      },
-      "formatted": "קיבוץ חפץ חיים, ישראל",
-      "city": "קיבוץ חפץ חיים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-06T13:00:00.000Z",
-        "timestamp_end": "2025-05-06T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D31EBF0F-B59D-4BED-9AC4-5BBE137AA482"
       }
     ]
   },
@@ -647,24 +683,6 @@
   },
   {
     "address": {
-      "unformatted": "המעפיל, מועדון לחבר",
-      "location": {
-        "lat": 32.378035,
-        "lng": 34.983146
-      },
-      "formatted": "המעפיל, ישראל",
-      "city": "המעפיל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-06T12:00:00.000Z",
-        "timestamp_end": "2025-05-06T17:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7F8DE783-CAA8-410A-B040-B941DFE9A01F"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מוטה גור 2 מזכרת בתיה, בי\"ס קשת מזכרת בתיה",
       "location": {
         "lat": 31.8508945,
@@ -701,24 +719,6 @@
   },
   {
     "address": {
-      "unformatted": "מעלה לבונה, אולם ארגמן ישוב מעלה לבונה",
-      "location": {
-        "lat": 32.054436,
-        "lng": 35.239503
-      },
-      "formatted": "מעלה לבונה",
-      "city": "מעלה לבונה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-07T14:00:00.000Z",
-        "timestamp_end": "2025-05-07T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5ADEBEBF-D8E9-42ED-B9D6-84BB93721CF3"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "דרך שמחה גולן 9 חיפה, גרנד קניון - קומה 3 ליד המדרגות הנעות",
       "location": {
         "lat": 32.789711,
@@ -750,6 +750,24 @@
         "timestamp_start": "2025-05-07T06:30:00.000Z",
         "timestamp_end": "2025-05-07T12:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/718C2001-AE2C-46DF-8D1C-96960454F292"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מעלה לבונה, אולם ארגמן ישוב מעלה לבונה",
+      "location": {
+        "lat": 32.054436,
+        "lng": 35.239503
+      },
+      "formatted": "מעלה לבונה",
+      "city": "מעלה לבונה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-07T14:00:00.000Z",
+        "timestamp_end": "2025-05-07T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5ADEBEBF-D8E9-42ED-B9D6-84BB93721CF3"
       }
     ]
   },
@@ -935,6 +953,42 @@
   },
   {
     "address": {
+      "unformatted": "דרך ארץ 35 חריש, מתחם קניות",
+      "location": {
+        "lat": 32.46300770000001,
+        "lng": 35.0434811
+      },
+      "formatted": "דרך ארץ 35, חריש, 3761110, ישראל",
+      "city": "חריש"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-08T12:30:00.000Z",
+        "timestamp_end": "2025-05-08T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/504B0E40-D4B8-41DD-A15A-6CAC36F238CB"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "טירת כרמל, מול פיצה פאפינו, כניסה דרומית",
+      "location": {
+        "lat": 32.7605838,
+        "lng": 34.9637954
+      },
+      "formatted": "ז'בוטינסקי 62, טירת כרמל, 3901042, ישראל",
+      "city": "טירת כרמל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-08T13:00:00.000Z",
+        "timestamp_end": "2025-05-08T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7EAB87F7-AB1E-4E58-AC80-A22B7E1D670E"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "נחל דולב 16 בית שמש, מתנ\"ס גוונים רמת בית שמש א'",
       "location": {
         "lat": 31.7151352,
@@ -966,42 +1020,6 @@
         "timestamp_start": "2025-05-08T12:00:00.000Z",
         "timestamp_end": "2025-05-08T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D1594BE6-BAFF-4856-803A-0CB0F3EC7ECA"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "טירת כרמל, מול פיצה פאפינו, כניסה דרומית",
-      "location": {
-        "lat": 32.7605838,
-        "lng": 34.9637954
-      },
-      "formatted": "ז'בוטינסקי 62, טירת כרמל, 3901042, ישראל",
-      "city": "טירת כרמל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-08T13:00:00.000Z",
-        "timestamp_end": "2025-05-08T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7EAB87F7-AB1E-4E58-AC80-A22B7E1D670E"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "דרך ארץ 35 חריש, מתחם קניות",
-      "location": {
-        "lat": 32.46300770000001,
-        "lng": 35.0434811
-      },
-      "formatted": "דרך ארץ 35, חריש, 3761110, ישראל",
-      "city": "חריש"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-08T12:30:00.000Z",
-        "timestamp_end": "2025-05-08T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/504B0E40-D4B8-41DD-A15A-6CAC36F238CB"
       }
     ]
   },
