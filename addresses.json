@@ -271,6 +271,24 @@
   },
   {
     "address": {
+      "unformatted": "ישראל מסלנט 24 תל אביב יפו, ישיבת אורות שאול תל אביב",
+      "location": {
+        "lat": 32.0499127,
+        "lng": 34.7815145
+      },
+      "formatted": "ישראל מסלנט 24, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-07T11:00:00.000Z",
+        "timestamp_end": "2025-05-07T16:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CD15358B-C52D-4B35-BE21-C8C5A9614651"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "דיזנגוף תל אביב יפו, דיניגוף סנטר גשר ברוריה",
       "location": {
         "lat": 32.0753236,
@@ -302,29 +320,6 @@
         "timestamp_start": "2025-05-07T07:00:00.000Z",
         "timestamp_end": "2025-05-07T17:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D3566D64-115A-4E7D-A36E-3F4293988959"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
-      "location": {
-        "lat": 32.790333613593994,
-        "lng": 35.533051427181455
-      },
-      "formatted": "טבריה, ישראל",
-      "city": "טבריה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-07T09:00:00.000Z",
-        "timestamp_end": "2025-05-07T16:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92D3605A-8280-4B26-ABCA-79FC89FB0127"
-      },
-      {
-        "timestamp_start": "2025-05-09T05:30:00.000Z",
-        "timestamp_end": "2025-05-09T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/87EF85DE-1A38-4F23-BB36-68FE3DA586EE"
       }
     ]
   },
@@ -379,6 +374,29 @@
         "timestamp_start": "2025-05-07T12:30:00.000Z",
         "timestamp_end": "2025-05-07T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E5F8ABEA-43D8-46EF-B3DC-BF71A5F3E722"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
+      "location": {
+        "lat": 32.790333613593994,
+        "lng": 35.533051427181455
+      },
+      "formatted": "טבריה, ישראל",
+      "city": "טבריה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-07T09:00:00.000Z",
+        "timestamp_end": "2025-05-07T16:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92D3605A-8280-4B26-ABCA-79FC89FB0127"
+      },
+      {
+        "timestamp_start": "2025-05-09T05:30:00.000Z",
+        "timestamp_end": "2025-05-09T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/87EF85DE-1A38-4F23-BB36-68FE3DA586EE"
       }
     ]
   },
@@ -864,24 +882,6 @@
   },
   {
     "address": {
-      "unformatted": "התחיה 1 אשקלון, תחנת מ.ד.א אשקלון, - תחנת מד\"א",
-      "location": {
-        "lat": 31.6599003,
-        "lng": 34.5893259
-      },
-      "formatted": "התחייה 1, אשקלון, ישראל",
-      "city": "אשקלון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-09T05:30:00.000Z",
-        "timestamp_end": "2025-05-09T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/247BBAE2-9BB1-4B12-BEC0-28483B6330C8"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
       "location": {
         "lat": 32.4445161,
@@ -905,24 +905,19 @@
   },
   {
     "address": {
-      "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+      "unformatted": "התחיה 1 אשקלון, תחנת מ.ד.א אשקלון, - תחנת מד\"א",
       "location": {
-        "lat": 32.8440668,
-        "lng": 35.0802042
+        "lat": 31.6599003,
+        "lng": 34.5893259
       },
-      "formatted": "החשמונאים 75, קרית מוצקין, ישראל",
-      "city": "קרית מוצקין"
+      "formatted": "התחייה 1, אשקלון, ישראל",
+      "city": "אשקלון"
     },
     "times": [
       {
-        "timestamp_start": "2025-05-09T05:00:00.000Z",
-        "timestamp_end": "2025-05-09T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/423BB865-DEF9-484F-AB58-DCF54F27A1FC"
-      },
-      {
-        "timestamp_start": "2025-05-16T05:00:00.000Z",
-        "timestamp_end": "2025-05-16T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C5B9475B-A8A0-4066-BA3B-806F03A5FCB4"
+        "timestamp_start": "2025-05-09T05:30:00.000Z",
+        "timestamp_end": "2025-05-09T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/247BBAE2-9BB1-4B12-BEC0-28483B6330C8"
       }
     ]
   },
@@ -941,6 +936,29 @@
         "timestamp_start": "2025-05-09T05:30:00.000Z",
         "timestamp_end": "2025-05-09T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/970F4704-0E19-43F5-A90F-D2A51ACCDC8D"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+      "location": {
+        "lat": 32.8440668,
+        "lng": 35.0802042
+      },
+      "formatted": "החשמונאים 75, קרית מוצקין, ישראל",
+      "city": "קרית מוצקין"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-09T05:00:00.000Z",
+        "timestamp_end": "2025-05-09T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/423BB865-DEF9-484F-AB58-DCF54F27A1FC"
+      },
+      {
+        "timestamp_start": "2025-05-16T05:00:00.000Z",
+        "timestamp_end": "2025-05-16T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C5B9475B-A8A0-4066-BA3B-806F03A5FCB4"
       }
     ]
   },
@@ -1231,24 +1249,6 @@
   },
   {
     "address": {
-      "unformatted": "משואות יצחק, ב\"מפגשים\"",
-      "location": {
-        "lat": 31.70261,
-        "lng": 34.689968
-      },
-      "formatted": "משואות יצחק, ישראל",
-      "city": "משואות יצחק"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-13T13:00:00.000Z",
-        "timestamp_end": "2025-05-13T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/420228E5-8826-4717-B872-E01751E88FF6"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מושב בני עטרות",
       "location": {
         "lat": 32.02147,
@@ -1316,6 +1316,24 @@
         "timestamp_start": "2025-05-13T12:30:00.000Z",
         "timestamp_end": "2025-05-13T18:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E184B6F9-BD1E-4FB8-AE17-5EF4407250EF"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "משואות יצחק, ב\"מפגשים\"",
+      "location": {
+        "lat": 31.70261,
+        "lng": 34.689968
+      },
+      "formatted": "משואות יצחק, ישראל",
+      "city": "משואות יצחק"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-13T13:00:00.000Z",
+        "timestamp_end": "2025-05-13T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/420228E5-8826-4717-B872-E01751E88FF6"
       }
     ]
   },
@@ -1447,24 +1465,6 @@
   },
   {
     "address": {
-      "unformatted": "נצר סרני, נצר סרני",
-      "location": {
-        "lat": 31.922789,
-        "lng": 34.821191
-      },
-      "formatted": "נצר סרני, ישראל",
-      "city": "נצר סרני"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-15T13:00:00.000Z",
-        "timestamp_end": "2025-05-15T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CB815F86-163C-4308-BE3A-6F96F64971C1"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "חוקוק, מועדון הבית הכולל",
       "location": {
         "lat": 32.878631,
@@ -1496,6 +1496,24 @@
         "timestamp_start": "2025-05-15T12:30:00.000Z",
         "timestamp_end": "2025-05-15T17:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/059DE753-1123-41AC-B48D-9ED6A44B424B"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "נצר סרני, נצר סרני",
+      "location": {
+        "lat": 31.922789,
+        "lng": 34.821191
+      },
+      "formatted": "נצר סרני, ישראל",
+      "city": "נצר סרני"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-15T13:00:00.000Z",
+        "timestamp_end": "2025-05-15T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CB815F86-163C-4308-BE3A-6F96F64971C1"
       }
     ]
   },
