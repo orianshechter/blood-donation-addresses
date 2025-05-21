@@ -435,8 +435,8 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A343100E-F63D-494B-81B5-5D5D561101D5"
       },
       {
-        "timestamp_start": "2025-05-22T06:30:00.000Z",
-        "timestamp_end": "2025-05-22T13:00:00.000Z",
+        "timestamp_start": "2025-05-22T06:00:00.000Z",
+        "timestamp_end": "2025-05-22T12:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0F30C3EA-E07A-4262-A1E0-F394A05DFDE2"
       },
       {
@@ -489,6 +489,24 @@
   },
   {
     "address": {
+      "unformatted": "קמפוס מזרחי מועדון הסטודנט",
+      "location": {
+        "lat": 33.44852903890945,
+        "lng": 32.05693494134149
+      },
+      "formatted": "bad_address",
+      "city": ""
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-22T05:30:00.000Z",
+        "timestamp_end": "2025-05-22T13:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2CFA689C-0105-4501-BE87-8BE8F587EE3F"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "עפולה, מרכז הרפואי העמק לובי קפיטריה",
       "location": {
         "lat": 32.6210762,
@@ -512,29 +530,6 @@
   },
   {
     "address": {
-      "unformatted": "צה\"ל 35 חדרה, מתחם קניות מיקס חדרה ליד ארומה",
-      "location": {
-        "lat": 32.4414918,
-        "lng": 34.930406
-      },
-      "formatted": "מתחם מיקס, Tsahal St 35, Hadera, 3822044, ישראל",
-      "city": "חדרה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-22T13:00:00.000Z",
-        "timestamp_end": "2025-05-22T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/472E98A1-9A52-430F-90EA-48A15A780E70"
-      },
-      {
-        "timestamp_start": "2025-05-22T06:30:00.000Z",
-        "timestamp_end": "2025-05-22T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/13514168-8F2C-4EBF-8C7A-C9911905A6F9"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "העליה השניה 8 חיפה, בי\"ח רמב\"ם - קניון סגול",
       "location": {
         "lat": 32.8329875,
@@ -553,34 +548,6 @@
   },
   {
     "address": {
-      "unformatted": "חיפה, מתחם קניות חוצות המפרץ - ליד גרג",
-      "location": {
-        "lat": 32.8092185,
-        "lng": 35.0557838
-      },
-      "formatted": "החרושת 8, חיפה, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-22T07:00:00.000Z",
-        "timestamp_end": "2025-05-22T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8B414C63-3C4F-45F9-A8A9-61B6DD33B578"
-      },
-      {
-        "timestamp_start": "2025-05-23T05:00:00.000Z",
-        "timestamp_end": "2025-05-23T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/895A9E3B-AF51-45A6-BA64-658F74F4BC27"
-      },
-      {
-        "timestamp_start": "2025-05-25T12:30:00.000Z",
-        "timestamp_end": "2025-05-25T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/713D304A-93C4-4CE3-B976-31D51FF32E41"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "צפריה, מועדון צפריה",
       "location": {
         "lat": 32.0048149,
@@ -594,6 +561,29 @@
         "timestamp_start": "2025-05-22T13:00:00.000Z",
         "timestamp_end": "2025-05-22T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/213DB0BC-B2D5-4610-A77F-D12E65FE3432"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "צה\"ל 35 חדרה, מתחם קניות מיקס חדרה ליד ארומה",
+      "location": {
+        "lat": 32.4414918,
+        "lng": 34.930406
+      },
+      "formatted": "מתחם מיקס, Tsahal St 35, Hadera, 3822044, ישראל",
+      "city": "חדרה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-22T13:00:00.000Z",
+        "timestamp_end": "2025-05-22T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/472E98A1-9A52-430F-90EA-48A15A780E70"
+      },
+      {
+        "timestamp_start": "2025-05-22T06:30:00.000Z",
+        "timestamp_end": "2025-05-22T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/13514168-8F2C-4EBF-8C7A-C9911905A6F9"
       }
     ]
   },
@@ -666,6 +656,34 @@
         "timestamp_start": "2025-05-22T13:00:00.000Z",
         "timestamp_end": "2025-05-22T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BBD1ED14-9E28-4D2A-9E36-2D7CE69C15C5"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "חיפה, מתחם קניות חוצות המפרץ - ליד גרג",
+      "location": {
+        "lat": 32.8092185,
+        "lng": 35.0557838
+      },
+      "formatted": "החרושת 8, חיפה, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-22T07:00:00.000Z",
+        "timestamp_end": "2025-05-22T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8B414C63-3C4F-45F9-A8A9-61B6DD33B578"
+      },
+      {
+        "timestamp_start": "2025-05-23T05:00:00.000Z",
+        "timestamp_end": "2025-05-23T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/895A9E3B-AF51-45A6-BA64-658F74F4BC27"
+      },
+      {
+        "timestamp_start": "2025-05-25T12:30:00.000Z",
+        "timestamp_end": "2025-05-25T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/713D304A-93C4-4CE3-B976-31D51FF32E41"
       }
     ]
   },
@@ -766,29 +784,6 @@
   },
   {
     "address": {
-      "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
-      "location": {
-        "lat": 32.69315354378295,
-        "lng": 35.30500500291231
-      },
-      "formatted": "נוף הגליל, דודג׳ סנטר",
-      "city": "נוף הגליל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-22T10:00:00.000Z",
-        "timestamp_end": "2025-05-22T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CE1CC55E-1C10-4F6F-BD58-2C40F5FFC93A"
-      },
-      {
-        "timestamp_start": "2025-05-23T05:30:00.000Z",
-        "timestamp_end": "2025-05-23T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/04BE1632-263C-41F5-B736-E6D994632262"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מעלות תרשיחא, צים סנטר מעלות מול בנק הפועלים",
       "location": {
         "lat": 33.0216836,
@@ -856,6 +851,24 @@
         "timestamp_start": "2025-05-22T08:00:00.000Z",
         "timestamp_end": "2025-05-22T15:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8053A7D7-A59C-4C87-9381-4671526D1964"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
+      "location": {
+        "lat": 32.69315354378295,
+        "lng": 35.30500500291231
+      },
+      "formatted": "נוף הגליל, דודג׳ סנטר",
+      "city": "נוף הגליל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-23T05:30:00.000Z",
+        "timestamp_end": "2025-05-23T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/04BE1632-263C-41F5-B736-E6D994632262"
       }
     ]
   },
@@ -1307,24 +1320,6 @@
   },
   {
     "address": {
-      "unformatted": "אורטל, מועדון",
-      "location": {
-        "lat": 33.086236,
-        "lng": 35.758661
-      },
-      "formatted": "אורטל",
-      "city": "אורטל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-26T12:30:00.000Z",
-        "timestamp_end": "2025-05-26T16:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0A42F06B-0D43-4D91-B95E-36F4A1709180"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "הרב נריה 16 נתניה, צופי מזרח נתניה - שבט רמון",
       "location": {
         "lat": 32.2987846,
@@ -1343,6 +1338,24 @@
   },
   {
     "address": {
+      "unformatted": "יוסף גדיש 1 עכו, מד\"א עכו",
+      "location": {
+        "lat": 32.924077,
+        "lng": 35.0855535
+      },
+      "formatted": "יוסף גדיש 1, עכו, ישראל",
+      "city": "עכו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-26T12:30:00.000Z",
+        "timestamp_end": "2025-05-26T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EFE7D283-F48F-4AC7-B755-7D5970EC005F"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "מושב עין יהב עין יהב, במועדון",
       "location": {
         "lat": 30.658757,
@@ -1356,6 +1369,24 @@
         "timestamp_start": "2025-05-26T06:00:00.000Z",
         "timestamp_end": "2025-05-26T11:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5F02AC1A-782B-4E18-8BBA-E3A70CBD1872"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אורטל, מועדון",
+      "location": {
+        "lat": 33.086236,
+        "lng": 35.758661
+      },
+      "formatted": "אורטל",
+      "city": "אורטל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-26T12:30:00.000Z",
+        "timestamp_end": "2025-05-26T16:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0A42F06B-0D43-4D91-B95E-36F4A1709180"
       }
     ]
   },
