@@ -220,6 +220,24 @@
   },
   {
     "address": {
+      "unformatted": "שדרות גולדה מאיר 225 ירושלים, קניון רמות - ברחבה ליד הסופר פארם",
+      "location": {
+        "lat": 31.8175,
+        "lng": 35.1944444
+      },
+      "formatted": "שדרות גולדה מאיר 255, ירושלים",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-05-26T10:00:00.000Z",
+        "timestamp_end": "2025-05-26T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B6D4A098-1E90-4854-A25C-BB69F95149DB"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "המלך ג'ורג' 20 ירושלים, משביר י-ם",
       "location": {
         "lat": 31.78153,
@@ -258,24 +276,6 @@
         "timestamp_start": "2025-05-30T06:00:00.000Z",
         "timestamp_end": "2025-05-30T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D6876E50-63F3-4E2B-B7A6-719653FC216C"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "שדרות גולדה מאיר 225 ירושלים, קניון רמות - ברחבה ליד הסופר פארם",
-      "location": {
-        "lat": 31.8175,
-        "lng": 35.1944444
-      },
-      "formatted": "שדרות גולדה מאיר 255, ירושלים",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-05-26T10:00:00.000Z",
-        "timestamp_end": "2025-05-26T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B6D4A098-1E90-4854-A25C-BB69F95149DB"
       }
     ]
   },
@@ -504,14 +504,14 @@
     },
     "times": [
       {
-        "timestamp_start": "2025-05-27T13:00:00.000Z",
-        "timestamp_end": "2025-05-27T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BD9DEFAD-B4E8-4676-B75F-EA0C610BBBB5"
-      },
-      {
         "timestamp_start": "2025-05-27T06:30:00.000Z",
         "timestamp_end": "2025-05-27T12:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/28A84AF4-F79E-4B30-B50E-C17D5659DBE6"
+      },
+      {
+        "timestamp_start": "2025-05-27T13:00:00.000Z",
+        "timestamp_end": "2025-05-27T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BD9DEFAD-B4E8-4676-B75F-EA0C610BBBB5"
       }
     ]
   },
@@ -545,14 +545,14 @@
     },
     "times": [
       {
-        "timestamp_start": "2025-05-27T06:30:00.000Z",
-        "timestamp_end": "2025-05-27T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E273D728-B33E-4706-9D80-0B111D4DA66D"
-      },
-      {
         "timestamp_start": "2025-05-27T13:00:00.000Z",
         "timestamp_end": "2025-05-27T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A5B737AA-18FE-4755-A77F-5F6498EB637D"
+      },
+      {
+        "timestamp_start": "2025-05-27T06:30:00.000Z",
+        "timestamp_end": "2025-05-27T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E273D728-B33E-4706-9D80-0B111D4DA66D"
       }
     ]
   },
@@ -1207,14 +1207,14 @@
     },
     "times": [
       {
-        "timestamp_start": "2025-05-29T13:00:00.000Z",
-        "timestamp_end": "2025-05-29T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B27DE264-3DCD-499A-9322-28651A262E63"
-      },
-      {
         "timestamp_start": "2025-05-29T06:30:00.000Z",
         "timestamp_end": "2025-05-29T12:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/64A11E52-8A93-48CE-8450-C8C3A1014B4E"
+      },
+      {
+        "timestamp_start": "2025-05-29T13:00:00.000Z",
+        "timestamp_end": "2025-05-29T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B27DE264-3DCD-499A-9322-28651A262E63"
       }
     ]
   },
@@ -1703,7 +1703,7 @@
   },
   {
     "address": {
-      "unformatted": "התבור 5 בית שמש, סניף אריאל בנים בית שמש",
+      "unformatted": "התבור 5 בית שמש, בבית הכנסת אור איתן",
       "location": {
         "lat": 31.7470088,
         "lng": 34.9945528
@@ -1739,24 +1739,6 @@
   },
   {
     "address": {
-      "unformatted": "שערי תקווה, מתנ\"ס מרעי",
-      "location": {
-        "lat": 32.120679,
-        "lng": 35.026998
-      },
-      "formatted": "שערי תקווה",
-      "city": "שערי תקווה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-06-05T13:00:00.000Z",
-        "timestamp_end": "2025-06-05T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4F6C2DEF-0CBC-4105-9856-9A97DC377B8A"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "עפרה, במתנס הקהילתי החדש ישוב עפרה",
       "location": {
         "lat": 31.955101,
@@ -1770,6 +1752,24 @@
         "timestamp_start": "2025-06-05T14:30:00.000Z",
         "timestamp_end": "2025-06-05T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2EFA02E1-0047-473A-8A36-B52EBF6FE436"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שערי תקווה, מתנ\"ס מרעי",
+      "location": {
+        "lat": 32.120679,
+        "lng": 35.026998
+      },
+      "formatted": "שערי תקווה",
+      "city": "שערי תקווה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-06-05T13:00:00.000Z",
+        "timestamp_end": "2025-06-05T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4F6C2DEF-0CBC-4105-9856-9A97DC377B8A"
       }
     ]
   },
@@ -2135,19 +2135,19 @@
   },
   {
     "address": {
-      "unformatted": "מצפה אילן, מועדון לחבר",
+      "unformatted": "נצרת, בי\"ח אנגלי נצרת ברחבת האודיטוריום קומה 2",
       "location": {
-        "lat": 32.461919,
-        "lng": 35.006732
+        "lat": 32.702209,
+        "lng": 35.2921401
       },
-      "formatted": "עין שמר, ישראל",
-      "city": "מצפה אילן"
+      "formatted": "נצרת, ישראל",
+      "city": "נצרת"
     },
     "times": [
       {
-        "timestamp_start": "2025-06-19T14:00:00.000Z",
-        "timestamp_end": "2025-06-19T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/95E3D1EF-147F-4EC6-BDD7-9D0481362DEF"
+        "timestamp_start": "2025-06-19T07:00:00.000Z",
+        "timestamp_end": "2025-06-19T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/441AAAF1-331F-40B0-A015-B37C9C670B39"
       }
     ]
   },
@@ -2171,19 +2171,19 @@
   },
   {
     "address": {
-      "unformatted": "נצרת, בי\"ח אנגלי נצרת ברחבת האודיטוריום קומה 2",
+      "unformatted": "מצפה אילן, מועדון לחבר",
       "location": {
-        "lat": 32.702209,
-        "lng": 35.2921401
+        "lat": 32.461919,
+        "lng": 35.006732
       },
-      "formatted": "נצרת, ישראל",
-      "city": "נצרת"
+      "formatted": "עין שמר, ישראל",
+      "city": "מצפה אילן"
     },
     "times": [
       {
-        "timestamp_start": "2025-06-19T07:00:00.000Z",
-        "timestamp_end": "2025-06-19T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/441AAAF1-331F-40B0-A015-B37C9C670B39"
+        "timestamp_start": "2025-06-19T14:00:00.000Z",
+        "timestamp_end": "2025-06-19T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/95E3D1EF-147F-4EC6-BDD7-9D0481362DEF"
       }
     ]
   },
