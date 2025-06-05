@@ -144,6 +144,11 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F1D8FB69-5C0B-433B-95A9-8719C44D8ACA"
       },
       {
+        "timestamp_start": "2025-06-11T13:00:00.000Z",
+        "timestamp_end": "2025-06-11T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/45F097E4-D058-4A6B-992F-1885694935C5"
+      },
+      {
         "timestamp_start": "2025-06-11T07:00:00.000Z",
         "timestamp_end": "2025-06-11T13:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9602CA88-247A-4DF8-BB4B-1E51050D1D65"
@@ -1540,6 +1545,24 @@
   },
   {
     "address": {
+      "unformatted": "כפר סאלד, פינה חמה",
+      "location": {
+        "lat": 33.196035,
+        "lng": 35.657993
+      },
+      "formatted": "כפר סאלד, ישראל",
+      "city": "כפר סאלד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-06-10T14:00:00.000Z",
+        "timestamp_end": "2025-06-10T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C3E7E0E4-167F-4D5F-8829-41975B12C1B2"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "דרך מנחם בגין 125 תל אביב יפו, קרית הממשלה - תל אביב",
       "location": {
         "lat": 32.072959,
@@ -1589,24 +1612,6 @@
         "timestamp_start": "2025-06-10T13:00:00.000Z",
         "timestamp_end": "2025-06-10T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/56DA9704-04CB-4A28-8BD3-F9DFD9EB6612"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "כפר סאלד, פינה חמה",
-      "location": {
-        "lat": 33.196035,
-        "lng": 35.657993
-      },
-      "formatted": "כפר סאלד, ישראל",
-      "city": "כפר סאלד"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-06-10T14:00:00.000Z",
-        "timestamp_end": "2025-06-10T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C3E7E0E4-167F-4D5F-8829-41975B12C1B2"
       }
     ]
   },
@@ -2296,42 +2301,6 @@
   },
   {
     "address": {
-      "unformatted": "זית שמן 5 אפרת, בית הכנסת משכן ציפורה",
-      "location": {
-        "lat": 31.66986709999999,
-        "lng": 35.1632573
-      },
-      "formatted": "אפרת, ישראל",
-      "city": "אפרת"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-06-26T14:00:00.000Z",
-        "timestamp_end": "2025-06-26T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/59C5B7F6-373D-4DC7-977B-7837ADAF8BD3"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "כרמי צור, באולם שמחות החדש",
-      "location": {
-        "lat": 31.609468,
-        "lng": 35.101273
-      },
-      "formatted": "כרמי צור",
-      "city": "כרמי צור"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-06-26T14:00:00.000Z",
-        "timestamp_end": "2025-06-26T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/099AD359-7882-477E-BB0B-517586D17695"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "נעמי שמר 3 גבעת שמואל, בסניף עזרא",
       "location": {
         "lat": 32.0840349,
@@ -2363,6 +2332,42 @@
         "timestamp_start": "2025-06-26T13:00:00.000Z",
         "timestamp_end": "2025-06-26T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4CDD1B1D-E3D8-42EF-A9A6-2BCDD3D5B930"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "זית שמן 5 אפרת, בית הכנסת משכן ציפורה",
+      "location": {
+        "lat": 31.66986709999999,
+        "lng": 35.1632573
+      },
+      "formatted": "אפרת, ישראל",
+      "city": "אפרת"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-06-26T14:00:00.000Z",
+        "timestamp_end": "2025-06-26T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/59C5B7F6-373D-4DC7-977B-7837ADAF8BD3"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כרמי צור, באולם שמחות החדש",
+      "location": {
+        "lat": 31.609468,
+        "lng": 35.101273
+      },
+      "formatted": "כרמי צור",
+      "city": "כרמי צור"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-06-26T14:00:00.000Z",
+        "timestamp_end": "2025-06-26T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/099AD359-7882-477E-BB0B-517586D17695"
       }
     ]
   },
@@ -2422,24 +2427,6 @@
   },
   {
     "address": {
-      "unformatted": "ניר דוד, מועדון",
-      "location": {
-        "lat": 32.504062,
-        "lng": 35.457622
-      },
-      "formatted": "ניר דוד, ישראל",
-      "city": "ניר דוד"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-06-30T13:00:00.000Z",
-        "timestamp_end": "2025-06-30T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F1FFC8FB-5BD1-4BBB-B273-09DEF5C1532B"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "אבני איתן, מועדון",
       "location": {
         "lat": 32.82481,
@@ -2453,6 +2440,24 @@
         "timestamp_start": "2025-06-30T13:00:00.000Z",
         "timestamp_end": "2025-06-30T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7B75B933-B775-4382-A977-C0FB67EB3066"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "ניר דוד, מועדון",
+      "location": {
+        "lat": 32.504062,
+        "lng": 35.457622
+      },
+      "formatted": "ניר דוד, ישראל",
+      "city": "ניר דוד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-06-30T13:00:00.000Z",
+        "timestamp_end": "2025-06-30T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F1FFC8FB-5BD1-4BBB-B273-09DEF5C1532B"
       }
     ]
   }
