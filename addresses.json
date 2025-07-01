@@ -19,42 +19,6 @@
   },
   {
     "address": {
-      "unformatted": "הרוקמים 1 חולון, - תחנת מד\"א",
-      "location": {
-        "lat": 32.0108836,
-        "lng": 34.7967928
-      },
-      "formatted": "הרוקמים 1, חולון, ישראל",
-      "city": "חולון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-01T12:00:00.000Z",
-        "timestamp_end": "2025-07-01T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/39EE9BC9-0125-457B-957E-AEABC20D9CF3"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "מינץ 7 נתניה, - תחנת מד\"א",
-      "location": {
-        "lat": 32.3284579,
-        "lng": 34.8645215
-      },
-      "formatted": "בנימין מינץ 7, נתניה, ישראל",
-      "city": "נתניה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-01T12:00:00.000Z",
-        "timestamp_end": "2025-07-01T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D9CD0758-B791-4DAB-ACAB-CE6B921FCAE8"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ירושלים, רח' המ\"ג 7 רוממה (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 31.7913012,
@@ -268,6 +232,42 @@
         "timestamp_start": "2025-07-03T07:00:00.000Z",
         "timestamp_end": "2025-07-03T12:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A5108828-00F6-45E0-9FA3-602E37E1195E"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "הרוקמים 1 חולון, בתחנת מד\"א חולון, - תחנת מד\"א",
+      "location": {
+        "lat": 32.01079717106096,
+        "lng": 34.79731848820997
+      },
+      "formatted": "הרוקמים, חולון, ישראל",
+      "city": "חולון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-01T12:00:00.000Z",
+        "timestamp_end": "2025-07-01T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/39EE9BC9-0125-457B-957E-AEABC20D9CF3"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מינץ 7 נתניה, תחנת מד\"א נתניה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.3284579,
+        "lng": 34.8645215
+      },
+      "formatted": "בנימין מינץ 7, נתניה, ישראל",
+      "city": "נתניה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-01T12:00:00.000Z",
+        "timestamp_end": "2025-07-01T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D9CD0758-B791-4DAB-ACAB-CE6B921FCAE8"
       }
     ]
   },
@@ -532,24 +532,6 @@
   },
   {
     "address": {
-      "unformatted": "דולב, אולם שמחות-שכונת הדגל ישוב דולב",
-      "location": {
-        "lat": 31.9263057,
-        "lng": 35.1360397
-      },
-      "formatted": "W4GP+GCF, דולב",
-      "city": "דולב"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-03T14:00:00.000Z",
-        "timestamp_end": "2025-07-03T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E178F9BE-90C3-4A22-BB69-C7FEB0CF86E2"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "העליה השניה 8 חיפה, בי\"ח רמב\"ם - קניון סגול",
       "location": {
         "lat": 32.8329875,
@@ -586,19 +568,19 @@
   },
   {
     "address": {
-      "unformatted": "פועלי הרכבת 30 גבעתיים, בי\"ס בן גוריון",
+      "unformatted": "דולב, אולם שמחות-שכונת הדגל ישוב דולב",
       "location": {
-        "lat": 32.0769,
-        "lng": 34.8164585
+        "lat": 31.9263057,
+        "lng": 35.1360397
       },
-      "formatted": "פועלי הרכבת 30, גבעתיים, ישראל",
-      "city": "גבעתיים"
+      "formatted": "W4GP+GCF, דולב",
+      "city": "דולב"
     },
     "times": [
       {
-        "timestamp_start": "2025-07-03T13:00:00.000Z",
-        "timestamp_end": "2025-07-03T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FE51FE5F-AF14-44A9-9BF2-37D54CDA0975"
+        "timestamp_start": "2025-07-03T14:00:00.000Z",
+        "timestamp_end": "2025-07-03T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E178F9BE-90C3-4A22-BB69-C7FEB0CF86E2"
       }
     ]
   },
@@ -622,19 +604,42 @@
   },
   {
     "address": {
-      "unformatted": "נהלל, מועדון ותיקים",
+      "unformatted": "פועלי הרכבת 30 גבעתיים, בי\"ס בן גוריון",
       "location": {
-        "lat": 32.690807,
-        "lng": 35.19609
+        "lat": 32.0769,
+        "lng": 34.8164585
       },
-      "formatted": "נהלל, ישראל",
-      "city": "נהלל"
+      "formatted": "פועלי הרכבת 30, גבעתיים, ישראל",
+      "city": "גבעתיים"
     },
     "times": [
       {
         "timestamp_start": "2025-07-03T13:00:00.000Z",
-        "timestamp_end": "2025-07-03T18:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5B1CE31A-5DAD-4EB7-AF10-55641D6E4F08"
+        "timestamp_end": "2025-07-03T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FE51FE5F-AF14-44A9-9BF2-37D54CDA0975"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "סוקולוב 4 באר שבע, תחנת מד\"א ב\"ש סוקולוב 4",
+      "location": {
+        "lat": 31.2486918,
+        "lng": 34.7918751
+      },
+      "formatted": "סוקולוב 4, באר שבע, ישראל",
+      "city": "באר שבע"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-03T08:00:00.000Z",
+        "timestamp_end": "2025-07-03T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D6D4B568-CC71-420E-B15E-5F29C68B857A"
+      },
+      {
+        "timestamp_start": "2025-07-10T08:00:00.000Z",
+        "timestamp_end": "2025-07-10T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/12851F11-8047-4124-A234-9E7A3D5664BB"
       }
     ]
   },
@@ -658,19 +663,19 @@
   },
   {
     "address": {
-      "unformatted": "סוקולוב 4 באר שבע, תחנת מד\"א ב\"ש סוקולוב 4",
+      "unformatted": "נהלל, מועדון ותיקים",
       "location": {
-        "lat": 31.2486918,
-        "lng": 34.7918751
+        "lat": 32.690807,
+        "lng": 35.19609
       },
-      "formatted": "סוקולוב 4, באר שבע, ישראל",
-      "city": "באר שבע"
+      "formatted": "נהלל, ישראל",
+      "city": "נהלל"
     },
     "times": [
       {
-        "timestamp_start": "2025-07-03T08:00:00.000Z",
-        "timestamp_end": "2025-07-03T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D6D4B568-CC71-420E-B15E-5F29C68B857A"
+        "timestamp_start": "2025-07-03T13:00:00.000Z",
+        "timestamp_end": "2025-07-03T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5B1CE31A-5DAD-4EB7-AF10-55641D6E4F08"
       }
     ]
   },
@@ -707,6 +712,42 @@
         "timestamp_start": "2025-07-04T05:00:00.000Z",
         "timestamp_end": "2025-07-04T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BFB4126E-FB7B-4407-9000-D38C8BE25DA6"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
+      "location": {
+        "lat": 32.790333613593994,
+        "lng": 35.533051427181455
+      },
+      "formatted": "טבריה, ישראל",
+      "city": "טבריה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-04T05:30:00.000Z",
+        "timestamp_end": "2025-07-04T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E4ADC35A-5E59-4675-9FB6-1B23E29094C9"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
+      "location": {
+        "lat": 32.78460454662827,
+        "lng": 34.987120821454766
+      },
+      "formatted": "חורב 13, חיפה, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-04T05:00:00.000Z",
+        "timestamp_end": "2025-07-04T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FEA0C719-6199-444D-BACE-ADC96C83DA16"
       }
     ]
   },
@@ -791,19 +832,19 @@
   },
   {
     "address": {
-      "unformatted": "הרוקמים 26 חולון, עזריאלי חולון לובי D",
+      "unformatted": "חלמיש, מעון נווה צוף",
       "location": {
-        "lat": 32.0077569,
-        "lng": 34.8006392
+        "lat": 32.008313,
+        "lng": 35.128876
       },
-      "formatted": "הרוקמים 26, חולון, ישראל",
-      "city": "חולון"
+      "formatted": "חלמיש",
+      "city": "חלמיש"
     },
     "times": [
       {
-        "timestamp_start": "2025-07-08T07:00:00.000Z",
-        "timestamp_end": "2025-07-08T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B5301FC2-A4CE-4FC1-9784-AB56ADFD9B54"
+        "timestamp_start": "2025-07-08T14:30:00.000Z",
+        "timestamp_end": "2025-07-08T19:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C3FAFCD8-311C-4D38-BE12-EC6E4949108C"
       }
     ]
   },
@@ -827,19 +868,19 @@
   },
   {
     "address": {
-      "unformatted": "חלמיש, מעון נווה צוף",
+      "unformatted": "הרוקמים 26 חולון, עזריאלי חולון לובי D",
       "location": {
-        "lat": 32.008313,
-        "lng": 35.128876
+        "lat": 32.0077569,
+        "lng": 34.8006392
       },
-      "formatted": "חלמיש",
-      "city": "חלמיש"
+      "formatted": "הרוקמים 26, חולון, ישראל",
+      "city": "חולון"
     },
     "times": [
       {
-        "timestamp_start": "2025-07-08T14:30:00.000Z",
-        "timestamp_end": "2025-07-08T19:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C3FAFCD8-311C-4D38-BE12-EC6E4949108C"
+        "timestamp_start": "2025-07-08T07:00:00.000Z",
+        "timestamp_end": "2025-07-08T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B5301FC2-A4CE-4FC1-9784-AB56ADFD9B54"
       }
     ]
   },
