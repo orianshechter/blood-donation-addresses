@@ -169,6 +169,11 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7B43CF49-2204-45FA-A856-6E673DE16CB1"
       },
       {
+        "timestamp_start": "2025-07-17T07:00:00.000Z",
+        "timestamp_end": "2025-07-17T13:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/326AAFE8-105E-4E7E-8F1B-BD70151AAB78"
+      },
+      {
         "timestamp_start": "2025-07-31T07:00:00.000Z",
         "timestamp_end": "2025-07-31T13:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5BE4D3EA-2597-48A3-9400-73E4DC45B41A"
@@ -803,19 +808,19 @@
   },
   {
     "address": {
-      "unformatted": "דוד רמז 69 רחובות, מד\"א רחובות, - תחנת מד\"א",
+      "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה), - תחנת מד\"א",
       "location": {
-        "lat": 31.8948356,
-        "lng": 34.8045349
+        "lat": 31.7799797,
+        "lng": 34.654115
       },
-      "formatted": "דוד רמז 71, רחובות, ישראל",
-      "city": "רחובות"
+      "formatted": "הרפואה 1, אשדוד, ישראל",
+      "city": "אשדוד"
     },
     "times": [
       {
         "timestamp_start": "2025-07-11T05:00:00.000Z",
         "timestamp_end": "2025-07-11T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DC22C8C7-C101-49A1-979E-6948838D7EF0"
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E875EB90-2E58-4703-B698-795D4CB2E2F3"
       }
     ]
   },
@@ -834,6 +839,24 @@
         "timestamp_start": "2025-07-11T05:30:00.000Z",
         "timestamp_end": "2025-07-11T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4A29749F-8161-40B3-B3C7-3CBAC694C6E9"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דוד רמז 69 רחובות, מד\"א רחובות, - תחנת מד\"א",
+      "location": {
+        "lat": 31.8948356,
+        "lng": 34.8045349
+      },
+      "formatted": "דוד רמז 71, רחובות, ישראל",
+      "city": "רחובות"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-11T05:00:00.000Z",
+        "timestamp_end": "2025-07-11T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DC22C8C7-C101-49A1-979E-6948838D7EF0"
       }
     ]
   },
@@ -921,24 +944,6 @@
         "timestamp_start": "2025-07-11T05:00:00.000Z",
         "timestamp_end": "2025-07-11T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F60F8F1E-8E10-4D4B-A1E2-069977F3C898"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה), - תחנת מד\"א",
-      "location": {
-        "lat": 31.7799797,
-        "lng": 34.654115
-      },
-      "formatted": "הרפואה 1, אשדוד, ישראל",
-      "city": "אשדוד"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-11T05:00:00.000Z",
-        "timestamp_end": "2025-07-11T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E875EB90-2E58-4703-B698-795D4CB2E2F3"
       }
     ]
   },
@@ -1274,6 +1279,29 @@
   },
   {
     "address": {
+      "unformatted": "צה\"ל 35 חדרה, מתחם קניות מיקס חדרה ליד ארומה",
+      "location": {
+        "lat": 32.4414918,
+        "lng": 34.930406
+      },
+      "formatted": "מתחם מיקס, Tsahal St 35, Hadera, 3822044, ישראל",
+      "city": "חדרה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-13T13:00:00.000Z",
+        "timestamp_end": "2025-07-13T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7D3F3E14-29C9-4F91-9DEB-DFF92AB57DF5"
+      },
+      {
+        "timestamp_start": "2025-07-13T06:30:00.000Z",
+        "timestamp_end": "2025-07-13T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CA52712E-C0CE-4F91-9FD4-4EB26907C8E1"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "הרכבת 8 תל אביב יפו, אברהם הוסטל",
       "location": {
         "lat": 32.0632912,
@@ -1305,29 +1333,6 @@
         "timestamp_start": "2025-07-13T13:00:00.000Z",
         "timestamp_end": "2025-07-13T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/74C61D97-C798-446E-8373-05A53388572C"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "צה\"ל 35 חדרה, מתחם קניות מיקס חדרה ליד ארומה",
-      "location": {
-        "lat": 32.4414918,
-        "lng": 34.930406
-      },
-      "formatted": "מתחם מיקס, Tsahal St 35, Hadera, 3822044, ישראל",
-      "city": "חדרה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-13T13:00:00.000Z",
-        "timestamp_end": "2025-07-13T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7D3F3E14-29C9-4F91-9DEB-DFF92AB57DF5"
-      },
-      {
-        "timestamp_start": "2025-07-13T06:30:00.000Z",
-        "timestamp_end": "2025-07-13T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CA52712E-C0CE-4F91-9FD4-4EB26907C8E1"
       }
     ]
   },
@@ -1423,6 +1428,24 @@
   },
   {
     "address": {
+      "unformatted": "שבות רחל, שבות רחל מועדון הישוב",
+      "location": {
+        "lat": 32.054539,
+        "lng": 35.310703
+      },
+      "formatted": "שבות רחל",
+      "city": "שבות רחל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-14T14:00:00.000Z",
+        "timestamp_end": "2025-07-14T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B3A6B8DE-0066-4BF6-835A-68EB24CA9CC7"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "שכטמן 10 חדרה, מתחם קניות מול החוף וילג'",
       "location": {
         "lat": 32.4417243,
@@ -1472,24 +1495,6 @@
         "timestamp_start": "2025-07-14T13:30:00.000Z",
         "timestamp_end": "2025-07-14T17:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/90E4F738-87F2-4E32-8A27-31BDA6171535"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "שבות רחל, שבות רחל מועדון הישוב",
-      "location": {
-        "lat": 32.054539,
-        "lng": 35.310703
-      },
-      "formatted": "שבות רחל",
-      "city": "שבות רחל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-14T14:00:00.000Z",
-        "timestamp_end": "2025-07-14T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B3A6B8DE-0066-4BF6-835A-68EB24CA9CC7"
       }
     ]
   },
