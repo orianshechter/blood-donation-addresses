@@ -1,6 +1,24 @@
 [
   {
     "address": {
+      "unformatted": "ז'בוטינסקי אשדוד",
+      "location": {
+        "lat": 31.809601,
+        "lng": 34.654477
+      },
+      "formatted": "ז'בוטינסקי, אשדוד, ישראל",
+      "city": "אשדוד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-23T08:00:00.000Z",
+        "timestamp_end": "2025-07-23T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/760808D7-A410-426E-B067-43D815DB12F6"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "קרית ענבים, מלון כרמים אולם כרם",
       "location": {
         "lat": 31.812108,
@@ -589,24 +607,6 @@
   },
   {
     "address": {
-      "unformatted": "צה\"ל 35 חדרה, מתחם קניות מיקס חדרה ליד ארומה",
-      "location": {
-        "lat": 32.4414918,
-        "lng": 34.930406
-      },
-      "formatted": "מתחם מיקס, Tsahal St 35, Hadera, 3822044, ישראל",
-      "city": "חדרה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-24T12:00:00.000Z",
-        "timestamp_end": "2025-07-24T17:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C5C4F24C-CF87-4AE7-AF66-0230C6F0D46B"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "סתריה, מבנה הספריה",
       "location": {
         "lat": 31.889854,
@@ -661,6 +661,24 @@
   },
   {
     "address": {
+      "unformatted": "צה\"ל 35 חדרה, מתחם קניות מיקס חדרה ליד ארומה",
+      "location": {
+        "lat": 32.4414918,
+        "lng": 34.930406
+      },
+      "formatted": "מתחם מיקס, Tsahal St 35, Hadera, 3822044, ישראל",
+      "city": "חדרה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-24T12:00:00.000Z",
+        "timestamp_end": "2025-07-24T17:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C5C4F24C-CF87-4AE7-AF66-0230C6F0D46B"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "עין דור, מרפאה",
       "location": {
         "lat": 32.655468,
@@ -692,24 +710,6 @@
         "timestamp_start": "2025-07-24T06:00:00.000Z",
         "timestamp_end": "2025-07-24T12:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4B3DE94C-82DF-4F27-A69B-B992C15B2A3B"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "זבוטינסקי 1 אופקים, מד\"א אופקים",
-      "location": {
-        "lat": 31.3183121,
-        "lng": 34.6205693
-      },
-      "formatted": "ז'בוטינסקי 1, אופקים, ישראל",
-      "city": "אופקים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-24T13:00:00.000Z",
-        "timestamp_end": "2025-07-24T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/899F5C56-4C80-4338-8755-0359864489D4"
       }
     ]
   },
@@ -751,24 +751,6 @@
   },
   {
     "address": {
-      "unformatted": "משמר השרון, משמר השרון",
-      "location": {
-        "lat": 32.356305,
-        "lng": 34.904256
-      },
-      "formatted": "משמר השרון, ישראל",
-      "city": "משמר השרון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-24T13:00:00.000Z",
-        "timestamp_end": "2025-07-24T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7FE79080-EC5D-48F5-963A-185B31078C66"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "אחד העם 3 ירושלים, שלוחת המנהל מלון הנשיא",
       "location": {
         "lat": 31.7733474,
@@ -782,6 +764,60 @@
         "timestamp_start": "2025-07-24T13:30:00.000Z",
         "timestamp_end": "2025-07-24T18:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/09B12D6A-2B13-45FA-9674-7D4136DC6D29"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "זבוטינסקי 1 אופקים, מד\"א אופקים",
+      "location": {
+        "lat": 31.3183121,
+        "lng": 34.6205693
+      },
+      "formatted": "ז'בוטינסקי 1, אופקים, ישראל",
+      "city": "אופקים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-24T13:00:00.000Z",
+        "timestamp_end": "2025-07-24T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/899F5C56-4C80-4338-8755-0359864489D4"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כיסרא סומיע, בניין מועצה מקומית",
+      "location": {
+        "lat": 32.963461,
+        "lng": 35.304434
+      },
+      "formatted": "כיסרא, כיסרא סומיע, ישראל",
+      "city": "כיסרא סומיע"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-24T12:00:00.000Z",
+        "timestamp_end": "2025-07-24T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8AE7E1D4-E139-4423-AC26-BC48A3B7061A"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "משמר השרון, משמר השרון",
+      "location": {
+        "lat": 32.356305,
+        "lng": 34.904256
+      },
+      "formatted": "משמר השרון, ישראל",
+      "city": "משמר השרון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-24T13:00:00.000Z",
+        "timestamp_end": "2025-07-24T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7FE79080-EC5D-48F5-963A-185B31078C66"
       }
     ]
   },
@@ -841,29 +877,6 @@
   },
   {
     "address": {
-      "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
-      "location": {
-        "lat": 32.69315354378295,
-        "lng": 35.30500500291231
-      },
-      "formatted": "נוף הגליל, דודג׳ סנטר",
-      "city": "נוף הגליל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-24T10:00:00.000Z",
-        "timestamp_end": "2025-07-24T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B1DD8F31-3708-45A2-B4A5-6280BF8F79B7"
-      },
-      {
-        "timestamp_start": "2025-07-25T05:30:00.000Z",
-        "timestamp_end": "2025-07-25T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A41972D1-482C-476E-AAA2-6C1A45C7FE02"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "בר יוחאי, מועדון",
       "location": {
         "lat": 32.997481379684466,
@@ -882,19 +895,24 @@
   },
   {
     "address": {
-      "unformatted": "כיסרא סומיע, בניין מועצה מקומית",
+      "unformatted": "נוף הגליל, דודג' סנטר במרכז המתחם מול סופר פארם",
       "location": {
-        "lat": 32.963461,
-        "lng": 35.304434
+        "lat": 32.69315354378295,
+        "lng": 35.30500500291231
       },
-      "formatted": "כיסרא, כיסרא סומיע, ישראל",
-      "city": "כיסרא סומיע"
+      "formatted": "נוף הגליל, דודג׳ סנטר",
+      "city": "נוף הגליל"
     },
     "times": [
       {
-        "timestamp_start": "2025-07-24T12:00:00.000Z",
-        "timestamp_end": "2025-07-24T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8AE7E1D4-E139-4423-AC26-BC48A3B7061A"
+        "timestamp_start": "2025-07-24T10:00:00.000Z",
+        "timestamp_end": "2025-07-24T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B1DD8F31-3708-45A2-B4A5-6280BF8F79B7"
+      },
+      {
+        "timestamp_start": "2025-07-25T05:30:00.000Z",
+        "timestamp_end": "2025-07-25T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A41972D1-482C-476E-AAA2-6C1A45C7FE02"
       }
     ]
   },
@@ -969,6 +987,29 @@
   },
   {
     "address": {
+      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.4445161,
+        "lng": 34.9228603
+      },
+      "formatted": "אביאור 7-11, חדרה, ישראל",
+      "city": "חדרה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-25T05:00:00.000Z",
+        "timestamp_end": "2025-07-25T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/64DC93FA-F4B9-49C8-AD5E-FFE9D8C55389"
+      },
+      {
+        "timestamp_start": "2025-08-01T05:00:00.000Z",
+        "timestamp_end": "2025-08-01T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A03182F1-F16F-4D9E-98D1-F55E6EDB04C0"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "התחיה 1 אשקלון, תחנת מ.ד.א אשקלון, - תחנת מד\"א",
       "location": {
         "lat": 31.6599003,
@@ -1005,29 +1046,6 @@
   },
   {
     "address": {
-      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
-      "location": {
-        "lat": 32.4445161,
-        "lng": 34.9228603
-      },
-      "formatted": "אביאור 7-11, חדרה, ישראל",
-      "city": "חדרה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-25T05:00:00.000Z",
-        "timestamp_end": "2025-07-25T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/64DC93FA-F4B9-49C8-AD5E-FFE9D8C55389"
-      },
-      {
-        "timestamp_start": "2025-08-01T05:00:00.000Z",
-        "timestamp_end": "2025-08-01T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A03182F1-F16F-4D9E-98D1-F55E6EDB04C0"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
       "location": {
         "lat": 32.8440668,
@@ -1051,24 +1069,6 @@
   },
   {
     "address": {
-      "unformatted": "פתח תקווה, בבית חולים בלינסון לובי גור שאשא",
-      "location": {
-        "lat": 32.0895392,
-        "lng": 34.8676711
-      },
-      "formatted": "פתח תקווה, ישראל",
-      "city": "פתח תקווה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-27T07:00:00.000Z",
-        "timestamp_end": "2025-07-27T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/00C3A04F-5CC4-439E-9024-EDC9432831AB"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "גבע, חדר האוכל",
       "location": {
         "lat": 32.56572052836222,
@@ -1087,19 +1087,19 @@
   },
   {
     "address": {
-      "unformatted": "קדמת צבי, מועדון",
+      "unformatted": "פתח תקווה, בבית חולים בלינסון לובי גור שאשא",
       "location": {
-        "lat": 33.029485,
-        "lng": 35.69774400000001
+        "lat": 32.0895392,
+        "lng": 34.8676711
       },
-      "formatted": "קדמת צבי",
-      "city": "קדמת צבי"
+      "formatted": "פתח תקווה, ישראל",
+      "city": "פתח תקווה"
     },
     "times": [
       {
-        "timestamp_start": "2025-07-27T13:00:00.000Z",
-        "timestamp_end": "2025-07-27T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4E6364C9-B0DD-4839-824F-87D06CD976B4"
+        "timestamp_start": "2025-07-27T07:00:00.000Z",
+        "timestamp_end": "2025-07-27T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/00C3A04F-5CC4-439E-9024-EDC9432831AB"
       }
     ]
   },
@@ -1118,6 +1118,24 @@
         "timestamp_start": "2025-07-27T07:00:00.000Z",
         "timestamp_end": "2025-07-27T11:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EA45319B-ECD2-4D5F-9898-C2135A58C4FA"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "קדמת צבי, מועדון",
+      "location": {
+        "lat": 33.029485,
+        "lng": 35.69774400000001
+      },
+      "formatted": "קדמת צבי",
+      "city": "קדמת צבי"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-27T13:00:00.000Z",
+        "timestamp_end": "2025-07-27T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4E6364C9-B0DD-4839-824F-87D06CD976B4"
       }
     ]
   },
@@ -1318,19 +1336,19 @@
   },
   {
     "address": {
-      "unformatted": "אורנית, בהיכל משה",
+      "unformatted": "דפנה, מועדון",
       "location": {
-        "lat": 32.1364682,
-        "lng": 34.9893197
+        "lat": 33.44852903890945,
+        "lng": 32.05693494134149
       },
-      "formatted": "רחוב הזית 67, אורנית",
-      "city": "אורנית"
+      "formatted": "bad_address",
+      "city": ""
     },
     "times": [
       {
         "timestamp_start": "2025-07-29T13:00:00.000Z",
-        "timestamp_end": "2025-07-29T18:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8A148B10-4C7F-4F9C-B163-8D14B820E1FE"
+        "timestamp_end": "2025-07-29T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/609C5D05-B242-490A-A003-534D9985B0E5"
       }
     ]
   },
@@ -1354,6 +1372,24 @@
   },
   {
     "address": {
+      "unformatted": "אורנית, בהיכל משה",
+      "location": {
+        "lat": 32.1364682,
+        "lng": 34.9893197
+      },
+      "formatted": "רחוב הזית 67, אורנית",
+      "city": "אורנית"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-29T13:00:00.000Z",
+        "timestamp_end": "2025-07-29T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8A148B10-4C7F-4F9C-B163-8D14B820E1FE"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "ניר אליהו, קיבוץ ניר אליהו, בבית אליהו",
       "location": {
         "lat": 32.197593,
@@ -1367,24 +1403,6 @@
         "timestamp_start": "2025-07-29T13:00:00.000Z",
         "timestamp_end": "2025-07-29T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/085EAC8C-5E13-48EC-9847-AD694A7AAF1D"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "דפנה, מועדון",
-      "location": {
-        "lat": 33.44852903890945,
-        "lng": 32.05693494134149
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-29T13:00:00.000Z",
-        "timestamp_end": "2025-07-29T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/609C5D05-B242-490A-A003-534D9985B0E5"
       }
     ]
   },
