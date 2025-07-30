@@ -412,6 +412,24 @@
   },
   {
     "address": {
+      "unformatted": "יצחק רבין 1 פתח תקווה, גלובל בוטיק מרקט מול בנק לאומי",
+      "location": {
+        "lat": 32.0903249,
+        "lng": 34.8618058
+      },
+      "formatted": "דרך יצחק רבין 1, פתח תקווה, ישראל",
+      "city": "פתח תקווה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-07-30T07:00:00.000Z",
+        "timestamp_end": "2025-07-30T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5D0C3BDA-D37F-4DDE-82C4-BDAF6C0001EA"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "דרך שיבא רמת גן, בנק הדם מד\"א /בית חולים שיבא תל השומר (תחנה נגישה), - שרותי הדם מד\"א",
       "location": {
         "lat": 32.0459077,
@@ -666,69 +684,6 @@
   },
   {
     "address": {
-      "unformatted": "חיפה, מתחם קניות חוצות המפרץ - ליד גרג",
-      "location": {
-        "lat": 32.8092185,
-        "lng": 35.0557838
-      },
-      "formatted": "החרושת 8, חיפה, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-07-31T12:30:00.000Z",
-        "timestamp_end": "2025-07-31T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9A3D8DA1-B384-4264-A532-FDD56995D87E"
-      },
-      {
-        "timestamp_start": "2025-08-01T05:00:00.000Z",
-        "timestamp_end": "2025-08-01T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3C00D2B9-49C0-44F9-A3F1-1C0F7D2E0669"
-      },
-      {
-        "timestamp_start": "2025-08-04T12:30:00.000Z",
-        "timestamp_end": "2025-08-04T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/79CBD708-F814-43EA-B70D-CCAA0CEFA53B"
-      },
-      {
-        "timestamp_start": "2025-08-07T12:30:00.000Z",
-        "timestamp_end": "2025-08-07T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/52B88291-D9E9-4ECA-89C4-B3E547E3E254"
-      },
-      {
-        "timestamp_start": "2025-08-08T05:00:00.000Z",
-        "timestamp_end": "2025-08-08T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8BE7C1B2-5EAD-4DEA-B9B8-2EAE1A1DD52D"
-      },
-      {
-        "timestamp_start": "2025-08-14T12:30:00.000Z",
-        "timestamp_end": "2025-08-14T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92B5E40D-406C-4729-835E-2748903A33F6"
-      },
-      {
-        "timestamp_start": "2025-08-15T05:00:00.000Z",
-        "timestamp_end": "2025-08-15T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/54CE1B51-5C25-49E4-A89A-32FDE0261768"
-      },
-      {
-        "timestamp_start": "2025-08-21T12:30:00.000Z",
-        "timestamp_end": "2025-08-21T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/698FD082-B339-4297-83BB-88DB03C47A06"
-      },
-      {
-        "timestamp_start": "2025-08-22T05:00:00.000Z",
-        "timestamp_end": "2025-08-22T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/91487FEF-080B-4A79-BF58-B9F3A41946B1"
-      },
-      {
-        "timestamp_start": "2025-08-29T05:00:00.000Z",
-        "timestamp_end": "2025-08-29T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/75254B1B-501F-43F6-A1C5-39C8A48DBD91"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "בית הלוי, בית העם",
       "location": {
         "lat": 32.351596,
@@ -909,6 +864,64 @@
   },
   {
     "address": {
+      "unformatted": "חיפה, מתחם קניות חוצות המפרץ - ליד גרג",
+      "location": {
+        "lat": 32.8092185,
+        "lng": 35.0557838
+      },
+      "formatted": "החרושת 8, חיפה, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-08-01T05:00:00.000Z",
+        "timestamp_end": "2025-08-01T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3C00D2B9-49C0-44F9-A3F1-1C0F7D2E0669"
+      },
+      {
+        "timestamp_start": "2025-08-04T12:30:00.000Z",
+        "timestamp_end": "2025-08-04T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/79CBD708-F814-43EA-B70D-CCAA0CEFA53B"
+      },
+      {
+        "timestamp_start": "2025-08-07T12:30:00.000Z",
+        "timestamp_end": "2025-08-07T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/52B88291-D9E9-4ECA-89C4-B3E547E3E254"
+      },
+      {
+        "timestamp_start": "2025-08-08T05:00:00.000Z",
+        "timestamp_end": "2025-08-08T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8BE7C1B2-5EAD-4DEA-B9B8-2EAE1A1DD52D"
+      },
+      {
+        "timestamp_start": "2025-08-14T12:30:00.000Z",
+        "timestamp_end": "2025-08-14T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92B5E40D-406C-4729-835E-2748903A33F6"
+      },
+      {
+        "timestamp_start": "2025-08-15T05:00:00.000Z",
+        "timestamp_end": "2025-08-15T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/54CE1B51-5C25-49E4-A89A-32FDE0261768"
+      },
+      {
+        "timestamp_start": "2025-08-21T12:30:00.000Z",
+        "timestamp_end": "2025-08-21T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/698FD082-B339-4297-83BB-88DB03C47A06"
+      },
+      {
+        "timestamp_start": "2025-08-22T05:00:00.000Z",
+        "timestamp_end": "2025-08-22T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/91487FEF-080B-4A79-BF58-B9F3A41946B1"
+      },
+      {
+        "timestamp_start": "2025-08-29T05:00:00.000Z",
+        "timestamp_end": "2025-08-29T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/75254B1B-501F-43F6-A1C5-39C8A48DBD91"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
       "location": {
         "lat": 32.78460454662827,
@@ -1003,24 +1016,6 @@
   },
   {
     "address": {
-      "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
-      "location": {
-        "lat": 32.790333613593994,
-        "lng": 35.533051427181455
-      },
-      "formatted": "טבריה, ישראל",
-      "city": "טבריה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-08-01T05:30:00.000Z",
-        "timestamp_end": "2025-08-01T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FCDA296E-2423-42FF-A3AA-C5FF3C4D3DE9"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "עפולה, מרכז הרפואי העמק לובי קפיטריה",
       "location": {
         "lat": 32.6210762,
@@ -1034,6 +1029,24 @@
         "timestamp_start": "2025-08-01T05:30:00.000Z",
         "timestamp_end": "2025-08-01T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7D3E01DA-732F-41ED-8503-73D8F21CC5D6"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
+      "location": {
+        "lat": 32.790333613593994,
+        "lng": 35.533051427181455
+      },
+      "formatted": "טבריה, ישראל",
+      "city": "טבריה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-08-01T05:30:00.000Z",
+        "timestamp_end": "2025-08-01T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FCDA296E-2423-42FF-A3AA-C5FF3C4D3DE9"
       }
     ]
   },
@@ -1401,24 +1414,6 @@
   },
   {
     "address": {
-      "unformatted": "באר שבע, התרמה בקרואן ליד ארומה",
-      "location": {
-        "lat": 31.250796400707433,
-        "lng": 34.7716410394033
-      },
-      "formatted": "באר שבע, ישראל",
-      "city": "באר שבע"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-08-04T12:30:00.000Z",
-        "timestamp_end": "2025-08-04T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/611EEE7F-2125-4F8D-B9F1-DE9B51C43AAA"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מגדל העמק, מפעל קמטק",
       "location": {
         "lat": 32.6778114,
@@ -1432,6 +1427,24 @@
         "timestamp_start": "2025-08-04T06:00:00.000Z",
         "timestamp_end": "2025-08-04T12:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/523BCDC8-3532-4153-AA37-86470BD819C2"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "באר שבע, התרמה בקרואן ליד ארומה",
+      "location": {
+        "lat": 31.250796400707433,
+        "lng": 34.7716410394033
+      },
+      "formatted": "באר שבע, ישראל",
+      "city": "באר שבע"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-08-04T12:30:00.000Z",
+        "timestamp_end": "2025-08-04T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/611EEE7F-2125-4F8D-B9F1-DE9B51C43AAA"
       }
     ]
   },
