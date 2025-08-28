@@ -192,11 +192,6 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BF65371C-E17E-47F9-93C6-06DBD62000F5"
       },
       {
-        "timestamp_start": "2025-09-04T13:00:00.000Z",
-        "timestamp_end": "2025-09-04T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D571A9BB-2567-4AF4-9CEC-1BDEC12B19F6"
-      },
-      {
         "timestamp_start": "2025-09-05T06:00:00.000Z",
         "timestamp_end": "2025-09-05T10:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/95CBA81F-0AA0-4D02-9F2F-4906A8C7F001"
@@ -704,6 +699,24 @@
   },
   {
     "address": {
+      "unformatted": "המכבים 30 פתח תקווה, תחנת מד\"א פ\"ת, - תחנת מד\"א",
+      "location": {
+        "lat": 32.0977297,
+        "lng": 34.88682310000001
+      },
+      "formatted": "המכבים 30, פתח תקווה, ישראל",
+      "city": "פתח תקווה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-08-29T06:00:00.000Z",
+        "timestamp_end": "2025-08-29T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/26726FB6-1B37-4742-BC69-46A0C16CD633"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
       "location": {
         "lat": 32.8440668,
@@ -742,60 +755,6 @@
   },
   {
     "address": {
-      "unformatted": "מינץ 7 נתניה, תחנת מד\"א נתניה, - תחנת מד\"א",
-      "location": {
-        "lat": 32.3284579,
-        "lng": 34.8645215
-      },
-      "formatted": "בנימין מינץ 7, נתניה, ישראל",
-      "city": "נתניה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-08-29T05:30:00.000Z",
-        "timestamp_end": "2025-08-29T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2D5486C8-E9E6-410A-9CED-5E352AD63D7B"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "עפולה, מרכז הרפואי העמק לובי קפיטריה",
-      "location": {
-        "lat": 32.6210762,
-        "lng": 35.3165964
-      },
-      "formatted": "שדרות יצחק רבין 21, עפולה, 1834111, ישראל",
-      "city": "עפולה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-08-29T05:30:00.000Z",
-        "timestamp_end": "2025-08-29T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5D5185F5-5500-4985-9800-6D3FA1FC3E78"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "המכבים 30 פתח תקווה, תחנת מד\"א פ\"ת, - תחנת מד\"א",
-      "location": {
-        "lat": 32.0977297,
-        "lng": 34.88682310000001
-      },
-      "formatted": "המכבים 30, פתח תקווה, ישראל",
-      "city": "פתח תקווה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-08-29T06:00:00.000Z",
-        "timestamp_end": "2025-08-29T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/26726FB6-1B37-4742-BC69-46A0C16CD633"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "הרוקמים 1 חולון, בתחנת מד\"א חולון, - תחנת מד\"א",
       "location": {
         "lat": 32.01079717106096,
@@ -809,24 +768,6 @@
         "timestamp_start": "2025-08-29T05:00:00.000Z",
         "timestamp_end": "2025-08-29T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9B6293A0-3651-431A-BEF7-488DDBB21E62"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה), - תחנת מד\"א",
-      "location": {
-        "lat": 31.7799797,
-        "lng": 34.654115
-      },
-      "formatted": "הרפואה 1, אשדוד, ישראל",
-      "city": "אשדוד"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-08-29T05:00:00.000Z",
-        "timestamp_end": "2025-08-29T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5093F7F2-CC42-4081-A481-2D38CA48FCD3"
       }
     ]
   },
@@ -865,6 +806,60 @@
         "timestamp_start": "2025-09-26T05:00:00.000Z",
         "timestamp_end": "2025-09-26T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/27A3DFE0-E63A-441D-BA9B-79EB8BCCF510"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אשדוד, רח' הרפואה 1 (תחנה נגישה), - תחנת מד\"א",
+      "location": {
+        "lat": 31.7799797,
+        "lng": 34.654115
+      },
+      "formatted": "הרפואה 1, אשדוד, ישראל",
+      "city": "אשדוד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-08-29T05:00:00.000Z",
+        "timestamp_end": "2025-08-29T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5093F7F2-CC42-4081-A481-2D38CA48FCD3"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מינץ 7 נתניה, תחנת מד\"א נתניה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.3284579,
+        "lng": 34.8645215
+      },
+      "formatted": "בנימין מינץ 7, נתניה, ישראל",
+      "city": "נתניה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-08-29T05:30:00.000Z",
+        "timestamp_end": "2025-08-29T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2D5486C8-E9E6-410A-9CED-5E352AD63D7B"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "עפולה, מרכז הרפואי העמק לובי קפיטריה",
+      "location": {
+        "lat": 32.6210762,
+        "lng": 35.3165964
+      },
+      "formatted": "שדרות יצחק רבין 21, עפולה, 1834111, ישראל",
+      "city": "עפולה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-08-29T05:30:00.000Z",
+        "timestamp_end": "2025-08-29T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5D5185F5-5500-4985-9800-6D3FA1FC3E78"
       }
     ]
   },
@@ -1265,37 +1260,19 @@
   },
   {
     "address": {
-      "unformatted": "יוסף גדיש 1 עכו, מד\"א עכו",
+      "unformatted": "העליה השניה 8 חיפה, בי\"ח רמב\"ם - קניון סגול",
       "location": {
-        "lat": 32.924077,
-        "lng": 35.0855535
+        "lat": 32.8329875,
+        "lng": 34.9857066
       },
-      "formatted": "יוסף גדיש 1, עכו, ישראל",
-      "city": "עכו"
+      "formatted": "העלייה השנייה 8, חיפה, 3109601, ישראל",
+      "city": "חיפה"
     },
     "times": [
       {
-        "timestamp_start": "2025-09-01T13:00:00.000Z",
-        "timestamp_end": "2025-09-01T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B44584EF-EC64-4A23-8FEC-859C038E18E9"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "אודם, מועדון",
-      "location": {
-        "lat": 33.19479079719962,
-        "lng": 35.74776710735386
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-09-01T13:00:00.000Z",
-        "timestamp_end": "2025-09-01T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/774F165A-9E27-4012-8411-B0B76D566BCF"
+        "timestamp_start": "2025-09-01T06:00:00.000Z",
+        "timestamp_end": "2025-09-01T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F730D612-B238-46BC-A086-94772FE1D347"
       }
     ]
   },
@@ -1319,19 +1296,37 @@
   },
   {
     "address": {
-      "unformatted": "העליה השניה 8 חיפה, בי\"ח רמב\"ם - קניון סגול",
+      "unformatted": "אודם, מועדון",
       "location": {
-        "lat": 32.8329875,
-        "lng": 34.9857066
+        "lat": 33.19479079719962,
+        "lng": 35.74776710735386
       },
-      "formatted": "העלייה השנייה 8, חיפה, 3109601, ישראל",
-      "city": "חיפה"
+      "formatted": "bad_address",
+      "city": ""
     },
     "times": [
       {
-        "timestamp_start": "2025-09-01T06:00:00.000Z",
-        "timestamp_end": "2025-09-01T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F730D612-B238-46BC-A086-94772FE1D347"
+        "timestamp_start": "2025-09-01T13:00:00.000Z",
+        "timestamp_end": "2025-09-01T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/774F165A-9E27-4012-8411-B0B76D566BCF"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "יוסף גדיש 1 עכו, מד\"א עכו",
+      "location": {
+        "lat": 32.924077,
+        "lng": 35.0855535
+      },
+      "formatted": "יוסף גדיש 1, עכו, ישראל",
+      "city": "עכו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-09-01T13:00:00.000Z",
+        "timestamp_end": "2025-09-01T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B44584EF-EC64-4A23-8FEC-859C038E18E9"
       }
     ]
   },
@@ -1481,24 +1476,6 @@
   },
   {
     "address": {
-      "unformatted": "גולומב 47 חיפה, בי\"ח בני ציון בלובי",
-      "location": {
-        "lat": 32.8055874,
-        "lng": 34.9926034
-      },
-      "formatted": "שדרות אליהו גולומב 47, חיפה, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-09-02T06:30:00.000Z",
-        "timestamp_end": "2025-09-02T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BAABAE2E-0233-49B0-93B5-CC97B48B4EA2"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "שכטמן 10 חדרה, מתחם קניות מול החוף וילג'",
       "location": {
         "lat": 32.4417243,
@@ -1512,6 +1489,24 @@
         "timestamp_start": "2025-09-02T13:00:00.000Z",
         "timestamp_end": "2025-09-02T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2D4E6EBD-4045-4375-9CF3-1F7DC3478240"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "גולומב 47 חיפה, בי\"ח בני ציון בלובי",
+      "location": {
+        "lat": 32.8055874,
+        "lng": 34.9926034
+      },
+      "formatted": "שדרות אליהו גולומב 47, חיפה, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-09-02T06:30:00.000Z",
+        "timestamp_end": "2025-09-02T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BAABAE2E-0233-49B0-93B5-CC97B48B4EA2"
       }
     ]
   },
