@@ -220,8 +220,13 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/95CBA81F-0AA0-4D02-9F2F-4906A8C7F001"
       },
       {
+        "timestamp_start": "2025-09-07T13:00:00.000Z",
+        "timestamp_end": "2025-09-07T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B2A2B8E2-C020-4D76-B83E-F12FEB106BD7"
+      },
+      {
         "timestamp_start": "2025-09-07T07:00:00.000Z",
-        "timestamp_end": "2025-09-07T13:30:00.000Z",
+        "timestamp_end": "2025-09-07T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0573F75D-DA30-4E49-A638-F909226CBD93"
       }
     ]
@@ -893,42 +898,6 @@
   },
   {
     "address": {
-      "unformatted": "אלוני הבשן, מרפאה",
-      "location": {
-        "lat": 33.044087,
-        "lng": 35.838507
-      },
-      "formatted": "אלוני הבשן",
-      "city": "אלוני הבשן"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-09-07T13:00:00.000Z",
-        "timestamp_end": "2025-09-07T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2939C727-C482-4752-908C-5B8402763864"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "זרחין 26 רעננה, בלובי",
-      "location": {
-        "lat": 32.1988382,
-        "lng": 34.88253350000001
-      },
-      "formatted": "זרחין 26, רעננה, ישראל",
-      "city": "רעננה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-09-07T07:00:00.000Z",
-        "timestamp_end": "2025-09-07T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5BFDA41C-994F-4AAF-990B-678790424341"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "הנרקיס 29 בית שמש, בית הכנסת פייגנסון שכונת נופי אביב",
       "location": {
         "lat": 31.736807,
@@ -1001,19 +970,88 @@
   },
   {
     "address": {
-      "unformatted": "אפיק, מועדון",
+      "unformatted": "ירושלים, תרומת פלסמה AB, - תחנת מד\"א",
       "location": {
-        "lat": 32.77980857531313,
-        "lng": 35.70109220709234
+        "lat": 31.791749680874574,
+        "lng": 35.199744756199166
       },
-      "formatted": "bad_address",
-      "city": "אפיק"
+      "formatted": "ירושלים, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-09-07T06:00:00.000Z",
+        "timestamp_end": "2025-09-07T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B09A8337-5E65-4A9D-A98B-2B0C36A3D698"
+      },
+      {
+        "timestamp_start": "2025-09-14T06:00:00.000Z",
+        "timestamp_end": "2025-09-14T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/98FA182B-7680-4B5F-9F46-751C031C8D45"
+      },
+      {
+        "timestamp_start": "2025-09-21T06:00:00.000Z",
+        "timestamp_end": "2025-09-21T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6C05D076-A3AC-4B86-9BE3-115A4E51190C"
+      },
+      {
+        "timestamp_start": "2025-09-28T06:00:00.000Z",
+        "timestamp_end": "2025-09-28T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3B92DA65-1923-4B76-A948-03107B000F1F"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אלוני הבשן, מרפאה",
+      "location": {
+        "lat": 33.044087,
+        "lng": 35.838507
+      },
+      "formatted": "אלוני הבשן",
+      "city": "אלוני הבשן"
     },
     "times": [
       {
         "timestamp_start": "2025-09-07T13:00:00.000Z",
         "timestamp_end": "2025-09-07T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3E6E9617-4CA4-4104-B723-CD44352C70BF"
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2939C727-C482-4752-908C-5B8402763864"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שטרית 10 תל אביב יפו, באצטדיון האתלטיקה הלאומי הדר יוסף",
+      "location": {
+        "lat": 32.1049242,
+        "lng": 34.822253
+      },
+      "formatted": "איצטדיון האתלטיקה הדר יוסף, בכור שלום שטרית 10, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-09-07T13:00:00.000Z",
+        "timestamp_end": "2025-09-07T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/42AC3EC6-4F44-41EE-9BB5-6201F4387EF2"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "זרחין 26 רעננה, בלובי",
+      "location": {
+        "lat": 32.1988382,
+        "lng": 34.88253350000001
+      },
+      "formatted": "זרחין 26, רעננה, ישראל",
+      "city": "רעננה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-09-07T07:00:00.000Z",
+        "timestamp_end": "2025-09-07T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5BFDA41C-994F-4AAF-990B-678790424341"
       }
     ]
   },
@@ -1055,52 +1093,19 @@
   },
   {
     "address": {
-      "unformatted": "ירושלים, תרומת פלסמה AB, - תחנת מד\"א",
+      "unformatted": "אפיק, מועדון",
       "location": {
-        "lat": 31.791749680874574,
-        "lng": 35.199744756199166
+        "lat": 32.77980857531313,
+        "lng": 35.70109220709234
       },
-      "formatted": "ירושלים, ישראל",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-09-07T06:00:00.000Z",
-        "timestamp_end": "2025-09-07T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B09A8337-5E65-4A9D-A98B-2B0C36A3D698"
-      },
-      {
-        "timestamp_start": "2025-09-14T06:00:00.000Z",
-        "timestamp_end": "2025-09-14T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/98FA182B-7680-4B5F-9F46-751C031C8D45"
-      },
-      {
-        "timestamp_start": "2025-09-21T06:00:00.000Z",
-        "timestamp_end": "2025-09-21T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6C05D076-A3AC-4B86-9BE3-115A4E51190C"
-      },
-      {
-        "timestamp_start": "2025-09-28T06:00:00.000Z",
-        "timestamp_end": "2025-09-28T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3B92DA65-1923-4B76-A948-03107B000F1F"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "שטרית 10 תל אביב יפו, באצטדיון האתלטיקה הלאומי הדר יוסף",
-      "location": {
-        "lat": 32.1049242,
-        "lng": 34.822253
-      },
-      "formatted": "איצטדיון האתלטיקה הדר יוסף, בכור שלום שטרית 10, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
+      "formatted": "bad_address",
+      "city": "אפיק"
     },
     "times": [
       {
         "timestamp_start": "2025-09-07T13:00:00.000Z",
-        "timestamp_end": "2025-09-07T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/42AC3EC6-4F44-41EE-9BB5-6201F4387EF2"
+        "timestamp_end": "2025-09-07T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3E6E9617-4CA4-4104-B723-CD44352C70BF"
       }
     ]
   },
@@ -1646,6 +1651,24 @@
         "timestamp_start": "2025-09-11T14:00:00.000Z",
         "timestamp_end": "2025-09-11T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E089D6CA-018C-43CA-84BE-201BAC672208"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כפר חנניה, בספריה",
+      "location": {
+        "lat": 32.915993,
+        "lng": 35.423785
+      },
+      "formatted": "כפר חנניה, ישראל",
+      "city": "כפר חנניה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-09-11T14:00:00.000Z",
+        "timestamp_end": "2025-09-11T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E41F5872-5277-423D-A1D4-56082AB138DC"
       }
     ]
   },
