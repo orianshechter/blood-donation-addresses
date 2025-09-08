@@ -391,6 +391,24 @@
   },
   {
     "address": {
+      "unformatted": "פתח תקווה, בי\"ח חולים שניידר",
+      "location": {
+        "lat": 32.0879417,
+        "lng": 34.8678169
+      },
+      "formatted": "קפלן 14, פתח תקווה, ישראל",
+      "city": "פתח תקווה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-09-08T06:30:00.000Z",
+        "timestamp_end": "2025-09-08T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8B2AF3F8-1FBE-4B1C-806D-FC8819E3BD6E"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "צפת, המרכז הרפואי זיו בבנין הראשי בלובי מול המעליות",
       "location": {
         "lat": 32.954157,
@@ -982,24 +1000,6 @@
   },
   {
     "address": {
-      "unformatted": "מנחם בגין 7 רמת גן, בית גיבור ספורט",
-      "location": {
-        "lat": 32.0852704,
-        "lng": 34.7998749
-      },
-      "formatted": "Beit Gibor Sport, דרך מנחם בגין 7, רמת גן, 5268102, ישראל",
-      "city": "רמת גן"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-09-10T07:00:00.000Z",
-        "timestamp_end": "2025-09-10T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/61C8FBA9-A472-429D-8C49-0802EC584C3B"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "כביש מעונה נהריה, בי\"ח נהריה מול קפיטרית יעל",
       "location": {
         "lat": 33.0144146,
@@ -1018,37 +1018,19 @@
   },
   {
     "address": {
-      "unformatted": "מרחביה מושב, בבית העם",
+      "unformatted": "מנחם בגין 7 רמת גן, בית גיבור ספורט",
       "location": {
-        "lat": 32.604772238798866,
-        "lng": 35.316588904022936
+        "lat": 32.0852704,
+        "lng": 34.7998749
       },
-      "formatted": "מרחביה, ישראל",
-      "city": "מרחביה מושב"
+      "formatted": "Beit Gibor Sport, דרך מנחם בגין 7, רמת גן, 5268102, ישראל",
+      "city": "רמת גן"
     },
     "times": [
       {
-        "timestamp_start": "2025-09-11T13:00:00.000Z",
-        "timestamp_end": "2025-09-11T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B93CE724-1911-419A-96DA-2A2C991BE716"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "סוקולוב 4 באר שבע, תחנת מד\"א ב\"ש סוקולוב 4",
-      "location": {
-        "lat": 31.2486918,
-        "lng": 34.7918751
-      },
-      "formatted": "סוקולוב 4, באר שבע, ישראל",
-      "city": "באר שבע"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-09-11T08:00:00.000Z",
-        "timestamp_end": "2025-09-11T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B9581661-AA1D-4D14-BDCC-DAF42E9CE320"
+        "timestamp_start": "2025-09-10T07:00:00.000Z",
+        "timestamp_end": "2025-09-10T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/61C8FBA9-A472-429D-8C49-0802EC584C3B"
       }
     ]
   },
@@ -1072,6 +1054,42 @@
         "timestamp_start": "2025-09-18T13:00:00.000Z",
         "timestamp_end": "2025-09-18T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6D4D0D11-E002-4AB4-943D-8EA83858E5DD"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "סוקולוב 4 באר שבע, תחנת מד\"א ב\"ש סוקולוב 4",
+      "location": {
+        "lat": 31.2486918,
+        "lng": 34.7918751
+      },
+      "formatted": "סוקולוב 4, באר שבע, ישראל",
+      "city": "באר שבע"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-09-11T08:00:00.000Z",
+        "timestamp_end": "2025-09-11T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B9581661-AA1D-4D14-BDCC-DAF42E9CE320"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מרחביה מושב, בבית העם",
+      "location": {
+        "lat": 32.604772238798866,
+        "lng": 35.316588904022936
+      },
+      "formatted": "מרחביה, ישראל",
+      "city": "מרחביה מושב"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-09-11T13:00:00.000Z",
+        "timestamp_end": "2025-09-11T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B93CE724-1911-419A-96DA-2A2C991BE716"
       }
     ]
   },
@@ -1454,24 +1472,6 @@
   },
   {
     "address": {
-      "unformatted": "מסילת ציון, גן תפוז מסילת ציון",
-      "location": {
-        "lat": 31.801449,
-        "lng": 35.009463
-      },
-      "formatted": "מסילת ציון, ישראל",
-      "city": "מסילת ציון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-09-14T14:00:00.000Z",
-        "timestamp_end": "2025-09-14T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E0E13F44-E909-4F79-A53A-3072E04B8C75"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "תוצרת הארץ 3 פתח תקווה, ב.ס.ר סיטי",
       "location": {
         "lat": 32.0916284,
@@ -1485,6 +1485,24 @@
         "timestamp_start": "2025-09-14T07:00:00.000Z",
         "timestamp_end": "2025-09-14T12:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1CE61EBF-7354-42F6-98A7-4DB94592096C"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מסילת ציון, גן תפוז מסילת ציון",
+      "location": {
+        "lat": 31.801449,
+        "lng": 35.009463
+      },
+      "formatted": "מסילת ציון, ישראל",
+      "city": "מסילת ציון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-09-14T14:00:00.000Z",
+        "timestamp_end": "2025-09-14T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E0E13F44-E909-4F79-A53A-3072E04B8C75"
       }
     ]
   },
