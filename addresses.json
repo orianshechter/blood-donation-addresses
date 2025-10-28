@@ -1484,6 +1484,24 @@
   },
   {
     "address": {
+      "unformatted": "קרית שמונה, ליד קניון נחמיה",
+      "location": {
+        "lat": 33.2196499,
+        "lng": 35.5771474
+      },
+      "formatted": "גן שפרינצק, הנשיא 25, קרית שמונה, ישראל",
+      "city": "קרית שמונה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-11-02T09:00:00.000Z",
+        "timestamp_end": "2025-11-02T16:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/19CAC934-8733-4CCA-B5AC-216B4A153CA2"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "ירושלים, תרומת פלסמה AB, - תחנת מד\"א",
       "location": {
         "lat": 31.791749680874574,
@@ -1512,6 +1530,24 @@
         "timestamp_start": "2025-11-23T07:00:00.000Z",
         "timestamp_end": "2025-11-23T14:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DF89CD34-22B7-474F-9B21-3D19B19DA245"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "טירת יהודה, אסם",
+      "location": {
+        "lat": 32.014905,
+        "lng": 34.9337518
+      },
+      "formatted": "טירת יהודה, ישראל",
+      "city": "טירת יהודה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-11-03T14:00:00.000Z",
+        "timestamp_end": "2025-11-03T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6AB181B1-6AA8-4AF3-BC69-E7CFFAD91D8D"
       }
     ]
   },
@@ -1553,42 +1589,6 @@
   },
   {
     "address": {
-      "unformatted": "טירת יהודה, אסם",
-      "location": {
-        "lat": 32.014905,
-        "lng": 34.9337518
-      },
-      "formatted": "טירת יהודה, ישראל",
-      "city": "טירת יהודה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-11-03T14:00:00.000Z",
-        "timestamp_end": "2025-11-03T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6AB181B1-6AA8-4AF3-BC69-E7CFFAD91D8D"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "שד' מעלה יצחק 4 נוף הגליל, מתחם ברקוביץ",
-      "location": {
-        "lat": 32.6990355,
-        "lng": 35.3132617
-      },
-      "formatted": "שדרות מעלה יצחק 4, נוף הגליל, ישראל",
-      "city": "נוף הגליל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-11-04T13:00:00.000Z",
-        "timestamp_end": "2025-11-04T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FC448FC1-E8EB-4A61-A08F-0AA3FC0750E9"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "רמת הכובש, מועדון לחבר",
       "location": {
         "lat": 32.2183141,
@@ -1620,24 +1620,6 @@
         "timestamp_start": "2025-11-04T08:00:00.000Z",
         "timestamp_end": "2025-11-04T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C94AF0DF-52A9-43E1-A113-2B62EC5A7274"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "אניעם, במועדון חברים",
-      "location": {
-        "lat": 32.956638,
-        "lng": 35.739718
-      },
-      "formatted": "אניעם",
-      "city": "אניעם"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-11-04T14:00:00.000Z",
-        "timestamp_end": "2025-11-04T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A3F98359-1A1E-477F-B092-32C9C415783C"
       }
     ]
   },
@@ -1692,6 +1674,42 @@
         "timestamp_start": "2025-11-04T15:00:00.000Z",
         "timestamp_end": "2025-11-04T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1648FFAB-5765-49A2-AE33-8D4DD9E7956C"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שד' מעלה יצחק 4 נוף הגליל, מתחם ברקוביץ",
+      "location": {
+        "lat": 32.6990355,
+        "lng": 35.3132617
+      },
+      "formatted": "שדרות מעלה יצחק 4, נוף הגליל, ישראל",
+      "city": "נוף הגליל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-11-04T13:00:00.000Z",
+        "timestamp_end": "2025-11-04T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FC448FC1-E8EB-4A61-A08F-0AA3FC0750E9"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אניעם, במועדון חברים",
+      "location": {
+        "lat": 32.956638,
+        "lng": 35.739718
+      },
+      "formatted": "אניעם",
+      "city": "אניעם"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-11-04T14:00:00.000Z",
+        "timestamp_end": "2025-11-04T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A3F98359-1A1E-477F-B092-32C9C415783C"
       }
     ]
   },
