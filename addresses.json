@@ -42,6 +42,24 @@
   },
   {
     "address": {
+      "unformatted": "דרך הדרום קרית גת, ביג קרית גת דרך הדרום",
+      "location": {
+        "lat": 31.6031047,
+        "lng": 34.77151560000001
+      },
+      "formatted": "דרך הדרום 3, קרית גת, ישראל",
+      "city": "קרית גת"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-11-18T11:30:00.000Z",
+        "timestamp_end": "2025-11-18T16:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7B85D5A8-F427-427A-B90F-632ED32182AB"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "דרך הבנים 17 פרדס חנה כרכור, במרכז מול מכבי דנט",
       "location": {
         "lat": 32.4764444,
@@ -235,39 +253,6 @@
         "timestamp_start": "2025-11-18T14:00:00.000Z",
         "timestamp_end": "2025-11-18T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3D3F94BB-B014-4C54-9B67-2FA7D4EB055E"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "יפו 121 ירושלים, שוק מחנה יהודה - בכניסה לשוק סמוך לפסי הרכבת הקלה",
-      "location": {
-        "lat": 31.7856601,
-        "lng": 35.2120684
-      },
-      "formatted": "יפו 121, ירושלים, ישראל",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-11-18T14:00:00.000Z",
-        "timestamp_end": "2025-11-18T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/135F6EE0-A035-4E03-83D1-3A916CF6AC8E"
-      },
-      {
-        "timestamp_start": "2025-11-18T08:00:00.000Z",
-        "timestamp_end": "2025-11-18T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C6D7AEB3-39F7-4067-AFF6-EAB96D7EB571"
-      },
-      {
-        "timestamp_start": "2025-11-19T08:00:00.000Z",
-        "timestamp_end": "2025-11-19T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D187CC1E-608C-438B-889C-39CD2094CB90"
-      },
-      {
-        "timestamp_start": "2025-11-19T14:00:00.000Z",
-        "timestamp_end": "2025-11-19T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FD785EC0-EE8F-47CA-B4CC-D6EC3874A689"
       }
     ]
   },
@@ -607,24 +592,6 @@
   },
   {
     "address": {
-      "unformatted": "אורנית, בהיכל משה",
-      "location": {
-        "lat": 32.1364682,
-        "lng": 34.9893197
-      },
-      "formatted": "רחוב הזית 67, אורנית",
-      "city": "אורנית"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-11-19T14:00:00.000Z",
-        "timestamp_end": "2025-11-19T19:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C304B7B9-4373-46AB-B237-053BC4ADF8D9"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "דאלית אל כרמל, קניון עלי מול",
       "location": {
         "lat": 32.6990965,
@@ -638,24 +605,6 @@
         "timestamp_start": "2025-11-19T14:00:00.000Z",
         "timestamp_end": "2025-11-19T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5926DD88-1307-428C-B83F-37D1A9E1FCB4"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "הצבר 25 ראשון לציון, שכונת נרקיסים",
-      "location": {
-        "lat": 31.9574665,
-        "lng": 34.831228
-      },
-      "formatted": "הצבר 25, ראשון לציון, ישראל",
-      "city": "ראשון לציון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-11-19T14:00:00.000Z",
-        "timestamp_end": "2025-11-19T18:45:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AC1704A5-6A91-4027-AFFB-6BE349425239"
       }
     ]
   },
@@ -774,6 +723,65 @@
         "timestamp_start": "2025-11-19T07:00:00.000Z",
         "timestamp_end": "2025-11-19T12:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/956CF587-7AEC-4891-9245-A8B66B738D47"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אורנית, בהיכל משה",
+      "location": {
+        "lat": 32.1364682,
+        "lng": 34.9893197
+      },
+      "formatted": "רחוב הזית 67, אורנית",
+      "city": "אורנית"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-11-19T14:00:00.000Z",
+        "timestamp_end": "2025-11-19T19:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C304B7B9-4373-46AB-B237-053BC4ADF8D9"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "יפו 121 ירושלים, שוק מחנה יהודה - בכניסה לשוק סמוך לפסי הרכבת הקלה",
+      "location": {
+        "lat": 31.7856601,
+        "lng": 35.2120684
+      },
+      "formatted": "יפו 121, ירושלים, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-11-19T08:00:00.000Z",
+        "timestamp_end": "2025-11-19T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D187CC1E-608C-438B-889C-39CD2094CB90"
+      },
+      {
+        "timestamp_start": "2025-11-19T14:00:00.000Z",
+        "timestamp_end": "2025-11-19T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FD785EC0-EE8F-47CA-B4CC-D6EC3874A689"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "הצבר 25 ראשון לציון, שכונת נרקיסים",
+      "location": {
+        "lat": 31.9574665,
+        "lng": 34.831228
+      },
+      "formatted": "הצבר 25, ראשון לציון, ישראל",
+      "city": "ראשון לציון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-11-19T14:00:00.000Z",
+        "timestamp_end": "2025-11-19T18:45:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AC1704A5-6A91-4027-AFFB-6BE349425239"
       }
     ]
   },
