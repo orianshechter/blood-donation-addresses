@@ -207,6 +207,24 @@
   },
   {
     "address": {
+      "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
+      "location": {
+        "lat": 32.78460454662827,
+        "lng": 34.987120821454766
+      },
+      "formatted": "חורב 13, חיפה, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-15T13:30:00.000Z",
+        "timestamp_end": "2025-12-15T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FA669D73-1B4D-4D1B-8954-3DDA2F562AF2"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "חיפה, מתחם קניות חוצות המפרץ - ליד גרג",
       "location": {
         "lat": 32.8092185,
@@ -255,24 +273,6 @@
         "timestamp_start": "2025-12-26T06:00:00.000Z",
         "timestamp_end": "2025-12-26T11:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A799F4F3-22B8-41FB-AADD-E60BF0E6AA11"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
-      "location": {
-        "lat": 32.78460454662827,
-        "lng": 34.987120821454766
-      },
-      "formatted": "חורב 13, חיפה, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-15T13:30:00.000Z",
-        "timestamp_end": "2025-12-15T18:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FA669D73-1B4D-4D1B-8954-3DDA2F562AF2"
       }
     ]
   },
@@ -850,24 +850,6 @@
   },
   {
     "address": {
-      "unformatted": "סמטת הרכבת 20 ירושלים, מרכז ספורט קהילתי מרכז ירושלים",
-      "location": {
-        "lat": 31.7624251,
-        "lng": 35.2191828
-      },
-      "formatted": "סמטת, בריכת ירושלים, הרכבת 20, ירושלים, ישראל",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-17T13:00:00.000Z",
-        "timestamp_end": "2025-12-17T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C38FAA80-7DAA-4E18-9103-1E51EEFD9FAC"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "יפו 121 ירושלים, שוק מחנה יהודה - בכניסה לשוק סמוך לפסי הרכבת הקלה",
       "location": {
         "lat": 31.7856601,
@@ -881,6 +863,24 @@
         "timestamp_start": "2025-12-17T08:00:00.000Z",
         "timestamp_end": "2025-12-17T14:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6061205F-847E-45BE-B652-4B856B9F155A"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "סמטת הרכבת 20 ירושלים, מרכז ספורט קהילתי מרכז ירושלים",
+      "location": {
+        "lat": 31.7624251,
+        "lng": 35.2191828
+      },
+      "formatted": "סמטת, בריכת ירושלים, הרכבת 20, ירושלים, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-17T13:00:00.000Z",
+        "timestamp_end": "2025-12-17T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C38FAA80-7DAA-4E18-9103-1E51EEFD9FAC"
       }
     ]
   },
@@ -922,24 +922,6 @@
   },
   {
     "address": {
-      "unformatted": "באגף כיתות ז' - ח'",
-      "location": {
-        "lat": 33.44852903890945,
-        "lng": 32.05693494134149
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-17T14:00:00.000Z",
-        "timestamp_end": "2025-12-17T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DDD3CA37-3297-44E0-97FE-F1AB1DF74B25"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "סח'נין, צמוד לבנין העיריה",
       "location": {
         "lat": 32.8621403,
@@ -976,19 +958,19 @@
   },
   {
     "address": {
-      "unformatted": "כביש מעונה נהריה, בי\"ח נהריה מול קפיטרית יעל",
+      "unformatted": "באגף כיתות ז' - ח'",
       "location": {
-        "lat": 33.0144146,
-        "lng": 35.090698
+        "lat": 33.44852903890945,
+        "lng": 32.05693494134149
       },
-      "formatted": "המעונה, נהריה, ישראל",
-      "city": "נהריה"
+      "formatted": "bad_address",
+      "city": ""
     },
     "times": [
       {
-        "timestamp_start": "2025-12-17T07:30:00.000Z",
-        "timestamp_end": "2025-12-17T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3C411702-0B42-4E0D-9806-D05F4002AA82"
+        "timestamp_start": "2025-12-17T14:00:00.000Z",
+        "timestamp_end": "2025-12-17T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DDD3CA37-3297-44E0-97FE-F1AB1DF74B25"
       }
     ]
   },
@@ -1007,6 +989,24 @@
         "timestamp_start": "2025-12-17T07:00:00.000Z",
         "timestamp_end": "2025-12-17T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D84E35F1-D51F-42DE-93D0-3E748359D2DD"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כביש מעונה נהריה, בי\"ח נהריה מול קפיטרית יעל",
+      "location": {
+        "lat": 33.0144146,
+        "lng": 35.090698
+      },
+      "formatted": "המעונה, נהריה, ישראל",
+      "city": "נהריה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-17T07:30:00.000Z",
+        "timestamp_end": "2025-12-17T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3C411702-0B42-4E0D-9806-D05F4002AA82"
       }
     ]
   },
@@ -1156,24 +1156,6 @@
   },
   {
     "address": {
-      "unformatted": "רחוב התבור 18 בית שמש, מרכז קהילתי פסגת השבע",
-      "location": {
-        "lat": 31.7443562,
-        "lng": 34.9941081
-      },
-      "formatted": "התבור 18, בית שמש, ישראל",
-      "city": "בית שמש"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-18T14:00:00.000Z",
-        "timestamp_end": "2025-12-18T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8467041B-1D13-4563-B04D-D0A6D0974CE4"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "סמטת המלכים קרית שמונה, מכינת מעשה בגליל ק\"ש",
       "location": {
         "lat": 33.200253,
@@ -1187,6 +1169,24 @@
         "timestamp_start": "2025-12-18T08:00:00.000Z",
         "timestamp_end": "2025-12-18T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/763A0DE8-D318-4300-B2B5-91F0A9DBCAEA"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "רחוב התבור 18 בית שמש, מרכז קהילתי פסגת השבע",
+      "location": {
+        "lat": 31.7443562,
+        "lng": 34.9941081
+      },
+      "formatted": "התבור 18, בית שמש, ישראל",
+      "city": "בית שמש"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-18T14:00:00.000Z",
+        "timestamp_end": "2025-12-18T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8467041B-1D13-4563-B04D-D0A6D0974CE4"
       }
     ]
   },
@@ -1476,6 +1476,24 @@
   },
   {
     "address": {
+      "unformatted": "טייבה, מרכז צעירי טייבה באולם ספורט בי\"ס אלנג'אח",
+      "location": {
+        "lat": 32.2598879,
+        "lng": 35.0087595
+      },
+      "formatted": "אלנגאח, טייבה, ישראל",
+      "city": "טייבה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-22T14:00:00.000Z",
+        "timestamp_end": "2025-12-22T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/509C28FF-8237-48AE-B201-6BE770D69C96"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "לבנים, במושב ליבנים, במועדון לחבר",
       "location": {
         "lat": 32.8650896,
@@ -1625,24 +1643,6 @@
   },
   {
     "address": {
-      "unformatted": "כרמי צור, באולם שמחות החדש",
-      "location": {
-        "lat": 31.609468,
-        "lng": 35.101273
-      },
-      "formatted": "כרמי צור",
-      "city": "כרמי צור"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-23T15:00:00.000Z",
-        "timestamp_end": "2025-12-23T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DEBB5013-B048-4DD9-8F35-18A835184E05"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "טבריה, מעון רמת טבריה",
       "location": {
         "lat": 32.7759768,
@@ -1674,6 +1674,24 @@
         "timestamp_start": "2025-12-23T08:00:00.000Z",
         "timestamp_end": "2025-12-23T14:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0BB2E1D8-92D9-495C-82FF-400FEA7194F2"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כרמי צור, באולם שמחות החדש",
+      "location": {
+        "lat": 31.609468,
+        "lng": 35.101273
+      },
+      "formatted": "כרמי צור",
+      "city": "כרמי צור"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-23T15:00:00.000Z",
+        "timestamp_end": "2025-12-23T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DEBB5013-B048-4DD9-8F35-18A835184E05"
       }
     ]
   },
@@ -1913,24 +1931,6 @@
   },
   {
     "address": {
-      "unformatted": "כפר סאלד, פינה חמה",
-      "location": {
-        "lat": 33.196035,
-        "lng": 35.657993
-      },
-      "formatted": "כפר סאלד, ישראל",
-      "city": "כפר סאלד"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-28T15:00:00.000Z",
-        "timestamp_end": "2025-12-28T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/399B9545-5EDD-4A19-BFF3-2350660E2CD8"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "דגניה 15 שערי תקווה, מתנ\"ס מרעי",
       "location": {
         "lat": 32.1202438,
@@ -1944,6 +1944,24 @@
         "timestamp_start": "2025-12-28T14:00:00.000Z",
         "timestamp_end": "2025-12-28T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/69510127-34B1-442F-9E19-3C17F6F3BF97"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כפר סאלד, פינה חמה",
+      "location": {
+        "lat": 33.196035,
+        "lng": 35.657993
+      },
+      "formatted": "כפר סאלד, ישראל",
+      "city": "כפר סאלד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-28T15:00:00.000Z",
+        "timestamp_end": "2025-12-28T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/399B9545-5EDD-4A19-BFF3-2350660E2CD8"
       }
     ]
   },
