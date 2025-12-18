@@ -796,14 +796,14 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/385162A9-BB4F-40BD-B99A-A3A6F460B82F"
       },
       {
-        "timestamp_start": "2025-12-23T08:00:00.000Z",
-        "timestamp_end": "2025-12-23T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0E9CCA48-EF24-4F85-94F2-5B7086C2A94E"
-      },
-      {
         "timestamp_start": "2025-12-23T14:00:00.000Z",
         "timestamp_end": "2025-12-23T20:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F249FF88-6D43-4213-BF49-35A88BC10F10"
+      },
+      {
+        "timestamp_start": "2025-12-23T08:00:00.000Z",
+        "timestamp_end": "2025-12-23T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0E9CCA48-EF24-4F85-94F2-5B7086C2A94E"
       },
       {
         "timestamp_start": "2025-12-24T08:00:00.000Z",
@@ -1083,6 +1083,24 @@
   },
   {
     "address": {
+      "unformatted": "הגלגל 46 רמת גן, בתחנת מד\"א רמת גן, - תחנת מד\"א",
+      "location": {
+        "lat": 32.0806033,
+        "lng": 34.824431
+      },
+      "formatted": "הגלגל 46, רמת גן, ישראל",
+      "city": "רמת גן"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-22T13:00:00.000Z",
+        "timestamp_end": "2025-12-22T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/919E6062-58FD-49A1-A449-AE4B8F1BD76F"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "טשרניחובסקי 59 כפר סבא, בי\"ח מאיר כ\"ס",
       "location": {
         "lat": 32.180855,
@@ -1132,24 +1150,6 @@
         "timestamp_start": "2025-12-22T14:00:00.000Z",
         "timestamp_end": "2025-12-22T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/37DCCD56-F270-4849-A282-89819A8E3D39"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "הגלגל 46 רמת גן, בתחנת מד\"א רמת גן, - תחנת מד\"א",
-      "location": {
-        "lat": 32.0806033,
-        "lng": 34.824431
-      },
-      "formatted": "הגלגל 46, רמת גן, ישראל",
-      "city": "רמת גן"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-22T13:00:00.000Z",
-        "timestamp_end": "2025-12-22T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/919E6062-58FD-49A1-A449-AE4B8F1BD76F"
       }
     ]
   },
@@ -1767,24 +1767,6 @@
   },
   {
     "address": {
-      "unformatted": "כפר חנניה, בספריה",
-      "location": {
-        "lat": 32.915993,
-        "lng": 35.423785
-      },
-      "formatted": "כפר חנניה, ישראל",
-      "city": "כפר חנניה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-28T15:00:00.000Z",
-        "timestamp_end": "2025-12-28T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/97B2225E-2793-4133-A997-3B3BE7F24D87"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "שלוחות, בית דורות",
       "location": {
         "lat": 32.4726092,
@@ -1834,6 +1816,24 @@
         "timestamp_start": "2025-12-28T14:00:00.000Z",
         "timestamp_end": "2025-12-28T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3FBF9445-42AF-4852-895A-87EE5F331531"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כפר חנניה, בספריה",
+      "location": {
+        "lat": 32.915993,
+        "lng": 35.423785
+      },
+      "formatted": "כפר חנניה, ישראל",
+      "city": "כפר חנניה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-28T15:00:00.000Z",
+        "timestamp_end": "2025-12-28T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/97B2225E-2793-4133-A997-3B3BE7F24D87"
       }
     ]
   },
