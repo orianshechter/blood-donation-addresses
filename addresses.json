@@ -194,24 +194,24 @@
     },
     "times": [
       {
-        "timestamp_start": "2025-12-22T14:00:00.000Z",
-        "timestamp_end": "2025-12-22T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/68056A58-5358-43A0-9E6F-194CA1F3F8E4"
-      },
-      {
         "timestamp_start": "2025-12-22T08:00:00.000Z",
         "timestamp_end": "2025-12-22T14:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/385162A9-BB4F-40BD-B99A-A3A6F460B82F"
       },
       {
-        "timestamp_start": "2025-12-23T08:00:00.000Z",
-        "timestamp_end": "2025-12-23T14:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0E9CCA48-EF24-4F85-94F2-5B7086C2A94E"
+        "timestamp_start": "2025-12-22T14:00:00.000Z",
+        "timestamp_end": "2025-12-22T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/68056A58-5358-43A0-9E6F-194CA1F3F8E4"
       },
       {
         "timestamp_start": "2025-12-23T14:00:00.000Z",
         "timestamp_end": "2025-12-23T20:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F249FF88-6D43-4213-BF49-35A88BC10F10"
+      },
+      {
+        "timestamp_start": "2025-12-23T08:00:00.000Z",
+        "timestamp_end": "2025-12-23T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0E9CCA48-EF24-4F85-94F2-5B7086C2A94E"
       },
       {
         "timestamp_start": "2025-12-24T08:00:00.000Z",
@@ -565,6 +565,24 @@
   },
   {
     "address": {
+      "unformatted": "הגלגל 46 רמת גן, בתחנת מד\"א רמת גן, - תחנת מד\"א",
+      "location": {
+        "lat": 32.0806033,
+        "lng": 34.824431
+      },
+      "formatted": "הגלגל 46, רמת גן, ישראל",
+      "city": "רמת גן"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-22T13:00:00.000Z",
+        "timestamp_end": "2025-12-22T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/919E6062-58FD-49A1-A449-AE4B8F1BD76F"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "באר שבע, בית הסטודנט בניין 70",
       "location": {
         "lat": 31.2630667,
@@ -601,24 +619,6 @@
         "timestamp_start": "2025-12-23T07:00:00.000Z",
         "timestamp_end": "2025-12-23T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3EDAE402-65A1-4779-A10E-1DEF4046E51E"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "הגלגל 46 רמת גן, בתחנת מד\"א רמת גן, - תחנת מד\"א",
-      "location": {
-        "lat": 32.0806033,
-        "lng": 34.824431
-      },
-      "formatted": "הגלגל 46, רמת גן, ישראל",
-      "city": "רמת גן"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-22T13:00:00.000Z",
-        "timestamp_end": "2025-12-22T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/919E6062-58FD-49A1-A449-AE4B8F1BD76F"
       }
     ]
   },
@@ -1063,24 +1063,6 @@
   },
   {
     "address": {
-      "unformatted": "נהריה, רחבת קניון ארנה",
-      "location": {
-        "lat": 33.0052741,
-        "lng": 35.099971
-      },
-      "formatted": "שדרות הנשיא בן צבי 1, נהריה, ישראל",
-      "city": "נהריה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-25T14:00:00.000Z",
-        "timestamp_end": "2025-12-25T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4491265F-D471-4750-A959-5D53F05851DA"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "עפולה, מרכז הרפואי העמק לובי קפיטריה",
       "location": {
         "lat": 32.6210762,
@@ -1099,6 +1081,24 @@
         "timestamp_start": "2025-12-26T06:30:00.000Z",
         "timestamp_end": "2025-12-26T11:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A9D319A2-1CC9-4B46-817D-6D79C200180C"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "נהריה, רחבת קניון ארנה",
+      "location": {
+        "lat": 33.0052741,
+        "lng": 35.099971
+      },
+      "formatted": "שדרות הנשיא בן צבי 1, נהריה, ישראל",
+      "city": "נהריה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-25T14:00:00.000Z",
+        "timestamp_end": "2025-12-25T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4491265F-D471-4750-A959-5D53F05851DA"
       }
     ]
   },
@@ -1386,6 +1386,24 @@
   },
   {
     "address": {
+      "unformatted": "דוד רמז 69 רחובות, מד\"א רחובות, - תחנת מד\"א",
+      "location": {
+        "lat": 31.8948356,
+        "lng": 34.8045349
+      },
+      "formatted": "דוד רמז 71, רחובות, ישראל",
+      "city": "רחובות"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-26T06:00:00.000Z",
+        "timestamp_end": "2025-12-26T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AAF0DBB1-6BE1-4F0D-B493-56F416B4812A"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
       "location": {
         "lat": 32.8440668,
@@ -1414,24 +1432,6 @@
         "timestamp_start": "2026-01-16T06:00:00.000Z",
         "timestamp_end": "2026-01-16T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6527E91D-DDDE-49F7-9338-2445486693DD"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "דוד רמז 69 רחובות, מד\"א רחובות, - תחנת מד\"א",
-      "location": {
-        "lat": 31.8948356,
-        "lng": 34.8045349
-      },
-      "formatted": "דוד רמז 71, רחובות, ישראל",
-      "city": "רחובות"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-26T06:00:00.000Z",
-        "timestamp_end": "2025-12-26T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AAF0DBB1-6BE1-4F0D-B493-56F416B4812A"
       }
     ]
   },
