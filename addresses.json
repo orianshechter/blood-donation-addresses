@@ -121,14 +121,14 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/BA0DCD96-F514-4B18-89A3-B0CA821EA4AC"
       },
       {
-        "timestamp_start": "2025-12-25T14:00:00.000Z",
-        "timestamp_end": "2025-12-25T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2AA5390F-8E1D-42F1-9D69-BD8574FCD32B"
-      },
-      {
         "timestamp_start": "2025-12-25T08:00:00.000Z",
         "timestamp_end": "2025-12-25T14:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C7B66553-0E96-48C3-8A67-585D1E462CF1"
+      },
+      {
+        "timestamp_start": "2025-12-25T14:00:00.000Z",
+        "timestamp_end": "2025-12-25T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2AA5390F-8E1D-42F1-9D69-BD8574FCD32B"
       },
       {
         "timestamp_start": "2025-12-26T06:30:00.000Z",
@@ -278,7 +278,7 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8CBE8368-734A-4A97-B314-54261409ADC6"
       },
       {
-        "timestamp_start": "2025-12-25T13:30:00.000Z",
+        "timestamp_start": "2025-12-25T14:00:00.000Z",
         "timestamp_end": "2025-12-25T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1258F8C7-E344-4B91-AAF2-FD3B848C828F"
       },
@@ -1032,6 +1032,24 @@
   },
   {
     "address": {
+      "unformatted": "הרוקמים 1 חולון, בתחנת מד\"א חולון, - תחנת מד\"א",
+      "location": {
+        "lat": 32.01079717106096,
+        "lng": 34.79731848820997
+      },
+      "formatted": "הרוקמים, חולון, ישראל",
+      "city": "חולון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-26T06:00:00.000Z",
+        "timestamp_end": "2025-12-26T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/00314113-3B32-46AB-ADFA-D5F19C5964B8"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "טבריה, ביג דנילוף בכניסה הראשית",
       "location": {
         "lat": 32.790333613593994,
@@ -1063,24 +1081,6 @@
         "timestamp_start": "2025-12-26T06:00:00.000Z",
         "timestamp_end": "2025-12-26T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0785B872-2F91-4B6E-B429-A0EFECAC0DEA"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "הרוקמים 1 חולון, בתחנת מד\"א חולון, - תחנת מד\"א",
-      "location": {
-        "lat": 32.01079717106096,
-        "lng": 34.79731848820997
-      },
-      "formatted": "הרוקמים, חולון, ישראל",
-      "city": "חולון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-26T06:00:00.000Z",
-        "timestamp_end": "2025-12-26T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/00314113-3B32-46AB-ADFA-D5F19C5964B8"
       }
     ]
   },
@@ -1365,29 +1365,6 @@
   },
   {
     "address": {
-      "unformatted": "שדרות הרצל 133 רמלה, קריית מד\"א שרותי הדם רמלה(תחנה נגישה), - תחנת מד\"א",
-      "location": {
-        "lat": 31.9235441,
-        "lng": 34.880246
-      },
-      "formatted": "שדרות הרצל 133, רמלה, ישראל",
-      "city": "רמלה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-28T12:00:00.000Z",
-        "timestamp_end": "2025-12-28T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F59DAE58-2504-4B01-AB22-A2AB6B2C9E24"
-      },
-      {
-        "timestamp_start": "2026-01-13T13:00:00.000Z",
-        "timestamp_end": "2026-01-13T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0B5C7E4A-74EB-44E2-A46B-6EB1C2FC874F"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מסריק 15 פתח תקווה, מרכז נוער וצעירים",
       "location": {
         "lat": 32.0916579,
@@ -1419,6 +1396,29 @@
         "timestamp_start": "2025-12-28T15:00:00.000Z",
         "timestamp_end": "2025-12-28T20:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F843AD12-ECFB-4A18-A187-10A0684520AE"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שדרות הרצל 133 רמלה, קריית מד\"א שרותי הדם רמלה(תחנה נגישה), - תחנת מד\"א",
+      "location": {
+        "lat": 31.9235441,
+        "lng": 34.880246
+      },
+      "formatted": "שדרות הרצל 133, רמלה, ישראל",
+      "city": "רמלה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-28T12:00:00.000Z",
+        "timestamp_end": "2025-12-28T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F59DAE58-2504-4B01-AB22-A2AB6B2C9E24"
+      },
+      {
+        "timestamp_start": "2026-01-13T13:00:00.000Z",
+        "timestamp_end": "2026-01-13T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0B5C7E4A-74EB-44E2-A46B-6EB1C2FC874F"
       }
     ]
   },
@@ -1514,24 +1514,6 @@
   },
   {
     "address": {
-      "unformatted": "קרליבך 4ד תל אביב יפו, בנין גינדי במועדון דיירים",
-      "location": {
-        "lat": 32.0678229,
-        "lng": 34.7834787
-      },
-      "formatted": "קרליבך 4, תל אביב-יפו, 6713231, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2025-12-30T14:00:00.000Z",
-        "timestamp_end": "2025-12-30T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F4D43388-1A6E-4B87-A84B-6BC8A36B6CE1"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מיכל 7 חיפה, בי\"ח כרמל - כניסה ראשית ליד המעליות",
       "location": {
         "lat": 32.7864002,
@@ -1545,6 +1527,24 @@
         "timestamp_start": "2025-12-30T07:30:00.000Z",
         "timestamp_end": "2025-12-30T13:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/46208EF1-3340-4DE1-87DE-FCF66C20E8AA"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "קרליבך 4ד תל אביב יפו, בנין גינדי במועדון דיירים",
+      "location": {
+        "lat": 32.0678229,
+        "lng": 34.7834787
+      },
+      "formatted": "קרליבך 4, תל אביב-יפו, 6713231, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2025-12-30T14:00:00.000Z",
+        "timestamp_end": "2025-12-30T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F4D43388-1A6E-4B87-A84B-6BC8A36B6CE1"
       }
     ]
   },
@@ -1928,24 +1928,6 @@
   },
   {
     "address": {
-      "unformatted": "גרציאני 4 תל אביב יפו, מועדון דיירים-מגדל 1",
-      "location": {
-        "lat": 32.0623567,
-        "lng": 34.7632465
-      },
-      "formatted": "מגדל 1, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-01-06T13:00:00.000Z",
-        "timestamp_end": "2026-01-06T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EAACF5EC-19B3-4524-904F-EC0403F200AA"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "בית חורון, בית הקהילה ישוב בית חורון",
       "location": {
         "lat": 31.8784826,
@@ -1959,6 +1941,24 @@
         "timestamp_start": "2026-01-06T15:00:00.000Z",
         "timestamp_end": "2026-01-06T20:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C444FBBC-7A18-4BA1-8C8B-6849C1F14423"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "גרציאני 4 תל אביב יפו, מועדון דיירים-מגדל 1",
+      "location": {
+        "lat": 32.0623567,
+        "lng": 34.7632465
+      },
+      "formatted": "מגדל 1, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-01-06T13:00:00.000Z",
+        "timestamp_end": "2026-01-06T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EAACF5EC-19B3-4524-904F-EC0403F200AA"
       }
     ]
   },
@@ -2036,24 +2036,6 @@
   },
   {
     "address": {
-      "unformatted": "אליהו מני 4 ירושלים, הבסיס של המייק",
-      "location": {
-        "lat": 31.7859805,
-        "lng": 35.2104777
-      },
-      "formatted": "אליהו מני 4, ירושלים, ישראל",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-01-08T13:00:00.000Z",
-        "timestamp_end": "2026-01-08T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1B671958-36C8-4FEC-9D5F-AB29AC5BFD82"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "תל אביב יפו, אונ' ת\"א הנדסה בנין ולפסון",
       "location": {
         "lat": 32.11023513876811,
@@ -2085,6 +2067,24 @@
         "timestamp_start": "2026-01-08T14:00:00.000Z",
         "timestamp_end": "2026-01-08T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/41EE5AB4-4B3D-42F3-8AA2-36B380C31DFC"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אליהו מני 4 ירושלים, הבסיס של המייק",
+      "location": {
+        "lat": 31.7859805,
+        "lng": 35.2104777
+      },
+      "formatted": "אליהו מני 4, ירושלים, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-01-08T13:00:00.000Z",
+        "timestamp_end": "2026-01-08T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1B671958-36C8-4FEC-9D5F-AB29AC5BFD82"
       }
     ]
   },
