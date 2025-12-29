@@ -604,14 +604,14 @@
     },
     "times": [
       {
-        "timestamp_start": "2025-12-30T13:00:00.000Z",
-        "timestamp_end": "2025-12-30T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/166735FC-E884-4B63-9C76-627D02E0CE74"
-      },
-      {
         "timestamp_start": "2025-12-30T08:00:00.000Z",
         "timestamp_end": "2025-12-30T12:45:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DD2B518B-86FC-4AA0-A816-026FC47AE542"
+      },
+      {
+        "timestamp_start": "2025-12-30T13:00:00.000Z",
+        "timestamp_end": "2025-12-30T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/166735FC-E884-4B63-9C76-627D02E0CE74"
       }
     ]
   },
@@ -1474,24 +1474,6 @@
   },
   {
     "address": {
-      "unformatted": "בית חורון, בית הקהילה ישוב בית חורון",
-      "location": {
-        "lat": 31.8784826,
-        "lng": 35.12641869999999
-      },
-      "formatted": "בית חורון",
-      "city": "בית חורון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-01-06T15:00:00.000Z",
-        "timestamp_end": "2026-01-06T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C444FBBC-7A18-4BA1-8C8B-6849C1F14423"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "גרציאני 4 תל אביב יפו, מועדון דיירים-מגדל 1",
       "location": {
         "lat": 32.0623567,
@@ -1505,6 +1487,24 @@
         "timestamp_start": "2026-01-06T13:00:00.000Z",
         "timestamp_end": "2026-01-06T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EAACF5EC-19B3-4524-904F-EC0403F200AA"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "בית חורון, בית הקהילה ישוב בית חורון",
+      "location": {
+        "lat": 31.8784826,
+        "lng": 35.12641869999999
+      },
+      "formatted": "בית חורון",
+      "city": "בית חורון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-01-06T15:00:00.000Z",
+        "timestamp_end": "2026-01-06T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C444FBBC-7A18-4BA1-8C8B-6849C1F14423"
       }
     ]
   },
@@ -1672,29 +1672,6 @@
   },
   {
     "address": {
-      "unformatted": "הרצל 97 חיפה, רחוב הרצל בית תעשיה",
-      "location": {
-        "lat": 32.804859,
-        "lng": 35.003338
-      },
-      "formatted": "בית התעשייה, חיפה, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-01-08T15:00:00.000Z",
-        "timestamp_end": "2026-01-08T21:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EE64B065-389C-4AC5-BCF6-A5682F3D6F23"
-      },
-      {
-        "timestamp_start": "2026-01-08T15:00:00.000Z",
-        "timestamp_end": "2026-01-08T21:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/63D8066F-F8E1-445C-996C-23891CB6CA9C"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מלכיה, מועדון",
       "location": {
         "lat": 33.098589,
@@ -1731,19 +1708,24 @@
   },
   {
     "address": {
-      "unformatted": "תל אביב יפו, אונ' ת\"א הנדסה בנין ולפסון",
+      "unformatted": "הרצל 97 חיפה, רחוב הרצל בית תעשיה",
       "location": {
-        "lat": 32.11023513876811,
-        "lng": 34.80593691253096
+        "lat": 32.804859,
+        "lng": 35.003338
       },
-      "formatted": "וולפסון, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
+      "formatted": "בית התעשייה, חיפה, ישראל",
+      "city": "חיפה"
     },
     "times": [
       {
-        "timestamp_start": "2026-01-08T08:00:00.000Z",
-        "timestamp_end": "2026-01-08T13:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F4520EAF-787C-42CD-8521-D6FBD61A31B9"
+        "timestamp_start": "2026-01-08T15:00:00.000Z",
+        "timestamp_end": "2026-01-08T21:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/63D8066F-F8E1-445C-996C-23891CB6CA9C"
+      },
+      {
+        "timestamp_start": "2026-01-08T15:00:00.000Z",
+        "timestamp_end": "2026-01-08T21:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EE64B065-389C-4AC5-BCF6-A5682F3D6F23"
       }
     ]
   },
@@ -2001,24 +1983,6 @@
   },
   {
     "address": {
-      "unformatted": "דפנה 56 קרית ביאליק, מתנ\"ס - חדר פלוטו",
-      "location": {
-        "lat": 32.8341871,
-        "lng": 35.0909079
-      },
-      "formatted": "דפנה 56, קריית ביאליק, ישראל",
-      "city": "קרית ביאליק"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-01-21T14:00:00.000Z",
-        "timestamp_end": "2026-01-21T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0EF49CF0-DFE8-413E-9693-60605DADFA8C"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "בזל 25 פתח תקווה, רח'בזל 25 בלובי הבניין. פ\"ת",
       "location": {
         "lat": 32.1017723,
@@ -2050,6 +2014,24 @@
         "timestamp_start": "2026-01-21T09:00:00.000Z",
         "timestamp_end": "2026-01-21T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AE0F1F81-64DF-478C-80E5-6A0A1FA59FA6"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דפנה 56 קרית ביאליק, מתנ\"ס - חדר פלוטו",
+      "location": {
+        "lat": 32.8341871,
+        "lng": 35.0909079
+      },
+      "formatted": "דפנה 56, קריית ביאליק, ישראל",
+      "city": "קרית ביאליק"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-01-21T14:00:00.000Z",
+        "timestamp_end": "2026-01-21T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0EF49CF0-DFE8-413E-9693-60605DADFA8C"
       }
     ]
   },
