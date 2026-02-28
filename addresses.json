@@ -184,6 +184,24 @@
   },
   {
     "address": {
+      "unformatted": "סורוקה 37 חיפה, מתנ\"ס גבעת אלון",
+      "location": {
+        "lat": 32.7738475,
+        "lng": 34.992419
+      },
+      "formatted": "משה סורוקה 37, חיפה, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-02-28T10:00:00.000Z",
+        "timestamp_end": "2026-02-28T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C99541C9-BFC4-47C4-AE80-9E1A0E6807B4"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "העליה השניה 8 חיפה, בי\"ח רמב\"ם - קניון סגול",
       "location": {
         "lat": 32.8329875,
@@ -1149,24 +1167,6 @@
   },
   {
     "address": {
-      "unformatted": "משמר דוד, משמר דוד",
-      "location": {
-        "lat": 31.82355799999999,
-        "lng": 34.900676
-      },
-      "formatted": "משמר דוד, ישראל",
-      "city": "משמר דוד"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-03-04T14:00:00.000Z",
-        "timestamp_end": "2026-03-04T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7741988A-01F9-46A2-88FE-4B789667144B"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "נהריה, רחבת קניון ארנה",
       "location": {
         "lat": 33.0052741,
@@ -1216,6 +1216,24 @@
         "timestamp_start": "2026-03-04T10:00:00.000Z",
         "timestamp_end": "2026-03-04T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/61011D64-EF40-487D-AF06-9B8B11F1DC5F"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "משמר דוד, משמר דוד",
+      "location": {
+        "lat": 31.82355799999999,
+        "lng": 34.900676
+      },
+      "formatted": "משמר דוד, ישראל",
+      "city": "משמר דוד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-03-04T14:00:00.000Z",
+        "timestamp_end": "2026-03-04T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7741988A-01F9-46A2-88FE-4B789667144B"
       }
     ]
   },
@@ -1298,42 +1316,6 @@
   },
   {
     "address": {
-      "unformatted": "מבוא השקד 1 הר אדר, מתנ\"ס הר אדר",
-      "location": {
-        "lat": 31.8232939,
-        "lng": 35.1309222
-      },
-      "formatted": "מבוא השקד 1, הר אדר",
-      "city": "הר אדר"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-03-05T15:00:00.000Z",
-        "timestamp_end": "2026-03-05T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92641AA2-0E42-4DC4-A15D-A36491FE51D0"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "משגב עם, מועדון",
-      "location": {
-        "lat": 33.2475733,
-        "lng": 35.5485006
-      },
-      "formatted": "משגב עם, ישראל",
-      "city": "משגב עם"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-03-05T14:00:00.000Z",
-        "timestamp_end": "2026-03-05T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/22AAC2E4-5EA4-4E59-BD41-DCD7EF7016F4"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "נוקדים, בבית ספר ממד קדם",
       "location": {
         "lat": 31.645331,
@@ -1365,6 +1347,42 @@
         "timestamp_start": "2026-03-05T13:30:00.000Z",
         "timestamp_end": "2026-03-05T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B5955A31-421E-4F43-82A6-33E7045FBC0D"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מבוא השקד 1 הר אדר, מתנ\"ס הר אדר",
+      "location": {
+        "lat": 31.8232939,
+        "lng": 35.1309222
+      },
+      "formatted": "מבוא השקד 1, הר אדר",
+      "city": "הר אדר"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-03-05T15:00:00.000Z",
+        "timestamp_end": "2026-03-05T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92641AA2-0E42-4DC4-A15D-A36491FE51D0"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "משגב עם, מועדון",
+      "location": {
+        "lat": 33.2475733,
+        "lng": 35.5485006
+      },
+      "formatted": "משגב עם, ישראל",
+      "city": "משגב עם"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-03-05T14:00:00.000Z",
+        "timestamp_end": "2026-03-05T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/22AAC2E4-5EA4-4E59-BD41-DCD7EF7016F4"
       }
     ]
   },
@@ -1480,39 +1498,6 @@
   },
   {
     "address": {
-      "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
-      "location": {
-        "lat": 32.8440668,
-        "lng": 35.0802042
-      },
-      "formatted": "החשמונאים 75, קרית מוצקין, ישראל",
-      "city": "קרית מוצקין"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-03-06T06:00:00.000Z",
-        "timestamp_end": "2026-03-06T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CFAC7263-C0A8-4689-859C-547698AAEECC"
-      },
-      {
-        "timestamp_start": "2026-03-13T06:00:00.000Z",
-        "timestamp_end": "2026-03-13T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/543E357E-B6D5-48D0-B9C3-7309B6A92685"
-      },
-      {
-        "timestamp_start": "2026-03-20T06:00:00.000Z",
-        "timestamp_end": "2026-03-20T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9C67EFE0-FFB5-4E77-BE4C-58BD317CB0A0"
-      },
-      {
-        "timestamp_start": "2026-03-27T05:00:00.000Z",
-        "timestamp_end": "2026-03-27T09:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F1A130BD-91F4-4C86-9D1B-EB35203FB842"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
       "location": {
         "lat": 32.4445161,
@@ -1541,6 +1526,39 @@
         "timestamp_start": "2026-03-27T05:00:00.000Z",
         "timestamp_end": "2026-03-27T09:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/55D8CF04-CA7F-44AC-9C37-CB2967E0C8F3"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
+      "location": {
+        "lat": 32.8440668,
+        "lng": 35.0802042
+      },
+      "formatted": "החשמונאים 75, קרית מוצקין, ישראל",
+      "city": "קרית מוצקין"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-03-06T06:00:00.000Z",
+        "timestamp_end": "2026-03-06T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CFAC7263-C0A8-4689-859C-547698AAEECC"
+      },
+      {
+        "timestamp_start": "2026-03-13T06:00:00.000Z",
+        "timestamp_end": "2026-03-13T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/543E357E-B6D5-48D0-B9C3-7309B6A92685"
+      },
+      {
+        "timestamp_start": "2026-03-20T06:00:00.000Z",
+        "timestamp_end": "2026-03-20T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9C67EFE0-FFB5-4E77-BE4C-58BD317CB0A0"
+      },
+      {
+        "timestamp_start": "2026-03-27T05:00:00.000Z",
+        "timestamp_end": "2026-03-27T09:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F1A130BD-91F4-4C86-9D1B-EB35203FB842"
       }
     ]
   },
@@ -1762,6 +1780,24 @@
   },
   {
     "address": {
+      "unformatted": "הדסים, בי\"ס הדסים",
+      "location": {
+        "lat": 32.2870864,
+        "lng": 34.8860981
+      },
+      "formatted": "אבן יהודה, ישראל",
+      "city": "הדסים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-03-10T07:00:00.000Z",
+        "timestamp_end": "2026-03-10T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9EE969A4-210C-4CCD-8773-E234ABF0BDDF"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "אגן הסהר 1 מעלה אדומים, משטרת מעלה אדומים",
       "location": {
         "lat": 31.7682904,
@@ -1793,24 +1829,6 @@
         "timestamp_start": "2026-03-10T10:00:00.000Z",
         "timestamp_end": "2026-03-10T16:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/ED358854-8BD8-438F-B93B-C8C08ABF50E8"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "הדסים, בי\"ס הדסים",
-      "location": {
-        "lat": 32.2870864,
-        "lng": 34.8860981
-      },
-      "formatted": "אבן יהודה, ישראל",
-      "city": "הדסים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-03-10T07:00:00.000Z",
-        "timestamp_end": "2026-03-10T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9EE969A4-210C-4CCD-8773-E234ABF0BDDF"
       }
     ]
   },
