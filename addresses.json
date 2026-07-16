@@ -37,6 +37,24 @@
   },
   {
     "address": {
+      "unformatted": "ליד מקדונלד'ס באר טוביה, ביג קסטינה",
+      "location": {
+        "lat": 31.727355,
+        "lng": 34.754986
+      },
+      "formatted": "באר טוביה, 8381500, ישראל",
+      "city": "באר טוביה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-16T07:00:00.000Z",
+        "timestamp_end": "2026-07-16T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/46160C92-57F3-4BE1-A8D1-128FABED5670"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "מורשת, אולם חנה",
       "location": {
         "lat": 32.8258373,
@@ -50,24 +68,6 @@
         "timestamp_start": "2026-07-16T14:00:00.000Z",
         "timestamp_end": "2026-07-16T19:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/970DB165-D70E-4D41-BB37-6E26F3856EC0"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "מזרע, מועדון לחבר",
-      "location": {
-        "lat": 32.6498803,
-        "lng": 35.2864054
-      },
-      "formatted": "מזרע, ישראל",
-      "city": "מזרע"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-16T13:00:00.000Z",
-        "timestamp_end": "2026-07-16T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DE5A06F8-348D-4BE3-8F0C-0F714D0CE32F"
       }
     ]
   },
@@ -246,24 +246,6 @@
   },
   {
     "address": {
-      "unformatted": "שד' ההסתדרות חיפה, מרכזית לב המפרץ - ברחבת הכניסה לרכבת",
-      "location": {
-        "lat": 32.79385,
-        "lng": 35.037189
-      },
-      "formatted": "חיפה- לב המפרץ, שדרות ההסתדרות 55, חיפה, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-16T06:00:00.000Z",
-        "timestamp_end": "2026-07-16T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/13FE90DB-0DC2-42AF-BAD9-973D6461E6B6"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "העליה השניה 8 חיפה, בי\"ח רמב\"ם - קניון סגול",
       "location": {
         "lat": 32.8329875,
@@ -295,6 +277,72 @@
         "timestamp_start": "2026-07-16T14:00:00.000Z",
         "timestamp_end": "2026-07-16T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7A15C290-E451-410C-8A6C-F68EBE84744A"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שד' ההסתדרות חיפה, מרכזית לב המפרץ - ברחבת הכניסה לרכבת",
+      "location": {
+        "lat": 32.79385,
+        "lng": 35.037189
+      },
+      "formatted": "חיפה- לב המפרץ, שדרות ההסתדרות 55, חיפה, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-16T06:00:00.000Z",
+        "timestamp_end": "2026-07-16T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/13FE90DB-0DC2-42AF-BAD9-973D6461E6B6"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "חיפה, מתחם קניות חוצות המפרץ - ליד גרג",
+      "location": {
+        "lat": 32.8092185,
+        "lng": 35.0557838
+      },
+      "formatted": "החרושת 8, חיפה, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-16T13:00:00.000Z",
+        "timestamp_end": "2026-07-16T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7C08057E-74ED-4600-819B-0152D820483E"
+      },
+      {
+        "timestamp_start": "2026-07-16T06:15:00.000Z",
+        "timestamp_end": "2026-07-16T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D1D1C9F0-080D-4FF9-A86B-58E604C83F6B"
+      },
+      {
+        "timestamp_start": "2026-07-17T05:00:00.000Z",
+        "timestamp_end": "2026-07-17T10:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1AE476E1-8E3F-463E-A546-80D0F9F660F9"
+      },
+      {
+        "timestamp_start": "2026-07-19T08:00:00.000Z",
+        "timestamp_end": "2026-07-19T15:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5323A393-D5EB-460B-8A15-8FDCAB514A7C"
+      },
+      {
+        "timestamp_start": "2026-07-20T12:00:00.000Z",
+        "timestamp_end": "2026-07-20T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92FB5A0E-1E58-4184-A297-131E0A18B76A"
+      },
+      {
+        "timestamp_start": "2026-07-21T12:00:00.000Z",
+        "timestamp_end": "2026-07-21T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F447D217-93CE-4E76-AC30-E93702929AAD"
+      },
+      {
+        "timestamp_start": "2026-07-26T06:15:00.000Z",
+        "timestamp_end": "2026-07-26T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/678E83A0-C93C-48A1-BD34-D5D581E7D56B"
       }
     ]
   },
@@ -452,6 +500,11 @@
       "city": "רחובות"
     },
     "times": [
+      {
+        "timestamp_start": "2026-07-16T12:01:00.000Z",
+        "timestamp_end": "2026-07-16T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/ACAEF8DB-09C7-4AEE-965A-DCDDB7AEFCB8"
+      },
       {
         "timestamp_start": "2026-07-16T06:00:00.000Z",
         "timestamp_end": "2026-07-16T12:00:00.000Z",
@@ -684,34 +737,6 @@
   },
   {
     "address": {
-      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
-      "location": {
-        "lat": 32.4445161,
-        "lng": 34.9228603
-      },
-      "formatted": "אביאור 7-11, חדרה, ישראל",
-      "city": "חדרה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-17T05:00:00.000Z",
-        "timestamp_end": "2026-07-17T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6E85FEBF-DEF7-45BF-B9D3-2701E18B65D6"
-      },
-      {
-        "timestamp_start": "2026-08-07T05:00:00.000Z",
-        "timestamp_end": "2026-08-07T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/929AEBD0-A2DD-43AB-B432-1BF4E07E04A9"
-      },
-      {
-        "timestamp_start": "2026-08-14T05:00:00.000Z",
-        "timestamp_end": "2026-08-14T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C903C78F-ECD2-460F-B559-E4D177518F53"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "החשמונאים 75 קרית מוצקין, רח' החשמונאים 75 קרית מוצקין, - תחנת מד\"א",
       "location": {
         "lat": 32.8440668,
@@ -786,6 +811,34 @@
   },
   {
     "address": {
+      "unformatted": "אביאור 7 חדרה, תחנת מד\"א חדרה, - תחנת מד\"א",
+      "location": {
+        "lat": 32.4445161,
+        "lng": 34.9228603
+      },
+      "formatted": "אביאור 7-11, חדרה, ישראל",
+      "city": "חדרה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-17T05:00:00.000Z",
+        "timestamp_end": "2026-07-17T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6E85FEBF-DEF7-45BF-B9D3-2701E18B65D6"
+      },
+      {
+        "timestamp_start": "2026-08-07T05:00:00.000Z",
+        "timestamp_end": "2026-08-07T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/929AEBD0-A2DD-43AB-B432-1BF4E07E04A9"
+      },
+      {
+        "timestamp_start": "2026-08-14T05:00:00.000Z",
+        "timestamp_end": "2026-08-14T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C903C78F-ECD2-460F-B559-E4D177518F53"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "חיפה, רח' יצחק שדה 10 (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 32.824678,
@@ -824,39 +877,19 @@
   },
   {
     "address": {
-      "unformatted": "חיפה, מתחם קניות חוצות המפרץ - ליד גרג",
+      "unformatted": "נטע, מועדון יישוב",
       "location": {
-        "lat": 32.8092185,
-        "lng": 35.0557838
+        "lat": 31.477893,
+        "lng": 34.927774
       },
-      "formatted": "החרושת 8, חיפה, ישראל",
-      "city": "חיפה"
+      "formatted": "נטע מרשם, ישראל",
+      "city": "נטע"
     },
     "times": [
       {
-        "timestamp_start": "2026-07-17T05:00:00.000Z",
-        "timestamp_end": "2026-07-17T10:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1AE476E1-8E3F-463E-A546-80D0F9F660F9"
-      },
-      {
-        "timestamp_start": "2026-07-19T08:00:00.000Z",
-        "timestamp_end": "2026-07-19T15:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5323A393-D5EB-460B-8A15-8FDCAB514A7C"
-      },
-      {
-        "timestamp_start": "2026-07-20T12:00:00.000Z",
-        "timestamp_end": "2026-07-20T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92FB5A0E-1E58-4184-A297-131E0A18B76A"
-      },
-      {
-        "timestamp_start": "2026-07-21T12:00:00.000Z",
-        "timestamp_end": "2026-07-21T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F447D217-93CE-4E76-AC30-E93702929AAD"
-      },
-      {
-        "timestamp_start": "2026-07-26T06:15:00.000Z",
-        "timestamp_end": "2026-07-26T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/678E83A0-C93C-48A1-BD34-D5D581E7D56B"
+        "timestamp_start": "2026-07-17T06:00:00.000Z",
+        "timestamp_end": "2026-07-17T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/955FDBD9-B505-44E7-9D55-DCB60E3754B7"
       }
     ]
   },
@@ -880,37 +913,19 @@
   },
   {
     "address": {
-      "unformatted": "נטע, מועדון יישוב",
+      "unformatted": "רבי חייא 9 אלעד, מתנ\"ס רבי חייא",
       "location": {
-        "lat": 31.477893,
-        "lng": 34.927774
+        "lat": 32.0504408,
+        "lng": 34.9639259
       },
-      "formatted": "נטע מרשם, ישראל",
-      "city": "נטע"
+      "formatted": "רבי חייא 9, אלעד, ישראל",
+      "city": "אלעד"
     },
     "times": [
       {
-        "timestamp_start": "2026-07-17T06:00:00.000Z",
-        "timestamp_end": "2026-07-17T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/955FDBD9-B505-44E7-9D55-DCB60E3754B7"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "תלמי אלעזר, מועדון",
-      "location": {
-        "lat": 32.447228,
-        "lng": 34.974991
-      },
-      "formatted": "תלמי אלעזר, ישראל",
-      "city": "תלמי אלעזר"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-19T14:00:00.000Z",
+        "timestamp_start": "2026-07-19T13:00:00.000Z",
         "timestamp_end": "2026-07-19T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/90BDDDFE-4786-4CB7-97A7-C8057D0973F2"
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/155A82E0-FF54-4E25-98DF-78BEC456910A"
       }
     ]
   },
@@ -952,37 +967,55 @@
   },
   {
     "address": {
-      "unformatted": "מורטון מנדל 1 ראש העין, בני עקיבא פא\"ר",
+      "unformatted": "תלמי אלעזר, מועדון",
       "location": {
-        "lat": 32.095838,
-        "lng": 34.952177
+        "lat": 32.447228,
+        "lng": 34.974991
       },
-      "formatted": "ראש העין, ישראל",
-      "city": "ראש העין"
+      "formatted": "תלמי אלעזר, ישראל",
+      "city": "תלמי אלעזר"
     },
     "times": [
       {
         "timestamp_start": "2026-07-19T14:00:00.000Z",
-        "timestamp_end": "2026-07-19T18:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/269EA249-535C-4D98-918E-D9360D40365D"
+        "timestamp_end": "2026-07-19T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/90BDDDFE-4786-4CB7-97A7-C8057D0973F2"
       }
     ]
   },
   {
     "address": {
-      "unformatted": "רבי חייא 9 אלעד, מתנ\"ס רבי חייא",
+      "unformatted": "ניר יצחק, מרכזון \"פשוש\"",
       "location": {
-        "lat": 32.0504408,
-        "lng": 34.9639259
+        "lat": 31.23604,
+        "lng": 34.356702
       },
-      "formatted": "רבי חייא 9, אלעד, ישראל",
-      "city": "אלעד"
+      "formatted": "ניר יצחק, ישראל",
+      "city": "ניר יצחק"
     },
     "times": [
       {
         "timestamp_start": "2026-07-19T13:00:00.000Z",
-        "timestamp_end": "2026-07-19T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/155A82E0-FF54-4E25-98DF-78BEC456910A"
+        "timestamp_end": "2026-07-19T17:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5F35E6EF-D4D1-4475-8D35-F2AD51FE4B9F"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "0147 3 קרית גת",
+      "location": {
+        "lat": 31.6104718,
+        "lng": 34.7722948
+      },
+      "formatted": "קרית גת, ישראל",
+      "city": "קרית גת"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-19T06:30:00.000Z",
+        "timestamp_end": "2026-07-19T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C88E1991-6DED-4481-99EC-876F3D86A82D"
       }
     ]
   },
@@ -1039,42 +1072,6 @@
   },
   {
     "address": {
-      "unformatted": "ניר יצחק, מרכזון \"פשוש\"",
-      "location": {
-        "lat": 31.23604,
-        "lng": 34.356702
-      },
-      "formatted": "ניר יצחק, ישראל",
-      "city": "ניר יצחק"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-19T13:00:00.000Z",
-        "timestamp_end": "2026-07-19T17:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5F35E6EF-D4D1-4475-8D35-F2AD51FE4B9F"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "0147 3 קרית גת",
-      "location": {
-        "lat": 31.6104718,
-        "lng": 34.7722948
-      },
-      "formatted": "קרית גת, ישראל",
-      "city": "קרית גת"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-19T06:30:00.000Z",
-        "timestamp_end": "2026-07-19T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C88E1991-6DED-4481-99EC-876F3D86A82D"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "כברי, מועדון",
       "location": {
         "lat": 33.0208066,
@@ -1124,6 +1121,24 @@
         "timestamp_start": "2026-07-19T13:00:00.000Z",
         "timestamp_end": "2026-07-19T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1F6702A0-FA0A-49E2-B619-A92AAFDC6751"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מורטון מנדל 1 ראש העין, בני עקיבא פא\"ר",
+      "location": {
+        "lat": 32.095838,
+        "lng": 34.952177
+      },
+      "formatted": "ראש העין, ישראל",
+      "city": "ראש העין"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-19T14:00:00.000Z",
+        "timestamp_end": "2026-07-19T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/269EA249-535C-4D98-918E-D9360D40365D"
       }
     ]
   },
@@ -1219,24 +1234,6 @@
   },
   {
     "address": {
-      "unformatted": "מלכיה, מועדון",
-      "location": {
-        "lat": 33.098589,
-        "lng": 35.509624
-      },
-      "formatted": "מלכיה, ישראל",
-      "city": "מלכיה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-20T13:00:00.000Z",
-        "timestamp_end": "2026-07-20T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/97A7757E-5617-4948-9BFA-36CB0D14BBEF"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "יוסף גדיש 1 עכו, מד\"א עכו",
       "location": {
         "lat": 32.924077,
@@ -1250,6 +1247,24 @@
         "timestamp_start": "2026-07-20T12:00:00.000Z",
         "timestamp_end": "2026-07-20T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/28803689-0A27-4FF4-9DC7-777892DF9756"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מלכיה, מועדון",
+      "location": {
+        "lat": 33.098589,
+        "lng": 35.509624
+      },
+      "formatted": "מלכיה, ישראל",
+      "city": "מלכיה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-20T13:00:00.000Z",
+        "timestamp_end": "2026-07-20T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/97A7757E-5617-4948-9BFA-36CB0D14BBEF"
       }
     ]
   },
@@ -1327,24 +1342,6 @@
   },
   {
     "address": {
-      "unformatted": "עין גדי, במועדון מצפה ערוגות",
-      "location": {
-        "lat": 31.453105,
-        "lng": 35.382477
-      },
-      "formatted": "מצפה ערוגות, עין גדי",
-      "city": "עין גדי"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-21T14:00:00.000Z",
-        "timestamp_end": "2026-07-21T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6DD0A96D-0A3D-4BE9-B94A-D27C1ECC0D9F"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "רביד, סמינר הנוער העובד והלומד",
       "location": {
         "lat": 32.850619,
@@ -1399,6 +1396,24 @@
   },
   {
     "address": {
+      "unformatted": "עין גדי, במועדון מצפה ערוגות",
+      "location": {
+        "lat": 31.453105,
+        "lng": 35.382477
+      },
+      "formatted": "מצפה ערוגות, עין גדי",
+      "city": "עין גדי"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-21T14:00:00.000Z",
+        "timestamp_end": "2026-07-21T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6DD0A96D-0A3D-4BE9-B94A-D27C1ECC0D9F"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "ניר יפה, מועדון מושב מלאה",
       "location": {
         "lat": 32.568982,
@@ -1435,24 +1450,6 @@
   },
   {
     "address": {
-      "unformatted": "מניה שוחט 27, מדור הנוער- בני עקיבא אזור",
-      "location": {
-        "lat": 32.0237346,
-        "lng": 34.8093517
-      },
-      "formatted": "אזור, ישראל",
-      "city": "אזור"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-21T14:00:00.000Z",
-        "timestamp_end": "2026-07-21T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6DDB5737-B26F-4843-8EB7-839419C7A5DA"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "חלמיש, מעון נווה צוף",
       "location": {
         "lat": 32.008313,
@@ -1466,6 +1463,24 @@
         "timestamp_start": "2026-07-21T14:30:00.000Z",
         "timestamp_end": "2026-07-21T19:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6C1BC8F2-D5AD-44AF-A472-7E6F5699EC17"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מניה שוחט 27, מדור הנוער- בני עקיבא אזור",
+      "location": {
+        "lat": 32.0237346,
+        "lng": 34.8093517
+      },
+      "formatted": "אזור, ישראל",
+      "city": "אזור"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-21T14:00:00.000Z",
+        "timestamp_end": "2026-07-21T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6DDB5737-B26F-4843-8EB7-839419C7A5DA"
       }
     ]
   },
@@ -1566,24 +1581,6 @@
   },
   {
     "address": {
-      "unformatted": "דגניה א', במועדון בית בוסל",
-      "location": {
-        "lat": 32.70727376694797,
-        "lng": 35.57480886740735
-      },
-      "formatted": "צפת, ישראל",
-      "city": "דגניה א'"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-22T13:00:00.000Z",
-        "timestamp_end": "2026-07-22T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/106CEF65-03B0-418B-B784-42B73D4B5CA7"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "נצר סרני, נצר סרני",
       "location": {
         "lat": 31.922789,
@@ -1602,19 +1599,19 @@
   },
   {
     "address": {
-      "unformatted": "משמר הנגב, מועדון לחבר",
+      "unformatted": "דגניה א', במועדון בית בוסל",
       "location": {
-        "lat": 31.3631748,
-        "lng": 34.7178743
+        "lat": 32.70727376694797,
+        "lng": 35.57480886740735
       },
-      "formatted": "משמר הנגב, ישראל",
-      "city": "משמר הנגב"
+      "formatted": "צפת, ישראל",
+      "city": "דגניה א'"
     },
     "times": [
       {
-        "timestamp_start": "2026-07-22T12:00:00.000Z",
+        "timestamp_start": "2026-07-22T13:00:00.000Z",
         "timestamp_end": "2026-07-22T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/794EAC46-8823-473F-93F4-F05462F204AD"
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/106CEF65-03B0-418B-B784-42B73D4B5CA7"
       }
     ]
   },
@@ -1633,6 +1630,24 @@
         "timestamp_start": "2026-07-22T14:00:00.000Z",
         "timestamp_end": "2026-07-22T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/19BABEE0-33A1-4E0C-A87F-E17035538B4D"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "משמר הנגב, מועדון לחבר",
+      "location": {
+        "lat": 31.3631748,
+        "lng": 34.7178743
+      },
+      "formatted": "משמר הנגב, ישראל",
+      "city": "משמר הנגב"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-22T12:00:00.000Z",
+        "timestamp_end": "2026-07-22T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/794EAC46-8823-473F-93F4-F05462F204AD"
       }
     ]
   },
@@ -1710,78 +1725,6 @@
   },
   {
     "address": {
-      "unformatted": "כמאנה, מתנ\"ס",
-      "location": {
-        "lat": 32.909311,
-        "lng": 35.336928
-      },
-      "formatted": "כמאנה, ישראל",
-      "city": "כמאנה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-23T13:00:00.000Z",
-        "timestamp_end": "2026-07-23T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/88E8DC52-C283-44A9-BD42-14924A8EEFAA"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "משמר השרון, משמר השרון",
-      "location": {
-        "lat": 32.356305,
-        "lng": 34.904256
-      },
-      "formatted": "משמר השרון, ישראל",
-      "city": "משמר השרון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-23T13:00:00.000Z",
-        "timestamp_end": "2026-07-23T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/515B5374-3A5D-43FB-8EE2-8F4020E80AD5"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "דאלית אל כרמל, קניון עלי מול",
-      "location": {
-        "lat": 32.6990965,
-        "lng": 35.0573019
-      },
-      "formatted": "672, דאלית אל-כרמל, ישראל",
-      "city": "דאלית אל כרמל"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-23T09:00:00.000Z",
-        "timestamp_end": "2026-07-23T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DA6AEC3E-EC3F-498D-838C-BF654F7B4965"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "געש, מועדון לחבר קיבוץ געש",
-      "location": {
-        "lat": 32.228477,
-        "lng": 34.824411
-      },
-      "formatted": "געש, ישראל",
-      "city": "געש"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-23T13:00:00.000Z",
-        "timestamp_end": "2026-07-23T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8F23AEA1-B369-4322-B3FF-2AF5412F662D"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "טובא זנגריה, מרכז הצעירים",
       "location": {
         "lat": 32.96621,
@@ -1818,6 +1761,42 @@
   },
   {
     "address": {
+      "unformatted": "כמאנה, מתנ\"ס",
+      "location": {
+        "lat": 32.909311,
+        "lng": 35.336928
+      },
+      "formatted": "כמאנה, ישראל",
+      "city": "כמאנה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-23T13:00:00.000Z",
+        "timestamp_end": "2026-07-23T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/88E8DC52-C283-44A9-BD42-14924A8EEFAA"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "משמר השרון, משמר השרון",
+      "location": {
+        "lat": 32.356305,
+        "lng": 34.904256
+      },
+      "formatted": "משמר השרון, ישראל",
+      "city": "משמר השרון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-23T13:00:00.000Z",
+        "timestamp_end": "2026-07-23T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/515B5374-3A5D-43FB-8EE2-8F4020E80AD5"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "בני ציון, מועדון ותיקים",
       "location": {
         "lat": 32.2185321,
@@ -1831,6 +1810,42 @@
         "timestamp_start": "2026-07-23T13:00:00.000Z",
         "timestamp_end": "2026-07-23T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/882AC785-3D86-455D-A03B-DFE5EB014CF8"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "געש, מועדון לחבר קיבוץ געש",
+      "location": {
+        "lat": 32.228477,
+        "lng": 34.824411
+      },
+      "formatted": "געש, ישראל",
+      "city": "געש"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-23T13:00:00.000Z",
+        "timestamp_end": "2026-07-23T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8F23AEA1-B369-4322-B3FF-2AF5412F662D"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דאלית אל כרמל, קניון עלי מול",
+      "location": {
+        "lat": 32.6990965,
+        "lng": 35.0573019
+      },
+      "formatted": "672, דאלית אל-כרמל, ישראל",
+      "city": "דאלית אל כרמל"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-23T09:00:00.000Z",
+        "timestamp_end": "2026-07-23T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DA6AEC3E-EC3F-498D-838C-BF654F7B4965"
       }
     ]
   },
@@ -1854,24 +1869,6 @@
   },
   {
     "address": {
-      "unformatted": "מתנ\"ס תל שבע",
-      "location": {
-        "lat": 31.2462084,
-        "lng": 34.8577086
-      },
-      "formatted": "תל שבע, ישראל",
-      "city": "תל שבע"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-23T06:30:00.000Z",
-        "timestamp_end": "2026-07-23T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6E4AA42F-7207-44CF-82D3-E9E578DD13C3"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "רהט, מתנ\"ס רהט",
       "location": {
         "lat": 31.3970941,
@@ -1885,6 +1882,24 @@
         "timestamp_start": "2026-07-23T12:00:00.000Z",
         "timestamp_end": "2026-07-23T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/473C0716-42E3-4270-85D2-342779237842"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מתנ\"ס תל שבע",
+      "location": {
+        "lat": 31.2462084,
+        "lng": 34.8577086
+      },
+      "formatted": "תל שבע, ישראל",
+      "city": "תל שבע"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-23T06:30:00.000Z",
+        "timestamp_end": "2026-07-23T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6E4AA42F-7207-44CF-82D3-E9E578DD13C3"
       }
     ]
   },
@@ -1980,6 +1995,24 @@
   },
   {
     "address": {
+      "unformatted": "המתמיד 13 ראש העין, המחלקה למורשת ישראל",
+      "location": {
+        "lat": 32.0917851,
+        "lng": 34.9498516
+      },
+      "formatted": "המתמיד 13, ראש העין, ישראל",
+      "city": "ראש העין"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-26T13:00:00.000Z",
+        "timestamp_end": "2026-07-26T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4DBEDEE7-439C-4307-814D-1DAC79D1FA2D"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "אום אל פחם, ליד מזרקת אל נפורא",
       "location": {
         "lat": 32.517127,
@@ -2021,24 +2054,6 @@
   },
   {
     "address": {
-      "unformatted": "המתמיד 13 ראש העין, המחלקה למורשת ישראל",
-      "location": {
-        "lat": 32.0917851,
-        "lng": 34.9498516
-      },
-      "formatted": "המתמיד 13, ראש העין, ישראל",
-      "city": "ראש העין"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-26T13:00:00.000Z",
-        "timestamp_end": "2026-07-26T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4DBEDEE7-439C-4307-814D-1DAC79D1FA2D"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "נווה מיכאל, בבית העם נווה מיכאל",
       "location": {
         "lat": 31.6720255,
@@ -2057,24 +2072,6 @@
   },
   {
     "address": {
-      "unformatted": "חיל הצנחנים 5 ראשון לציון, מרכז קהילתי \"נווה חוף\"",
-      "location": {
-        "lat": 31.9947375,
-        "lng": 34.7413342
-      },
-      "formatted": "חיל הצנחנים 5, ראשון לציון, ישראל",
-      "city": "ראשון לציון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-26T13:00:00.000Z",
-        "timestamp_end": "2026-07-26T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7E7AB2A1-28F5-4A8B-9731-08462E098A2D"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "בית גוברין, בית גוברין",
       "location": {
         "lat": 31.61288,
@@ -2088,6 +2085,24 @@
         "timestamp_start": "2026-07-26T13:00:00.000Z",
         "timestamp_end": "2026-07-26T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8AC40EBA-0AC6-4505-9BCB-8C4EF346624E"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "חיל הצנחנים 5 ראשון לציון, מרכז קהילתי \"נווה חוף\"",
+      "location": {
+        "lat": 31.9947375,
+        "lng": 34.7413342
+      },
+      "formatted": "חיל הצנחנים 5, ראשון לציון, ישראל",
+      "city": "ראשון לציון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-26T13:00:00.000Z",
+        "timestamp_end": "2026-07-26T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7E7AB2A1-28F5-4A8B-9731-08462E098A2D"
       }
     ]
   },
@@ -2129,24 +2144,6 @@
   },
   {
     "address": {
-      "unformatted": "הלילך 7 יבנה, מבנה בני עקיבא יבנה",
-      "location": {
-        "lat": 31.870348,
-        "lng": 34.74622
-      },
-      "formatted": "הלילך 9, יבנה, ישראל",
-      "city": "יבנה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-27T14:00:00.000Z",
-        "timestamp_end": "2026-07-27T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/44BBA43C-FFFB-4FA6-826E-D3D65F29E064"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "גינוסר, מרפאה",
       "location": {
         "lat": 32.848666,
@@ -2160,6 +2157,24 @@
         "timestamp_start": "2026-07-27T12:00:00.000Z",
         "timestamp_end": "2026-07-27T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D22802BA-B826-4013-B79C-523394D5CBFA"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "הלילך 7 יבנה, מבנה בני עקיבא יבנה",
+      "location": {
+        "lat": 31.870348,
+        "lng": 34.74622
+      },
+      "formatted": "הלילך 9, יבנה, ישראל",
+      "city": "יבנה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-27T14:00:00.000Z",
+        "timestamp_end": "2026-07-27T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/44BBA43C-FFFB-4FA6-826E-D3D65F29E064"
       }
     ]
   },
@@ -2255,6 +2270,24 @@
   },
   {
     "address": {
+      "unformatted": "ויצמן 60 תל אביב יפו, אולם בית החייל",
+      "location": {
+        "lat": 32.0903834,
+        "lng": 34.79086789999999
+      },
+      "formatted": "ויצמן‬ 60, תל אביב-יפו, ישראל",
+      "city": "תל אביב יפו"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-29T06:30:00.000Z",
+        "timestamp_end": "2026-07-29T11:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/65596CD3-2987-4ADF-A4AC-05A550B3186E"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "קדרים, מרפאה",
       "location": {
         "lat": 32.898886,
@@ -2309,42 +2342,6 @@
   },
   {
     "address": {
-      "unformatted": "ויצמן 60 תל אביב יפו, אולם בית החייל",
-      "location": {
-        "lat": 32.0903834,
-        "lng": 34.79086789999999
-      },
-      "formatted": "ויצמן‬ 60, תל אביב-יפו, ישראל",
-      "city": "תל אביב יפו"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-29T06:30:00.000Z",
-        "timestamp_end": "2026-07-29T11:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/65596CD3-2987-4ADF-A4AC-05A550B3186E"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "כפר ראש הנקרה, בית התרבות",
-      "location": {
-        "lat": 33.0860912,
-        "lng": 35.1134563
-      },
-      "formatted": "1, Rosh HaNikra, ישראל",
-      "city": "כפר ראש הנקרה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-30T13:00:00.000Z",
-        "timestamp_end": "2026-07-30T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/57910A49-779E-4905-AC64-DB95B3DD780C"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "שדרות הבנים 117 מגדל העמק, תחנת מד\"א מגדל העמק, - תחנת מד\"א",
       "location": {
         "lat": 32.6746,
@@ -2381,19 +2378,19 @@
   },
   {
     "address": {
-      "unformatted": "דרך למרחב פרדס חנה כרכור, בית כנסת אור לישרים",
+      "unformatted": "כפר ראש הנקרה, בית התרבות",
       "location": {
-        "lat": 32.4714438,
-        "lng": 34.9607232
+        "lat": 33.0860912,
+        "lng": 35.1134563
       },
-      "formatted": "דרך למרחב, פרדס חנה כרכור, ישראל",
-      "city": "פרדס חנה כרכור"
+      "formatted": "1, Rosh HaNikra, ישראל",
+      "city": "כפר ראש הנקרה"
     },
     "times": [
       {
-        "timestamp_start": "2026-07-30T14:00:00.000Z",
+        "timestamp_start": "2026-07-30T13:00:00.000Z",
         "timestamp_end": "2026-07-30T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D5CC18BF-59AF-4C46-89F3-3280FA90F6FC"
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/57910A49-779E-4905-AC64-DB95B3DD780C"
       }
     ]
   },
@@ -2412,6 +2409,24 @@
         "timestamp_start": "2026-07-30T13:00:00.000Z",
         "timestamp_end": "2026-07-30T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3C5BB6F6-0E0D-4BB5-A17D-3273E3F8E9FE"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דרך למרחב פרדס חנה כרכור, בית כנסת אור לישרים",
+      "location": {
+        "lat": 32.4714438,
+        "lng": 34.9607232
+      },
+      "formatted": "דרך למרחב, פרדס חנה כרכור, ישראל",
+      "city": "פרדס חנה כרכור"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-30T14:00:00.000Z",
+        "timestamp_end": "2026-07-30T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D5CC18BF-59AF-4C46-89F3-3280FA90F6FC"
       }
     ]
   },
