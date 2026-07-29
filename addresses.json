@@ -440,6 +440,24 @@
   },
   {
     "address": {
+      "unformatted": "יפו 224 ירושלים, התחנה המרכזית - מול הכניסה, במעבר לתחנת הרכבת הקלה",
+      "location": {
+        "lat": 31.7890344,
+        "lng": 35.2033251
+      },
+      "formatted": "יפו 224, ירושלים, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-29T07:00:00.000Z",
+        "timestamp_end": "2026-07-29T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EFF840A2-1599-4C2A-B538-BE6326FD91A8"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "ירושלים 35 כפר סבא, היכל התרבות",
       "location": {
         "lat": 32.1768487,
@@ -471,42 +489,6 @@
         "timestamp_start": "2026-07-30T13:30:00.000Z",
         "timestamp_end": "2026-07-30T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3E6E8779-CE41-48E8-BC8F-1D3F3A9A7742"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "בן גוריון 1 רמת גן, מגדל ב.ס.ר 2",
-      "location": {
-        "lat": 32.0959066,
-        "lng": 34.8220344
-      },
-      "formatted": "דוד בן גוריון 1, בני ברק, ישראל",
-      "city": "רמת גן"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-30T07:00:00.000Z",
-        "timestamp_end": "2026-07-30T12:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/38CADE9C-E508-44D7-AFDC-23F20582A4B1"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "גביזון 2 בת ים, שכונת עמידר גינת גביזון",
-      "location": {
-        "lat": 32.0273324,
-        "lng": 34.7570764
-      },
-      "formatted": "הרב גביזון 2, בת ים, ישראל",
-      "city": "בת ים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-30T13:00:00.000Z",
-        "timestamp_end": "2026-07-30T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3C5BB6F6-0E0D-4BB5-A17D-3273E3F8E9FE"
       }
     ]
   },
@@ -548,24 +530,6 @@
         "timestamp_start": "2026-07-30T13:00:00.000Z",
         "timestamp_end": "2026-07-30T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C02DB2B2-53BD-4F71-BFB8-CC324562ADC6"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "בן יהודה פינת תל חי 6 כפר סבא, בני עקיבא כפר סבא",
-      "location": {
-        "lat": 32.1705232,
-        "lng": 34.9137492
-      },
-      "formatted": "תל חי 6, כפר סבא, ישראל",
-      "city": "כפר סבא"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-07-30T14:00:00.000Z",
-        "timestamp_end": "2026-07-30T18:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/035D9C56-E739-423A-A48C-4365326EA06F"
       }
     ]
   },
@@ -715,6 +679,60 @@
         "timestamp_start": "2026-07-30T12:30:00.000Z",
         "timestamp_end": "2026-07-30T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6EFB88A7-86F4-43FF-A751-19E836988546"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "בן גוריון 1 רמת גן, מגדל ב.ס.ר 2",
+      "location": {
+        "lat": 32.0959066,
+        "lng": 34.8220344
+      },
+      "formatted": "דוד בן גוריון 1, בני ברק, ישראל",
+      "city": "רמת גן"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-30T07:00:00.000Z",
+        "timestamp_end": "2026-07-30T12:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/38CADE9C-E508-44D7-AFDC-23F20582A4B1"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "גביזון 2 בת ים, שכונת עמידר גינת גביזון",
+      "location": {
+        "lat": 32.0273324,
+        "lng": 34.7570764
+      },
+      "formatted": "הרב גביזון 2, בת ים, ישראל",
+      "city": "בת ים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-30T13:00:00.000Z",
+        "timestamp_end": "2026-07-30T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/3C5BB6F6-0E0D-4BB5-A17D-3273E3F8E9FE"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "בן יהודה פינת תל חי 6 כפר סבא, בני עקיבא כפר סבא",
+      "location": {
+        "lat": 32.1705232,
+        "lng": 34.9137492
+      },
+      "formatted": "תל חי 6, כפר סבא, ישראל",
+      "city": "כפר סבא"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-07-30T14:00:00.000Z",
+        "timestamp_end": "2026-07-30T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/035D9C56-E739-423A-A48C-4365326EA06F"
       }
     ]
   },
@@ -1481,6 +1499,24 @@
   },
   {
     "address": {
+      "unformatted": "יד חנה בבית העם",
+      "location": {
+        "lat": 32.3260439,
+        "lng": 35.0069064
+      },
+      "formatted": "יד חנה, ישראל",
+      "city": "יד חנה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-08-04T13:00:00.000Z",
+        "timestamp_end": "2026-08-04T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D12CDAEB-A717-429C-AC7E-7648941D4FBC"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "כרמיאל, פסטיבל מחולות",
       "location": {
         "lat": 32.9140755,
@@ -1756,6 +1792,24 @@
         "timestamp_start": "2026-08-06T13:00:00.000Z",
         "timestamp_end": "2026-08-06T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7E17B9AE-6BB4-4687-ABBB-E370E5FDA58F"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שדרות נים 2 ראשון לציון, מרכז עזריאלי ראשונים",
+      "location": {
+        "lat": 31.949533,
+        "lng": 34.803047
+      },
+      "formatted": "שדרות נים 2, ראשון לציון, 7546302, ישראל",
+      "city": "ראשון לציון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-08-07T06:00:00.000Z",
+        "timestamp_end": "2026-08-07T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/403DAB75-BB47-4116-8058-294FC9D9FD77"
       }
     ]
   },
