@@ -214,6 +214,29 @@
   },
   {
     "address": {
+      "unformatted": "יפו 224 ירושלים, התחנה המרכזית - מול הכניסה, במעבר לתחנת הרכבת הקלה",
+      "location": {
+        "lat": 31.7890344,
+        "lng": 35.2033251
+      },
+      "formatted": "יפו 224, ירושלים, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-08-19T13:00:00.000Z",
+        "timestamp_end": "2026-08-19T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/EF95DB3A-C6D4-4668-8168-915285451B9F"
+      },
+      {
+        "timestamp_start": "2026-08-19T07:00:00.000Z",
+        "timestamp_end": "2026-08-19T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/39862005-D5E1-42AA-802A-FCA3203C3666"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "שפרעם, מתנ\"ס שכונת חיילים משוחררים",
       "location": {
         "lat": 32.8035805,
@@ -332,6 +355,11 @@
         "timestamp_start": "2026-08-23T06:00:00.000Z",
         "timestamp_end": "2026-08-23T14:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/AD4FC96B-57E2-4F51-A0CB-A660B1A89824"
+      },
+      {
+        "timestamp_start": "2026-08-24T06:00:00.000Z",
+        "timestamp_end": "2026-08-24T14:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/305D5B95-CF90-43D2-9885-DA756270E275"
       },
       {
         "timestamp_start": "2026-08-25T09:00:00.000Z",
@@ -540,24 +568,6 @@
   },
   {
     "address": {
-      "unformatted": "תקוע, מועדון הנוער ישוב תקוע",
-      "location": {
-        "lat": 31.652785,
-        "lng": 35.227517
-      },
-      "formatted": "תקוע",
-      "city": "תקוע"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-08-20T14:00:00.000Z",
-        "timestamp_end": "2026-08-20T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/38FA0617-287A-4E9C-BE87-BBF2527A18DF"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ירושלים 1 בני ברק, אולם משואות בני ברק",
       "location": {
         "lat": 32.084932,
@@ -679,6 +689,24 @@
         "timestamp_start": "2026-08-20T08:00:00.000Z",
         "timestamp_end": "2026-08-20T13:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/52B210E5-A34F-4219-A684-AB0D7F4CAE3C"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "תקוע, מועדון הנוער ישוב תקוע",
+      "location": {
+        "lat": 31.652785,
+        "lng": 35.227517
+      },
+      "formatted": "תקוע",
+      "city": "תקוע"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-08-20T14:00:00.000Z",
+        "timestamp_end": "2026-08-20T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/38FA0617-287A-4E9C-BE87-BBF2527A18DF"
       }
     ]
   },
