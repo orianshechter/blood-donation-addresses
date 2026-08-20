@@ -92,6 +92,11 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2F3FD288-6C33-4AA0-BCA1-9F48333780E0"
       },
       {
+        "timestamp_start": "2026-08-22T06:30:00.000Z",
+        "timestamp_end": "2026-08-22T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CB887AAF-14CE-43D3-8D9A-ED813E78E8E5"
+      },
+      {
         "timestamp_start": "2026-08-23T13:00:00.000Z",
         "timestamp_end": "2026-08-23T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0C1D1C77-F85E-4BBE-89D2-B67C395B5B9F"
@@ -646,6 +651,24 @@
   },
   {
     "address": {
+      "unformatted": "דרך הדרום קרית גת, ביג קרית גת דרך הדרום",
+      "location": {
+        "lat": 31.6031047,
+        "lng": 34.77151560000001
+      },
+      "formatted": "דרך הדרום 3, קרית גת, ישראל",
+      "city": "קרית גת"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-08-21T05:30:00.000Z",
+        "timestamp_end": "2026-08-21T11:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92FE9912-93F4-47C0-B23E-98E9C995747E"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "אשדוד, מד\"א אשדוד רח' הרפואה 1 (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 31.7799797,
@@ -828,24 +851,6 @@
   },
   {
     "address": {
-      "unformatted": "טלמון, אולם קדם אולם מעל המעון",
-      "location": {
-        "lat": 31.93947499999999,
-        "lng": 35.133131
-      },
-      "formatted": "טלמון",
-      "city": "טלמון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-08-23T14:00:00.000Z",
-        "timestamp_end": "2026-08-23T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C5A538B7-385E-44E4-84CE-305CEF7693C7"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "כביש מעונה נהריה, בי\"ח נהריה מול קפיטרית יעל",
       "location": {
         "lat": 33.0144146,
@@ -931,6 +936,24 @@
         "timestamp_start": "2026-08-23T13:00:00.000Z",
         "timestamp_end": "2026-08-23T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/01CAE79D-5AA9-44D0-A2AF-2E7FF5F72D48"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "טלמון, אולם אירועים המרכזי מתחת לבית הכנסת",
+      "location": {
+        "lat": 31.93947499999999,
+        "lng": 35.133131
+      },
+      "formatted": "טלמון",
+      "city": "טלמון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-08-23T14:00:00.000Z",
+        "timestamp_end": "2026-08-23T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/C5A538B7-385E-44E4-84CE-305CEF7693C7"
       }
     ]
   },
