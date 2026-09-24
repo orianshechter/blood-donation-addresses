@@ -440,8 +440,13 @@
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/01339A12-6DBC-41F1-95B1-FA128F850C08"
       },
       {
-        "timestamp_start": "2026-10-05T12:00:00.000Z",
-        "timestamp_end": "2026-10-05T17:00:00.000Z",
+        "timestamp_start": "2026-10-05T06:15:00.000Z",
+        "timestamp_end": "2026-10-05T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/6E098285-2147-41F4-90B3-3FF2B7B86AFF"
+      },
+      {
+        "timestamp_start": "2026-10-05T13:00:00.000Z",
+        "timestamp_end": "2026-10-05T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F35804BF-82A9-46AF-B0A6-96F804D5F657"
       },
       {
@@ -1390,24 +1395,6 @@
   },
   {
     "address": {
-      "unformatted": "רמת גן, ציר וינטר ליד משרדי הפיקוח פארק לאומי רמת גן",
-      "location": {
-        "lat": 32.0482747,
-        "lng": 34.8242569
-      },
-      "formatted": "הפארק הלאומי רמת גן, אחד העם 3, רמת גן, ישראל",
-      "city": "רמת גן"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-09-27T14:00:00.000Z",
-        "timestamp_end": "2026-09-27T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/00694956-B704-4343-977F-17BB8D662E23"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "רמז 44 נהריה, מתנ\"ס רמז",
       "location": {
         "lat": 33.0004262,
@@ -1444,6 +1431,24 @@
         "timestamp_start": "2026-09-27T12:01:00.000Z",
         "timestamp_end": "2026-09-27T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A42D98F7-1DA2-4E08-BB98-0D21C872386F"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "רמת גן, ציר וינטר ליד משרדי הפיקוח פארק לאומי רמת גן",
+      "location": {
+        "lat": 32.0482747,
+        "lng": 34.8242569
+      },
+      "formatted": "הפארק הלאומי רמת גן, אחד העם 3, רמת גן, ישראל",
+      "city": "רמת גן"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-09-27T14:00:00.000Z",
+        "timestamp_end": "2026-09-27T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/00694956-B704-4343-977F-17BB8D662E23"
       }
     ]
   },
@@ -2093,42 +2098,6 @@
   },
   {
     "address": {
-      "unformatted": "הר המור נריה, אולם ליד בית הכנסת ישוב נריה",
-      "location": {
-        "lat": 31.939107703656227,
-        "lng": 35.1328809533361
-      },
-      "formatted": "נהריה, ישראל",
-      "city": "נריה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-10-01T14:00:00.000Z",
-        "timestamp_end": "2026-10-01T18:40:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8020CD1F-1F05-40EE-9734-B15F5F51BBA5"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "שפרעם, ליד בנק הפועלים",
-      "location": {
-        "lat": 32.8112775,
-        "lng": 35.1650822
-      },
-      "formatted": "ג’ונבלאט שכונת, שפרעם, 20200, ישראל",
-      "city": "שפרעם"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-10-01T06:30:00.000Z",
-        "timestamp_end": "2026-10-01T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/302A3602-DB91-46ED-9659-12506D122724"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "עפולה, מרכז הרפואי העמק בעפולה בלובי בנין 4",
       "location": {
         "lat": 32.6210762,
@@ -2165,6 +2134,42 @@
         "timestamp_start": "2026-10-15T06:00:00.000Z",
         "timestamp_end": "2026-10-15T12:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FBEB1C8E-BBCB-4470-8688-AD8DDD1BECB0"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "הר המור נריה, אולם ליד בית הכנסת ישוב נריה",
+      "location": {
+        "lat": 31.939107703656227,
+        "lng": 35.1328809533361
+      },
+      "formatted": "נהריה, ישראל",
+      "city": "נריה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-01T14:00:00.000Z",
+        "timestamp_end": "2026-10-01T18:40:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8020CD1F-1F05-40EE-9734-B15F5F51BBA5"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שפרעם, ליד בנק הפועלים",
+      "location": {
+        "lat": 32.8112775,
+        "lng": 35.1650822
+      },
+      "formatted": "ג’ונבלאט שכונת, שפרעם, 20200, ישראל",
+      "city": "שפרעם"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-01T06:30:00.000Z",
+        "timestamp_end": "2026-10-01T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/302A3602-DB91-46ED-9659-12506D122724"
       }
     ]
   },
