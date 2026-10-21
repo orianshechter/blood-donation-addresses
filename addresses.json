@@ -119,24 +119,6 @@
   },
   {
     "address": {
-      "unformatted": "שער מגנס ירושלים, בניין מנהלה אוני' גבעת רם",
-      "location": {
-        "lat": 31.7742708,
-        "lng": 35.2007044
-      },
-      "formatted": "גבעת רם, ירושלים, ישראל",
-      "city": "ירושלים"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-10-21T06:30:00.000Z",
-        "timestamp_end": "2026-10-21T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/28C23840-F4A2-4298-A40F-B596966BB701"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ירושלים, רח' המ\"ג 7 רוממה (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 31.7913012,
@@ -225,6 +207,24 @@
   },
   {
     "address": {
+      "unformatted": "שער מגנס ירושלים, בניין מנהלה אוני' גבעת רם",
+      "location": {
+        "lat": 31.7742708,
+        "lng": 35.2007044
+      },
+      "formatted": "גבעת רם, ירושלים, ישראל",
+      "city": "ירושלים"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-21T06:30:00.000Z",
+        "timestamp_end": "2026-10-21T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/28C23840-F4A2-4298-A40F-B596966BB701"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "חיפה, מתחם קניות חוצות המפרץ - ליד גרג",
       "location": {
         "lat": 32.8092185,
@@ -273,6 +273,11 @@
         "timestamp_start": "2026-10-30T06:00:00.000Z",
         "timestamp_end": "2026-10-30T11:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/40DE2663-146F-4300-A403-68E9F74D3979"
+      },
+      {
+        "timestamp_start": "2026-11-06T06:00:00.000Z",
+        "timestamp_end": "2026-11-06T11:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2AEEFA95-DFAF-4E8A-8EFD-519173F701B3"
       }
     ]
   },
@@ -762,42 +767,6 @@
   },
   {
     "address": {
-      "unformatted": "מכבים 96 שוהם, בית ספר אבני חושן",
-      "location": {
-        "lat": 31.9971574,
-        "lng": 34.9483971
-      },
-      "formatted": "מכבים 96, שוהם, ישראל",
-      "city": "שוהם"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-10-22T14:00:00.000Z",
-        "timestamp_end": "2026-10-22T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/500250B1-4E18-487C-BAF9-E27B4DF2C790"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "לוחמי הגיטאות, מועדון",
-      "location": {
-        "lat": 32.962661,
-        "lng": 35.096741
-      },
-      "formatted": "לוחמי הגטאות, ישראל",
-      "city": "לוחמי הגיטאות"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-10-22T14:00:00.000Z",
-        "timestamp_end": "2026-10-22T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7C003D71-9151-4C74-A3F5-66981F15E8E8"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "בית זית, האסם מושב בית זית",
       "location": {
         "lat": 31.8102968,
@@ -826,14 +795,32 @@
     },
     "times": [
       {
-        "timestamp_start": "2026-10-22T06:30:00.000Z",
-        "timestamp_end": "2026-10-22T12:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9AC30F3D-248D-4355-AF8C-21892B311CF2"
-      },
-      {
         "timestamp_start": "2026-10-22T13:00:00.000Z",
         "timestamp_end": "2026-10-22T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/46F10878-6F6A-4C50-8DBD-ED49437662C2"
+      },
+      {
+        "timestamp_start": "2026-10-22T06:30:00.000Z",
+        "timestamp_end": "2026-10-22T12:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9AC30F3D-248D-4355-AF8C-21892B311CF2"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מכבים 96 שוהם, בית ספר אבני חושן",
+      "location": {
+        "lat": 31.9971574,
+        "lng": 34.9483971
+      },
+      "formatted": "מכבים 96, שוהם, ישראל",
+      "city": "שוהם"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-22T14:00:00.000Z",
+        "timestamp_end": "2026-10-22T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/500250B1-4E18-487C-BAF9-E27B4DF2C790"
       }
     ]
   },
@@ -857,6 +844,24 @@
   },
   {
     "address": {
+      "unformatted": "לוחמי הגיטאות, מועדון",
+      "location": {
+        "lat": 32.962661,
+        "lng": 35.096741
+      },
+      "formatted": "לוחמי הגטאות, ישראל",
+      "city": "לוחמי הגיטאות"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-22T14:00:00.000Z",
+        "timestamp_end": "2026-10-22T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7C003D71-9151-4C74-A3F5-66981F15E8E8"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "שניר",
       "location": {
         "lat": 33.240338,
@@ -870,6 +875,24 @@
         "timestamp_start": "2026-10-22T13:00:00.000Z",
         "timestamp_end": "2026-10-22T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E4991303-F2A2-4A6B-8D79-D345EE12F5FF"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "סופה, התרמה בקיבוץ סופה בשיתוף המכינה במועדון",
+      "location": {
+        "lat": 31.238309,
+        "lng": 34.341987
+      },
+      "formatted": "סופה, ישראל",
+      "city": "סופה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-22T12:30:00.000Z",
+        "timestamp_end": "2026-10-22T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9F77AA9D-8BC1-4782-9279-9E136B888F5B"
       }
     ]
   },
@@ -893,19 +916,24 @@
   },
   {
     "address": {
-      "unformatted": "סופה, התרמה בקיבוץ סופה בשיתוף המכינה במועדון",
+      "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
       "location": {
-        "lat": 31.238309,
-        "lng": 34.341987
+        "lat": 32.78460454662827,
+        "lng": 34.987120821454766
       },
-      "formatted": "סופה, ישראל",
-      "city": "סופה"
+      "formatted": "חורב 13, חיפה, ישראל",
+      "city": "חיפה"
     },
     "times": [
       {
-        "timestamp_start": "2026-10-22T12:30:00.000Z",
-        "timestamp_end": "2026-10-22T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9F77AA9D-8BC1-4782-9279-9E136B888F5B"
+        "timestamp_start": "2026-10-23T05:00:00.000Z",
+        "timestamp_end": "2026-10-23T10:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9864361D-AEB9-4D4C-9CD3-5670333E61E3"
+      },
+      {
+        "timestamp_start": "2026-11-05T14:00:00.000Z",
+        "timestamp_end": "2026-11-05T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B679B688-7C6E-4B3B-B28F-6D0344B75576"
       }
     ]
   },
@@ -944,29 +972,6 @@
         "timestamp_start": "2026-11-20T06:00:00.000Z",
         "timestamp_end": "2026-11-20T11:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/087F0DF0-19DE-4BB5-94F0-305ACA0A4412"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
-      "location": {
-        "lat": 32.78460454662827,
-        "lng": 34.987120821454766
-      },
-      "formatted": "חורב 13, חיפה, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-10-23T05:00:00.000Z",
-        "timestamp_end": "2026-10-23T10:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9864361D-AEB9-4D4C-9CD3-5670333E61E3"
-      },
-      {
-        "timestamp_start": "2026-11-05T14:00:00.000Z",
-        "timestamp_end": "2026-11-05T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B679B688-7C6E-4B3B-B28F-6D0344B75576"
       }
     ]
   },
@@ -1089,24 +1094,6 @@
   },
   {
     "address": {
-      "unformatted": "ילדי טהרן 5 ראשון לציון, הולמס פלייס",
-      "location": {
-        "lat": 31.9848463,
-        "lng": 34.7694183
-      },
-      "formatted": "ילדי טהרן 5, ראשון לציון, ישראל",
-      "city": "ראשון לציון"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-10-25T14:00:00.000Z",
-        "timestamp_end": "2026-10-25T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/113AF991-84F3-4C82-96CF-4FBE0D9F1453"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "פתח תקווה, בבית חולים בלינסון לובי גור שאשא",
       "location": {
         "lat": 32.0895392,
@@ -1174,6 +1161,24 @@
         "timestamp_start": "2026-10-25T14:30:00.000Z",
         "timestamp_end": "2026-10-25T18:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B43ACA02-CCB6-493D-B517-B1B034A8624A"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "ילדי טהרן 5 ראשון לציון, הולמס פלייס",
+      "location": {
+        "lat": 31.9848463,
+        "lng": 34.7694183
+      },
+      "formatted": "ילדי טהרן 5, ראשון לציון, ישראל",
+      "city": "ראשון לציון"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-25T14:00:00.000Z",
+        "timestamp_end": "2026-10-25T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/113AF991-84F3-4C82-96CF-4FBE0D9F1453"
       }
     ]
   },
@@ -1335,29 +1340,6 @@
   },
   {
     "address": {
-      "unformatted": "מגדל העמק, פרץ סנטר",
-      "location": {
-        "lat": 32.6780967,
-        "lng": 35.2431759
-      },
-      "formatted": "שדרות שאול עמור 77, מגדל העמק, ישראל",
-      "city": "מגדל העמק"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-10-26T07:00:00.000Z",
-        "timestamp_end": "2026-10-26T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/82D493F2-CCD8-427A-AE31-AFEF6D140741"
-      },
-      {
-        "timestamp_start": "2026-10-26T13:00:00.000Z",
-        "timestamp_end": "2026-10-26T18:30:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A7B08CD0-EF71-4C38-A50C-8B34792B08D0"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מעלות תרשיחא, צים סנטר מעלות מול בנק הפועלים",
       "location": {
         "lat": 33.0216836,
@@ -1371,6 +1353,29 @@
         "timestamp_start": "2026-10-26T10:00:00.000Z",
         "timestamp_end": "2026-10-26T17:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/093948AB-9D57-4ABC-8A32-E3492E2A4B48"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מגדל העמק, פרץ סנטר",
+      "location": {
+        "lat": 32.6780967,
+        "lng": 35.2431759
+      },
+      "formatted": "שדרות שאול עמור 77, מגדל העמק, ישראל",
+      "city": "מגדל העמק"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-26T13:00:00.000Z",
+        "timestamp_end": "2026-10-26T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A7B08CD0-EF71-4C38-A50C-8B34792B08D0"
+      },
+      {
+        "timestamp_start": "2026-10-26T07:00:00.000Z",
+        "timestamp_end": "2026-10-26T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/82D493F2-CCD8-427A-AE31-AFEF6D140741"
       }
     ]
   },
@@ -1412,6 +1417,24 @@
   },
   {
     "address": {
+      "unformatted": "פוריה נווה עובד, המרכז הרפואי צפון ע\"ש ברוך פדה בלובי המיון מול המזכירות",
+      "location": {
+        "lat": 32.75276133345063,
+        "lng": 35.53974757396708
+      },
+      "formatted": "פוריה נווה עובד, ישראל",
+      "city": "פוריה נווה עובד"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-26T07:00:00.000Z",
+        "timestamp_end": "2026-10-26T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D2682082-F762-4252-8580-0334EC8D7B6E"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "נחושה, בבית העם מושב נחושה",
       "location": {
         "lat": 31.6288498,
@@ -1443,24 +1466,6 @@
         "timestamp_start": "2026-10-26T14:00:00.000Z",
         "timestamp_end": "2026-10-26T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/F3D16516-DCA8-4F23-BC3C-698814D28376"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "פוריה נווה עובד, המרכז הרפואי צפון ע\"ש ברוך פדה בלובי המיון מול המזכירות",
-      "location": {
-        "lat": 32.75276133345063,
-        "lng": 35.53974757396708
-      },
-      "formatted": "פוריה נווה עובד, ישראל",
-      "city": "פוריה נווה עובד"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-10-26T07:00:00.000Z",
-        "timestamp_end": "2026-10-26T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D2682082-F762-4252-8580-0334EC8D7B6E"
       }
     ]
   },
@@ -1502,24 +1507,6 @@
   },
   {
     "address": {
-      "unformatted": "נהריה, רחבת קניון ארנה",
-      "location": {
-        "lat": 33.0052741,
-        "lng": 35.099971
-      },
-      "formatted": "שדרות הנשיא בן צבי 1, נהריה, ישראל",
-      "city": "נהריה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-10-26T14:00:00.000Z",
-        "timestamp_end": "2026-10-26T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0DD2E0A9-E176-45F5-8A5A-1E800F4EA57A"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "מיכל 7 חיפה, בי\"ח כרמל - כניסה ראשית ליד המעליות",
       "location": {
         "lat": 32.7864002,
@@ -1533,6 +1520,24 @@
         "timestamp_start": "2026-10-26T07:30:00.000Z",
         "timestamp_end": "2026-10-26T13:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B906696C-C2DE-40F8-AE0A-370B631F0847"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "נהריה, רחבת קניון ארנה",
+      "location": {
+        "lat": 33.0052741,
+        "lng": 35.099971
+      },
+      "formatted": "שדרות הנשיא בן צבי 1, נהריה, ישראל",
+      "city": "נהריה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-26T14:00:00.000Z",
+        "timestamp_end": "2026-10-26T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/0DD2E0A9-E176-45F5-8A5A-1E800F4EA57A"
       }
     ]
   },
@@ -1607,32 +1612,14 @@
     },
     "times": [
       {
-        "timestamp_start": "2026-10-27T14:00:00.000Z",
-        "timestamp_end": "2026-10-27T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5D05EB43-9B84-4AE6-BBF8-674150F73E59"
-      },
-      {
         "timestamp_start": "2026-10-27T07:30:00.000Z",
         "timestamp_end": "2026-10-27T13:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CDC4E07E-6C9D-4431-B1A2-9E5570D942F5"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "שד' ההסתדרות 55 חיפה, קניון סינמול לב המפרץ - ברחבה מול תמנון לשעבר",
-      "location": {
-        "lat": 32.7935409,
-        "lng": 35.0374184
       },
-      "formatted": "ההסתדרות 55, חיפה, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
       {
-        "timestamp_start": "2026-10-27T11:00:00.000Z",
-        "timestamp_end": "2026-10-27T17:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B216FA1E-77D1-4778-9BDF-0EFD0BE2A103"
+        "timestamp_start": "2026-10-27T14:00:00.000Z",
+        "timestamp_end": "2026-10-27T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/5D05EB43-9B84-4AE6-BBF8-674150F73E59"
       }
     ]
   },
@@ -1651,6 +1638,24 @@
         "timestamp_start": "2026-10-27T14:00:00.000Z",
         "timestamp_end": "2026-10-27T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/453A7259-97D0-48C5-8B60-EA1ABAF5E858"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "שד' ההסתדרות 55 חיפה, קניון סינמול לב המפרץ - ברחבה מול תמנון לשעבר",
+      "location": {
+        "lat": 32.7935409,
+        "lng": 35.0374184
+      },
+      "formatted": "ההסתדרות 55, חיפה, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-27T11:00:00.000Z",
+        "timestamp_end": "2026-10-27T17:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/B216FA1E-77D1-4778-9BDF-0EFD0BE2A103"
       }
     ]
   },
@@ -1710,24 +1715,6 @@
   },
   {
     "address": {
-      "unformatted": "הדודאים 17 יקנעם עילית, סניף בני עקיבא",
-      "location": {
-        "lat": 32.6514044,
-        "lng": 35.1009224
-      },
-      "formatted": "הדודאים 17, יוקנעם עילית, ישראל",
-      "city": "יקנעם עילית"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-10-28T14:00:00.000Z",
-        "timestamp_end": "2026-10-28T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E5CF406E-2BA5-4707-8CAA-B67FA33DB217"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ד.נ.משגב, במועדון",
       "location": {
         "lat": 32.85888754288553,
@@ -1746,19 +1733,19 @@
   },
   {
     "address": {
-      "unformatted": "כפר חנניה, בספריה",
+      "unformatted": "הדודאים 17 יקנעם עילית, סניף בני עקיבא",
       "location": {
-        "lat": 32.915993,
-        "lng": 35.423785
+        "lat": 32.6514044,
+        "lng": 35.1009224
       },
-      "formatted": "כפר חנניה, ישראל",
-      "city": "כפר חנניה"
+      "formatted": "הדודאים 17, יוקנעם עילית, ישראל",
+      "city": "יקנעם עילית"
     },
     "times": [
       {
-        "timestamp_start": "2026-10-28T15:00:00.000Z",
+        "timestamp_start": "2026-10-28T14:00:00.000Z",
         "timestamp_end": "2026-10-28T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9489E0EF-A41C-454D-86A8-AF0D00FAED88"
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E5CF406E-2BA5-4707-8CAA-B67FA33DB217"
       }
     ]
   },
@@ -1777,6 +1764,24 @@
         "timestamp_start": "2026-10-28T14:00:00.000Z",
         "timestamp_end": "2026-10-28T19:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/2EF6CD69-6A98-433D-A3F5-28BECA7B5859"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "כפר חנניה, בספריה",
+      "location": {
+        "lat": 32.915993,
+        "lng": 35.423785
+      },
+      "formatted": "כפר חנניה, ישראל",
+      "city": "כפר חנניה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-28T15:00:00.000Z",
+        "timestamp_end": "2026-10-28T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9489E0EF-A41C-454D-86A8-AF0D00FAED88"
       }
     ]
   },
@@ -1859,24 +1864,6 @@
   },
   {
     "address": {
-      "unformatted": "עפולה, מרכז הרפואי העמק לובי קפיטריה",
-      "location": {
-        "lat": 32.6210762,
-        "lng": 35.3165964
-      },
-      "formatted": "שדרות יצחק רבין 21, עפולה, 1834111, ישראל",
-      "city": "עפולה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-10-29T07:00:00.000Z",
-        "timestamp_end": "2026-10-29T13:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/93001561-ADA0-4CD4-BA5C-96D7A611679B"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "צה\"ל 35 חדרה, מתחם קניות מיקס חדרה ליד ארומה",
       "location": {
         "lat": 32.4414918,
@@ -1890,6 +1877,24 @@
         "timestamp_start": "2026-10-29T07:30:00.000Z",
         "timestamp_end": "2026-10-29T13:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/9C790817-014A-4745-904A-78700A62C158"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "עפולה, מרכז הרפואי העמק לובי קפיטריה",
+      "location": {
+        "lat": 32.6210762,
+        "lng": 35.3165964
+      },
+      "formatted": "שדרות יצחק רבין 21, עפולה, 1834111, ישראל",
+      "city": "עפולה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-10-29T07:00:00.000Z",
+        "timestamp_end": "2026-10-29T13:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/93001561-ADA0-4CD4-BA5C-96D7A611679B"
       }
     ]
   },
@@ -2152,6 +2157,24 @@
   },
   {
     "address": {
+      "unformatted": "הנרקיס 29 בית שמש, בית הכנסת פייגנסון שכונת נופי אביב",
+      "location": {
+        "lat": 31.736807,
+        "lng": 34.9806951
+      },
+      "formatted": "הנרקיס 29, בית שמש, ישראל",
+      "city": "בית שמש"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-11-01T14:30:00.000Z",
+        "timestamp_end": "2026-11-01T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FAED7FEA-B107-42DB-9069-53266E6531FF"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "מגדל עוז, מכללת הרצוג קמפוס מגדל עוז",
       "location": {
         "lat": 31.6580162,
@@ -2183,24 +2206,6 @@
         "timestamp_start": "2026-11-01T14:00:00.000Z",
         "timestamp_end": "2026-11-01T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/7DD6D4BB-F88A-4AE9-AC09-565F7F1B1981"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "הנרקיס 29 בית שמש, בית הכנסת פייגנסון שכונת נופי אביב",
-      "location": {
-        "lat": 31.736807,
-        "lng": 34.9806951
-      },
-      "formatted": "הנרקיס 29, בית שמש, ישראל",
-      "city": "בית שמש"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-11-01T14:30:00.000Z",
-        "timestamp_end": "2026-11-01T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FAED7FEA-B107-42DB-9069-53266E6531FF"
       }
     ]
   },
@@ -2260,6 +2265,29 @@
         "timestamp_start": "2026-11-02T14:00:00.000Z",
         "timestamp_end": "2026-11-02T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A0A3C3B9-B947-41EE-9027-EB50E6AA9585"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "זכרון יעקב, התרמה בקרוואן מול זכרון יעקב.",
+      "location": {
+        "lat": 32.56924,
+        "lng": 34.933385
+      },
+      "formatted": "אזור תעשייה מערבי, כביש 4, זכרון יעקב, ישראל",
+      "city": "זכרון יעקב"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-11-02T07:30:00.000Z",
+        "timestamp_end": "2026-11-02T13:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/CB683F95-C9A2-4D33-8C3E-15CBDF811007"
+      },
+      {
+        "timestamp_start": "2026-11-02T14:00:00.000Z",
+        "timestamp_end": "2026-11-02T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FB81ABD0-D85A-488B-8B8F-39DC154B45A7"
       }
     ]
   },
@@ -2373,6 +2401,24 @@
   },
   {
     "address": {
+      "unformatted": "רמת צבי, בית העם",
+      "location": {
+        "lat": 32.5910791,
+        "lng": 35.4151321
+      },
+      "formatted": "בית העם, רמת צבי, ישראל",
+      "city": "רמת צבי"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-11-04T15:00:00.000Z",
+        "timestamp_end": "2026-11-04T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DD900A9A-5C80-43FA-9669-FE9728417B8A"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "שרונה, אולם בית העם",
       "location": {
         "lat": 32.726368868806894,
@@ -2391,19 +2437,24 @@
   },
   {
     "address": {
-      "unformatted": "רמת צבי, בית העם",
+      "unformatted": "דרך ארץ 35 חריש, מתחם קניות",
       "location": {
-        "lat": 32.5910791,
-        "lng": 35.4151321
+        "lat": 32.46300770000001,
+        "lng": 35.0434811
       },
-      "formatted": "בית העם, רמת צבי, ישראל",
-      "city": "רמת צבי"
+      "formatted": "דרך ארץ 35, חריש, 3761110, ישראל",
+      "city": "חריש"
     },
     "times": [
       {
-        "timestamp_start": "2026-11-04T15:00:00.000Z",
+        "timestamp_start": "2026-11-04T07:30:00.000Z",
+        "timestamp_end": "2026-11-04T13:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/D3F349DD-C872-4B55-AB6F-24CD47E4F2F3"
+      },
+      {
+        "timestamp_start": "2026-11-04T14:00:00.000Z",
         "timestamp_end": "2026-11-04T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/DD900A9A-5C80-43FA-9669-FE9728417B8A"
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/8B575FAC-35CF-413B-91D2-A93E14D1F6E9"
       }
     ]
   },
@@ -2571,6 +2622,24 @@
   },
   {
     "address": {
+      "unformatted": "נווה אור, בספריה",
+      "location": {
+        "lat": 32.589025,
+        "lng": 35.554544
+      },
+      "formatted": "נווה אור, ישראל",
+      "city": "נווה אור"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-11-09T14:30:00.000Z",
+        "timestamp_end": "2026-11-09T18:30:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/4146A7DB-0A8B-4440-922E-48F757CCC5A0"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "יצחק שדה 11 באר שבע, ארגון גרעין צבר ב\"ש",
       "location": {
         "lat": 31.2428807,
@@ -2625,24 +2694,6 @@
   },
   {
     "address": {
-      "unformatted": "אל רום, מועדון",
-      "location": {
-        "lat": 33.1802018,
-        "lng": 35.7719903
-      },
-      "formatted": "אל-רום",
-      "city": "אל רום"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-11-11T13:00:00.000Z",
-        "timestamp_end": "2026-11-11T18:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/942A7D4A-1FF2-431B-A9DB-E4580DCD3906"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "סאסא, מועדון הקיבוץ",
       "location": {
         "lat": 33.02866,
@@ -2656,6 +2707,24 @@
         "timestamp_start": "2026-11-11T08:00:00.000Z",
         "timestamp_end": "2026-11-11T15:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/50C56AA4-68D9-438A-9DB9-CAF916D6FDEE"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "אל רום, מועדון",
+      "location": {
+        "lat": 33.1802018,
+        "lng": 35.7719903
+      },
+      "formatted": "אל-רום",
+      "city": "אל רום"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-11-11T13:00:00.000Z",
+        "timestamp_end": "2026-11-11T18:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/942A7D4A-1FF2-431B-A9DB-E4580DCD3906"
       }
     ]
   },
@@ -2818,6 +2887,24 @@
         "timestamp_start": "2026-11-19T14:00:00.000Z",
         "timestamp_end": "2026-11-19T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/62DCBD24-1F4B-4C5E-AD1C-F717E53D69C4"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "דן, מועדון",
+      "location": {
+        "lat": 33.23998268057723,
+        "lng": 35.65344949830316
+      },
+      "formatted": "דן, ישראל",
+      "city": "דן (קיבוץ)"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-11-19T15:00:00.000Z",
+        "timestamp_end": "2026-11-19T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/E935C780-29E5-4CF2-90E3-766EDF3E0BE9"
       }
     ]
   },
