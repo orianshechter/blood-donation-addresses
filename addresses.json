@@ -641,6 +641,42 @@
   },
   {
     "address": {
+      "unformatted": "באולם ילדודס רח' סביון, גבע בנימין, אולם ילדודס ישוב אדם גבע בנימין",
+      "location": {
+        "lat": 31.8510131,
+        "lng": 35.2700444
+      },
+      "formatted": "סביון, גבע בנימין",
+      "city": "גבע בנימין"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-11-26T15:00:00.000Z",
+        "timestamp_end": "2026-11-26T20:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A7BBEBEC-89DD-436B-9FF5-09974B6FD8D4"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "ד.נ. אשרת רגבה, בית העם",
+      "location": {
+        "lat": 32.977493,
+        "lng": 35.099129
+      },
+      "formatted": "רגבה, ישראל",
+      "city": "רגבה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-11-26T14:00:00.000Z",
+        "timestamp_end": "2026-11-26T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/43469E33-9EF6-4C8A-8E8B-FC14491C0043"
+      }
+    ]
+  },
+  {
+    "address": {
       "unformatted": "העליה השניה 8 חיפה, בי\"ח רמב\"ם - קניון סגול",
       "location": {
         "lat": 32.8329875,
@@ -669,42 +705,6 @@
         "timestamp_start": "2026-12-02T07:00:00.000Z",
         "timestamp_end": "2026-12-02T13:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/41DEB2E2-D7A5-458B-B385-3D78F070DDF5"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "ד.נ. אשרת רגבה, בית העם",
-      "location": {
-        "lat": 32.977493,
-        "lng": 35.099129
-      },
-      "formatted": "רגבה, ישראל",
-      "city": "רגבה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-11-26T14:00:00.000Z",
-        "timestamp_end": "2026-11-26T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/43469E33-9EF6-4C8A-8E8B-FC14491C0043"
-      }
-    ]
-  },
-  {
-    "address": {
-      "unformatted": "באולם ילדודס רח' סביון, גבע בנימין, אולם ילדודס ישוב אדם גבע בנימין",
-      "location": {
-        "lat": 31.8510131,
-        "lng": 35.2700444
-      },
-      "formatted": "סביון, גבע בנימין",
-      "city": "גבע בנימין"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-11-26T15:00:00.000Z",
-        "timestamp_end": "2026-11-26T20:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/A7BBEBEC-89DD-436B-9FF5-09974B6FD8D4"
       }
     ]
   },
@@ -818,24 +818,6 @@
   },
   {
     "address": {
-      "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
-      "location": {
-        "lat": 32.78460454662827,
-        "lng": 34.987120821454766
-      },
-      "formatted": "חורב 13, חיפה, ישראל",
-      "city": "חיפה"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-11-27T06:00:00.000Z",
-        "timestamp_end": "2026-11-27T11:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92A49C14-1163-4308-AA84-0E8A6A03C9B8"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "חיפה, רח' יצחק שדה 10 (תחנה נגישה), - תחנת מד\"א",
       "location": {
         "lat": 32.824678,
@@ -869,6 +851,24 @@
         "timestamp_start": "2026-12-25T06:00:00.000Z",
         "timestamp_end": "2026-12-25T10:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/1DEC5691-4196-4640-9280-3B34345AE951"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "חיפה, מרכז חורב ליד מאפית אריאל",
+      "location": {
+        "lat": 32.78460454662827,
+        "lng": 34.987120821454766
+      },
+      "formatted": "חורב 13, חיפה, ישראל",
+      "city": "חיפה"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-11-27T06:00:00.000Z",
+        "timestamp_end": "2026-11-27T11:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/92A49C14-1163-4308-AA84-0E8A6A03C9B8"
       }
     ]
   },
@@ -1570,24 +1570,6 @@
   },
   {
     "address": {
-      "unformatted": "מתנ\"ס",
-      "location": {
-        "lat": 33.44852903890945,
-        "lng": 32.05693494134149
-      },
-      "formatted": "bad_address",
-      "city": ""
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-12-02T14:00:00.000Z",
-        "timestamp_end": "2026-12-02T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FE711DB4-C8EA-427B-8678-BE0B67C51213"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "שכטמן 10 חדרה, מתחם קניות מול החוף וילג'",
       "location": {
         "lat": 32.4417243,
@@ -1624,6 +1606,24 @@
         "timestamp_start": "2026-12-02T14:00:00.000Z",
         "timestamp_end": "2026-12-02T18:00:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/490FDB7E-01C9-42DD-9832-C779535B033E"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "מתנ\"ס",
+      "location": {
+        "lat": 33.44852903890945,
+        "lng": 32.05693494134149
+      },
+      "formatted": "bad_address",
+      "city": ""
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-12-02T14:00:00.000Z",
+        "timestamp_end": "2026-12-02T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/FE711DB4-C8EA-427B-8678-BE0B67C51213"
       }
     ]
   },
@@ -2174,24 +2174,6 @@
   },
   {
     "address": {
-      "unformatted": "נוב, אולם מתחת לביהכנ\"ס",
-      "location": {
-        "lat": 32.832852,
-        "lng": 35.783574
-      },
-      "formatted": "נוב",
-      "city": "נוב"
-    },
-    "times": [
-      {
-        "timestamp_start": "2026-12-15T14:00:00.000Z",
-        "timestamp_end": "2026-12-15T19:00:00.000Z",
-        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/015E068D-BD83-4B4A-A82E-4F6F98F1D982"
-      }
-    ]
-  },
-  {
-    "address": {
       "unformatted": "ארבל אלפי מנשה, אלפי מנשה- באינקובטור",
       "location": {
         "lat": 32.16869655516754,
@@ -2205,6 +2187,24 @@
         "timestamp_start": "2026-12-15T14:00:00.000Z",
         "timestamp_end": "2026-12-15T19:30:00.000Z",
         "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/668EEF6E-25DB-4B5F-A99A-CF771688A737"
+      }
+    ]
+  },
+  {
+    "address": {
+      "unformatted": "נוב, אולם מתחת לביהכנ\"ס",
+      "location": {
+        "lat": 32.832852,
+        "lng": 35.783574
+      },
+      "formatted": "נוב",
+      "city": "נוב"
+    },
+    "times": [
+      {
+        "timestamp_start": "2026-12-15T14:00:00.000Z",
+        "timestamp_end": "2026-12-15T19:00:00.000Z",
+        "schedulingUrl": "https://bd.mda.org.il/#/pub-schedule/015E068D-BD83-4B4A-A82E-4F6F98F1D982"
       }
     ]
   },
